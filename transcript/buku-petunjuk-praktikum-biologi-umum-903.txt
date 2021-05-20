@@ -1,0 +1,909 @@
+Bio-Umum 06
+
+1
+
+PETUNJUK PRAKTIKUM BIOLOGI UMUM
+KATA PENGANTAR
+Matakuliah Praktikum Biologi Umum (1 SKS) diberikan untuk mendukung secara langkung materi kajian dalam perkuliahannya. Secara umum, matakuliah ini bertujuan untuk memberi wawasan tentang Biologi sebagai ilmu dan lingkung persoalan Biologi secara lebih utuh. Karena misinya adalah untuk membuka kebulatan wawasan, maka materi kajiannya masih bersifat "superficial" atau "elementer", global atau menyeluruh, menyangkut tematema besar Biologi. Diharapkan setelah mengikuti kegiatan praktikum ini, mahasiswa memiliki pengalaman dasar yang lebih mantab, dan dapat digunakan untuk mempelajari Biologi lebih lanjut. Bagi Mahasiswa di luar Prodi. Biologi, matakuliah Biologi umum ini juga diharapkan memberikan wawasan dasar Biologi yang relatif sama ("semacam matrikulasi"), sehingga seakan dapat menjadi bagian kehalian "bidang minor", selain bidang mayor yang ditekuninya. Di antara tema-tema besar persoalan biologi dengan perspektif struktur bioilogi menurut BSCS, tema "Science as Inquiry" sangat mendapat penekanan. Terdapat tiga topik kegiatan dasar menunjang ke arah penghayatan tema tersebut yakni : "Mengenal gejala biologi (1), Mengenal persoalan Biologi (2) dan Belajar cara memecahkan masalah biologi (3)".
+Buku Petunjuk Praktikum Biologi Umum ini baru dapat dimanfaatkan sebagai pedoman minimal. Topik-topik kajian dalam Petunjuk Praktikum edisi ini memamng masih sangat terbatas, dan perlu penyempurnaan terus menerus, sekaligus dalam upayanya mendinamisir persoalan kajian yang menjadi salah satu butir penting pengembangan matapraktikum Biologi Umum. Semoga kegiatan dapat dikembangkan menjadi lebih "hidup" dengan ide-ide kreatif para pengelola kegiatan praktikumnya. Mohon saran dan kritik yang membangun untuk perbaikan di masamendatang.
+Penyusun
+(Drs. Suyitno Al., MS)
+
+Bio-Umum 06
+
+2
+
+TUJUAN UMUM Matakuliah Biologi Umum yang diberikan pada semester awal, melalui kegiatan
+perkuliahan dan praktikum, dimaksudkan untuk beberapa kepentingan, a. l : 1. Mengenalkan profil biologi sebagai ilmu dan karakteristika cara pengembangannya. Hal
+ini menjadi tujuan yang sangat ditonjolkan, terutama bagi mahasiswa Jurusan Pendidikan Biologi yang akan mendapat pendalaman 2. berbagai bidang atau cabang ilmu Biologi di kemudian hari. 3. Memberikan kemampuan dasar biologi atau wawasan minimal yang sama bagi para mahasiswa untuk dapat belajar Biologi lebih lanjut. 4. Bagi mahasiswa Jurusan lain (Kimia, Fisika), Bilogi umum diharapkan dapat memberikan kelengkapan pengalaman atau wawasan dasar ke-IPA-an, sekalaigus merupakan keahlian minor selain keahlian mayor yang ditekuninya.
+
+TUJUAN KHUSUS 1. Mengenalkan permasalahan-permasalahan biologi elementer untuk memberi kan pengalaman dan wawasan tentang lingkup persoalan biologi secara lebih utuh 2. Memberikan keterampilan dasar dalam memecahkan masalah-masalah biologi berdasar sikap dan prosedur ilmiah
+
+Bio-Umum 06
+
+3
+
+PENGANTAR : MENGENAL BIOLOGI SEBAGAI ILMU
+A. Ciri Biologi Sebagai Ilmu Biologi sebagai ilmu memiliki beberapa ciri penting, meliputi : 1. Adanya objek kajian , yakni makhluk hidup di lingkungannya 2. Persoalan, yaitu pertanyaan yang timbul terhadap gejala-gejala dimunculkan, melekat pada objek. 3. Metode dan pendekatan. Aspek metode menyangkut kaidah-kaidah / langkahlangkah / prosedur ilmiah/ metode ilmiah, sedangkan pendekatan terkait dengan cara pandang suatu masalah dipecahkan. Pendekatan pemecahan masalah biologi yaitu observasi eksploratif dan eksperimen atau percobaan (critical experiment, quasy exsperiment). Untuk hal-hal tertentu kadang masih terasa adanya trial and error. Pendekatan juga dapat dilihat dari perspektif lain seperti pendekatan ekologis, pendekatan molekuler, pendekatan social ekonomi, transdisipliner, multidicipliner, dsb. 4. Sejarah perkembangan konsep. Biologi sebagai ilmu yang "hidup" karena secara intensif ditopang ooleh kegiatan "research" yang berkelanjutan, maka terjadi perkembangan konsep. Timbul thesis ­ antithesis, konsep lama dikoreksi, dan dihasilkan konsep-konsep baru. Biologi memiliki kesejarahan (history of biology), seperti halnya ilmi Sains yang lain. 5. Adanya kemanfaatan bagi kemaslahatan manusia Komponen objek, persoalan dan cara pendekatan merupakan komponen pokok pada biologi.
+B. Struktur ilmu Biologi Pada objek biologi, melekat berbagai gejala, baik gejala benda maupun peristiwa,
+yang menyimpan segudang persoalan yang menantang untuk digali dan kaji. Pengkajian dilakukan untuk memecahkan persoalan, antara lain mengungkap karakteristika objek maupun menggali mengenai latar belakang munculnya fenomena yang dimaksud. Fenomena pada objek sangat variatif, dan berubah-ubah menurut dimensi ruang dan waktu. Dinamika respons ini justru menjadikan persoalan-persoalan biologi menjadi misteri yang sangat menarik dan menantang untuk dikaji.
+
+Bio-Umum 06
+
+4
+
+Dilihat dari sisi macam kelompok objek dan berdasar perkembangan filogenetiknya, sementara ahli menggolongkan organisme ke dalam 5 Kingdom, meliputi :
+1) Monera, 2) Protista, 3) Fungi (Myceteae), 4) Plantae 5) Animalia. Monera mewadahi kelompok organisme yang belum memiliki struktur inti karena material inti belum dibungkus oleh struktur membran inti. Organisme kelompok ini bersifat prokariotik, terdiri dari berbagai bakteri dan Cyanobacter (blue green algae). Kelompok objek yang lain adalah organisme eukariotik, meliputi ke empat Kingdom yang lain yang terdiri dari ratusan ribu jenis. Bila diyakini bahwa tiap objek biologi (organisme) memiliki karakteristika struktur dan pola respons yang berbeda, maka sumber persoalan biologi adalah sebanyak objek biologi yang ada di alam. Apalagi objek kajian dalam biologi tidak hanya pada tingkat organisme (individu), melainkan juga bisa pada kedudukannya sebagai bagian popupasi, komunitas, bahkan ekosistem. Pada organisme uniseluler, sel itu sendiri merupakan kesatuan struktural dan fungsional sebagai individu organisme. Lain halnya pada organisme multiseluler, sel hanyalah merupakan unit terkecil (unit struktur dan fungsi) suatu individu. Pada organisme multiseluler yang semakin maju, cenderung memiliki organisasi tubuh yang lebih kompleks dan rumit, sekaligus memiliki kapasitas adaptasi yang lebih sempurna. Di dalam tubuhnya terjadi organisasi struktur tubuh yang membangun unit-unit fungsi, serta terjadi mekanisme koordinasi dan regulasi fungsi antar unit untuk mendukung hidup individu. Dengan demikian ada persoalan-persoalan pada tingkat sel, jaringan, organ atau sistem organ dan individu. Keberadaan individu tidak terlepas dengan keberadaan individu lain sejenisnya maupun lain jenis di lingkungannya. Terjadi interaksi intraspesies maupun interspesies, serta antara komunitas biotik dengan lingkungan abiotiknya. Karenanya muncul pula persoalan-persoalan seputar interaksi di tingkat populasi, komunitas dan ekosistem. Menurut Biological Study Curriculum Subject (BSCS) versi biru (pendekatan molekuler), menggambarkan struktur persoalan biologi dalam tiga dimensi, yakni objek, persoalan dan tingkat organisasi kehidupan. Komponen objek meliputi monera, protista, hewan dan tumbuhan. Dimensi tingkat organisasi kehidupan mencakup 7 tataran, mulai dari tingkat sel, jaringan, organ/ sistem organ, individu, populasi, kommunitas dan bioma.
+
+Bio-Umum 06
+
+5
+
+Sedangkan dimensi persoalan dijabarkan dalam 9 tema, 7 tema di antaranya menyangkut langsung substansi persoalan biologi. Ke tujuh persoalan tersebut adalah :
+1. Complementarity organism and environment 2. Complementarity structure and function 3. Unity and diversity 4. Heridity and continuity of live 5. behavior 6. Evolution 7. Regulation and homeostatic
+
+Ke tujuh persoalan di atas dapat dikaji pada berbagai tataran organisasi kehidupan, yang melekat pada karakteristika objek biologi. Pada organisme uniseluler, persoalan dapat dilihat pada tingkat molekuler, seluler (individu), populasi hingga kedudukannya dalam ekosistem. Sedangkan pada organisme multiseluler, persoalan yang ada menjadi lebih kompleks dan bervariasi, mulai dari tingkat sel-molekuler, jaringan, organ atau sistem organ, individu, populasi, kommunitas dalam kedudukannya sebagai bagian ekosistem.
+Berdasar uraian tersebut di atas, dapat disimak bahwa persoalan yang melekat pada objek biologi mulai dari tingkat molekuler-seluler, jaringan hingga komunitas dalam ekosistem adalah tidak terbatas. Dapat dikatakan bahwa persoalan biologi tidak akan pernah habis untuk dikaji. Terlebih, dengan dukungan perkembangan IPTEK, kajian terhadap persoalan pada objek semakin mendalam, cepat dan akurat sehingga biologi sebagai keilmuan bersifat sangat dinamik dengan perkembangan yang sangat pesat.
+Strukturisai yang lebih sederhana dilihat dari dua kontinum, yakni dilihat dari persoalan diversity ­ unity dan continuity ­ interaction (gb. ).
+
+UNITY - Struktur dan fungsi sel - Reproduksi sel - molekul kehidupan
+
+Bio-Umum 06
+
+6
+
+INTERACTION - perilaku - lingkungan kehidupan - interaksi dlm ekosistem - tantangan dlm biologi - dll
+
+LIFE
+
+CONTINUITY = pola perwarisan sifat = teori kromosom = Zat-zat pewarisan = Evolusi
+
+DIVERSITY - keanekaragaman dlm dunia kehidupan - keanekaragaman dlm bentuk dan fungsi - Struktur dan fungsi hewan, tumbuhan - Koordinasi - Reproduksi - fotosintesis - pertumbuhan dan perkembangan
+
+Persoalan-persoalan Bio-diversity (keanekaragaman) bukan saja terfokus pada masalah-masalah struktural, melainkan juga menyangkut kajian variasi respons interaktif (fungsi) objek biologi pada berbagai tingkatan organisasi kehidupan. Kajian keanekaragaman fungsi antara lain pada persoalan metabolisme, reproduksi, pertumbuhan dan perkembangan, adaptasi ­ evolusi, sistem regulasi, dinamika ekosistem. Fenomena keanekaragaman dalam populasi terjadi karena faktor genetis dan lingkungan.
+Dalam perspektif lain persoalan biologi yang dilihat dari : 1) biologi interaksi, 2) biologi struktur dan perkembangan, 3) biologi organisma , 4) bio-evolusi dan 5) biologi fungsi (M.Amin, -, 9). Biologi interaksi mengkaji masalah-masalah seperti modifikasi dan adaptasi, ekologi, dan perilaku. Persoalan struktur dan perkembangan meliputi masalahmasalah morfogenesis, struktur histologi-anatomi, komparasi embrio dan anatomi, dll. Biologi organisma memfokuskan kajian yang mendalam untuk mengenal karakteristika objek, seperti mikrobiologi, mikologi, ornitologi, entomologi, avertebrata, dan parasit. Bio evolusi mengkaji persoalan pergeseran unggun gena (gene pool) dan faktor-faktornya yang berlangsung secara terus menerus dalam kurun waktu lama. Sedangkan persoalan biologi fungsi mengorientasikan kajiannya pada masalah-masalah peran atau aktivitas berbagai tataran struktur organisasi makhluk, mulai dari tingkat molekuler sampai komunitas.
+
+Bio-Umum 06
+
+7
+
+BAGIAN 1 : MENGENAL PERSOALAN BIOLOGI
+PENGANTAR Persoalan biologi sangat luas. Cakupan persoalan dapat dilihat dari dimensi macam
+objek (ratusan ribu jenis), tingkat organisasi kehidupan makhluk (tingkat sel ­ komunitas), dan macam tema permasalahannya. Tiap jenis objek dengan karakteristikanya, menyimpan segudang permasalahan biologi yang belum tergali. Persoalan pada tiap objek juga akan bervariasi menurut tingkat organsisasinya. Di samping itu, variasi persoalan tersebut juga dapat dilihat dari 7 tema besar persoalan biologi yang terjadi pada setiap organisme. Macam permasalahan juga dapat dilihat dari kompleksitasnya, dari persoalan yang sangat elementer sampai persoalan multifaktor yang sangat kompleks, yang membutuhkan kanjian bukan saja monodisiplin, melainkan multi atau bahkan transdisipliner.
+A. Sumber Persoalan Biologi Sumber permasalahan biologi adalah pada objek biologi. Setiap objek memunculkan
+gejala-gejala yang menjadi karakteristikanya dalam berinteraksi dengan lingkungannya. Walaupun objek di alam menggelar persoalan yang tak terbatas, seseorang tidak dengan serta merta dapat dengan mudah menangkap masalah tersebut. Cara pragtis, masalah dapat digali langsung dari gejala-gejala yang muncul dari objek. Pengalaman empirik tentang fakta dapat menjadi dasar untuk menangkap permasalahan. Pengenalan pada fakta saja tidak cukup, membutuhkan kreativitas, penalaran, wawasan teoririk yang cukup dan pemahaman tentang objeknya.
+B. Cara Mengenal Persoalan Biologi
+Bagaimana cara menangkap persoalan biologi ? Permasalahan biologi dapat ditemukan dari pemikiran kritis terhadap gejala pada objek, sehingga memunculkan ide atau pertanyaan-pertanyaan yang menggelitik rasa keingin-tahuannya. Dengan dukungan kerangka teoritik yang jelas, dapat mengilhami seseorang untuk merancang suatu rekayasa objek, rekayasa prosedur untuk kepentingan tertentu.
+Permasalahan biologi terletak atau melekat pada objek biologi dalam interaksinya di lingkungannya. Pada objek terdapat bermacam-macam gejala, baik gejala benda maupun
+
+Bio-Umum 06
+
+8
+
+gejala peristiwa. Gejala dari objek dapat bila keadaan atau lingkungan berubah. Interaksi objek di lingkungannya yang dinamis dan variastif akan menimbulkan berbagai pertanyaan atau permasalahan. Kita mungkin mempertanyakan tentang bagaimana gejala tersebut dimunculkan (latar belakang munculnya gejala) atau sekedar mempertanyakan tentang karakteristika / sifat-sifat suatu objek biologi, baik yang berupa gejala-gejala kebendaan (struktural) maupun gejala peristiwa (fungsional).
+Persoalan biologi adalah pertanyaan-pertanyaan tentang berbagai gejala pada objek biologi dalam interaksinya di lingkungannya. Pertanyaan dapat berupa " apa, bagaimana, mengapa, dimana, kapan ?. Permasalahan ada yang sangat elementer, dan ada pula permasalahan yang membutuhkan analisis dan sintesis secara rasional berdasar faktafakta atau gejala-gejala pada objek dan wawasan teori yang memadahi. Permasalahan elementer (mendasar) adalah sekedar mempertanyakan keadaan pada objek. Misal, apa ciri-ciri pokok daun, mengapa daun berwarna hijau, ada berapa macam bentuk dan pertulangan daun, bagaimana struktur daun, bagaimana struktur daun sehingga mampu mendukung fungsi pertukaran gas, bagaimana daun menguning saat daun menjadi tua, dsb.
+Masalah biologi memang dirumuskan dalam bentuk pertanyaan, tetapi tidak setiap pertanyaan layak disebut sebagai permasalahan biologi. Contoh, mengapa manusia punya kepala, mengapa kaki dan tangan kita ada dua ?, mengapa tumbuhan memiliki akar, batang atau daun ?, dsb. Pernyataan itu memang berupa pertanyaan, tetapi tidak layak sebagai permasalahan biologi. Permasalahan menjadi menarik bila mempertanyakan sesuatu yang belum jelas jawabannya, tetapi ada jalan untuk menjawabnya. Misal untuk permasalahan yang terfokus pada objek daun antara lain adalah berapa lama daun cukup efektif mendukung fotosintesis ? Kapan klorofil efektif dibentuk bersamaan dengan masa pertumbuhan daun ? Apa yang terjadi pada saat daun mengalami proses menua ? kapan daun mencapai pertumbuhan optimal ?, dsb.
+Sesuai dengan pertanyaannya, ada permasalahan sederhana dan ada pula permasalahan yang lebih kompleks (lebih berat). Permasalahan sederhana dapat dijawab dengan lebih mudah, dengan kegiatan yang lebih mudah pula. Ada pula masalah yang lebih rumit, lebih kompleks, lebih berbobot dan menuntut aktivitas pemecahan masalah yang lebih berat.
+Persoalan biologi juga dapat kita temukan bila kita menemukan adanya perbedaanperbedaan atau kesenjangan-kesenjangan. Kenyataan kesenjangan yang dapat menyadarkan kita akan adanya masalah, antara lain adalah :
+
+Bio-Umum 06
+
+9
+
+1) adanya kesenjangan fakta, yaitu kenyataan adanya perbedaan fakta pada objek yang sama (fakta 1 = fakta 2). Misal, daun ketela di suatu tempat kecil-kecil dan bercak kuning, sedangkan di tempat lain, daunnya hijau segar dan besar-besar. Pertanyaan pertama muncul adalah mengapa tanaman satu lebih sehat dan subur, sedangkan yang lain kurus dan bercak kuning ? Dari pertanyaan ini kita dapat menganalisis berbagai kemungkinan atau berhipotesis. Apakah hal itu diakibatkan oleh kualitas kesuburan tanah yang berbeda? Apakah tanaman dengan daun kecil dan bercak kuning mengalami defisiensi N ?, dsb. Jawaban atas pertanyaan yang terlontar akan kita temukan setelah kita menelitinya.
+2) Adanya kesenjangan antara fakta dan harapan (kenyataan dan harapan). Misal, tanaman itu telah kita pupuk, tetapi mengapa hasilnya tetap jelek ? Timbul pertanyaan, misalnya : Apakah pupuknya terlalu sedikit atau dosisnya kurang ?, Apakah pupuknya yang jelek, Apakah ada faktor lain yang menghambat, misalnya : pH tanah, keadaan fisik tanah yang buruk, dst.
+3) Adanya kesenjangan antara fakta dan teori, antara teori yang satu dengan teori yang lain, pendapat ahli yang satu dengan pendapat ahli yang lain.
+KEGIATAN 1 :
+Topik : Bagaimana kita mengenal lingkup global persoalan biologi berdasarkan fakta di lingkungan ?
+Tujuan : 1. Mahasiswa mengidentifikasi gejala-gejala biologi di tingkat individu, populasi, komunitas di lingkungannya. 2. Mahasiswa dapat menemukan beberapa aspek permasalahan biologi berdasar gejala atau fakta yang ditemukan di lingkungan
+Bentuk Kegiatan : Observasi, diskusi kelompok, diskusi kelas.
+Sasaran / Objek Pengamatan 1. Obyek pengamatan : a. Kebun biologi / lingkungan sekitar b. Dua lingkungan yang kontras atau berbeda, seperti : 1) Tempat terbuka dengan tempat ternaungi,
+
+Bio-Umum 06
+
+10
+
+2) Tempat kering dengan tempat lembab, 3) Beberapa jenis pohon yang berbeda ("pohon sebagai sebuah habitat"), 4) Kolam terbuka dan ternaungi, 5) Sungai tenang dan deras, dst. 2. Sasaran pengamatan : Berbagai gejala structural, fungsional atau aktivitas organisme, baik secara individu, populsi / komunitas di lingkungannya (Lingkungan yang berbeda). 3. Kegiatan : a. Identifikasi gejala structural, fungsional atau bentuk-bentuk aktivitasnya di tingkat populasi atau komunitas di lingkungannya. (jenis, kerapatan dan distribusi organisme, alat reproduksi dan pemencaran nya, dst.) b. Identifikasi gejala-gejala structural, fungsional atau bentuk-bentuk aktivitas ­nya pada tingkat individu : Struktur tubuh (morfologis & anatomis), tingkah laku dan berbagai aktivitas lain yang dapat ditemukan (teramati).
+CARA KERJA : 1. Lakukan pengamatan obyek biologi di lingkungan sekitar yang saudara pilih untuk sebagai obyek pengamatan. 2. Temukan gejala-gejala structural, fungsional dan aktivitas-aktivitas suatu populasi dalam komunitasnya dari beberapa habitat/ lingkungan yang kontras berbeda.. 3. Analisislah bentuk-bentuk hubungan interaksi yang terjadi di dalam habitat tersebut. 4. Identifikasi pula gejala-gejala structural dan fungsional (aktivitas) pada tingkat individu organize. Analisis bentuk-bentuk hubungan antara gejala-gejala yang teramati pada obyek organisme tersebut. 5. Berdasarkan hasil pengamatan pada obyek (organisme di lingkungannya), permasalahan biologi yang umum (global) apakah yang dapat saudara tangkap ? 6. Berdasar referensial (pengalaman teoritik), gejala atau permasalahan biologi apa sajakah yang umum dikaji dan ditunjukkan ?. 7. Berdasar struktur ilmu biologi menurut BSCS, tunjukkan : a. Berapa macam golongan organisme ? b. Ada berapa macam thema persoalan biologi ? c. Ada berapa tingkat organisasi kehidupan dimana berbagai persoalan terjadi ?
+
+Bio-Umum 06
+
+11
+
+8. Bila dicerminkan pada thema permasalahan biologi BSCS, thema persoalan manakah yang dapat saudara temukan (tangkap) berdasarkan hasil pengamatan saudara ?
+
+KEGIATAN 2 Topik : Bagaimana kita dapat menemukan persoalan biologi ? Tujuan :
+1. Mahasiswa dapat belajar menemukan permasalahan-permasalahan pada objek biologi di lingkungannya.
+2. Mahasiswa dapat belajar merumuskan masalah berdasar gejala atau fakta pada objek yang ditemukan di lingkungan sekitar
+Bentuk Kegiatan : Observasi, diskusi kelompok, diskusi kelas.
+Sasaran / Objek Pengamatan 1. Beberapa tumbuhan sejenis pada beberapa lingkungan yang berbeda (Misal : Tumbuhan "X" di sisi selasar dan di pekarangan yang terbuka, beberapa tanaman sejenis di lingkungan yang kontras berbeda) 2. Macam organisme yang hidup (berasosiasi) pada beberapa jenis pohon 3. Macam organisme pada beberapa ekosistem (2 ­ 3 kolam / sawah)
+CARA KERJA : 1. Lakukan observasi ke lapangan (lingkungan sekitar). Temukan bentuk-bentuk kesenjangan gejala pada kelompok objek (fakta satu dengan fakta yang lain). 2. Identifikasilah faktor-faktor yang kamu duga erat terkait dengan munculnya kesenjangan tersebut, berdasarkan pengamatan keadaan di lapangan. 3. Carilah informasi teoritik yang relevan / terkait dengan gejala atau permasalahan tersebut. 4. Identifikasilah alternatif masalah yang dapat ditangkap berdasar hasil pengamatan lapangan (fakta-fakta). Nyatakan masalah dalam bentuk pertanyaan. 5. Berikan argumen atau penjelasan terhadap alternatif masalah menarik yang saudara temukan. 6. Diskusikan langkah-langkah dasar bila hendak mencari jawab terhadap pertanyaan atau masalah yang saudara nyatakan.
+
+Bio-Umum 06
+
+12
+
+7. Persoalan manakah di antara beberapa persoalan yang saudara nyatakan, riil dapat dijangkau untuk dipecahkan.
+Catatan : Perumusan masalah harus logis, menarik dan visible untuk dipecahkan / dicari jawabannya, baik secara analitis maupun empiris. Nyatakan masalah dalam bentuk pertanyaan Tidak setiap pertanyaan adalah masalah, tetapi setiap masalah adalah pertanyaan.
+
+Bio-Umum 06
+
+13
+
+BAGIAN 2 : PEMECAHAN MASALAH BIOLOGI
+PENGANTAR : Biologi sebagai bagian dari keilmuan IPA memiliki karakteristika masalah dan prinsip-
+prinsip dasar pemecahannya. Menurut Carin dan Sund (1989:5), IPA ( termasuk pula Biologi) merupakan sekumpulan pengetahuan yang tersusun secara sistematis, menyangkut gejala-gejala alam. Secara utuh, IPA sebagai keilmuan terdiri atas tiga dimensi , meliputi produk, proses dan sikap ilmiah. Produk ilmiah meliputi fakta ilmiah, konsep, prinsip, teori, hokum dan hipotetsis. Proses ilmiah menyangkut kaidah-kaidah atau prosedur ilmiah (metode atau cara kerja ilmiah). Sikap ilmiah harus mendasari kerja ilmiah sehingga akan dihasilkan produk ilmiah yang dapat dipertanggung jawabkan.
+Pendekatan pemecahan masalah biologi dapat dilakukan dengan observasi eksploratif , critical experiment, atau quasy experiment. Pada bidang biologi tertentu diterapkan pula segi-segi "trial and error".
+Pada pendekatan observasi, langkah-langkah atau prosedur ilmiah antara lain : 1) Identifikasi masalah (berdasar kenyataan di lapangan) 2) Merumuskan masalah 3) Merancang pengumpulan data , a.l :
+(a) identifikasi variable (bebas dan tergayut) yang terkait, (b) penetapan lokasi dan sampel, (c) penetapan parameter dan cara pengukuran, (d) organisasai data (tabulasi data) (e) menetapkan rancangan pengolahan data 4) Melakukan observasi, mengumpulkan data 5) Mengolah data dan membahas 6) Menyimpulkan 7) Identifikasi masalah baru yang berkembang 8) Merancang kembali pemecahan masalah baru (siklik). Pendekatan eksperimen berbeda dengan observasi pada umumnya. Pada eksperimen ada unit kontrol dan unit perlakuan, serta ada rumusan hipotesisnya. Untuk merumuskan hipotesis, seseorang membutuhkan wawasan teoritik yang memadahi terkait dengan
+
+Bio-Umum 06
+
+14
+
+permasalahannya, serta perlu melakukan analisis dan sintesis (bernalar) sebelum merumuskannya. Langkah- langkah ilmiah dalam eksperimen meliputi :
+1) Identifikasi masalah 2) Merumuskan masalah 3) Menggali referensi yang relevan dan merumuskan hipotesis 4) Merancang percobaan, a. l. menyangkut identifikasi variable (bebas, tergayut),
+menetapkan parameter yang akan diukur, menetapkan bahan penelitian, menetapkan seleksi bahan / objek penelitian, merencana perlakuan atau manipulasi objek, cara pengukuran atau pengumpulan data, cara mengolah data, dan menetapkan cara kontrol variable. 5) Melakukan percobaan (eksperimen) 6) Mengumpulkan dan mengolah data 7) Membahas data 8) Merumuskan kesimpulan 9) Identifikasi masalah baru yang berkembang ­ kembali merancang pemecahan masalah (siklik) Pada pendekatan "quasy experiment", tidak ada / tidak dapat ditetapkan unit kontrol. Misal, bagaimana efek intensitas cahaya terhadap pertumbuhan tanaman ?, apakah laju pernapasan laki-laki berbeda dengan perempuan ?, apakah ada perbedaan efek dari beberapa jenis pupuk daun terhadap pertumbuhan tanaman ?, dst. Permasalahan tersebut memang harus dijawab dengan percobaan, tetapi tidak ada unit yang dapat disebut kontrol terhadap unit percobaan yang lain. Frank menggambarkan bahwa proses keilmuan bersifat siklik, terdiri atas aktivitas induktif dan deduktif. IPA dikembangkan dari pengungkapan gejala (pengamatan objek) alam dan menghasilkan data-data empiris. Data kemudian diolah dan disintesis sehingga dapat dirumuskan pengertian baru yang "lebih besar / umum" yang disebut produk ilmiah. Produk ilmiah bertatar, mulai dari produk yang paling elementer yaitu fakta ilmiah. Beberapa fakta ilmiah disintesis lagi untuk merumuskan pengertian yang lebih umum lagi yaitu berupa konsep. Secara umum, aktivitas berfikir (berabstraksi) merumuskan pengertian yang sederhana menjadi pengertian yang lebih umum disebut generalisasi. Generalisasi untuk merumuskan konsep disebut pula konsepualisasi. Bebeerapa konsep dapat digeneralisir untuk membangun teori, ataupun prinsip ilmiah. Generalisasi lebih lanjut dari prinsipprinsip ilmiah akan dihasilkan suatu hukum ilmiah. Aktifvitas berfikir (berabstraksi) melakukan generalisasi dari data empirik menjadi produk-produk ilmiah inilah yang disebut
+
+Bio-Umum 06
+
+15
+
+proses induktif. Sebaliknya, merumuskan prediksi faakta (hipotesis) berpijak dari konsep, prinsip ataui teori ilmiah disebut proses deduktif. Kedua proses berfikir merupakan satu kesatuan yang harus dilakukan bila melakukan proses keilmuan.
+
+KEGIATAN 3 Pokok Bahasan : Prosedur Ilmiah
+
+Topik : Bagamana proses-proses ilmiah dalam memecahkan masalah biologi ? Tujuan :
+1. Mahasiswa berlatih melakukan pemecahan masalah biologi melalui prosedur ilmiah 2. Mahasiswa dapat menunjukkan sikap ilmiah dalam melakukan proses-proses ilmiah 3. Mahasiswa dapat beerlatih menemukan fakta dan konsep ilmiah
+
+Bentuk Kegiatan : 1. Mendisain dan melakukan pemecahan masalah bioloti ( eksperimen atau observasi ) 2. Menganalisis dan menyimpulkan hasilnya. 3. Menyusun laporan hasil dan mengkomunikasikannya.
+
+Obyek Kajian : Alternatif persoalan biologi seputar "Perkecambahan biji".
+1. Dimanakah letak perbedaan ciri perkecambahan atara biji lamtoro, biji jagung, kacang hijau?
+2. Apakakah intensitas cahaya berpengaruh terhadap perkecambahan biji kedelai ? 3. Apakah air limbah perkecambahan biji ? 4. Apakah struktur kulit biji berpengaruh terhadap perkecambahan biji ? 5. Bagaimana respons perkecamabahan serealia terhadap cahaya ?
+
+Perintah Kegiatan : Buatlah rencanakan kegiatan untuk menjawab masalah yang menjadi tugas atau pilihan kelompok saudara dan lakukan kegiatan sesuai rencana saudara. Laporkan hasil kerja kelompok saudara.
+
+Bio-Umum 06
+
+16
+
+Langkah-langkah : 1. Pilihlah satu masalah yang handak dipecaahkan dalam kelompok 2. Buat rancangan pemecahan masalahnya (eksperimen atau observasi), a l. :
+a. identifikasi faktor atau variabel terkait dengan masalah yang saudara pilih b. tetapkan parameter (gejala-gejala yang akan diukur) yang hendak diukur ,
+menyangkut faktor lingkungan, dan faktor RESPONS bijinya. c. Pikirkan representasi objek, homogenitas objek d. Pikirkan langkah-langkah mengontrol variabel e. Pikirkan alat dan cara pengukuran respon biji f. Pikirkan organisasi data dan cara pengolahannya 3. Melakukan pengamatan / percobaan untuk mengumpulkan data 3. Diskusikan / bahas hasil pengamatan / percobaan 4. Buatlah kesimpulan dan saran 5. Identifikasi masalah baru / perkembangan masalah 6. Membuat laporan hasil.
+
+Bio-Umum 06
+
+17
+
+BAGIAN 3 : MENGENAL GEJALA BIOLOGI
+PENGANTAR Pilar utama pengembangan ilmuan biologi adalah aktivitas pengamatan (sensing)
+dan penalaran (thinking), walaupun tidak dapat dipungkiri ada pula kontribusi unsur intuitive di dalamnya. Pengamatan terhadap objek dibutuhkan untuk mengungkap berbagai gejala biologi. Gejala adalah segala hal yang dapat ditangkap dengan indera, dengan maupun tanpa alat bantu penginderaan. Manusia mampu mengamati gejala dengan pancaindra, yakni penglihat (mata), penciuman (hidung), perasa (lidah), peraba (kulit) dan pendengaran (telinga). Semakin teliti dan lengkap penggunaan alat indera, gejala objek semakin banyak terungkap. Gejala berat, volum, panjang dapat diamati dengan bantuan alat bantu pengukuran. Untuk melihat gejala struktur mikroskopis dapat diamati dengan alat bantu berupa alat pembesar seperti Loup atau Mikroskop. Pemilihan alat bantu harus tepat dan presisinya tinggi agar datanya akurat.
+Pada objek biologi melekat dua macam gejala, yaitu gejala benda (structural) dan gejala peristiwa. Gejala benda adalah gejala tentang struktur benda, seperti bentuk, ukuran, warna. Gejala peristiwa menunjuk pada proses, seperti bernapas, menghasilkan aroma, tumbuh, senyum, melepaskan O2/ gelembung, kilat atau guntur, dst.
+Gejala-gejala hasil pengamatan dapat direkam dalam bentuk data kuantitatif maupun data deskriptif kualitatif. Dari banyak pengukuran (ulangan sampel) dapat diperoleh modus atau rerata, yang menggambarkan kecenderungan umum karakteristik kelompok objeknya. Komputasi atau pengolahan dengan statistik adalah alat bantu untuk merumuskan fakta yang dimunculkan, berdasar data-data yang ada. Bila pengamatan dan pengukuran gejala pada objek dilakukan dengan kaidah-kaidah ilmiah dan dilandasi sikap ilmiah, maka dihasilkan produk ilmiah. Sebaliknya, tanpa kaidah ilmiah dan tanpa sikap ilmiah, datanya juga tidak ilmiah dan tidak dapat dipertanggung jawabkan.
+
+KEGIATAN 4 Topik : Gejala apa sajakah yang dapat kita tangkap pada objek biologi
+
+Bio-Umum 06
+
+18
+
+Tujuan : 1. Mahasiswa berlatih melakukan pengamatan dengan panca indera 2. Mahasiswa berlatih menemukan gejala-gejala pada objek biologi 3. Mahasiswa mengenal gejala peristiwa dan gejala benda pada objek biologi
+
+Kegiatan : 1. Mengamati bermacam-macam objek biologi 2. Mengkategorisasi gejala benda dan gejala peristiwa yang dimuncuilkan. 3. Menyusun laporan hasil dan mengkomunikasikannya.
+
+Obyek Kajian : Bahan / objek pengamatan :
+1. biji, bunga, daun, akar , batang 2. siput / bekicot 3. setetes air kolam
+
+Langkah-langkah : 1. Amatilah ketiga kelompok objek yang telah ditetapkan. 2. Lakukan pengamatan dengan maacam-macam alat indra yang mungkin 3. Identifikasilah sebanyak mungkin gejala pada objek. Lakukan dengan alat Bantu bila
+memang dibutuhkan. 4. Masukkan gejala-gejala yang teridentifikasi ke dalam table yang telah saudara siapkan 5. Diskusikan / bahas hasil pengamatan 6. Buatlah kesimpulan dan saran 7. Susun laporan dan komunikasikan hasilnya.
+
+Bio-Umum 06
+
+19
+
+Objek Diamati 1. Daun /
+bunga/ buah /
+2. Air kolam
+
+Alat Indra digunakan 1. Penglihat
+2. Pendengar
+3. Peraba
+4. Pengecap
+5. Penciuman
+
+Gejala yang ditemukan ( tanpa alat Bantu ) ........ ......... .......
+....... ....... ...........
+......... ........ ........
+......... ........ ........
+
+Gejala yang ditemukan ( dengan alat Bantu ) ........... .......... ..........
+........... .......... ..........
+........... .......... ..........
+........... .......... ..........
+
+3. dst
+
+Bio-Umum 06
+
+20
+
+BAGIAN 4 : KEANEKARAGAMAN ORGANISMA
+PENGANTAR Keanekaragaman merupakan salah satu aspek persoalan biologi. Keanekaragaman
+merupakan suatu gejala biologi yang dihasilkan dari interaksi faktor genetik dan faktor lingkungan. Keanekaragaman dapat dilihat baik dari aspek structural (morfologis ­ anatomis), fisiologis maupun perilakunya. Keanekaan dapat dilihat dari tingkat selmolekuler sampai tingkat komunitas, pada intraspecies (antar individu sejenis) maupun interspecies (antar individu lain jenis).
+Keanekaragaman menyoroti aspek perbedaan dan kesamaan ciri pada beberapa objek yang menjadi objek pengamatan. Variasi timbul melalui beberapa mekanisme :
+1. Adanya adaptasi, sebagai respons dalam berinteraksi dengan lingkungannya, 2. Rekombinasi genotip akibat perkawinan di alam yang teracak (bebas), 3. Adanya variasi genotip yang timbul akibat pemisahan gen yang acak saat meiosis
+atau pembentukan gamet, 4. Adanya mutasi gen atau perubahan mendadak pada perangkat pewarisan sifat
+(DNA, Gen, Kromosom)
+KEGIATAN 5
+Topik : Dalam ciri apakah keanekaragaman intraspecies dan interspecies pada daun dapat kita temukan?
+Tujuan : 1. Mahasiswa dapat mengidentifikasi ciri-ciri structural organ daun dari beberapa contoh yang telah disiapkan 2. Mahasiswa dapat menemukan kesamaan dan perbedaan ciri antar daun sejenis dan antar daun lain jenis 3. Mahasiswa menemukan keanekaragaman ciri struktural daun intraspecies maupun interspecies 4. Mahasiswa dapat menyimpulkan hasil pengamatan dan mengkomunikasikan
+Alat dan bahan
+
+Bio-Umum 06
+
+21
+
+Alat : Mistar, timbangan, Midline Charta mengenai struktur daun dan keterangannya : bentuk daun, pertulangan, bentuk ujung, pangkal dan tepi daun, bagian-bagian daun
+
+Bahan : I : 10 - 15 daun tumbuhan sejenis II : 10 ­ 15 daun dari tumbuhan yang berbeda
+
+Cara kerja : a. Pengamatan intraspecies :
+1. Siapkan 10-15 helai daun tumbuhan sejenis di meja. 2. Amatilah gejala-gejala / ciri-ciri berikut :
+Bentuk dan pertulangan daun, ujung dan pangkal daun, bagian-bagian daun Sifat tepi daun, warna daun, permukaan daun, Tebal daun, luas dan berat daun, Keadaan daun lain : utuh ­ tidak utuh, ada tidaknya organisme patogin, dst yang dapat sudara deskripsikan 3. Masukkan data pada table 4. Identifikasi kesamaan dan perbedaan antar daun tumbuhan sejenis tersebut 5. Diskusikan mengapa ciri-ciri tertuentu sama, tetapi ciri tertentu yang lain berbeda ? 6. Berikan argumen mengenai faktor penentu kesamaan dan perbedaan itu 7. Nyatakan kesimpulan yang dapat saudara nyatakan dari pengamatan ini !
+
+Bio-Umum 06
+
+22
+
+Gejala/ ciri
+
+Daun ke
+
+Diamati
+
+1 2 3 4 5 6 7 8 9 10 . N
+
+1. Bentuk
+
+Lanset/ pita
+
+Lonjong
+
+Bulat
+
+Yang lain
+
+2. Tulang daun : - menyirip - menjari - sejajar - melengkung
+
+3. .Ujung daun - runcing - tumpul
+
+4. Bagian daun : - tangkai - helaian - pelepah
+5. Luas daun 6. Berat daun 7. Tebal daun 8. Warna daun 9. Penyakit :
+- ada - tidak ada 10. Dst
+a. Pengamatan interspecies : 1. Siapkan 10-15 macam daun di meja kerja saudara. 2. Amatilah gejala-gejala / ciri ciri berikut : : Bentuk dan pertulangan daun, ujung dan pangkal daun, bagian-bagian daun Sifat tepi daun, warna daun, permukaan daun Tebal daun, luas dan berat daun, 3. Masukkan data pada table 4. Identifikasi kesamaan dan perbedaan antar daun tumbuhan sejenis tersebut
+
+Bio-Umum 06
+
+23
+
+5. Diskusikan mengapa ciri-ciri tertentu sama, tetapi ciri tertentu yang lain berbeda ? 6. Berikan argumen mengenai faktor penentu kesamaan dan perbedaan itu 7. Nyatakan kesimpulan yang dapat saudara nyatakan dari pengamatan ini !
+
+Gejala/ ciri
+
+Jenis Daun
+
+Diamati
+
+1 2 3 4 5 6 7 8 9 10 . N
+
+1. Bentuk
+
+Lanset/ pita
+
+Lonjong
+
+Bulat
+
+Yang lain
+
+2. Tulang daun : - menyirip - menjari - sejajar - melengkung
+
+3. .Ujung daun - runcing - tumpul
+
+4. Bagian daun : - tangkai - helaian - pelepah
+
+5. Luas daun 6. Berat daun 7. Tebal daun 8. Warna daun 9. Penyakit
+- ada - tidak ada 10. Dst
+
+Bio-Umum 06
+
+24
+
+KEGIATAN 6
+Topik : Dalam ciri apakah keanekaragaman pada manusia kita temukan ? Tujuan :
+1. Mahasiswa dapat mengamati bermacam-macam gejala fenotip pada manusia dan menemukan kesamaan dan perbedaan yang ada
+2. Mahasiswa dapat memberikan argumen terhadap timbulnya gejala keanekaragaman 3. Mahasiswa dapat menunjukkan contoh gejala fenotip yang lebih ditentukan oleh faktor
+genetic maupun faktor lingkungan
+
+Prinsip Dasar 1. Sifat induk (ayah ­ ibu) diturunkan kepada anak-anaknya. Pewarisan sifat terjadi melalui gen-gen pada kromosom sel-sel kelamin. 2. Sel-sel gamet akan memiliki susunan gen yang berbeda. Perbedaan genotip terjadi pada saat gametogenesis, yaitu proses pembentukan gamet melalui pembelahan meiosis sel-sel induk kelamin pada gonad (tetes pada ayah; / ovarium pada ibu). 3. Melalui perkawinan yang acak, akan terjadi rekombinasi gen sehingga anak-anaknya akan memiliki susunan genotip yang selalu berbeda 4. Gejala yang tampak (phnenotype) pada seseorang merupakan hasil interaksi atau perpaduan antara faktor genotip dengan faktor lingkungan. 5. Keanekaragaman fenotip pada populasi manusia menunjukkan adanya keanekaragaman pada manusia. 6. Gejala fenotip pada manusia dapat dilihat dari gejala struktural maupun fungsional, dari tingkat sel-molekuler sampai tingkat individu. Contoh, gejala golongan darah, hemofilia, kemampuan mengecap rasa, kemampuan atau ketidak mampuan membentuk hormon atau enzim tertentu, dst.
+
+Alat dan Bahan Alat : meteran, dokumen medis Bahan : Tubuh kita dan saudara kandung kita
+
+Sasaran Pengamatan :
+
+Bio-Umum 06
+
+25
+
+1. Ciri rambut (warna = hitam, coklat; bentuk = lurus, ikal, keriting; kebotakan = botak dan tidak botak),
+2. Ciri kulit (warna = putih, coklat, hitam) 3. Ciri mata (bentuk mata = bulat, lonjong, sitib, warna iris mata = hitam, coklat = biru ;
+butawarna = ya, tidak; keadaan mata = plus, minus) 4. Ciri hidung (bentuk hidung = mancung,agak mancung, pesek; rasio tinggi/ lebar
+hidung), 5. bentuk tubuh (gemuk ­ agak gemuk, kurus , langsing), 6. sidik jari (busur, jerat, pusar) 7. golongan darah ( A, B, AB, O), 8. bentuk wajah (bulat, oval/ lonjong, kotak) 9. tinggi badan dan ciri khas yang lain. 10. Daun telinga (melekat, menggantung)
+
+Cara kerja 1. Lakukan pengamatan / kumpulkan data kamu tentang beberapa ciri yang dijadikan
+sasaran pengamatan. Bila tidak dapat mengamati dan melakukan pengukuran sendiri, lakukanlah dengan teman sekelompokmu. 2. Lakukan pula pengamatan untuk beberapa ciri yang mungkin mudah / dapat kamu temukan pada saudara-saudara sekandung, ayah dan ibumu. 3. Catat data hasil pengamatqanmu pada table : a. Data antar teman dalam kelompok b. Data antar saudara sekandung tiap atau di antara anggota kelompok 4. Identifikasi kesamaan dan perbedaan yang terjadi 5. Diskusiskan mengapa gejala kesamaan dan perbedaan tersebug terjadi 6. Nyatakan kesimpulan hasil pengamatnya, 7. Susun laporan dan mengkomunikasikan hasilnya
+
+Bio-Umum 06
+
+26
+
+Gejala/ ciri
+
+Diamati
+
+1
+
+1. Daun telinga
+
+- Menggantung
+
+- Melekat
+
+2. Bentuk rambut
+
+- lurus
+
+- ikal
+
+- keriting
+
+3. Kebotakan:
+
+- botak
+
+- tidak botak
+
+4. Warna kulit
+
+- putih
+
+- coklat
+
+- hitam
+
+5 . Bentuk mata
+
+6. Bentuk wajah
+
+7. Gol. darah
+
+8. Bentuk hidung
+
+9. Indek hidung
+
+10. Bentuk tubuh
+
+Probandus / Orang yang diamati
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Diskusi : 1. Apa yang dapat saudara katakan mengenai keanekaragaman antar individu ? 2 . Bagaimana tingkat keasamaan atau perbedaan antar individu dadlam satu saudara dan antar individu antar keluarga ? 3. beri penjelasan mengapa gejalanya demikian ?
+
+Bio-Umum 06
+
+27
+
+BAGIAN 5 : PRINSIP DASAR KLASIFIKASI
+PENGANTAR Klasifikasi meruipakan usaha manusia untuk melakukan kategorisasi,
+pengelompokan atau penggolongan atas dasar kesamaan dan perbedaan ciri yang ada, dan dengan kaidah-kaidah tertentu, untuk mempermudah dalam mengenal objek. Klasifikasi dapat bersifat klasifikasi taksonomik dan nontaksonomik ( klasifikasi buatan / artificial).
+Kaidah-kaidah klasifikasi telah dirintis ooleh C. Linneaus sebagai bapak klasifikasi taksonomik antara lain :
+1. Klasifikasi berdasar ciri-ciri yang ada pada objek (naturalistic) 2. Klasifikasi dilakukan menurut kesamaan dan perbedaan ciri yang ada pada
+objek 3. Klasifikasi taksonomik dijabarkan dalam 7 takson (tataran/ hierarkhis), meliputi
+species ­ genus ­ famili ­ ordo ­ klasis ­ divisio ­ kingdom 4. Nomenklatur untuk takson jenis (species) secara binomial 5. Menggunakan bahasa latin 6. Cara klasifikasi adalah dikotomis
+Kegiatan 7
+Topik : Bagaimana klasifikasi dapat kita lakukan terhadap objek-objek yang kita amati ?
+Tujuan : 1. Mahasiswa dapat berlatih melakukan klasifikasi dikotomis berdasar data-data hasil pengamatannya 2. Mahasiswa dapat memahami terjadinya perbedaan produk klasififkasi antar kelompok
+Alat dan bahan : Alat : Bahan : data hasil pengamatan keanekaragaman daun atau manusia
+
+Bio-Umum 06
+
+28
+
+Cara kerja : 1. Berdasar hasil pengamatan ciri-ciri daun intraspecies maupun interspecies, identifikasi kesamaan dan perbedaannya. 2. Temukan kesamaan-kesamaan dasarnya untuk dijadikan dasar klasifikasi 3. Lakukan klasifikasi secara berjenjang secara dikotomis. Pada cara dikotomis, setiap kali pengelompokkan, kelompok objek selalu digolongkan menjadi dua golongan. 4. Buatlah diagram klasifikasi secara keseluruhan dari awal hingga akhir. 5. Sebutkan dasar penggolongan pada tiap tahap klasifikasi yang saudara dilakukan. 6. Buatlah laporan dan komunikasikan hasilnya
+
+KEGIATAN 6
+
+Topik :Adakah Keanekaragaman komunitas pada antar lingkungan ? Tujuan :
+1. Mahasiswa dapat berlatih mengamati gejala struktur komunitas tumbuhan di lapangan
+2. Mahasiswa berlatih menghitung kepadatan, distribusi dan dominansi suatu populasi di lingkungannya
+3. Mahasiswa dapat menemukan adanya keanekaragaman tingkat komunitas dalam suatu ekosistem
+Prinsip Dasar 1. Suatu ekosistem tersusun atas komponen biotik dan abiotik yang saling berinteraksi dan interdependensi. 2. Suatu ekosistem memiliki fungsi yang terkait dengan siklus energi dan materi, regulasi dan kebernetik, keanekaragaman dalam ruang dan waktu, Organaisma dalam suatu ekosistem berubah dinamis dalam ruang dan waktu 3. Kondisi lingkungan yang berbeda, memiliki daya dukung dan kendala bagi pertumbuhan populasi atau komunitas organisme di dalamnya. 4. Gejala struktur komunitas dapat dilihat dari antara lain pada (a) macam populasi yang ada, (b) kepadatan suatu populasi, (c) distribusi atau penyebaran, (e) tingkat dominasi suatu populasi di habitatnya, terlihat dari tingkat penutupan area suatu populasi.
+
+Cara Kerja :
+
+Bio-Umum 06
+
+29
+
+1. Cari beberapa area rerumputan dan semak-semak di sekitar kebun biologi yang kondisi lingkungannya berbeda (terbuka, tertutup, kering, lembab, dst).
+2. Lakukan pengamatan struktur komunitasnya sbb : a. Buatlah beberapa plot pengamatan secara acak dengan ukuran lk (1 X 1 M2 untuk rerumputan; 4 X 4 M2 untuk semak) pada tiap area. b. Lakukan identifikasi macam jenis tumbuhan yang ada dan hitung jumnlah tiaptiap jenis c. Amati pula penyebarannya, bergerombol (berumpun) atau terpisah-pisah ) d. Lakukan pula pengamatan kondisi klimatik (pencahayaan, suhu udara, kelembaban,angin) dan edafiknya (suhu, kadar air, pH dan struktur tanah)
+3. Catatlah hasil pengamatanmu pada tabulasi data yang telah disiapkan 4. Lakukan penghitungan : kepadatan, distribusi, dan dominasi dan nilai penting dari
+tiap-tiap populasi tumbuhan 5. Amati pula gejala cara perkembang biakan (generatif, vegetatif), proporsi tua dan
+muda pada tiap populasinya 6. Diskusikan dan nyatakan kesimpulan yang dapat dsaudara nyatakan dari hasil
+pengamatan ini
+
+Plot
+
+Area I
+
+Area II
+
+ke
+
+Nama jenis Jumlah Luas pe- Nama jenis Jumlah Luas pe-
+
+nutupan
+
+nutupan
+
+1
+
+1
+
+2
+
+3
+
+.
+
+N
+
+2
+
+1
+
+2
+
+3
+
+.
+
+N
+
+dst
+
+Bio-Umum 06
+
+30
+
+BAGIAN 6 : SALING MELENGKAPI ANTARA STRUKTUR DAN FUNGSI
+PENGANTAR Setiap organisme dituntut untuk mampu beradaptasi dengan lingkungannya. Adaptasi
+organisme terjadi dalam tiga bentuk, yakni adaptasi structural (anatomis ­ morfologis), adaptasi fungsional (fisiologis) dan adaptasi perilaku.
+Lingkungan selalu berubah dinamis dari waktu ke waktu, karenanya adaptasi selalu dilakukan oleh organisme di lingkungannya. Adaptasi terus menerus dapat dilihat pada aktivitas fisiologinya. Pada perubahan kondisi yang ekstrim menuntut organisme untuk tidak saja beradaptasi secaraq fisiologis, melainkan mengembangkan struktur tubuhnya hingga sesuai dengan tantangan di lingkungannya.
+Secara teori, awal kehidupan mulanya berkembang di air kemudian pindah ke darat. Di antara sekian banyak hewan saat ini, masih ada hewan yang hidup di dua alam (Amphibia), yang dapat menjembatani perubahan dari kehidupan air ke darat. Di sisi lain, banyak organisme yang telah lama sukses beradaptasi pada kehidupan darat. Pergeseran habitat atau lingkungan menuntut adaptasi structural, fisiologis dan bahkan pada perilakunya.
+Lingkungan selalu mengalami perubahan. Perubahan ini kadang cukup drastis atau cukup besar, sehingga berdampak kurang menguntungkan bagi organisme doi dalamnya. Dalam keadaan seperti ini, sangatlah mungkin sekelompok organisme tidak dapat beradaptasi untuk tetap bertahan hidup. Sebaliknya, kelompok organisme yang mampu beradaptasi maka populasinya tetap bertahan.
+Pada dasarnya, adaptasi merupakan proses penyesuaian diri suatu populasi makhluk terhadap perubahan lingkungannya agar tetap bertahan hidup. Adaptasi dapat terjadi dalam tiga aspek, meliputi adaptasi structural, fungsional dan perilaku. Fenomena adaptasi ini dapat terjadi baik di tingkat sel-molekuler sampai tingkat komunitas atau bioma. Adaptasi structural terjadi untuk mencapai kesesuaian dengan fungsi atau aktivitas yang dibutuhkan setiap organisme.
+Struktur tubuh yang dimiliki oleh berbagai organisme yang masih bertahan hidup saat ini adalah struktur tubuh yang "cocok atau sesuai" hasil proses adaptasi dari generasi ke generasi sebelumnya. Karena struktur tubuh ini sudah tetap ("tidak kembali ke bentuk semula") karena perubahan oleh proses adaptasi sudah sampai pada tingkat gena dalam
+
+Bio-Umum 06
+
+31
+
+kromosom. Misal, secara teori, makhluk darat berkembang dari kehidupan di air. Karena itu, baik tumbuhan maupun hewan yang berhasil bertahan hidup adalah organisme yang mampu mengubah struktur tubuhnya hingga sesuai dengan keadaan lingkungan darat. Misalnya, katak darat (Bufo sp) telah memiliki struktur tubuh yang kontras berbeda dengan katak air (Rana sp). Karakter morfologis ­ anatomis katak darat sudah sampai pada bentuk yang tetap karena perubahan oleh hasil adaptasi sudah sampai pada tingkat gena. Demikian pula pada tumbuhan darat, maka karakter habitusnya, baik akar, batang dan daun, morfologis , anatomis, maupun fisiologis sudah mencapai bentuk tetap, dalam arti tidak kembali pada karakter tumbuhan air. Karena itu, struktur daun tumbuhan air dan darat, atau antara tumbuhan higrofit dengan xerofit sudah kontras berbeda dalam banyak bentuk, seperti : 1) luas dan ketebalan daun, 2) macam jaringan, ketebalan kutikula, ada tidaknya hypodermis, bentuk stomata, membuka dan menutupnya stomata, dsb.
+Adaptasi struktural terarah untuk memperoleh bentuk yang sesuai dengan kebutuhan aktivitas atau fungsi yang harus dilakukan. Dalam istilah lain dikatakan "saling melengkapi ("kesesuaian") antara struktur dengan fungsi". Kesesuaian struktur dan fungsi terjadi mulai dari tingkat sel ­ molekuler, jaringan, organ dan atau sistem organ, populasi dan komunitas. Bila tumbuhan yang hidup dalam air semua kebutuhan hidupnya (air, mineral, CO2 dan O2 , termasuk pula cahaya, diperoleh dari air.
+Bagi tumbuhan darat, air dan mineral diperoleh dari dalam tanah, oleh sebab itu tumbuhan darat memiliki ciri khas akar yang dapat meyerap air dan mineral dari dalam tanah. Gas CO2 dan O2 diperoleh dari udara, sehingga pada tumbuhan darat berkembang batang dan daun yang berada di atas tanah, serta akar di dalam tanah. Batang tumbuh tegak menopang dahan dan dedaunan untuk mendapatkan cahaya sebanyak-banyaknya untuk fotosintesis.
+Tumbuhan gurun atau daerah kering dengan karakter lingkungan yang kering baik udara maupun tanahnya (air terbatas) dengan suhu tinggi pada siang hari, melakukan adaptasi :
+a. Struktural : daun sempit atau bahkan tak berdaun dn berubah menjadi duri, kutikula tebal, memiliki lapisan hypodermis, dan stomata hanya ada di permukaan bawah daun dan kriptofor (tersembunyi / sunken). Disamping itu, batang berdaging untuk menyimpan air (sukulen), dan akarnya panjang untuk menjangkau air.
+b. Fisiologis (fungsional) : Stoma membuka pada malam, dan menutup pada siang hari. Karena itu fiksasi CO2 untuk fortosintesis berlangsung pada malam hari, dan menimbunnya dalam bentuk asam malat (senyawa 4-C). Oleh karena itu, tipe fotosintesisnya adalah tipe CAM dan bukan tipe C-3 seperti pada tumbuhan darat di
+
+Bio-Umum 06
+
+32
+
+pedalaman umumnya. Selain itu, tumbuhan xerofit memiliki toleransi tinggi terhadap cekaman kering dan panas dengan mekanisme biokemis tertentu, seperti mampu membentuk asam-asam amino/ protein tertentu yang lebih mampu mengikat air. c. Perilaku, seperti periodisasi membukanya stoma pada malam hari. Sebaliknya menutup pada siang hari.
+Pada hewan, missal pada burung, adaptasi structural dapat dilihat antara lain pada bentuk kaki burung, dan bentuk paruh. Di samping itu juga dapat dilihat dari struktur rangka tulang dada dan sistem pernafasan antara burung terbang dan non-terbang. Sistem percernaan antara pemakan biji dan daging juga berbeda. Struktur kaki yang sesuai untuk gerak di air seperti itik dan pelican. Struktur kaki yang sesuai untuk mencengkeram mangsa seperti kaki elang, dsb. Adaptasi structural juga dapat dilihat pada berbagai sistem alat berbagai hewan. Misal, struktur alat pencernaan hewankarnivora sangat berbeda dengan herbivora, bahkan antara golongan ruminansia akan sangat berbeda dengan herbivora lainnya.
+Bagaimana kita masih dapat mengenal bentuk-bentuk adaptasi structural pada organisme ? Bagaimana serangga enyesuaikan dengan karakter bunga sumber madunya ?, bagaimana susunan gigi geligi, dan system pencernaan hewan menyesuaikan dengan jenis makanannya ? Bagaimana struktur kaki dan paruh burung menyesuaikan dengan habitat organisme mangsanya, bagaimana mamalia menyesuaikan tubuhnya di kehidupan darat ?, bagaiman tumbuhan darat, air dan gurun mendapatkan bentuk penyesuaian tubuhnya ?, dst.
+
+Bio-Umum 06
+
+33
+
+KEGIATAN 9
+
+Topik : Bagaimana penyesuaian struktur tubuh pada katak darat ? Tujuan :
+1. mahasiswa dapat menemukan ciri-ciri katak air dan katak darat 2. mahasiswa dapat menunukkan penyesuaian tubuh pada katak darat ? 3. mahasiswa dapat memberi alasan rasional mengenai bentuk-bentuk
+penyesuaian tersebut Alat dan bahan :
+Alat : Stoples, papan / kaca, stoples, kapas, eter (pembius), penggaris, akuarium Bahan : Katak hijau (Rana sp) dan katak darat (Bufo sp)
+
+Cara kerja : 1. Lepaskan katak hijau (katak air) dan katak darat di akuarium atau kolam 2. Beri stimulus agar katak bergerak, dan amati gerakannya : a. Kecepatannya, b. Proporsi panjang kaki belakang disbanding kaki depannya c. Catat hal khusus lainnya 3. Ambil 1 katak darat dan katak air, dan masukkan ke dalam stoples 4. Ambil sedikit kapas yang diberi sedikit eter, masukkan ke dalam stoples 5. Tutup rapat sampai kedua hewan terbius (tidak aktif bergerak) 6. Ambil ke dua katak, tempatkan ke papan/ kaca danlakukan pengamatan : a. Sifat kulit b. Panjang kaki belakang, kaki depan dan badan (dari leher ke ujung badan) c. Panjang jari dan keadaan selaput antar jari (membrana interdigitalis) 7. Hitung rasio panjang kaki belakang terhadap kaki depan dan terhadap panjang badannya. 8. Catat / masukkan data hasil pengamatan ke dalam table berikut
+
+Bio-Umum 06
+
+34
+
+Gejala diamati
+
+Katak air
+
+1. Kulit tubuh 2. Panjang kaki depan 3. Panjang kaki belakang 4. Panjang badan 5. Membran antar jari 6. Kemampuan gerak di air 5. dst
+9. Bahas hasil pengamatan 10. Susunlah laporan dan komunikasikan hasinya
+
+Katak darat
+
+KEGIATAN 8
+Topik : Bagaimana tumbuhan air menyesuaikan struktur organ / jaringannya ? Tujuan :
+1. Mahasiswa mampu menemukan gejala-gejala penyesuaian struktur organ / jaringan pada tumbuhan air
+2. Mahasiswa mampu menunjukkan beberapa karakteristika struktur organ / jaringan tumbuhan air
+Alat dan bahan : Alat : pisau, gelas objek dan gelas penutup, pipet tetes, kertas hisap, mikroskop Bahan : tumbuhan air: 1) daun teratai (Nymphaea) 2) daun eceng gondok (Euchornia crassipes) 3) daun Hydrilla sp.
+Cara kerja : 1. Buatlah cetakan stomata dengan lem altheco dan potongan plastik transparan 2 x 2 cm2 untuk : daun teratai, eceng gondok dan 1 tumbuhan darat sekitar kita Caranya : a. berikan sedikit lem altheco pada potongan plastik transparan, b. tempelkan dan tekan lem tersebut pada permukaan daun bagian c. biarkan beberapa saat sampai lem mongering, kemudian angkatlah plastik bersama lemnya
+
+Bio-Umum 06
+
+35
+
+d. Amatilah di bawah mikroskop pada perbesaran 100 atau 400 X e. Buatlah pula cetakanstoma untuk permukaan bawah daun. 2. Hitung jumlah stomata yang ada pada kedua permukaan daun tersebut 3. Amati struktur morfologis daun teratai dan eceng gongok (tangkai, helaian, ukuran kedua bagian tersebut ) 4. Buatlah irisan tangkai daun eceng gondok pada bagian yang menggembung, lalu amatilah di bawan mikroskop. Gambar hasi pengamatanmu. 5. Ambil sehelai daun Hydrilla dan amati di bawah mikroskop. Amatilah bentuk sel, kloroplas dan ada tidaknya stomata. Gambarlah hasil pengamatanmu. 6. Masukkan hasil pengamatanmu ke dalam table
+
+Gejala diamati ( parameter ) 1. Ciri daun :
+a. ketebalan b. luas 2. Stomata : a. letak b. jumlah 2. Ciri tangkai 3. Ciri lain
+
+Teratai
+
+Tumbuhan air Eceng gondok Hydrilla
+
+Tbhn darat Tanaman A
+
+Berdasar data : 1. Ciri khas apakah yang dimiliki oleh daun tumbuhan air ? 2. Teratai tumbuhan air dengan batang tenggelam tetapi daun terapung, Eceng gondok
+dengan daun terangkat di atas air, dan Hydrilla dengan daun tenggelam. Bagaimana keadaan stomata pada ketiga tumbuhan tersebut ? 3. Dimanakah perbedaan ciri daun tumbuhan air dengan tumbuhan darat ? 4. Kesimpulan apakah yang dapat saudara nyatakan ?
+
+Bio-Umum 06
+
+36
+
+BAGIAN 7 : SALING MELENGKAPI ANTARA ORGANISME DAN LINGKUNGAN
+PENGANTAR Kehidupan organisme tidak dapat lepas dari lingkungannya. Lingkungan suatu
+organisme meliputi lingkungan fisik, khemis maupun biotic. Di antara ketiga factor tersebut akan terjadi interaksi dan inter dependensi. Faktor biotic akan dipengaruhi oleh factor abiotik, demikian pula sebaliknya. Suatu organisme akan selalu berinteraksi dengan lingkungan abiotik maupun dengan organisme lain di sekelilingnya.
+Dalamekosistem akan terjadi tiga bentuk interaksi, meliputi interaksi antar biotic, antar abiotik danantara biotic ­ abiotik. Interaksi biotic ­ biotic terjadi baik intraspesies (antar sesama jenis) maupun interspesies (antar jenis). Asosiasi atau interaksi biotic ini akan menentukan kelangsungan hidup populasi maupun komunitasnya. Interaksi biotic menjadi mekanisme pada aliran energi dan materi, regulasi dan kibernetik dalam sistem ekologi, keanekaragaman dalam ruang dan waktu serta evolusi. Demikian pula interaksi antar abiotik dan antara biotic dengan abiotiknya, akan mendukung keseluruhan fungsi ekosistem.
+Struktur komunitas hewan dan vegetasi dan mikroorganisme akan menentukan kondisi lingkungan abiotik sekitarnya, secara langsung ataupun tidak langsung. Demikian pula sebaliknya. Bagaimana hubungan biotic ­ abiotik di suatu ekosistem (lingkungan) ?
+KEGIATAN 9 Topik : Adakah interaksi antara organisme dengan lingkungannya ? Tujuan :
+1. Mahasiswa dapat mengamati / mengukur kondisi mikroklimatik dan edafik dua lingkungan / ekosistem yang kontras berbeda (lingkungan penuh dengan vegetasi; lingkungan yang sangat miskin vegetasi).
+2. Mahasiswa dapat mengidentifikasi macam vegetasi yang menyusun kedua lingkunga tersebut
+3. Mahasiswa dapat memberi penjelasan saling hubungan antara keadaan mikroklimat dengan keadaan vegetasi yang ada
+4. Mahasiswa dapat menunjukkan pengaruh vegatasi terhadap keadaan mikroklimat yang ada dan sebaliknya.
+
+Bio-Umum 06
+
+37
+
+5. Mahasiswa dapat menunjukkan hubungan antara kondisi mirkoklimat dengan kondisi edafiknya
+
+Bentuk Kegiatan : Observasi
+
+Obyek Pengamatan : Komponen-komponen biotik dan abiotik lingkungan darat
+
+(terrestrial)
+
+Alat dan Bahan :
+
+- termometer ruang
+
+- kantong plastik
+
+- rafia
+
+- higrometer
+
+- cetok
+
+- pipet
+
+- pH meter (pH-stick)
+
+- air suling (aquades)
+
+- pinset
+
+- lux meter
+
+- HCl pekat
+
+- gelas beker
+
+- roll meter
+
+- kapas
+
+Langkah-langkah : 1. Tentukan dua lokasi pengamatan yang kontras berbeda, seperti : a. Lingkungan tertutup (ternaungi) Vs lingkungan terbuka (tidak ternaungi) b. Lingkungan lembab Vs lingkungan kering, dst. c. Lingkungan rerumputan Vs lingkungan semak-semak, dst 2. Amati kondisi mikroklimatnya , meliputi : suhu, pencahayanan, kelembaban dan angin 3. Amati pula keadaan edafik (faktor / kondisi tanah) : suhu, kadar air atau kelembaban, pH, tekstur tanah (proporsi pasir- debu - liat), dan teksturnya (remah, padat), dan porositas tanahnya. 4. Amati macam vegetasi dan tingkat penutupan areanya : terbuka, agak terbuka, tertutup) 5. Lakukan telaahan mengenai hubungan antara : faktor mikroklimat dan keadaan vegatasi yang ada, mikroklimat dengan edafik, dan kondisi vegetasi dengan edafiknya. 6. Beri argumen / rasionalisasi hubungan antar kondisi mikroklimat, edafik dan vegetasi yang terjadi pada kedua lingkungan kontras tersebut 7. Buatlah laporan dan komunikasikan hasilnya
+
+Bio-Umum 06
+
+38
+
+Paraeter
+Kond. Vegetasi : 1. Macam jenis 2. Jumlah /
+kerapatan 3. Penutupan
+tajuk / canopy 4. Macam hewan 5. Ket. Lain Mikroklimat : 1. suhu 2. kelembaban 3. Intensitas Chy 4. Angin
+
+Lokasi Pengamatan
+
+Lingkungan A
+
+Lingkungan B
+
+Edafik : 1. Suhu tanah 2. Kadar air /
+Kelembaban 3. Porositas 4. pH 5. tekstur tanah 6. Struktur tnh Ket. Lain :
+Alternatif Masalah : Pengamatan tidak selalu pada ekosistem darat, tetapi juga dapat dilakukan untuk ekosistem
+yang lain. Misalnya : 1. Parit dgn air yang mengalir Vs parit yang tidak mengalir, 2. Sungai bagian yang mengalir Vs bagian tidak mengalir 3. Kolam yang terbuka Vs kolam ternaungi 4. Komunitas pada pohon "A" Vs pohon "B" (pohon sebagai ekosistem), dst
+Untuk memahami interaksi organisme dengan lingkungannya di beberapa ekosistem di atas, maka sasaran pengamatannya perlu disesuaikan. Coba diskusikan, sasaran pengamatan apa sajakah yang tepat untuk melihat hubungan organisme dengan lingkungannya pada beberapa ekosistem tersebut ?
+
+Bio-Umum 06
+
+39
+
+BAGIAN 8 : REGULASI DAN HOMEOSTASIS
+PENGANTAR Di dalam tubuh organisme (tingkat individu) pasti ada mekanisme regulasi untuk
+mencapai keadaan yang homeostatic. Homeostatik pada dasarnya merupakan suatu upaya mempertahankan atau menciptakan kondisi yang stabil dinamis ("steady state") yang menjamin optimalisasi berbagai proses fisiologis dalam tubuh. Untuk mencapai keadaan tersebut, tubuh melakukan berbagai aktivitas regulasi, sebagai mekanisme untuk mencapai homeostatik yang diharapkan. Regulasi dan homeostasis juga terjadi di tingkat organisasi kehidupan yang lebih besar, yaitu pada tingkat populasi dan komunitas dalam suatu ekosistem.
+Regulasi dilakukan dalam banayak bentuk, misalnya regulasi untuk mempertahankan cairan tubuh, osmolaritas tubuh, keasaman, suhu, kadar lemak, gula dan protein darah, dsb. Pada tubuh manusia, regulasi diperankan oleh antara lain adalah syarat dan hormon. Kedua komponen merupakan pengendali utama dalam proses regulasi dalam tubuh.
+Proses regulasi melibatkan pemacu (promotor) dan penghambat (inhibitor) dalam suatu tingkat keseimbangan tertentu. Beberapa komponen regulator dalam tubuh ada yang bekerja secara antagonis atau sinergis. Regulator antagonis ditunjukkan antara lain oleh kerja syaraf simpatis dan parasimpatis, hormon insulin dan adrenalin. Pada upaya tubuh melakukan regulasi dan homeostatik suhu tubuh (thermoregulasi), juga melibatkan syaraf simpatis dan parasimpatis, hormon insulin dan adrenalin, kelenjar keringat, darah dan pembuluh darah, dalam suatu koordinasi tertentu. Adanya regulasi memungkinkan terjaminnya koordinasi aktivitas dalam tubuh.
+KEGIATAN 10 Topik : Bagaimana tubuh melakukan koordinasi peertukaran gas saat bekerja keras dan
+bagaimana tubuh melakukan thermoregulasi ? Tujuan ;
+1. Mahasiswa dapat mengamati adanya koordinasi aktivitas system organ pernafasan dan system transportasi / sirkulasi pada saat tubuh bekerja keras
+2. Mahasiswa dapat menunjukkan bentuk koordinasi yang terjadi antara kedua system organ tersebut
+
+Bio-Umum 06
+
+40
+
+3. mahasiswa dapat mengamati / merasakan gejala perkeringatan sebagai bagian mekanisme regulasi suhu tubuh.
+4. Mahasiswa dapat menjelaskan mekanisme pengaturan suhu tubuh
+
+Alat dan Bahan : Alat : Termometer baan , stopwatch, tally counter Bahan : Tubuh kita
+
+Prinsip kerja : Kita bandingkan laju bernafas dan denyut nadi antara saat duduk tenang dengan saat
+bekerja keras. Amati pula gejala lain yang menyertai yaitu : perubahan suhu tubuh dan pengeluaran keringat. Pengamatan saat tubuh bekerja keras diambil segera setelah kita berlari naik turun tangga selama 3-5 menit.
+
+Cara Pengukuran : 1. Laju bernafas : Lakukan pengukuran laju bernafas tiap menit dengan cara menghitung
+banyaknya hembusan udara paru-paru melalui hidung permenit 2. Laju denyut nadi : Hitung jumlah denyut nadi (jantung) tiap menit, dengan cara :
+a. Letakkan lengan tangan kiri dengan posisi tengadah pada telapak tangan kanan saudara.
+b. Letakkan ujung jari tengah dan jari manis ujung tulang lengan. Tekanlah sampai menemukan denyut nadinya
+c. Hitunglah frekuensi denyut nadi selama 1menit. Ulangi pengukuran. 3. Suhu tubuh : diukur dengan termometer badan.
+
+Cara kerja : 1. Lakukan pengamatan / pengukuran suhu tubuh, laju bernafas dan laju denyut nadi pada keadaan tenang 2. Lakukan olah raga dengan cara berlari naik-turun tangga selama 3 ­ 5 menit. Segera setelah itu lakukan pengukuran seperti pada point 1 3. Setalah istirahat lk 10 menit dan tubuh tenang kembali, lakukanlah pengamatan lagi seperti poin 1 dan 2 di atas.
+
+Bio-Umum 06
+
+41
+
+Tahap amatan Saat tenang
+
+Frek. nafas Frek. denyut Suhu tubuh Keringat
+
+Saat beraktivitas
+
+Setelah istirahat ( tenang lagi )
+
+Pertanyaan untuk Diskusi 1. Adakah perbedaan frekuensi bernafas dan denyut jantung antara saat santai dan beraktivitas ? 2. Bagaimanakah perubahan tersebut, meningkat ataukah menurun ? 3. Jelaskan mengapa hal itu terjadi ? 4. Adakah hubungan antara perubahan tingkat aktivitas tubuh dengan suhu tubuh ? Jika ada, bagaimana hubungan keduanya ? 5. Jelaskan mengapa ada hubungan antara tingkat aktivitas dengan suhu tubuh ? 6. Mengapa suhu tubuh menjadi meningkat ? 7. Bagaimana hubungan antara panas tubuh dengan keluarnya keringat ? 8. Adakah pengaturan (koordinasi/ regulasi) antara aktivitas dari sistem pernafasan dengan sirkulasi darah ? Jelaskan bagaimana kaitan keduanya 9. Jelaskan bagaimana mekanisme regulasi kedua sistem alat tersebut ? 10. Jelaskan bagaimana mekanisme regulasi suhu tubuh dan factor-faktor yang terliobat di dalamnya
+
+Bio-Umum 06
+
+42
+
+BAGIAN 9 : KELANGSUNGAN HIDUP DAN PEWARISAN SIFAT
+PENGANTAR
+Makhluk hidup melakukan reproduksi / aktivitas perkembang biakan untuk melestarikan jenisnya. Dari aktivitas reproduksi yang dilakukan, selain menghasil kan anak keturunan, juga menurunkan sifat-sifatnya. Sifat induk tersimpan di dalam kromosom. Kromosom tersusun atas ratusan ribu unit pembawa sifat yang disebut gen-gen. Gen tersusun atas rangkaian panjang asam nukleotida yang disebut DNA.
+Kelangsungan atau kelestarian organisma tergantung dari keberhasilannya melewati seleksi alam. Selain oleh kemampuan reproduksi dan pemencarannya, organisma dapat "survive" bila memiliki kemampuan adaptasi yang tinggi, termasuk kemampuan menurunkan sifat-sifat yang unggul yang dapat mendukung kemampuan adaptasi menghadapi ancaman, serta keberhasilannya berkompetisi dengan populasi lain.
+Mekanisme pewarisan sifat yang dikode oleh DNA diterjemahkan melalui kontrol sintesis enzim. Sifat-sifat induk diturunkan melalui kromosom pada sel-sel kelamin. Organ kelamin secara umum disebut gonad. Pada pria organ tersebut adalah testes, sedangkan pada wanita disebut ovarium. Dalam kedua organ terdapat sel-sel induk kelamin. Melalui proses meiosis, sel-sel induk menghasilkan sel-sel kelamin. Seperti halnya hewan, tumbuhan yang bereproduksi secara generatif juga menghasilkan sel-sel gamet. Pada organ jantan (stamen) akan dihasilkan serbuk sari (mikrospora). Pada organ betina yaitu ovarium atau bakal buah akan dihasilkan megaspora. Selanjutnya megaspora berkemebang menjadi gametofit betina dewasa yang disebut kantung embrio (embrio sac). Pada kebanyakan tumbuhan, kantung embrio terdiri dari 8 inti, meliputi : 2 sinergida, satu ovum, 2 inti kutup, dan 3 antipoda. Ada dua proses penting pada tumbuhan untuk sampai terbentuknya zigot, yaitu : persarian (polenasi = penyerbukan) dan fertilisasi (pembuahan).
+Melalui gametogenesis, gen-gen induk dibawa oleh sel-selkelamin yang terbentuk. Melalui meiosis, dimungkinkan terjadi variasi gen. Mendel menyatakan bahwa pada saat pembentukan gamet, gen-gen yang merupakan pasangan (alel) akan disegregasikan secara acak ke dalam sel-sel gametnya. Melalui perkawinan gamet secara acak akan terjadi rekombinasi yangmenghasilkan varian-varian genotip pada keturunannya.
+Cara sifat atau gen diturunkan sangat bervariasi, dan rumit, di antaranya adalah :
+
+Bio-Umum 06
+
+43
+
+1) sifat diturunkan oleh gen tunggal yang bebas, ada dominansi penuh atau tidak saling menutupi (intermedier)
+2) sifat yang diturunkan oleh gen tunggal yang tidak bebas, seperti pada peristiwa : interaksi gen, epistasi ­ hipostasis, baik oleh gen dominan maupun gen resesif,
+3) sifat yang diturunkan oleh gen terpaut seks 4) Sifat yang diturunkan oleh alel ganda, oleh suatu gen yang mengalami mutasi, baik
+dengan efek letal maupun tidak lethal 5) Sifat yang diturunkan oleh gen ganda, yaitu beberapa gen menentukan satu sifat.
+Mendel adalah perintis bidang genetika, mengamati penurunan sifat-sifat oleh gen tunggal, bebas, dan ada dominansi penuh. Dia bekerja dengan objek tumbuhan, yaitu Erchis (kacang kapri = Pisum sativum), selama bertahun-tahun, mengamati beberapa generasi. Dari persilangan Monohibrid dan Dihibrid yang dilakukan, menghasilkan suatu hukum yang dikenal dengan hukum Mendel. Hukum Mendel I berbunyi "Pada saat pembentukan gamet, gen-gen yang merupakan pasangan disegregasikan secara bebas ke dalam sel-sel anaknya (gametnya)". Hukum Mendel II, "Bila dua individu berbeda satu dengan yang lain dalam dua pasang sifat atau lebih, maka diturunkannya sifat yang sepasang tak tergantung dari pasangan sifat yang lain". Namun demikian, kini semakin banyak variasi cara gen diturunkan ditemukan, tidak seperti temuan Mendel. Untuk memahami bagaimana percobaan Mendel dilakukan, mari kita simulasikan dalam kegiatan praktikum ini.
+
+Bio-Umum 06
+
+44
+
+KEGIATAN 12
+Topik : Bagaimanakah perbandingan genotip dan fenotip yang dihasilkan dari perkawinan Monohibrid dan Dihibrid ?
+Tujuan : 1. Mahasiswa dapat menunjukkan rasio genotip fenotip dari perkawinan Monohibrid. 2. Mahasiswa dapat menunjukkan rasio genotip dan fenotip dari perkawinan dihibrid.
+Bentuk Kegiatan : Simulasi penyilangan Obyek Simulasi : Mekanisme hibridasi (persilangan) Monohibrid dan Dihibrid menurut
+Mendel Alat dan Bahan :
+- Manik-manik (kancing model gena ) berwarna-warni - Kantong plastik gelap (kotak genetika), sebagai organ kelamin. Satu kotak sebagai stamen, satu kotak yang lain sebagai putik)
+Cara Kerja : A. Pada Perkawinan Monohibrid
+1. Misal kita mengawinkan dua tanaman Erchis bunga merah, heterosigot (Mm), sebagai keturunan F1 dari perkawinan Erchis bungan merah (MM) dengan putih (mm).
+2. Pilih dua (2) macam warna kancing model genetika : a. Kancing merah sebagai model gen merah (M, dominan). b. Kancing putih sebagai model gen putih (m, pasangan resesifnya).
+3. Siapkan gamet-gamet jantan dan gamet-gamet betina, yang terdiri dari gen M (kancing merah) dan gen m (kancing putih) yang sama banyak, masing-masing 25.
+
+Macam Gamet
+Gen M (kancing merah)
+
+ Gamet (Pada Stamen )
+20
+
+ Gamet (Pada Putik)
+20
+
+ kejadian perkawinan
+
+Bio-Umum 06
+
+45
+
+Gen m
+
+20
+
+20
+
+(kancing putih)
+
+Jumlah
+
+40
+
+40
+
+40
+
+Ket.: Pada stamen akan dihasilkan ribuan serbuksari (gamet jantan). Gamet yang dibentuk mengandung gen M dan gen m = 1 : 1. Demikian pula pada putih dapat dihasil banyak ovum, dengan gen M dan m = 1 : 1.
+
+4. Masukkan ke dalam kantung 1 (sebagai stamen) dan kantung 2 (sebagai putik), masing-masing 20 gemet M dan 20 gamet m
+5. Lakukan penyilangan secara acak (dengan mata terpejam) gamet-gamet dari kedua kantung. Catat hasil penyilangannya pada table tabulasi data. Lakukan terus sampai semeua gemat habis disilanagkan.
+6. Ulangilah penyilangan ini paling tidak dua kali (kita dapatkan 80 kejadian perkawinan). Semakin banyak kejadian perkawinan kita dapatkan, semakin jelas hasilnya. Tabel : Data Hasil persilangan (pasangan manik-manik hasil penyilangan)
+
+Genotip muncul MM
+
+Penyilangan 1
+
+Penyilangan 2
+
+ Rasio
+
+Mm
+
+mm
+
+Analisis Data 1. Jumlahkan masing-masing genotip (pasangan warna) yang muncul. Tentukan pula
+rasio genotipnya. 2. Dari 80 kejadian perkawinan, berapakah frekuensi genotip semestinya muncul
+menurut teori Mendel (nilai harapan) ? 3. Beapakah rasio peerbandingan genotip dan fenotip yang riil Saudara dapatkan dari
+simulasi persilangan yang Saudara lakaukan ? 4. Apakah hasilnya dapat dikatakan masih sesuai (relatif tidak berbeda) dengan Hukum
+Mendel ?. Untuk menilai apakah hasilnya menyimpang atau masih sama dengan hukum Mendel, dapat dilakukan dengan uji statistik Chi Square ( uji X2 ) 5. Kesimpulan apakah yang dapat saudara nyatakan dari hasil hibridasi ini ?
+
+Bio-Umum 06
+
+46
+
+B. Perkawinan Dihibrid 1. Misal kita mengawinkan dua tanaman Erchis bunga merah, biji bulat heterosigotik (MmBb), sebagai keturunan F1 dari perkawinan Erchis merah, bulat (MMBB) dengan putih keriput (mmbb). Gen M dan B dominan terhadap alel pasangannya (m dan b) 2. Pilih empat (4) macam warna kancing model genetika : a. Gen M = kancing merah b. Gen m = kancing putih . c. Gen B = kancing hitam d. Gen b = kancing kuning 3. Siapkan gamet-gamet jantan (pada stamen) dan gamet-gamet betina (pada Putik). Macam gamet dibentuk pada kedua organ kelamin: MB; Mb; mB; mb 4. Buatlah rangkaian gamet sbb: MB, Mb, mB dan mb dengan kancing model gen yang telah disiapkan. Masing-masing terdiri dari gen M (kancing merah) dan gen m (kancing putih) yang sama banyak, masing-masing 25.
+
+Macam Gamet
+MB : Kancing Merah-hitam Mb : Kancing Merah-kuning mB : Kancing putih ­ hitam mb : kancing putih - kuning Jumlah gamet
+
+ Gamet (Pada Stamen )
+12
+12
+12
+12
+48
+
+ Gamet (Pada Putik)
+12
+12
+12
+12
+48
+
+ kejadian perkawinan
+48
+
+Ket.: Jumlah total gamet dapat diubah, dengan kelipatan 16, missal : 32; 48, 64, 80, 96, dst.
+
+5. Lakukan penyilangan secara acak gamet-gamet dari kedua kantung (stamen dan putik). Catat hasil penyilangannya pada tabel tabulasi data. Lakukan terus sampai semua gamet habis disilanagkan.
+
+Bio-Umum 06
+
+47
+
+6. Ulangilah penyilangan ini paling tidak dua kali (kita dapatkan 96 kejadian perkawinan). Semakin banyak kejadian perkawinan kita dapatkan, semakin jelas hasilnya.
+
+Tabel : tabulasi data hasil persilangan Dihibrid
+
+GENOTIP MUCUL MMBB MMBb MMbb MmBB MmBb Mmbb mmBB mmBb mmbb
+
+Jumlah / FREKUENSI
+
+Penyilangan I
+
+Penyilangan II
+
+Jumlah / Rerata
+
+Analisis Data 1. Jumlahkan masing-masing genotip (pasangan warna) yang muncul. Tentukan pula rasio genotip dan fenotipnya. 2. Dari 192 kejadian perkawinan, berapakah frekuensi fenotip yang semestinya muncul menurut teori Mendel ( nilai harapan/ teoritik) ? 3. Berapakah rasio perbandingan fenotip yang riil ditemukan dari simulasi persilangan yang anda dilakukan (nilai pengamatan / observasi ) ?
+
+4. Apakah hasilnya dapat dikatakan masih sesuai (relatif tidak berbeda) dengan Hukum Mendel ?. Untuk menilai apakah hasilnya menyimpang atau masih sama dengan hukum Mendel, dapat dilakukan dengan uji statistik Chi Square ( uji X2 )
+
+Bio-Umum 06
+
+48
+
+5. Kesimpulan apakah yang dapat saudara nyatakan dari hasil hibridasi ini ?
+
+Pertanyaan Pengembangan 1. Dapatkah rekombinsi sifat yang diturunkan mendukung populasi organisma dalam mempertahankan kelangsungan hidupnya ? 2. Dapatkah kompetisi induk untuk kawin dan menurunkan sifat menjadi bagian strategi organisma mempertahankan populasinya ? 3. Dapatkah kecenderungan tingginya frekuensi sifat-sifat dominan (oleh gen dominan) dimunculkan daripada sifat-sifat resesif, merupakan strategi organisma dalam mempertahankan kelestariannya ?
+
+Bio-Umum 06
+
+49
+
+BAGIAN 10 : PERILAKU
+PENGANTAR Semua organisme memiliki perilaku. Perilaku merupakan bentuk respons terhaap
+kondisi internal dan eksternalnya. Sesuatu respon dikatakan perilaku bila respons tersebut telah terpola, yakni memberikan respon tertentu yang sama terhadap stimulus tertentu.
+Bentuk perilaku dan tingkat regulasi antar organisme beerbeda. Pada organisme tingkat rendah perilaku yang ditunjukkan masih sangat sederhana. Mekanisme kontrol perilakunya masih sangat sederhana. Respon demikian dikenal sebagai Irritabilita. Perilaku sederhana ini diturunkan dari induknya, dengan demikian irritabilitas termasuk perilaku bawaan (innate behavior = instink).
+Pada organisme yang lebih maju, perilaku bawaan juga masih ada atau dipertahankan. Bagaimana seorang bayi dapat menyusu untuk yang pertama kali, serta mengenali ibunya. Bagaimana anak ayam mengenali induk, bagaimana burung dan labalaba membuat sarang dengan bentuk dan pola yang stereotipik. Kontrol perilaku melibatkan unsure syaraf dan hormon, reseptor yangmenerima stimulus serta efektor untuk menyatakan responnya. Sebagai efektor dadpat berupa otot maupun kelenjar.
+Di samping perilaku bawaan, organisme yang lebih tinggi mampu mengembangkan perilaku belajarnya. Perilaku belajar dapat terbentuk karena beberapa hal :
+1) Habituasi, latihan dan mendapat stimuli berulang ulang yang sama 2) Imprinting, yakni belajar terbatas seperti yang ditunjukkan oleh anak burung yang
+akan mengikuti benda bergerak didekatnya 3) Conditioning, yaitu organisme melakukan akuisisi kemampuan baru oleh karena
+stimuli "baru" Hewan yang hidup berkoloni juga menunjukkan perilaku sosial tertentu. Hewan koloni seperti serangga, burung,tikus, dan kebanyakan hewan lainnya mengembangkan sistem komunikasi sesamanya dan menentukan perilaku populasinya.
+
+KEGIATAN 12
+Topik : Bagaimana hewan berperilaku ? Tujuan :
+
+Bio-Umum 06
+
+50
+
+1. Mahasiswa dapat mengamati bentuk-bentuk perilaku pada hewan berdasar hasil pengamatannya
+2. Mahasiswa dapat menunjukkan beberapa contoh perilaku bawaan dan perilaku belajar pada hewan
+
+Bentuk Kegiatan : 1. Mendisain pengamatan perilaku, mulai dari menetapkan pilihan hewan yang akan
+diamati, manipulasi objek, cara pengumpulan data dan pengolahannya. 2. Melakukan observasi atau percobaan sesuai hasilrancangannya 3. Mengamati / mengumpulkan data, membahas dan melaporkan hasilnya
+Catatan : Kegiatan dilakukan dalam kelompok kecil (2-3 orang).
+
+Alternatif Pengamatan Perilaku : 1. Respons cacing terhadap bermacam stimuli (sentuhan, cahaya, suhu, dst) 2. Respons serangga malam terhadap warna cahaya 3. Kapan serangga maam keluar (aktif) dan kembali ke peristirahatannya ? 4. Bagaimana periodisasi mekar dan mengatupnya beberapa bunga teratai dan
+bagaimana hubungannya dengan mikroklimatnya ? 5. Bagaimana perilaku induk ayammengasuh anaknya ? 6. Bagaimana serangga membuat sarangnya ? 7. dst (diskusikan dalam kelompok)
+
+Cara Kerja : 1. Diskusikan untuk mencari alternatif perilaku hewan yang akan diamati 2. Tetapkan jenis hewan yang akan dijadikan objek pengamatan 3. Buatlah rancangan : alat, bagaimana manipulasi/ perlakuan terhadap hewan
+diberikan, bagaimana pengamatan / pengukuran dilakukan, berapa lama, dimana, kapan (waktu) pengamatan dilakukan, dst 4. lakukan pengamatan / percobaan 5. Bahas dan laporkan hasilnya
+
+DAFTAR PUSTAKA
+
+Bio-Umum 06
+
+51
+
+Becker,Wayne M.; L.J.Kleinsmith and J. Hardin. 2000. The World of The Cell. The Benjamin/ Cummings Publishing Company. San Franscisco.
+Biological Science Curriculum Study. 1980. Biological Science: An Inquiry into Life. 4 th Ed. Harcourt Brace Javanovich. New York.
+Bowes,Bryan G. 1996. Plant Structure. Manson Publishing. London
+Djohar, 2000, Orientasi Pembelajaran Biologi. Makalah Seminar. Biologi UNY, 18 Feb.
+______, 2000, Struktur Biologi dan Boilogi dalam Pendidikan. Makalah Seminar, Biologi UNY, 6 Maret
+Mader, Silvia S. 1985. BIOLOGY : Evolution, Diversity, and inviront- ment.Brown Publishers. USA
+Raven, Peter H; R.F. Evert and S.E. Eichhorn. 1992. Biology of Plants. 5th Ed. Worth Publihers. New York.
+Storer T.L and Robert L. Usinger. 1961. Elements of Zoology. McGraw-Hill Book Company, INC. London
+Stone R.H. and A.B. Cozens. 1969. New Biology For Tropical Schools. Longman. London
+
+Bio-Umum 06
+
+52

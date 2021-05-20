@@ -1,0 +1,4394 @@
+Budi Purwanto Arinto Nugroho
+MODEL
+Silabus dan Rencana Pelaksanaan Pembelajaran (RPP)
+1 Eksplorasi
+Ilmu Alam
+untuk Kelas VII SMP dan MTs
+Berdasarkan Permendiknas Nomor 22 Tahun 2006 tentang Standar Isi dan Permendiknas Nomor 23 Tahun 2006 tentang Standar Kompetensi Lulusan
+PT TIGA SERANGKAI PUSTAKA MANDIRI SOLO
+
+MODEL
+Silabus dan Rencana Pelaksanaan Pembelajaran (RPP)
+
+untuk Kelas VII SMP dan MTs
+
+Penulis
+
+: Budi Purwanto
+
+Arinto Nugroho
+
+Editor
+
+: Agus dan Ria
+
+Penata letak isi
+
+: Winardi
+
+Tahun terbit
+
+: 2009
+
+Diset dengan Power Mac G4, font : Times 10 pt
+
+Preliminary Halaman isi Ukuran buku
+
+: iv : 115 hlm. : 14,8 x 21 cm
+
+Ketentuan Pidana Sanksi Pelanggaran
+Pasal 72 Undang-Undang Nomor 19 Tahun 2002 Perubahan atas Undang-Undang Nomor 7 Tahun 1987 tentang Hak Cipta
+1. Barang siapa dengan sengaja dan tanpa hak mengumumkan atau memperbanyak suatu ciptaan atau memberi izin untuk itu, dipidana dengan pidana penjara paling sedikit 1 (satu) bulan dan/atau denda paling sedikit Rp1.000.000,00 (satu juta rupiah), atau pidana penjara paling lama 7 (tujuh) tahun dan/atau denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
+2. Barang siapa dengan sengaja menyerahkan, menyiarkan, memamerkan, mengedarkan, atau menjual kepada umum sesuatu ciptaan barang atau hasil pelanggaran Hak Cipta atau Hak Terkait sebagaimana dimaksud pada ayat (1), dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
+
+© Hak cipta dilindungi oleh undang-undang.
+All rights reserved.
+Penerbit PT Tiga Serangkai Pustaka Mandiri Jalan Dr. Supomo 23 Solo Anggota IKAPI No. 19 Tel. 0271-714344, Faks. 0271-713607 http://www.tigaserangkai.com e-mail: tspm@tigaserangkai. co.id
+Dicetak oleh percetakan PT Tiga Serangkai Pustaka Mandiri
+
+Kata Pengantar
+Kami mengucapkan terima kasih kepada guru yang telah memilih dan menggunakan buku Eksplorasi Ilmu Alam terbitan PT Tiga Serangkai Pustaka Mandiri. Semoga buku tersebut dapat meningkatkan hasil dari Proses Belajar Mengajar (PBM) secara maksimal sebagai upaya untuk meningkatkan mutu Sumber Daya Manusia (SDM) melalui jalur formal (SMP/MTs). Kami menyadari, adanya ketetapan pemerintah yang memberikan wewenang kepada masing-masing sekolah untuk menggunakan Kurikulum Tingkat Satuan Pendidikan (KTSP) belum sepenuhnya dipahami oleh guru yang berada di lapangan. Di antara mereka masih banyak yang mengalami kesulitan atau terdapat beberapa keterbatasan dalam penyusunan perangkat pembel ajaran tersebut. Dengan ini, kami penulis dari PT Tiga Serangkai Pustaka Mandiri memberikan Model Silabus dan Rencana Pelaksanaan Pembelajaran (RPP) untuk mata pelajaran IPA.
+Silabus yang kami buat bersifat fleksibel, artinya dapat disesuaikan dengan kebutuhan guru dan siswa dalam proses belajar mengajar serta dapat disesuaikan dengan kondisi sekolah masing-masing. Silabus ini berfungsi sebagai salah satu alternatif untuk memudahkan guru dalam menyusun Rencana Pelaksanaan Pembelajaran (RPP) sesuai dengan kondisi sekolah masing-masing. Adapun penyusunan model Rencana Pelaksanaan Pembelajaran (RPP) ini telah kami sesuaikan dengan model silabus yang telah kami buat. Harapan kami, model Rencana Pelaksanaan Pembelajaran (RPP) ini dapat memberikan gambaran tentang proses pembelajaran yang akan dilaksanakan, mulai dari awal kegiatan hingga akhir kegiatan. Bentuk penilaian dan alokasi waktu yang tercantum, dapat diubah sesuai dengan kebutuhan guru yang secara langsung melihat kondisi siswa, sekolah, dan lingkungan sekitarnya.
+Kami menyadari bahwa dalam penyusunan Model Silabus dan Rencana Pelaksanaan Pembelajaran (RPP) ini masih terdapat kekurangan. Oleh karena itu, kami menerima kritik dan saran yang membangun untuk memperbaikinya. Harapan kami, dengan adanya Model Silabus dan Rencana Pelaksanaan Pembelajaran (RPP) ini, guru dapat memperoleh salah satu model dalam menyusun perangkat pembelajaran, yaitu Kurikulum Tingkat Satuan Pendidikan (KTSP).
+Solo, Januari 2009
+Penulis
+iii
+
+Daftar Isi
+Kata Pengantar_ ________________________________________________ iii Daftar Isi______________________________________________________ iv Silabus _______________________________________________________ 1 Rencana Pelaksanaan Pembelajaran_________________________________ 15 Daftar Pustaka__________________________________________________ 100 Kunci Soal Uji Kompetensi_ ______________________________________ 101
+iv
+
+Silabus
+
+Nama Sekolah
+
+: SMP/MTs ....
+
+Mata Pelajaran
+
+: IPA
+
+Kelas/Semester
+
+: VII/1
+
+Standar Kompetensi : 1. Memahami prosedur ilmiah untuk mempelajari benda-benda di alam dengan menggunakan peralatan.
+
+Alokasi Waktu
+
+: 8 jam pelajaran (4 × pertemuan)
+
+RPP Eksplorasi Alam SMP 1
+
+No.
+
+Kompetensi
+
+Dasar
+
+Materi Pembelajaran
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+1. 1.1 Mendeskripsikan Besaran dan besaran pokok Pengukuran dan besaran turunan beserta satuannya.
+
+· Melakukan diskusi kelas untuk mendefinisikan besaran fisika.
+· Melakukan diskusi kelas untuk menyebutkan besaran fisika dan mengelompokkannya dalam besaran pokok dan besaran turunan.
+· Melakukan diskusi kelas untuk menggunakan satuan dalam satuan sistem internasional.
+· Melakukan tanya jawab untuk me ngonversi besaran-besaran panjang, massa, dan waktu.
+· Melakukan diskusi kelompok untuk memecahkan persoalan yang terkait dengan besaran dan satuan.
+
+· Mengidentifikasi besaranbesaran fisika dalam kehidupan sehari-hari dan mengelompokkannya ke dalam besaran pokok dan turunan.
+· Menggunakan satuan sistem internasional dalam pengukuran.
+· Mengonversi satuan panjang, massa, dan waktu secara sederhana.
+
+· Pengamatan keaktifan siswa dalam diskusi, tanya jawab, sikap, dan tingkah laku
+· Tugas
+
+2. 1.2 Mendeskripsikan Pengukuran Suhu · Menjelaskan pengertian suhu.
+
+· Mendeskripsikan pengertian · Kuis
+
+pengertian suhu
+
+· Membuktikan dan menjelaskan
+
+suhu.
+
+· Pengamatan
+
+dan pengukuran
+
+bahwa indra peraba tidak dapat
+
+· Mendeskripsikan bahwa
+
+keaktifan
+
+nya.
+
+digunakan sebagai alat pengukur
+
+indra peraba tidak dapat
+
+siswa dalam
+
+suhu dengan tepat.
+
+digunakan sebagai alat peng diskusi dan
+
+· Mengamati demonstrasi cara
+
+ukur suhu dengan tepat.
+
+tanya jawab
+
+menggunakan termometer untuk
+
+· Menggunakan termometer · Pengamatan:
+
+mengukur suhu suatu zat (gas, cair,
+
+untuk mengukur suhu zat
+
+sikap dan
+
+dan padat).
+
+atau benda.
+
+tingkah laku
+
+· Melakukan diskusi kelas untuk
+
+· Membandingkan skala
+
+membandingkan skala termometer
+
+termometer Celsius dengan
+
+Celcius dengan termometer Fahren skala termometer yang lain.
+
+heit, Reamur, dan Kelvin.
+
+Alokasi Waktu
+(7) 2 jam pelajaran
+4 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8) · Buku Eksplo-
+rasi Ilmu Alam 1, Tiga Serangkai · Sarana/Media: OHP dan chart
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: termometer, gelas kimia, pipa kaca, sumbat, air, pemanas
+· Sarana/Media: laboratorium OHP dan chart
+
+
+
+RPP Eksplorasi Alam SMP 1
+
+
+
+Kompetensi
+
+No.
+
+Dasar
+
+(1)
+
+(2)
+
+Materi Pembelajaran
+(3)
+
+3. 1.3 Melakukan peng Pengukuran ukuran dasar se Besaran Fisika cara teliti dengan menggunakan alat ukur yang sesuai dan se ring digunakan dalam kehidupan sehari-hari.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+(4)
+
+(5)
+
+(6)
+
+· Melakukan percobaan membuat termometer sederhana berdasarkan sifat perubahan volume.
+· Melakukan diskusi kelompok untuk memecahkan masalah yang berkait an dengan suhu dan pengukuran.
+
+· Membuat termometer seder hana berskala berdasarkan sifat perubahan volume.
+
+· Pengamatan kinerja keterampilan peragaan dan percobaan
+· Laporan percobaan
+· Tugas
+
+· Melakukan pengukuran panjang dengan macam-acam alat ukur panjang.
+· Mengamati demonstrasi cara meng gunakan alat jangka sorong dan mikrometer sekrup.
+· Mengamati pembacaan skala nonius pada jangka sorong dan mikrometer sekrup dengan bantuan model skala nonius besar.
+· Melakukan percobaan untuk meng ukur volume benda padat dan cair.
+· Melakukan diskusi kelompok untuk mendeskripsikan cara pengamanan pada saat melakukan eksperimen/ percobaan.
+· Mempresentasikan hasil percobaan di depan kelas dan diteruskan de ngan melakukan pengukuran dengan menggunakan jangka sorong dan mikrometer sekrup.
+
+· Melakukan pengukuran dasar dengan teliti meng gunakan alat ukur yang sering digunakan dalam kehidupan sehari-hari.
+
+· Kuis · Pengamatan
+keaktifan siswa dalam diskusi dan tanya jawab · Pengamatan sikap dan tingkah laku · Pengamat an kinerja keterampilan peragaan dan percobaan · Laporan percobaan · Tugas
+
+Alokasi Waktu
+(7)
+2 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: macam-macam alat ukur panjang, neraca, jangka sorong, mikrometer sekrup, gelas beker, air, dan gelas ukur
+· Sarana/Media: OHP, chart, dan model jangka sorong
+
+Standar Kompetensi : 2. Memahami klasifikasi zat.
+
+Alokasi Waktu
+
+: 24 jam pelajaran (12 × pertemuan)
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+1. 2.1 Mengelompok kan sifat larutan asam, larutan basa, dan larutan garam melalui alat dan indikator yang tepat.
+
+(3)
+Asam, Basa, dan Garam
+
+2. 2.2 Melakukan
+
+Penentuan Skala
+
+percobaan se Keasaman dan
+
+derhana dengan Kebasaan
+
+bahan-bahan
+
+yang diperoleh
+
+dalam kehidupan
+
+sehari-hari.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+(4)
+
+(5)
+
+(6)
+
+· Mengidentifikasi sifat asam, basa, dan garam dengan kertas lakmus.
+· Menguji warna larutan indikator pada larutan asam, basa, dan netral.
+· Menjelaskan jenis larutan antara lain larutan indikator dan larutan alami.
+· Melakukan diskusi kelas untuk mengetahui sifat asam, basa, dan garam.
+
+· Mengidentifikasi sifat asam, basa, dan garam dengan menggunakan indikator yang sesuai di laboratorium dan alam.
+· Mengelompokkan bahanbahan di lingkungan sekitar berdasarkan konsep asam, basa, dan garam.
+
+· Pengamatan keaktifan siswa dalam diskusi, tanya jawab, sikap, dan tingkah laku
+· Tugas
+
+· Menjelaskan skala keasaman dan kebasahan.
+· Melakukan diskusi untuk menen tukan derajat keasaman atau kebasaan suatu larutan dengan menggunakan pH suatu larutan.
+· Menentukan pH suatu larutan de ngan pH meter, larutan indikator, dan indikator universal.
+
+· Menggunakan alat sederha na untuk menentukan skala keasaman dan kebasaan.
+
+· Pengamatan keaktifan siswa dalam diskusi, tanya jawab, sikap, dan tingkah laku
+· Tugas
+
+Alokasi Waktu
+(7) 4 jam pelajaran
+4 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: tabung reaksi pipet, air suling, larutan cuka, air kapur, air sabun, air abu, alkohol, larutan gula, larutan asam klorida, larutan natrium klorida, air jeruk, indikator fenol ftalein, indikator metil merah, dan indikator metil jingga
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: tabung reaksi, pipet, kertas indikator univer sal, gelas ukur 10mL, larutan HCL, larutan CH3COOH, larutan H3BO, larutan NaCl
+
+RPP Eksplorasi Alam SMP 1
+
+
+
+RPP Eksplorasi Alam SMP 1
+
+
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+(3)
+
+3. 2.3 Menjelaskan
+
+Unsur
+
+nama unsur dan
+
+rumus kimia
+
+sederhana.
+
+4. 2.4 Membandingkan Senyawa dan
+
+sifat unsur,
+
+Campuran
+
+senyawa, dan
+
+campuran.
+
+5. 2.5 Menyelidiki
+
+Zat
+
+sifat-sifat zat
+
+berdasarkan
+
+wujudnya dan
+
+penerapannya
+
+dalam kehidupan
+
+sehari-hari.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+(4)
+
+(5)
+
+(6)
+
+· Diskusi untuk mendeskripsikan pengertian unsur.
+· Mengenal nama-nama unsur dan simbolnya melalui tabel periodik unsur.
+· Menjelaskan bagian-bagian yang terdapat dalam lambang unsur, yaitu mengenai nomor atom, nomor massa, lambang unsur, dan nama unsur.
+· Memberikan nama dan lambang unsur.
+· Menuliskan nama dan rumus kimia sederhana.
+
+· Menjelaskan aturan pe nulisan lambang unsur.
+· Menuliskan nama dan lambang unsur.
+· Menuliskan nama dan rumus kimia sederhana.
+
+· Pengamatan keaktifan siswa dalam diskusi, tanya jawab, sikap, dan tingkah laku
+· Tugas
+
+· Diskusi untuk mendeskripsikan pengertian senyawa dan campuran.
+· Membandingkan sifat unsur, sen yawa, dan campuran berdasarkan pengamatan.
+· Membuat bagan klasifikasi material secara sederhana.
+· Menggolongkan beberapa campuran dalam kehidupan sehari-hari ke dalam campuran homogen dan heterogen.
+
+· Menjelaskan pengertian senyawa dan sifatnya.
+· Mengidentifikasi perbedaan senyawa dan campuran dengan melakukan per cobaan.
+· Menggolongkan beberapa campuran dalam kehidupan sehari-hari ke dalam campuran homogen dan heterogen.
+
+· Pengamatan keaktifan siswa dalam diskusi, tanya jawab, sikap, dan tingkah laku
+· Tugas
+
+· Menyelidiki terjadinya perubahan wujud suatu zat.
+· Menafsirkan susunan dan gerak par tikel pada berbagai wujud zat melalui penalaran.
+· Membedakan kohesi dan adhesi berdasarkan pengamatan.
+
+· Mampu mengidentifikasi benda yang tergolong dalam zat padat, cair, ataupun gas.
+· Mampu menjelaskan peru bahan wujud berdasarkan teori partikel zat.
+· Mampu menyimpulkan perbedaan antara adhesi dan kohesi berdasarkan pengamatan yang dilakukan.
+
+· Pengamatan keaktifan siswa dalam diskusi, tanya jawab, sikap, dan tingkah laku
+· Tugas
+
+Alokasi Waktu
+(7) 4 jam pelajaran
+4 jam pelajaran
+4 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8) · Buku Eksplo-
+rasi Ilmu Alam 1, Tiga Serangkai · Alat/Bahan: tabel sistem periodik unsur
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: gelas bekas air mineral, sendok, air, garam dapur, dan tanah
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: es batu, gelas, pembakar spir tus, dan stop watch
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+(3)
+
+6. 2.6 Mendeskripsikan Massa Jenis Zat konsep massa jenis dalam kehidupan sehari-hari.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+(4)
+
+(5)
+
+· Membuktikan bahwa massa jenis adalah salah satu ciri khas suatu zat.
+· Menentukan massa jenis suatu zat menggunakan konsep massa jenis untuk pemecahan berbagai masalah dalam kehidupan sehari-hari.
+
+· Mampu mendefinisikan pengertian massa jenis zat.
+· Mampu menentukan massa jenis suatu zat.
+
+(6)
+· Pengamatan keaktifan siswa dalam diskusi, tanya jawab, sikap, dan tingkah laku
+· Tugas
+
+Alokasi Waktu
+(7)
+4 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: ne raca lengan dan logam berbentuk kubus
+
+RPP Eksplorasi Alam SMP 1
+
+Standar Kompetensi : 3. Memahami wujud zat dan perubahannya.
+
+Alokasi Waktu
+
+: 16 jam pelajaran (8 × pertemuan)
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+(3)
+
+1. 3.1 Melakukan
+
+Pemuaian Zat
+
+percobaan yang
+
+berkaitan de
+
+ngan pemuaian
+
+dalam kehidupan
+
+sehari-hari.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+Sumber Alat/ Bahan Belajar
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+· Melakukan peragaan untuk menun jukkan adanya pemuaian benda padat, cair, dan gas.
+· Merancang dan melakukan percoba an atau peragaan untuk menun jukkan pemuaian benda padat, cair, dan gas.
+· Melakukan diskusi kelompok untuk menunjukkan pemanfaatan pemuai an dalam teknologi.
+· Melakukan diskusi kelompok untuk memecahkan permasalahan yang terkait dengan pemuaian zat.
+
+· Menyelidiki proses pemuai an benda padat, cair, dan gas.
+· Menunjukkan pemuaian benda padat, cair, dan gas.
+· Melakukan penyelidikan terhadap perbedaan muai volume berbagai jenis zat cair.
+· Menunjukkan prinsip pemuaian dalam teknologi, misalnya bimetal untuk thermostat, pengelingan, pemasangan bingkai besi pada roda, dan pemasangan kaca.
+
+· Kuis · Pengamatan
+kinerja dalam melakukan percobaan atau peragaan · Pengamatan: sikap dan tingkah laku · Laporan dan tugas
+
+6 jam pelajaran
+
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: pelat tipis, besi, tembaga, alumi nium, gelas labu, sumbat karet, termometer, pipa kaca, dan air
+· Sarana/Media: charta, OHP, laboratorium dan termometer
+
+
+
+
+
+RPP Eksplorasi Alam SMP 1
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+(3)
+
+2. 3.2 Mendeskripsikan Kalor peran kalor dalam mengu bah wujud zat dan suhu suatu benda serta penerapannya dalam kehidupan sehari-hari.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+· Melakukan diskusi untuk mendeskripsikan pengertian kalor.
+· Mengamati dan menunjukkan bahwa kalor merupakan energi.
+· Menyelidiki pengaruh kalor terhadap suhu suatu benda dan merumuskan nya dalam bentuk matematika.
+· Menunjukkan dan mendeskripsikan asas Black.
+· Menyelidiki dan mengamati perubahan wujud suatu zat karena pengaruh kalor. Misalnya, melebur, menguap, mengembun, membeku, dan menyublim.
+· Melakukan diskusi untuk mengetahui perubahan wujud zat yang melepas kan kalor dan yang menerima kalor.
+· Mendeskripsikan kalor laten. · Melakukan diskusi kelompok untuk
+menyelidiki adanya perpindahan kalor secara konduksi, konveksi, dan radiasi dalam kehidupan sehari-hari.
+
+· Mendeskripsikan pengertian kalor.
+· Menyelidiki hubungan antara kalor dan perubahan suhu.
+· Mendeskripsikan dan meng amati asas Black.
+· Menyelidiki hubungan antara kalor dan perubahan wujud zat.
+· Menjelaskan terjadinya perpindahan kalor secara konduksi, konveksi, dan radiasi dalam kehidupan sehari-hari.
+
+· Kuis · Pengamatan
+kinerja dalam melakukan percobaan atau peragaan · Pengamatan: sikap dan tingkah laku · Laporan dan tugas
+
+10 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: termometer, pemanas, kalori meter, air, gelas beker, gelas labu
+· Sarana/Media: charta, OHP, dan laboratorium
+
+Standar Kompetensi : 4. Memahami berbagai sifat dalam perubahan fisika dan kimia.
+
+Alokasi Waktu
+
+: 24 jam pelajaran (12 × pertemuan)
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+(3)
+
+1. 4.1 Membandingkan Sifat Fisika dan sifat-sifat fisika Kimia Zat dan sifat kimia zat.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+(4)
+· Melakukan diskusi untuk mendeskripsikan sifat-sifat fisika suatu zat.
+· Melakukan percobaan untuk menge tahui sifat-sifat fisika suatu zat yang ada di sekitar lingkungan.
+· Melakukan diskusi kelompok untuk mendeskripsikan beberapa manfaat dari adanya sifat fisika.
+
+(5)
+
+(6)
+
+(7)
+
+· Menjelaskan perbedaan sifat fisika dan kimia zat.
+· Menyebutkan manfaat sifat fisika zat dalam kehidupan sehari-hari.
+· Menyebutkan manfaat sifat kimia zat dalam kehidupan sehari-hari.
+
+· Kuis · Pengamatan
+kinerja siswa dalam melaku kan percobaan atau peragaan · Pengamatan: sikap dan tingkah laku
+
+6 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: gelas labu, sumbat, pipa kaca, selang karet, pompa pengisap,
+
+
+
+RPP Eksplorasi Alam SMP 1
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+· Melakukan diskusi untuk mendeskripsikan sifat-sifat kimia suatu zat.
+· Memberikan beberapa contoh peristiwa sehari-hari yang ada kaitannya dengan sifat-sifat kimia suatu zat.
+· Melakukan diskusi untuk menjelas kan perbedaan antara sifat fisika dan sifat kimia.
+
+· Laporan dan tugas
+
+2. 4.2 Melakukan
+
+Pemisahan
+
+pemisahan
+
+Campuran
+
+dengan berbagai
+
+cara berdasar-
+
+kan sifat fisika
+
+dan kimia.
+
+· Melakukan diskusi dan tanya jawab untuk mengingat kembali pengertian campuran.
+· Menjelaskan pemisahan campuran berdasarkan sifat-sifat fisika, yaitu pengayakan, penyaringan, sentrifugasi, kristalisasi, penyulingan, su blimasi, kromatografi, dan ekstraksi.
+· Melakukan percobaan untuk memisahkan campuran dengan cara sublimasi, kristalisasi, dan kromato grafi.
+· Menjelaskan pemisahan campuran berdasarkan sifat kimia.
+· Melakukan percobaan untuk menge tahui pengaruh penambahan tawas pada proses penjernihan air.
+
+· Mampu melakukan pemisah an campuran berdasarkan sifat-sifat fisika.
+· Mampu melakukan pemisah an campuran berdasarkan sifat-sifat kimia.
+
+· Kuis · Pengamat
+an kinerja siswa dalam melakukan diskusi atau percobaan · Pengamatan sikap dan tingkah laku · Laporan dan tugas
+
+6 jam pelajaran
+
+3. 4.3 Menyimpulkan perubahan fisika dan kimia berdasarkan percobaan sederhana.
+
+Perubahan Fisika dan Perubahan Kimia
+
+· Melakukan pengamatan perubahan zat pada lilin, es batu, dan kertas dibakar.
+· Melakukan diskusi untuk mendefinisi kan terjadinya perubahan fisika.
+· Melakukan percobaan untuk menge tahui peristiwa perubahan fisika.
+· Melakukan diskusi untuk mendefinisi kan terjadinya perubahan kimia.
+· Melakukan diskusi menjelaskan perbedaan antara perubahan fisika dan perubahan kimia serta dapat memberikan contohnya dalam kehidupan sehari-hari.
+
+· Mampu membedakan perbedaan antara perubahan fisika dan kimia.
+· Mampu melaksanakan percobaan untuk mengetahui perubahan fisika dan perubahan kimia.
+
+· Kuis · Pengamatan
+kinerja siswa dalam melakukan percobaan atau peragaan · Pengamatan sikap dan tingkah laku · Laporan dan tugas
+
+6 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8)
+air, pemanas, es, garam dapur, tabung reaksi, termometer, air leding, pengaduk · Sarana/Media: charta, OHP, dan laboratorium
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: gelas 100 mL, gelas Erlenmeyer 100 mL, corong dan kertas saring, segitiga, spirtus, batang pengaduk, gelas arloji, kristal garam dapur kotor, pasir, tinta hitam, es batu
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: lilin, air, gelas kimia, tabung reaksi, dan pemanas
+
+
+
+RPP Eksplorasi Alam SMP 1
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+(3)
+
+4. 4.4 Mengidentifikasi Reaksi Kimia terjadinya reaksi kimia melalui percobaan se derhana.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+(4)
+
+(5)
+
+(6)
+
+· Melakukan diskusi dan tanya jawab untuk menjelaskan rekasi kimia.
+· Mendeskripsikan pengertian persa maan reaksi kimia dan menuliskan langkah-langkah menuliskan persa maan reaksi.
+· Menjelaskan macam-macam reaksi kimia dan memberikan contohnya.
+· Menjelaskan ciri-ciri terjadinya reaksi kimia.
+· Melakukan percobaan untuk menge tahui ciri-ciri reaksi kimia.
+· Menjelaskan hal-hal yang memenga ruhi kecepatan reaksi kimia.
+· Melakukan percobaan untuk menge tahui pengaruh ukuran partikel dan suhu terhadap kecepatan reaksi kimia.
+
+· Mampu menjelaskan terjadinya reaksi kimia dan menuliskan persamaan reaksi kimia.
+· Mampu menganalisis ciri-ciri terjadinya reaksi kimia.
+· Mampu melakukan percoba an untuk mempercepat reaksi kimia.
+
+· Kuis · Pengamat
+an kinerja siswa dalam melakukan diskusi atau percobaan · Pengamatan sikap dan tingkah laku · Laporan dan tugas
+
+Alokasi Waktu
+(7)
+6 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: gelas kimia, larut an Pb(NO3)2, larutan KI, air, dan karbit
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ............................... Guru IPA
+
+(________________) NIP. ........................
+
+(________________) NIP. ........................
+
+Nama Sekolah
+
+: SMP/MTs ....
+
+Mata Pelajaran
+
+: IPA
+
+Kelas/Semester
+
+: VII/2
+
+Standar Kompetensi : 5. Memahami gejala-gejala alam melalui pengamatan.
+
+Alokasi Waktu
+
+: 24 jam pelajaran (12 × pertemuan)
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+(3)
+
+1. 5.1 Melaksanakan Gejala Alam Bio
+
+pengamatan
+
+tik dan Abiotik
+
+objek secara
+
+terencana dan
+
+sistematis untuk
+
+memperoleh
+
+informasi gejala
+
+alam biotik dan
+
+abiotik.
+
+2. 5.2 Menganalisis
+
+Gerak Lurus
+
+data percobaan
+
+gerak lurus
+
+beraturan dan
+
+gerak lurus
+
+berubah ber
+
+aturan serta
+
+penerapannya
+
+dalam kehidup
+
+an sehari-hari.
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+· Mengenal gejala-gejala alam biotik dan abiotik.
+· Memberi contoh gejala alam biotik. · Memberi contoh gejala alam abiotik. · Menjelaskan langkah-langkah ilmiah
+dalam melakukan pengamatan.
+
+· Mengenal gejala alam biotik dan abiotik.
+· Menerapkan langkah-lang kah kerja ilmiah melalui percobaan sederhana.
+
+· Jenis tagihan: - Praktik - Tugas kelompok - Ulangan harian
+· Bentuk instru men: - Performans - Pilihan ganda - Isian singkat
+
+4 jam pelajaran
+
+· Melakukan diskusi dan tanya jawab untuk menjelaskan pengertian gerak.
+· Menjelaskan pengertian gerak lurus dan besaran-besaran yang terkait di dalamnya.
+· Melakukan percobaan untuk meng amati benda yang melakukan gerak lurus.
+· Menggambar grafik hasil percobaan gerak lurus dan menyimpulkannya.
+· Melakukan diskusi dan tanya jawab untuk mengetahui hubungan antara kecepatan, jarak, dan waktu dalam gerak lurus.
+· Menganalisis grafik pada gerak lurus. · Melakukan diskusi dan tanya jawab
+untuk menjelaskan gerak lurus berubah beraturan.
+
+· Membuat grafik perpindahan terhadap waktu berdasarkan percobaan jika benda bergerak dengan laju tetap dan laju makin besar.
+· Menemukan persamaan laju (meter/sekon = perpindahan yang ditempuh (meter)/wak tu yang dibutuhkan (sekon)).
+· Menunjukkan dan menen tukan aplikasi konsep gerak lurus beraturan (GLB) dalam kehidupan sehari-hari.
+· Mendeskripsikan percepat an sebagai perubahan kecepatan setiap waktu (meter/sekon2).
+
+· Kuis tertulis · Pengamatan
+keaktifan siswa dalam diskusi dan tanya jawab · Pengamatan kinerja dalam melakukan percobaan atau peragaan · Pengamatan sikap dan tingkah laku · Laporan dan tugas
+
+10 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8) · Buku Eksplorasi
+Ilmu Alam 1, Tiga Serangkai · Alat/bahan: nera ca, termometer, gelas ukur
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/Bahan: ticker timer, bidang miring, troli, mobil-mo bilan, bola voli
+· Sarana/Media: charta, OHP, dan lab.
+
+RPP Eksplorasi Alam SMP 1
+
+
+
+10
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+Sumber Alat/ Bahan Belajar
+
+RPP Eksplorasi Alam SMP 1
+
+(1)
+
+(2)
+
+3. 5.3 Menggunakan mikroskop dan peralatan pendukung lainnya untuk mengamati gejala-gejala kehidupan.
+4. 5.4 Menerapkan keselamatan kerja dalam melakukan pengamatan gejala-gejala alam.
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+· Melakukan percobaan untuk meng amati dan menganalisis grafik pada gerak lurus berubah beraturan.
+· Menganalisis besaran-besaran fisika yang terdapat dalam gerak lurus berubah beraturan.
+· Melakukan diskusi kelompok untuk membedakan bentuk grafik yang ter bentuk pada gerak lurus dan gerak lurus berubah beraturan.
+· Melakukan pengamatan untuk mengetahui gerak vertikal ke atas dan ke bawah.
+· Menganalisis hubungan antara besaran-besaran fisika yang terdapat dalam gerak vertikal.
+
+· Menyelidiki gerak lurus berubah beraturan (GLBB) dipercepat dengan ticker timer.
+· Menunjukkan dan menentu kan aplikasi konsep GLBB dalam kehidupan seharihari.
+
+Cara Penggunaan dan Perawatan Mikroskop
+
+· Mengenal bagian-bagian mikroskop. · Menggunakan mikroskop dalam
+melakukan pengamatan terhadap benda-benda mikroskopis. · Membuat preparat tumbuhan sehingga dapat diamati dengan mikroskop. · Memperkirakan ukuran suatu objek yang diamati di bawah mikroskop
+
+· Mengenal dan mengguna kan mikroskop dengan benar.
+· Membuat preparat basah dan sayatan menurut arah tertentu.
+· Memperkirakan ukuran benda asli suatu preparat berdasarkan skala.
+
+· Jenis tagihan: - Tugas kelompok - Ulangan harian
+· Bentuk instru men: - Performans - Uraian bebas - Uraian objektif
+
+Keselamatan Kerja Ilmiah
+
+· Menggunakan dan memperlakukan alat maupun bahan dalam melaku kan kinerja ilmiah secara aman.
+· Mendeskripsikan bahan-bahan berbahaya dan bahan yang dapat menimbulkan penyakit serta meng identifikasi simbol-simbol dalam laboratorium.
+· Memperlakukan alat laboratorium IPA secara aman dalam melakukan kegiatan.
+
+· Memegang/membawa serta memperlakukan alat dan ba han di laboratorium secara aman.
+· Mengenal bahan yang berbahaya dan mengidenti fikasi simbol-simbolnya.
+
+· Jenis tagihan: - Tugas individu - Kuis
+· Bentuk instru men: - Uraian objektif
+
+(7)
+4 jam pelajaran
+6 jam pelajaran
+
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/bahan: mikroskop
+· Sarana/media: charta, OHP, laboratorium
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Alat/bahan: mikroskop
+· Sarana/media: charta, OHP, laboratorium
+
+Standar Kompetensi : 6. Memahami keanekaragaman makhluk hidup.
+
+Alokasi Waktu
+
+: 22 jam pelajaran (11 × pertemuan)
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+Sumber Alat/ Bahan Belajar
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+1. 6.1 Mengidentifikasi Ciri-Ciri Makhluk · Mendeskripsikan pengertian
+
+ciri-ciri makhluk Hidup
+
+keanekaragaman makhluk hidup
+
+hidup.
+
+dengan mengidentifikasi ciri-ciri
+
+makhluk hidup.
+
+· Mengamati makhluk hidup di
+
+lingkungan sekitar untuk mengenal
+
+gejala hidup pada hewan dan
+
+tumbuhan.
+
+· Membandingkan ciri-ciri kehidupan
+
+antara hewan dan tumbuhan.
+
+· Mengumpulkan informasi tentang ciri-ciri makhluk hidup.
+· Membuat laporan ciri-ciri makhluk hidup.
+
+· Jenis tagihan: - Pertanyaan lisan - Tugas kelompok - Ulangan harian
+· Bentuk instru men: - Uraian bebas - Portofolio - Pilihan ganda
+
+6 jam pelajaran
+
+2. 6.2 Mengklasifikasi Klasifikasi Makh · Mendeskripsikan keanekaragaman · Membedakan makhluk
+
+· Jenis tagihan: 8 jam
+
+makhluk hidup luk Hidup
+
+makhluk hidup untuk mengklasifikasi hidup yang satu dengan
+
+- Tugas
+
+pelajaran
+
+berdasarkan ciri-
+
+makhluk hidup berdasarkan ciri-ciri
+
+lainnya berdasarkan ciri
+
+kelompok
+
+ciri yang dimiliki.
+
+yang dimiliki.
+
+khusus kehidupan yang
+
+- Ulangan
+
+· Mengenali ciri-ciri khusus tumbuhan dimiliki.
+
+harian
+
+yang digunakan dalam pengelompok · Membandingkan ciri-ciri
+
+· Bentuk instru
+
+an (klasifikasi).
+
+khusus tiap kingdom dalam men:
+
+· Mengenal sistem klasifikasi lima
+
+sistem lima kingdom dan
+
+- Performans
+
+kingdom yang diusulkan oleh Robert memberikan contohnya.
+
+- Ulangan
+
+H. Whittaker.
+
+objektif
+
+3. 6.3 Mendeskripsikan Keanekaragaman · Menjelaskan keragaman pada sistem · Mendeskripsikan keragaman · Jenis tagihan: 8 jam
+
+keragaman pada pada Tingkat
+
+organisme kehidupan tingkat sel,
+
+tingkat sel berdasarkan hasil - Tugas
+
+pelajaran
+
+sistem organi Organisme
+
+jaringan, organ, dan sistem organ.
+
+pengamatan menggunakan
+
+kelompok
+
+sasi kehidupan Kehidupan
+
+· Menjelaskan pengertian dari sel,
+
+mikroskop.
+
+- Ulangan
+
+mulai dari tingkat
+
+jaringan, organ, dan sistem organ. · Mendeskripsikan keragaman
+
+harian
+
+sel sampai organisme.
+
+· Membandingkan bagian-bagian sel hewan dan tumbuhan melalui pengamatan dengan mikroskop.
+· Memberikan contoh jaringan, organ, dan sistem organ.
+· Menjelaskan fungsi jaringan otot pada manusia.
+
+tingkat jaringan berdasar
+kan hasil pengamatan menggunakan mikroskop. · Mendeskripsikan keragaman tingkat organ dan sistem organ berdasar hasil peng amatan.
+
+· Bentuk instru men: - Performans - Laporan hasil praktik - Ulangan harian
+
+(8) · Buku Eksplorasi
+Ilmu Alam 1, Tiga Serangkai · Sarana/media: lingkungan sekitar
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Lingkungan sekitar
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Lingkungan sekitar
+
+RPP Eksplorasi Alam SMP 1
+
+11
+
+12
+
+No. Kompetensi Dasar
+
+(1)
+
+(2)
+
+Materi Pembelajaran
+(3)
+
+Kegiatan Pembelajaran
+(4) · Menjelaskan fungsi jaringan meris
+tem pada tumbuhan.
+
+Indikator
+(5) · Mengaitkan hubungan
+antara sel, jaringan,organ, dan sistem organ makhluk hidup.
+
+Penilaian (6)
+
+Alokasi Waktu
+(7)
+
+Sumber Alat/ Bahan Belajar
+(8)
+
+RPP Eksplorasi Alam SMP 1
+
+Standar Kompetensi : 7. Memahami saling ketergantungan dalam ekosistem.
+
+Alokasi Waktu
+
+: 18 jam pelajaran (9 × pertemuan)
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+Kegiatan Pembelajaran
+
+Indikator
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+1. 7.1 Menentukan
+
+Komponen
+
+· Menjelaskan sifat saling ketergantung · Mengidentifikasi satuan-
+
+ekosistem dan Ekosistem, Peran, an antara komponen-komponen
+
+satuan dalam ekosistem
+
+saling hubungan dan Interaksinya
+
+dalam ekosistem.
+
+dan menyatakan bahwa
+
+antara kompo
+
+· Menjelaskan pengertian dari individu, matahari merupakan
+
+nen ekosistem.
+
+populasi, dan komunitas.
+
+sumber energi utama pada
+
+· Menjelaskan pengertian dari kepadat sistem biologi.
+
+an populasi.
+
+· Menggambarkan dalam
+
+· Menjelaskan peran faktor abiotik
+
+bentuk diagram rantai
+
+dalam ekosistem.
+
+makanan dan jaring-jaring
+
+· Menjelaskan ketergantungan antara
+
+kehidupan serta menjelas
+
+komponen biotik dan abiotik.
+
+kan peran masing-masing
+
+· Menjelaskan bahwa matahari adalah tingkatan tropik
+
+sumber energi utama bagi makhluk
+
+hidup.
+
+· Membedakan simbiosis, mutualisme,
+
+komensalisme, dan parasitisme serta
+
+memberikan contohnya.
+
+· Menjelaskan hubungan rantai makan
+
+an dan jaring-jaring kehidupan.
+
+· Membuat contoh diagram
+
+rantai makanan dan jaring-jaring
+
+kehidupan.
+
+Penilaian
+
+Alokasi Waktu
+
+Sumber Alat/ Bahan Belajar
+
+(6)
+· Jenis tagihan: - Tugas individu - Tugas kelompok
+· Bentuk instru men: - Uraian objektif - Laporan observasi
+
+(7)
+4 jam pelajaran
+
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Lingkungan Sekitar
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+Kegiatan Pembelajaran
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+Sumber Alat/ Bahan Belajar
+
+(1)
+
+(2)
+
+2. 7.2 Mengidentifikasi pentingnya keragaman makhluk hidup dalam pelesta rian ekosistem.
+
+3. 7.3 Memprediksi pengaruh kepa datan populasi manusia terha dap lingkungan.
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Keanekaragaman Makhluk Hidup dan Upaya Pelestariannya
+
+· Menjelaskan pengertian sumber daya alam hayati.
+· Menjelaskan pentingnya keaneka ragaman bagi kelestarian makhluk hidup.
+· Menjelaskan manfaat sumber daya alam hayati dalam bidang IPA dan lingkungan.
+· Menyebutkan usaha manusia dalam menjaga kelestarian sumber daya alam hayati.
+
+· Mengemukakan pentingnya membudidayakan tumbuhan /hewan langka.
+· Mendeskripsikan usahausaha yang dapat dilakukan manusia untuk pelestarian ekosistem.
+
+· Jenis tagihan: - Unjuk kerja - Tugas individu
+· Bentuk objektif - Uraian singkat - Laporan kerja praktik
+
+6 jam pelajaran
+
+Pengaruh Kepa datan Populasi Manusia terhadap Lingkungan
+
+· Menjelaskan sifat saling ketergantung an untuk memperkirakan pengaruh kepadatan populasi manusia terha dap lingkungan.
+· Menjelaskan sejarah pertumbuhan penduduk Indonesia.
+· Menyimpulkan faktor-faktor yang memengaruhi dinamika penduduk.
+· Menghitung angka pertambahan penduduk.
+· Menjelaskan pengaruh kepadatan populasi manusia terhadap persedia an udara dan air bersih.
+· Menjelaskan pengaruh kepadatan populasi manusia terhadap kebutuh an lahan pertanian.
+· Menjelaskan pengaruh kepadatan populasi manusia terhadap keru sakan lingkungan.
+
+· Memperkirakan hubungan ukuran populasi penduduk dengan kebutuhan air bersih dan udara bersih.
+· Memperkirakan hubungan ukuran populasi penduduk dengan kebutuhan pangan.
+· Memperkirakan hubungan ukuran populasi penduduk dengan ketersediaan lahan.
+· Menjelaskan pengaruh peningkatan populasi pen duduk terhadap kerusakan lingkungan.
+
+· Jenis tagihan: - Pertanyaan lisan - Ulangan harian
+· Bentuk objektif - Uraian objektif - Pilihan ganda
+
+4 jam pelajaran
+
+(8) · Buku Eksplo-
+rasi Ilmu Alam 1, Tiga Serangkai · Lingkungan Sekitar
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Lingkungan sekitar
+
+RPP Eksplorasi Alam SMP 1
+
+13
+
+14
+
+RPP Eksplorasi Alam SMP 1
+
+No. Kompetensi Dasar
+
+Materi Pembelajaran
+
+(1)
+
+(2)
+
+(3)
+
+4. 7.4 Mengaplikasikan Peranan peran manusia Manusia dalam dalam pengelo Pengelolaan laan lingkungan Lingkungan untuk mengatasi pencemaran dan kerusakan lingkungan.
+
+Kegiatan Pembelajaran
+(4)
+· Menyebutkan akibat dari pene bangan hutan secara liar.
+· Mengusulkan upaya-upaya untuk mencegah penebangan hutan secara liar.
+· Menjelaskan penyebab dan efek polusi air serta tanah.
+· Menjelaskan penyebab efek polusi udara.
+· Mengusulkan penanggulangan pencemaran secara administratif.
+· Menyebutkan contoh peran individu dan masyarakat dalam mencegah pencemaran lingkungan.
+
+Indikator
+
+Penilaian
+
+Alokasi Waktu
+
+(5)
+
+(6)
+
+· Menjelaskan konsekuensi penebangan hutan dan pengaruhnya terhadap kerusakan lingkungan (misalnya, kondisi tanah dan keanekaragaman hayati) serta upaya mengatasinya.
+· Menjelaskan pengaruh pencemaran air, udara, dan tanah, kaitannya dengan aktivitas manusia serta cara mengatasinya
+· Mengusulkan cara penang gulangan pencemaran dan kerusakan lingkungan.
+
+· Jenis tagihan: - Tugas individu - Unjuk kerja
+· Bentuk instru men: - Uraian objektif - Pilihan ganda - Portofolio
+
+(7)
+4 jam pelajaran
+
+Sumber Alat/ Bahan Belajar
+(8)
+· Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+· Lingkungan sekitar
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ............................... Guru IPA
+
+(________________) NIP. ........................
+
+(________________) NIP. ........................
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 1
+
+Alokasi Waktu : 2 jam pelajaran
+
+Standar Kompetensi : 1. Memahami prosedur ilmiah untuk mempelajari benda-
+
+benda alam dengan menggunakan peralatan.
+
+Kompetensi Dasar : 1.1 Mendeskripsikan besaran pokok dan besaran turunan
+
+beserta satuannya.
+
+Indikator
+
+: · Mengidentifikasi besaran-besaran fisika dalam kehidupan
+
+sehari-hari dan mengelompokkannya ke dalam besaran
+
+pokok dan turunan.
+
+· Menggunakan satuan sistem internasional dalam pengu-
+
+kuran.
+
+· Mengonversi satuan panjang, massa, dan waktu secara
+
+sederhana.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mengidentifikasi besaran-besaran fisika; · mengelompokkan besaran fisika ke dalam besaran pokok dan besaran turunan; · menggunakan satuan internasional dalam pengukuran; · mengonversi satuan panjang, massa, dan waktu.
+
+II. Materi Pembelajaran Besaran Pokok dan Besaran Turunan
+
+III. Metode Pembelajaran 1. Demonstrasi 2. Diskusi 3. Tanya jawab
+
+IV. Langkah-Langkah Pembelajaran
+Kegiatan Awal Guru membuka pelajaran dan diteruskan dengan tanya jawab untuk menjelas kan pengertian mengenai besaran dan satuan.
+Kegiatan Inti · Melakukan diskusi kelas untuk menyebutkan besaran-besaran fisika dan
+mengelompokkannya ke dalam besaran pokok dan besaran turunan.
+
+RPP Eksplorasi Alam SMP 1
+
+15
+
+· Melakukan diskusi kelas untuk menggunakan satuan fisika dalam sistem internasional.
+· Melakukan tanya jawab untuk mengonversi satuan dari besaran-besaran panjang, massa, dan waktu.
+· Melakukan diskusi kelompok untuk memecahkan permasalahan yang terkait dengan besaran dan satuan.
+· Mengadakan kuis tertulis dengan cara lisan untuk mengetahui pemahaman materi yang telah dipelajari.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada materi Besaran Pokok dan Besaran Turunan, dilanjutkankan dengan memberi tugas mandiri dan menganjurkan kepada siswa untuk membaca dan memahami materi berikutnya.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Macam-macam alat ukur panjang, termometer, dan macam-macam neraca.
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai.
+Sarana/Media OHP, papan tulis, chart, dan model.
+VI. Penilaian · Pengamatan: keaktifan siswa berinteraksi dalam proses pembelajaran, menjawab pertanyaan proses tanya jawab/diskusi. · Pengamatan: sikap, minat, dan tingkah laku siswa. · Tugas
+Catatan Jawaban dapat langsung dikoreksi oleh teman sebangku, kemudian nilai dapat langsung dimasukkan dalam daftar nilai dengan cara menyebutkan nilai secara lisan.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+16
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 2
+
+Alokasi Waktu : 2 jam pelajaran
+
+Standar Kompetensi : 1. Memahami prosedur ilmiah untuk mempelajari benda-
+
+benda di alam dengan menggunakan peralatan.
+
+Kompetensi Dasar : 1.2 Mendeskripsikan pengertian suhu dan pengukurannya.
+
+Indikator
+
+: · Menjelaskan pengertian suhu.
+
+· Membuktikan dan menjelaskan bahwa indra peraba tidak
+
+dapat digunakan sebagai alat pengukur suhu dengan
+
+tepat.
+
+· Mengamati dan menggunakan termometer untuk meng
+
+ukur suhu zat (gas, cair, dan padat).
+
+· Membandingkan skala termometer Celsius dengan skala
+
+yang lain (Fahrenheit, Reamur, dan Kelvin).
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mendeskripsikan pengertian suhu; · mengemukakan alasan mengapa indra peraba tidak dapat digunakan sebagai alat pengukur suhu; · menggunakan termometer untuk mengukur suhu zat; · membandingkan skala termometer Celsius dengan skala termometer yang lain.
+
+II. Materi Pembelajaran Suhu dan Pengukurannya
+
+III. Metode Pembelajaran 1. Demonstrasi 2. Diskusi 3. Tanya jawab
+
+IV. Langkah-Langkah Pembelajaran
+Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan pemberian kuis tertulis tentang pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+
+RPP Eksplorasi Alam SMP 1
+
+17
+
+Kegiatan Inti · Mengamati demonstrasi cara menggunakan termometer untuk mengukur
+suhu suatu zat (gas, cair, padat) yang disertai dengan tanya jawab. · Melakukan tanya jawab tentang macam-macam termometer dan penggu-
+naannya. · Melakukan diskusi kelas untuk membandingkan skala termometer Celcius
+dengan termometer Fahrenheit dan Reamur. · Melakukan diskusi kelompok memecahkan masalah yang berkaitan dengan
+suhu dan pengukuran. · Mengadakan kuis tertulis yang disampaikan secara lisan.
+Kegiatan Akhir Dengan cara tanya jawab, guru mengarahkan kepada siswa untuk menyimpul kan dan memberi penekanan pada materi Suhu dan Pengukurannya dan dilanjutkan dengan memberi tugas mandiri serta saran untuk membaca dan memahami materi berikutnya.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Macam-macam termometer, pemanas, gelas beker, air, kaki tiga, dan kasa.
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, dan model
+VI. Penilaian · Kuis · Pengamatan: keaktifan siswa dalam menjawab pertanyaan dalam proses tanya jawab/diskusi. · Pengamatan: sikap, minat, dan tingkah laku siswa dalam kegiatan pembelajaran. · Tugas
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+18
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 3
+
+Alokasi Waktu : 2 jam pelajaran
+
+Standar Kompetensi : 1. Memahami prosedur ilmiah untuk mempelajari benda-
+
+benda di alam dengan menggunakan peralatan.
+
+Kompetensi Dasar : 1.2 Mendeskripsikan pengertian suhu dan pengukurannya.
+
+Indikator
+
+: Membuat termometer sederhana berskala berdasarkan sifat
+
+perubahan volume.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · membuat termometer sederhana berskala berdasarkan sifat perubahan volume.
+
+II. Materi Pembelajaran Suhu dan Pengukurannya
+
+III. Metode Pembelajaran Eksperimen dan diskusi
+
+IV. Langkah-Langkah Pembelajaran
+Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab tentang suhu dan pengukuran. Kemudian memberikan pretest sebelum melakukan eksperimen.
+Kegiatan Inti · Guru memberikan pengarahan mengenai keselamatan kerja dan tata cara
+bekerja dalam laboratorium. · Melakukan eksperimen/percobaan cara membuat termometer sederhana
+berdasarkan sifat perubahan volume. · Mempresentasikan hasil percobaan kelompok di depan kelas dan diteruskan
+dengan diskusi kelas. · Siswa membuat kesimpulan dan laporan dari hasil percobaan.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada hasil percobaan yang dilakukan siswa dan dilanjutkan dengan pemberian tugas membaca dan memahami materi berikutnya.
+
+RPP Eksplorasi Alam SMP 1
+
+19
+
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Gelas labu, sumbat karet, pipa kaca, termometer, air, pemanas, kaki tiga, kasa, dan penggaris.
+Sumber Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Peralatan laboratorium dan OHP
+VI. Penilaian · Pengamatan: kinerja keterampilan siswa dalam melakukan percobaan. · Pengamatan: sikap, minat, dan tingkah laku siswa di dalam laboratorium. · Laporan hasil percobaan. · Tugas
+Contoh Soal Pretest 1. Termometer dibuat berdasarkan konsep pemuaian zat cair, benar atau sa-
+lah? 2. Tiap termometer memiliki titik tetap bawah dan titik tetap atas yang sama,
+benar atau salah? 3. Termometer Celsius, Fahrenheit, dan Reamur menjadikan es mencair sebagai
+titik tetap bawah, benar atau salah? 4. Perbandingan skala antara termometer Celsius, Reamur, dan Fahrenheit
+adalah ....
+Jawaban Pretest 1. Betul 2. Tidak 3. Tidak 4. 5: 4 : 9
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+20
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 4
+
+Alokasi Waktu : 2 jam pelajaran
+
+Standar Kompetensi : 1. Memahami prosedur ilmiah untuk mempelajari benda-
+
+benda alam dengan menggunakan peralatan.
+
+Kompetensi Dasar : 1.3 Melakukan pengukuran dasar secara teliti dengan meng-
+
+gunakan alat ukur yang sesuai dan sering digunakan
+
+dalam kehidupan sehari-hari.
+
+Indikator
+
+: Melakukan pengukuran dasar dengan teliti menggunakan alat
+
+ukur yang sering digunakan dalam kehidupan sehari-hari.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mengukur panjang benda dengan menggunakan alat ukur yang sesuai; · menggunakan jangka sorong dan mikrometer sekrup sebagai alat ukur panjang dan dapat membaca skala hasil pengukuran; · menggunakan dan menjelaskan manfaat alat ukur massa yang sering digunakan dalam kehidupan sehari-hari; · membaca alat ukur waktu dengan tepat.
+
+II. Materi Pembelajaran Pengukuran Besaran Fisika
+
+III. Metode Pembelajaran 1. Demonstrasi 2. Diskusi 3. Tanya jawab
+
+IV. Langkah-Langkah Pembelajaran
+Kegiatan Awal Guru membuka pelajaran dan diteruskan dengan pemberian kuis tertulis tentang pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan pengukuran panjang dengan macam-macam alat ukur panjang. · Menggunakan alat ukur waktu. · Mengamati demonstrasi cara menggunakan jangka sorong dan mikrometer
+sekrup.
+
+RPP Eksplorasi Alam SMP 1
+
+21
+
+· Mengamati demonstrasi membaca skala nonius pada jangka sorong dengan bantuan model skala nonius besar, diteruskan melakukan pengukuran dengan alat jangka sorong.
+· Melakukan diskusi untuk menjelaskan jenis alat ukur yang sesuai digunakan dalam pengukuran sehari-hari.
+Kegiatan Akhir Guru memberikan kuis dan melakukan tanya jawab untuk menyimpulkan dan memberi penekanan pada materi Pengukuran Besaran Fisika dan dilanjutkan dengan pemberian tugas mandiri, tugas kelompok, dan tugas membaca serta memahami materi berikutnya.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Penggaris, rolmeter, jangka sorong, mikrometer sekrup, jam, dan stop-watch.
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, dan model
+VI. Penilaian · Kuis tertulis · Pengamatan: keaktifan siswa dalam menjawab pertanyaan pada saat proses tanya jawab/diskusi dan kinerja keterampilan dalam melakukan peragaan. · Pengamatan: sikap, minat, dan tingkah laku siswa dalam mengikuti proses pembelajaran di kelas. · Tugas
+Contoh Soal Kuis 1. Skala terkecil pada penggaris yang kamu gunakan adalah .... 2. Alat pengukur panjang yang mempunyai ketelitian sampai 0,1 mm adalah
+.... 3. Panjang skala nonius jangka sorong yang mempunyai ketelitian sampai 0,1
+mm adalah .... 4. Neraca yang dipergunakan untuk mengukur massa di laboratorium adalah
+.... 5. Untuk mengukur volume sebuah batu digunakan alat .... 6. Massa jenis adalah massa per satuan volume, betul atau salah? 7. Satuan massa jenis dalam SI adalah .... 8. Mikrometer sekrup mempunyai ketelitian sampai ....
+
+22
+
+RPP Eksplorasi Alam SMP 1
+
+Jawaban Kuis 1. 1 mm 2. jangka sorong 3. 0,9 mm 4. neraca lengan 5. gelas ukur 6. betul 7. kg/m3 8. 0,01 mm
+Mengetahui, Kepala Sekolah
+(___________________) NIP. ................................
+
+Dilaksanakan, ........................... Guru IPA
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+23
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 5 dan 6
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 2. Memahami klasifikasi zat.
+
+Kompetensi Dasar : 2.1 Mengelompokkan sifat larutan asam, larutan basa, dan
+
+larutan garam melalui indikator yang tepat.
+
+Indikator
+
+: · Mengidentifikasi sifat asam, basa, dan garam dengan
+
+menggunakan indikator yang sesuai di laboratorium dan
+
+alam.
+
+· Mengelompokkan bahan-bahan di lingkungan sekitar
+
+berdasarkan konsep asam, basa, dan garam.
+
+· Menguji macam-macam jenis larutan dengan larutan
+
+indikator.
+
+· Menggunakan alat sederhana untuk menentukan skala
+
+keasaman dan kebasaan.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · membedakan dan mengelompokkan antara larutan asam, larutan basa, dan larutan garam melalui indikator yang tepat; · menguji macam-macam larutan yang ada di lingkungan dengan larutan indikator; · menggunakan alat sederhana untuk menetukan skala keasaman dan kebasaan.
+
+II. Materi Pembelajaran Asam, Basa, dan Garam
+
+III. Metode Pembelajaran 1. Diskusi 2. Tanya jawab
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-5 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan menjelaskan dan memberikan gambaran singkat mengenai jenis-jenis larutan.
+
+24
+
+RPP Eksplorasi Alam SMP 1
+
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk mengidentifikasi larutan asam,
+basa, dan garam dengan menggunakan larutan indikator dan indikator alami. · Menjelaskan sifat-sifat asam, basa, dan garam. · Mengelompokkan beberapa larutan yang termasuk ke dalam larutan asam, basa, dan garam. · Melakukan diskusi dan tanya jawab serta mengerjakan soal-soal latihan.
+Kegiatan Akhir Dengan cara tanya jawab, guru mengarahkan kepada siswa untuk menyimpulkan dan memberi penekanan pada materi serta mengelompokkan jenis larutan termasuk pada larutan asam, larutan basa, atau, larutan garam.
+Pertemuan Ke-6 Kegiatan Awal Guru membuka pelajaran yang dilanjutkan dengan tanya jawab dan diskusi untuk mengingat kembali pelajaran pada pertemuan sebelumnya.
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk menentukan skala keasaman dan
+kebasaan. · Menjelaskan cara menentukan pH suatu larutan dengan menggunakan pH
+meter, larutan indikator, dan indikator universal. · Siswa mengerjakan latihan-latihan untuk mengetahui pemahaman konsep
+yang telah diberikan.
+Kegiatan Akhir Dengan cara tanya jawab, guru mengarahkan kepada siswa untuk menyimpulkan dan memberi penekanan pada materi yang telah dipelajari. Guru memberikan informasi pada pertemuan selanjutnya untuk melakukan percobaan terkait materi ini dan siswa dimohon untuk mempersiapkan diri dengan baik
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Kertas lakmus merah, kertas lakmus biru, gelas, arloji, pipet tetes, akuades, larutan cuka, air kapur, air sumur, air leding, air sabun, air abu, air jeruk, larut an asam klorida, larutan natrium hidroksida, alkohol, dan larutan gula.
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, charta, model
+
+RPP Eksplorasi Alam SMP 1
+
+25
+
+VI. Penilaian · Tugas dan latihan · Pengamatan: keaktifan siswa dalam menjawab pertanyaan proses tanya jawab/diskusi. · Pengamatan: sikap, minat, dan tingkah laku siswa dalam mengikuti kegiatan belajar mengajar di kelas.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+26
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 7 dan 8
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 2. Memahami klasifikasi zat.
+
+Kompetensi Dasar : 2.2 Melakukan percobaan sederhana dengan bahan-bahan
+
+yang diperoleh dalam kehidupan sehari-hari.
+
+Indikator
+
+: · Melakukan pengujian ekstrak kubis ungu untuk menen-
+
+tukan sifat-sifat bahan yang ada.
+
+· Memahami skala keasaman dan kebasaan.
+
+· Menentukan pH suatu larutan.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menguji ekstrak kubis ungu untuk menentukan sifat-sifat bahan yang ada; · menentukan skala keasaman dan kebasaan; · menentukan pH suatu larutan.
+
+II. Materi Pembelajaran · Asam, Basa, dan Garam · Penentuan Skala Keasaman dan Kebasaan
+
+III. Metode Pembelajaran 1. Percobaan 2. Diskusi 3. Tanya jawab
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-7 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan memberikan gambaran tentang percobaan untuk menguji ekstrak kubis ungu untuk menentukan sifat-sifat bahannya.
+Kegiatan Inti · Mengerjakan soal-soal kuis atau pretest. · Melakukan percobaan untuk menguji ekstrak kubis ungu. · Mencatat perubahan yang terjadi dari percobaan tersebut. · Menyimpulkan hasil percobaan. · Mengerjakan soal kuis atau postest.
+
+RPP Eksplorasi Alam SMP 1
+
+27
+
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan tahap percobaan untuk menguji larutan dengan menggunakan larutan indikator.
+Pertemuan Ke-8 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan memberikan penjelasan sing kat mengenai penentuan sifat keasaman dan kekebasan serta cara menentukan pH suatu larutan.
+Kegiatan Inti · Mengerjakan soal-soal kuis atau pretest. · Melakukan percobaan dan pengamatan untuk menentukan skala keasaman
+dan kebasaan. · Mencatat perubahan yang terjadi dari hasil pengamatan tersebut. · Menyimpulkan hasil pengamatan.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan hasil pengamatan dan bagai mana cara untuk menentukan pH suatu larutan.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Gelas kimia 100 mL, tabung reaksi, pipet tetes, air suling, larutan cuka, air kapur, kubis ungu, larutan tepung soda, larutan sabun, obat pencuci mata, larutan boraks, dan pH meter.
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, charta, model
+VI. Penilaian · Kuis tertulis. · Pengamatan: keaktifan siswa dalam menjawab pertanyaan saat proses tanya jawab/diskusi, dan kinerja keterampilan dalam percobaan. · Pengamatan: sikap, minat, dan tingkah laku siswa dalam laboratorium. · Laporan hasil percobaan.
+Contoh Soal Kuis 1. Apa yang dimaksud dengan larutan garam? 2. Sebutkan tiga alat atau bahan yang digunakan dalam percobaan! 3. Siapa orang yang mengemukakan teori asam basa? 4. Sebutkan alat untuk menentukan pH suatu larutan!
+
+28
+
+RPP Eksplorasi Alam SMP 1
+
+Jawaban Kuis 1. Larutan hasil dari reaksi larutan asam dan larutan basa. 2. Pipet tetes, kubis ungu, dan larutan boraks. 3. Svente Arrhenius. 4. pH meter.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+29
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 9 dan 10
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 2. Memahami klasifikasi zat.
+
+Kompetensi Dasar : 2.3 Menjelaskan nama unsur dan rumus kimia sederhana.
+
+Indikator
+
+: · Menjelaskan aturan penulisan lambang unsur.
+
+· Menuliskan nama dan lambang unsur.
+
+· Menuliskan nama dan rumus kimia sederhana.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menuliskan lambang unsur dan rumus kimia sederhana sesuai dengan aturan penulisan lambang unsur; · mengetahui nama unsur yang ada melalui pedoman sistem periodik unsur.
+
+II. Materi Pembelajaran Unsur
+
+III. Metode Pembelajaran 1. Diskusi 2. Tanya jawab
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-9 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan memberikan penjelasan singkat mengenai nama-nama dan lambang unsur.
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk menjelaskan pengertian unsur. · Mengenal nama-nama unsur dan simbolnya melalui tabel periodik unsur. · Menjelaskan bagian-bagian yang terdapat dalam lambang unsur.
+Kegiatan Akhir Dengan cara tanya jawab, guru mengarahkan kepada siswa untuk menyimpulkan hasil belajar dalam mempelajari nama-nama dan lambang unsur.
+Pertemuan Ke-10 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan diskusi dan tanya jawab untuk mengingat kembali pelajaran pada pertemuan sebelumnya.
+
+30
+
+RPP Eksplorasi Alam SMP 1
+
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk menjelaskan bagian-bagian yang
+terdapat dalam lambang unsur, yaitu mengenai nomor atom, nomor massa, lambang unsur, dan nama unsur. · Memberikan nama dan lambang suatu unsur. · Menuliskan nama dan rumus kimia sederhana. · Melakukan tanya jawab dan mengerjakan soal-soal latihan.
+Kegiatan Akhir Dengan cara tanya jawab, guru mengarahkan kepada siswa untuk menyimpulkan hasil belajar dalam mempelajari unsur.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Sistem Periodik Unsur
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, charta, model
+VI. Penilaian · Pengamatan: keaktifan siswa dalam menjawab pertanyaan saat proses tanya jawab/diskusi, dan kinerja keterampilan. · Pengamatan: sikap, minat, dan tingkah laku siswa dalam kelas.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+31
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 11 dan 12
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 2. Memahami klasifikasi zat.
+
+Kompetensi Dasar : 2.4 Membandingkan sifat unsur, senyawa, dan campuran.
+
+Indikator
+
+: · Menjelaskan pengertian senyawa dan sifatnya.
+
+· Mengidentifikasi perbedaan senyawa dan campuran
+
+dengan melakukan percobaan.
+
+· Menggolongkan beberapa campuran dalam kehidupan se-
+
+hari-hari ke dalam campuran homogen dan heterogen.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menjelaskan pengertian senyawa dan sifatnya; · membandingkan sifat unsur, senyawa, dan campuran melalui pengamatan.
+
+II. Materi Pembelajaran
+
+· Senyawa
+
+· Campuran
+
+III. Metode Pembelajaran
+
+1. Diskusi
+
+3. Percobaan
+
+2. Tanya jawab
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-11 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab mengenai pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan dalam pertemuan ini.
+Kegiatan Inti · Melakukan diskusi untuk mendeskripsikan pengertian senyawa dan campuran. · Membandingkan sifat unsur, senyawa, dan campuran berdasarkan penga-
+matan. · Membuat bagan klasifikasi material secara sederhana. · Mengelompokkan beberapa campuran dalam kehidupan sehari-hari ke
+dalam campuran homogen dan heterogen.
+Kegiatan Akhir Dengan cara tanya jawab, guru mengarahkan kepada siswa untuk menyimpulkan hasil pembelajaran pada pertemuan ini.
+
+32
+
+RPP Eksplorasi Alam SMP 1
+
+Pertemuan Ke-12 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab mengenai pelajaran yang lalu dan kaitannya dengan percobaan yang akan dilakukan.
+Kegiatan Inti · Mengerjakan soal-soal kuis atau pretest. · Melakukan percobaan yang bertujuan untuk mengetahui perbedaan antara
+campuran homogen dan campuran heterogen. · Melakukan diskusi untuk mencatat dan menjelaskan hasil percobaan. · Membuat laporan hasil percobaan. · Mengerjakan soal postest.
+Kegiatan Akhir Guru mengakhiri kegiatan belajar mengajar dengan memberikan saran dan kesimpulan dalam melakukan percobaan di laboratorium dan penerapannya dalam kehidupan sehari-hari.
+V. Alat/Bahan/Sumber Belajar Alat/Bahan · Sistem Periodik Unsur · Gelas bekas air mineral, sendok, air, garam dapur, dan tanah
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, charta, model
+VI. Penilaian · Pengamatan: keaktifan siswa dalam menjawab pertanyaan saat proses tanya jawab/diskusi, dan kinerja keterampilan. · Pengamatan: sikap, minat, dan tingkah laku siswa dalam kelas atau laboratorium. · Tugas dan laporan.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+33
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 13 dan 14
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 2. Memahami klasifikasi zat.
+
+Kompetensi Dasar : 2.5 Menyelidiki sifat-sifat zat berdasarkan wujudnya dan
+
+penerapannya dalam kehidupan sehari-hari.
+
+Indikator
+
+: · Mengidentifikasi benda yang tergolong dalam zat padat,
+
+cair ataupun gas.
+
+· Menjelaskan perubahan wujud berdasarkan teori partikel
+
+zat.
+
+· Menyimpulkan perbedaan antara adhesi dan kohesi
+
+berdasarkan pengamatan yang dilakukan.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mengidentifikasi benda ke dalam zat padat, cair, dan gas; · menjelaskan mengenai wujud zat dan teori partikel; · membedakan kohesi dan adhesi serta memberikan gejala atau peristiwa yang berkaitan dengan adhesi dan kohesi dalam kehidupan sehari-hari.
+
+II. Materi Pembelajaran · Wujud Zat · Wujud Zat dan Teori Partikel
+
+· Adhesi dan Kohesi
+
+III. Metode Pembelajaran 1. Diskusi 2. Tanya jawab
+
+3. Percobaan
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-13 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab mengenai pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk mengidentifikasi wujud zat padat,
+cair, dan gas. · Mendeskripsikan wujud zat padat, cair, dan gas berdasarkan teori partikel. · Melakukan diskusi dan tanya jawab untuk membedakan pengertian dari
+adhesi dan kohesi.
+
+34
+
+RPP Eksplorasi Alam SMP 1
+
+· Menjelaskan beberapa peristiwa dalam kehidupan sehari-hari yang berkaitan dengan konsep adhesi dan kohesi.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan hasil yang dipelajari dari wujud zat dan teori partikel.
+Pertemuan Ke-14 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab mengenai pelajaran yang lalu dan kaitannya dengan percobaan yang akan dilakukan.
+Kegiatan Inti · Mengerjakan soal pretest. · Melakukan percobaan untuk mengamati perubahan wujud zat dan kapilaritas. · Membuat laporan hasil percobaan dan dipublikasikan dalam laboratorium. · Membuat kesimpulan dan laporan hasil percobaan.
+Kegiatan Akhir Guru mengakhiri kegiatan belajar mengajar dengan memberikan saran dan kesimpulan dalam melakukan percobaan di laboratorium dan penerapannya dalam kehidupan sehari-hari.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Es batu, gelas, pembakar spirtus, dan stop-watch
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, model
+VI. Penilaian · Pengamatan: keaktifan siswa dalam menjawab pertanyaan saat proses tanya jawab/diskusi, dan kinerja pengamatan. · Pengamatan: sikap, minat, dan tingkah laku siswa di kelas dan laboratorium. · Tugas dan hasil laporan percobaan.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+35
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 15 dan 16
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 2. Memahami klasifikasi zat.
+
+Kompetensi Dasar : 2.6 Mendeskripsikan konsep massa jenis dalam kehidupan
+
+sehari-hari.
+
+Indikator
+
+: · Mendefinisikan pengertian massa jenis zat.
+
+· Menentukan massa jenis suatu zat.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menjelaskan pengertian massa jenis zat; · menentukan dan menghitung massa jenis suatu zat; · menunjukkan hubungan massa dengan volume zat padat dan cair melalui percobaan.
+
+II. Materi Pembelajaran Massa Jenis Zat
+
+III. Metode Pembelajaran 1. Diskusi 2. Tanya jawab 3. Percobaan
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-15 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab untuk mengingat kembali pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk mendeskripsikan pengertian
+massa jenis suatu zat. · Membuktikan bahwa massa jenis merupakan salah satu ciri khas suatu zat. · Merumuskan massa jenis suatu zat. · Menentukan massa jenis suatu zat menggunakan konsep massa jenis untuk
+pemecahan masalah dalam kehidupan sehari-hari.
+
+36
+
+RPP Eksplorasi Alam SMP 1
+
+· Melakukan diskusi dan tanya jawab untuk menjelaskan manfaat konsep massa jenis dalam kehidupan sehari-hari.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan hasil yang dipelajari dari massa jenis zat.
+Pertemuan Ke-16 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab untuk mengi ngat kembali pelajaran yang lalu dan kaitannya dengan percobaan yang akan dilakukan.
+Kegiatan Inti · Mengerjakan soal-soal pretest. · Melakukan percobaan untuk menunjukkan hubungan antara massa dan
+volume zat padat dan volume zat cair. · Membuat kesimpulan dan hasil percobaan untuk dipresentasikan di hadapan
+teman-temannya. · Membuat laporan dan kesimpulan hasil percobaan. · Mengerjakan soal postest.
+Kegiatan Akhir Guru mengakhiri kegiatan belajar mengajar dengan memberikan saran dan kesimpulan dalam melakukan percobaan di laboratorium dan penerapannya dalam kehidupan sehari-hari.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Macam-macam logam berbentuk kubus, neraca lengan, gelas ukur dan air.
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, charta, model
+VI. Penilaian · Pengamatan: keaktifan siswa dalam menjawab pertanyaan saat proses tanya jawab/diskusi, dan kinerja keterampilan. · Pengamatan: sikap, minat, dan tingkah laku siswa dalam kelas dan laboratorium. · Tugas dan laporan hasil percobaan.
+
+RPP Eksplorasi Alam SMP 1
+
+37
+
+Mengetahui, Kepala Sekolah
+(___________________) NIP. ................................
+
+Dilaksanakan, ........................... Guru IPA
+(___________________) NIP. ................................
+
+38
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 17 ­ 19
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 3. Memahami wujud zat dan perubahannya.
+
+Kompetensi Dasar : 3.1 Melakukan percobaan yang berkaitan dengan pemuaian
+
+dalam kehidupan sehari-hari.
+
+Indikator
+
+: · Menyelidiki proses pemuaian zat padat, cair, dan gas.
+
+· Menunjukkan pemuaian zat padat, cair, dan gas.
+
+· Melakukan penyelidikan terhadap perbedaan muai volu
+
+me berbagai jenis zat cair.
+
+· Menunjukkan prinsip pemuaian dalam teknologi, misal-
+
+nya bimetal untuk termostat, pengelingan, pemasangan
+
+bingkai besi pada roda, dan pemasangan kaca.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menyelidiki proses pemuaian zat padat, cair, dan gas; · menunjukkan pemuaian zat cair dan zat padat; · melakukan penyelidikan terhadap perbedaan muai volume berbagai jenis zat cair; · menunjukkan prinsip pemuaian dalam teknologi.
+
+II. Materi Pembelajaran Pemuaian Zat
+
+III. Metode Pembelajaran 1. Eksperimen 2. Diskusi 3. Tanya jawab
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-17 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab untuk mengingat kembali pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk menjelaskan konsep pemuaian.
+
+RPP Eksplorasi Alam SMP 1
+
+39
+
+· Melakukan diskusi untuk menjelaskan pemuaian pada zat padat. · Merumuskan pemuaian zat padat, yaitu pemuaian panjang, luas, dan volume
+(ruang). · Mengerjakan soal-soal yang berkaitan dengan pemuaian zat padat. · Menjelaskan berbagai masalah yang muncul akibat adanya pemuaian zat
+padat. · Menjelaskan berbagai manfaat yang diakibatkan oleh pemuaian zat padat.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan konsep pada pemuaian zat padat dan dilanjutkan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+Pertemuan Ke-18 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab untuk mengingat kembali pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk menjelaskan pemuaian pada zat
+cair. · Menjelaskan anomali air. · Menjelaskan berbagai masalah yang muncul akibat adanya pemuaian zat
+cair. · Menjelaskan berbagai manfaat yang diakibatkan oleh pemuaian zat cair. · Melakukan diskusi dan tanya jawab untuk menjelaskan pemuaian gas. · Membedakan konsep pemuaian yang terjadi pada zat padat, zat cair, dan
+gas.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan konsep pada pemuaian zat cair dan gas serta dilanjutkan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+Pertemuan Ke-19 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab untuk meng ingat kembali pelajaran yang lalu dan kaitannya dengan percobaan yang akan dilakukan.
+Kegiatan Inti · Mengerjakan soal-soal pretest. · Melakukan percobaan untuk megamati pemuaian pada zat cair.
+
+40
+
+RPP Eksplorasi Alam SMP 1
+
+· Melakukan percobaan untuk memahami prinsip kerja termometer. · Melakukan diskusi kelompok untuk meyimpulkan percobaan yang telah
+dilakukan. · Mempresentasikan hasil percobaan. · Membuat laporan hasil percobaan.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan konsep pada pemuaian zat padat, zat cair, dan gas serta dilanjutkan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Alat muai panjang, air berwarna, labu didih, pipa kaca, kertas berskala, labu Erlenmeyer, dan pemanas
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP dan peralatan laboratorium
+VI. Penilaian · Pengamatan: kinerja dalam melakukan percobaan. · Pengamatan: sikap, minat, dan tingkah laku siswa dalam mengikuti proses pembelajaran. · Tugas dan laporan hasil percobaan.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+41
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 20 ­ 24
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 3. Memahami wujud zat dan perubahannya.
+
+Kompetensi Dasar : 3.2 Mendeskripsikan peran kalor dalam mengubah wujud
+
+zat dan suhu suatu benda serta penerapannya dalam
+
+kehidupan sehari-hari
+
+Indikator
+
+: · Mendeskripsikan pengertian kalor.
+
+· Menyelidiki hubungan antara kalor dan perubahan
+
+suhu.
+
+· Mendeskripsikan dan mengamati asas Black.
+
+· Menyelidiki hubungan antara kalor dan perubahan wujud
+
+zat.
+
+· Menjelaskan terjadinya perpindahan kalor secara konduk-
+
+si, konveksi, dan radiasi dalam kehidupan sehari-hari.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menyelidiki pengaruh kalor terhadap perubahan suhu benda dan perubahan wujud zat; · menyelidiki faktor-faktor yang dapat mempercepat penguapan, banyaknya kalor yang diperlukan untuk menaikkan suhu zat, dan kalor yang dibutuhkan pada saat mendidih dan melebur; · menerapkan hubungan Q = mcDT, Q = mu, dan Q = mL untuk menyelesaikan masalah sederhana; · merancang dan membuat peralatan sederhana yang memanfaatkan prinsip kalor; · menyelidiki perpindahan kalor secara konduksi (untuk zat padat), konveksi untuk zat cair dan gas), dan radiasi.
+
+II. Materi Pembelajaran Kalor
+
+III. Metode Pembelajaran 1. Informasi/ceramah 2. Demonstrasi 3. Diskusi dan tanya jawab 4. Eksperimen
+
+42
+
+RPP Eksplorasi Alam SMP 1
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-20 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan pemberian kuis tertulis yang disampaikan secara lisan tentang pelajaran yang lalu dan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan diskusi untuk mendeskripsikan pengertian kalor. · Mengamati dan menunjukkan bahwa kalor merupakan bentuk energi. · Menyelidiki pengaruh kalor terhadap suhu suatu benda dan merumuskannya
+dalam bentuk matematika.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada materi yang telah dipelajari, dan diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+Pertemuan Ke-21 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab tentang pel ajaran yang lalu dan pelajaran yang akan diberikan.
+Kegiatan Inti · Menunjukkan dan mendeskripsikan asas Balck. · Menyelidiki dan mengamati perubahan wujud suatu zat karena pengaruh ka
+lor, misalnya melebur, menguap, mengembun, membeku, dan menyublim. · Melakukan diskusi untuk mengetahui perubahan wujud zat yang melepaskan
+kalor dan yang menerima kalor.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada materi ini, dan diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+Pertemuan Ke-22 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab tentang pel ajaran yang lalu dan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan diskusi dan tanya jawab untuk mendeskripsikan kalor laten. · Melakukan diskusi kelompok untuk menjelaskan perpindahan kalor secara
+konduksi, konveksi, dan radiasi.
+
+RPP Eksplorasi Alam SMP 1
+
+43
+
+· Menjelaskan beberapa peralatan rumah tangga yang berkaitan dengan konsep perpindahan kalor secara konduksi, konveksi, dan radiasi.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada materi yang telah dipelajari, dan diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+Pertemuan Ke-23 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab tentang pel ajaran yang lalu dan percobaan yang akan dilakukan.
+Kegiatan Inti · Mengerjakan soal-soal pretest. · Melakukan percobaan untuk mengamati pengaruh kalor terhadap suhu
+benda. · Melakukan percobaan untuk menunjukkan asas Black. · Melakukan percobaan untuk mengamati perubahan wujud suatu benda dan
+menyelidiki hubungan antara melebur dan membeku. · Membuat laporan hasil percobaan dan menyimpulkannya. · Mengerjakan soal-soal postest.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada percobaan yang telah dilakukan, dan diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami percobaan berikutnya.
+Pertemuan Ke-24 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan tanya jawab tentang percobaan yang lalu dan percobaan yang akan dilakukan.
+Kegiatan Inti · Mengerjakan soal-soal pretest. · Melakukan percobaan untuk membandingkan daya hantar beberapa zat
+padat. · Melakukan percobaan untuk menyelidiki daya hantar air dan udara terhadap
+kalor. · Melakukan percobaan untuk menyelidiki konveksi dalam zat cair. · Membuat laporan percobaan dan kesimpulan. · Mengerjakan soal-soal postest.
+
+44
+
+RPP Eksplorasi Alam SMP 1
+
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada percobaan yang telah dilakukan, dan diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Air, beker gelas, pembakar spiritus, kalorimeter, neraca, es batu, lilin, batang besi, batang aluminium, batang kaca, tabung reaksi, penjepit, termometer, dan stop-watch
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, model
+VI. Penilaian · Kuis, pretest, dan postest. · Pengamatan: keaktifan siswa dalam mengikuti proses pembelajaran. · Pengamatan: sikap dan minat belajar siswa dalam kelas atau laboratorium. · Tugas dan laporan.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+45
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 25 ­ 27
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 4. Memahami berbagai sifat dalam perubahan fisika dan
+
+kimia.
+
+Kompetensi Dasar : 4.1 Membandingkan sifat-sifat fisika dan sifat kimia zat.
+
+Indikator
+
+: · Menjelaskan perbedaan sifat fisika dan kimia zat.
+
+· Menyebutkan manfaat sifat fisika zat dalam kehidupan
+
+sehari-hari.
+
+· Menyebutkan manfaat sifat kimia zat dalam kehidupan
+
+sehari-hari.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menjelaskan perbedaan sifat fisika dan kimia zat; · menyebutkan manfaat sifat fisika zat dalam kehidupan sehari-hari; · menyebutkan manfaat sifat kimia zat dalam kehidupan sehari-hari.
+
+II. Materi Pokok Sifat Fisika dan Kimia Zat
+
+III. Metode Pembelajaran 1. Diskusi 2. Tanya jawab 3. Eksperimen
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-25 Kegiatan Awal Guru memberi apersepsi tentang perbedaan antara sifat-sifat fisika dan kimia.
+Kegiatan Inti · Guru mengelompokkan siswa. · Siswa diminta menjelaskan perbedaan antara sifat-sifat fisika dan kimia. · Setiap kelompok siswa mengadakan observasi untuk menemukan perbedaan
+antara sifat-sifat fisika dan kimia sebanyak-banyaknya. · Guru menunjuk perwakilan siswa untuk mempresentasikan hasil temuannya
+tentang perbedaan antara sifat-sifat fisika dan kimia sebanyak-banyaknya.
+
+46
+
+RPP Eksplorasi Alam SMP 1
+
+· Siswa diminta mendiskusikan perbedaan antara sifat-sifat fisika dan kimia sebanyak-banyaknya.
+Kegiatan Akhir Guru membimbing siswa untuk membuat kesimpulan tentang perbedaan antara sifat-sifat fisika dan kimia.
+Pertemuan Ke-26 Kegiatan Awal Guru memberi apersepsi bahwa titik didih dipengaruhi tekanan udara di atas nya. Kegiatan Inti · Guru mengelompokkan siswa. · Siswa membaca uraian pada buku tentang langkah-langkah kerja ilmiah,
+kemudian menuliskan ide pokok tentang metode ilmiah. · Siswa diminta menyusun gambar yang telah dipersiapkan guru sesuai dengan
+langkah-langkah kerja ilmiah. · Siswa diminta melakukan percobaan sederhana yang mengikuti metode
+ilmiah. · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan.
+Pertemuan Ke-27 Kegiatan Awal Guru memberi apersepsi bahwa kenaikan suhu terhadap kelarutan zat.
+Kegiatan Inti · Guru mengelompokkan siswa. · Siswa membaca uraian pada buku tentang langkah-langkah kerja ilmiah,
+kemudian menuliskan ide pokok tentang metode ilmiah. · Siswa diminta menyusun gambar yang telah dipersiapkan guru sesuai dengan
+langkah-langkah kerja ilmiah. · Siswa diminta melakukan percobaan sederhana yang mengikuti metode
+ilmiah. · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan.
+
+RPP Eksplorasi Alam SMP 1
+
+47
+
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Gelas, pengaduk, air panas, air leding, es, garam dapur, tabung reaksi, termometer, gelas labu, sumbat karet, pipa kaca, selang karet, pompa, air, dan pemanas
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, model
+VI. Penilaian · Kuis · Pengamatan: keaktifan siswa dalam mengikuti proses pembelajaran. · Pengamatan: sikap dan minat belajar siswa dalam kelas atau laboratorium. · Tugas dan laporan.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+48
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 28 ­ 30
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 4. Memahami berbagai sifat dalam perubahan fisika dan
+
+kimia.
+
+Kompetensi Dasar : 4.2 Melakukan pemisahan campuran dengan berbagai cara
+
+berdasarkan sifat fisika dan sifat kimia.
+
+Indikator
+
+: · Melakukan pemisahan campuran berdasarkan sifat-sifat
+
+fisika.
+
+· Melakukan pemisahan campuran berdasarkan sifat-sifat
+
+kimia.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menjelaskan dasar pemisahan campuran berdasarkan ukuran partikel dan titik didih; · melakukan percobaan penjernihan air dengan teknik sederhana; · melakukan percobaan untuk memisahkan campuran sesuai dengan metode yang dipilih, antara lain penyaringan, distilasi, penguapan, dan sublimasi; · melakukan percobaan untuk memisahkan campuran berdasarkan sifat kimia.
+
+II. Materi Pokok Pemisahan Campuran
+
+III. Metode Pembelajaran 1. Diskusi 2. Tanya jawab 3. Eksperimen
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-28 Kegiatan Awal Guru memberi apersepsi tentang cara memisahkan campuran berdasarkan sifat fisika.
+Kegiatan Inti · Guru mengelompokkan siswa. · Setiap kelompok siswa mengadakan observasi untuk menemukan cara
+memisahkan campuran berdasarkan sifat fisika.
+
+RPP Eksplorasi Alam SMP 1
+
+49
+
+· Guru menunjuk perwakilan siswa untuk mempresentasikan hasil temuannya tentang cara memisahkan campuran berdasarkan sifat fisika.
+· Siswa diminta mendiskusikan hasil temuannya dengan kelompok lain.
+Kegiatan Akhir Guru membimbing siswa untuk membuat kesimpulan tentang cara memisah kan campuran berdasarkan sifat fisika.
+Pertemuan Ke-29 Kegiatan Awal Guru memberi apersepsi tentang cara memisahkan campuran berdasarkan sifat kimia.
+Kegiatan Inti · Guru mengelompokkan siswa. · Setiap kelompok siswa mengadakan observasi untuk menemukan cara
+memisahkan campuran berdasarkan sifat kimia. · Guru menunjuk perwakilan siswa untuk mempresentasikan hasil temuannya
+tentang cara memisahkan campuran berdasarkan sifat kimia. · Siswa diminta mendiskusikan hasil temuannya dengan kelompok lain.
+Kegiatan Akhir Guru membimbing siswa untuk membuat kesimpulan tentang cara memisah kan campuran berdasarkan sifat kimia.
+Pertemuan Ke-30 Kegiatan Awal Guru memberikan informasi bahwa akan segera diadakan ulangan harian.
+Kegiatan Inti · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan harian.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Air sungai atau selokan, gelas, pengaduk, satu set alat penyaring sederhana
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, model
+
+50
+
+RPP Eksplorasi Alam SMP 1
+
+VI. Penilaian · Kuis · Pengamatan: keaktifan siswa dalam mengikuti proses pembelajaran. · Pengamatan: sikap dan minat belajar siswa dalam kelas atau laboratorium. · Ulangan
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+51
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 31 ­ 33
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 4. Memahami berbagai sifat dalam perubahan fisika dan
+
+kimia.
+
+Kompetensi Dasar : 4.3 Menyimpulkan perubahan fisika dan kimia berdasarkan
+
+hasil percobaan sederhana.
+
+Indikator
+
+: · Membedakan perbedaan antara perubahan fisika dan
+
+kimia.
+
+· Melakukan percobaan untuk mengetahui perubahan fisika
+
+dan perubahan kimia.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · membandingkan hasil pengamatan perubahan fisika dan perubahan kimia; · mengklasifikasikan perubahan fisika dan perubahan kimia dalam kehidupan sehari-hari dan mengomunikasikannya.
+
+II. Materi Pokok Perubahan Fisika dan Perubahan Kimia
+
+III. Metode Pembelajaran 1. Diskusi 2. Tanya jawab 3. Eksperimen
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-31 Kegiatan Awal Guru memberi apersepsi tentang cara memisahkan campuran berdasarkan sifat fisika.
+Kegiatan Inti · Guru mengelompokkan siswa. · Setiap kelompok siswa mengadakan percobaan untuk mengetahui perubah
+an fisika. · Guru menunjuk perwakilan siswa untuk mempresentasikan hasil temuannya
+tentang perubahan fisika. · Siswa diminta mendiskusikan hasil temuannya dengan kelompok lain.
+
+52
+
+RPP Eksplorasi Alam SMP 1
+
+Kegiatan Akhir Guru membimbing siswa untuk membuat kesimpulan tentang perubahan fisika.
+Pertemuan Ke-32 Kegiatan Awal Guru memberi apersepsi tentang cara memisahkan campuran berdasarkan sifat kimia.
+Kegiatan Inti · Guru mengelompokkan siswa. · Setiap kelompok siswa mengadakan percobaan untuk mengetahui perubah
+an kimia. · Guru menunjuk perwakilan siswa untuk mempresentasikan hasil temuannya
+tentang perubahan kimia. · Siswa diminta mendiskusikan hasil temuannya dengan kelompok lain.
+Kegiatan Akhir Guru membimbing siswa untuk membuat kesimpulan tentang perubahan kimia.
+Pertemuan Ke-33 Kegiatan Awal Guru memberikan informasi bahwa akan segera diadakan ulangan harian.
+Kegiatan Inti · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan harian.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Lilin, korek api, pita magnesium, gelas kimia, tabung reaksi, dan pemanas
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, model
+VI. Penilaian · Tugas · Pengamatan: keaktifan siswa dalam mengikuti proses pembelajaran. · Pengamatan: sikap dan minat belajar siswa dalam kelas atau laboratorium. · Ulangan
+
+RPP Eksplorasi Alam SMP 1
+
+53
+
+Mengetahui, Kepala Sekolah
+(___________________) NIP. ................................
+
+Dilaksanakan, ........................... Guru IPA
+(___________________) NIP. ................................
+
+54
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/1
+
+Pertemuan Ke- : 34 ­ 36
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 4. Memahami berbagai sifat dalam perubahan fisika dan
+
+kimia.
+
+Kompetensi Dasar : 4.4 Mengidentifikasi terjadinya reaksi kimia melalui per-
+
+cobaan sederhana.
+
+Indikator
+
+: · Menjelaskan terjadinya reaksi kimia dan menuliskan
+
+persamaan rekasi kimia.
+
+· Menganalisis ciri-ciri terjadinya reaksi kimia.
+
+· Melakukan percobaan untuk mempercepat rekasi ki
+
+mia.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mereaksikan dua zat untuk menunjukkan perubahan warna dan atau perubahan suhu serta terbentuk endapan dan atau gas; · menyimpulkan ciri-ciri terjadinya reaksi kimia berdasarkan perubahan warna dan atau suhu serta terbentuk endapan dan atau gas; · menjelaskan pengaruh ukuran materi terhadap kecepatan reaksi; · menjelaskan pengaruh perubahan suhu terhadap kecepatan reaksi.
+
+II. Materi Pokok Reaksi Kimia
+
+III. Metode Pembelajaran 1. Diskusi 2. Tanya jawab 3. Eksperimen
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-34
+Kegiatan Awal Guru memberi apersepsi tentang persamaan reaksi kimia.
+Kegiatan Inti · Guru mengelompokkan siswa. · Setiap kelompok siswa mempelajari persamaan reaksi kimia.
+
+RPP Eksplorasi Alam SMP 1
+
+55
+
+· Guru menunjuk perwakilan siswa untuk mempresentasikan hasil temuannya tentang persamaan reaksi kimia.
+· Siswa diminta mendiskusikan hasil temuannya dengan kelompok lain.
+Kegiatan Akhir Guru membimbing siswa untuk membuat kesimpulan tentang persamaan reaksi kimia.
+Pertemuan Ke-35 Kegiatan Awal Guru memberi apersepsi tentang ciri-ciri reaksi kimia dan kecepatan reaksi kimia.
+Kegiatan Inti · Guru mengelompokkan siswa. · Setiap kelompok siswa mempelajari ciri-ciri reaksi kimia dan kecepatan
+reaksi kimia. · Guru menunjuk perwakilan siswa untuk mempresentasikan hasil temuannya
+tentang ciri-ciri reaksi kimia dan kecepatan reaksi kimia. · Siswa diminta mendiskusikan hasil temuannya dengan kelompok lain.
+Kegiatan Akhir Guru membimbing siswa untuk membuat kesimpulan tentang tentang ciri-ciri reaksi kimia dan kecepatan reaksi kimia.
+Pertemuan Ke-36 Kegiatan Awal Guru memberikan informasi bahwa akan segera diadakan ulangan harian.
+Kegiatan Inti · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian. Kegiatan Akhir Guru mengumpulkan hasil ulangan harian.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Gelas kimia, larutan Pb(NO ) , larutan KI, air, dan karbit
+32
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, model
+
+56
+
+RPP Eksplorasi Alam SMP 1
+
+VI. Penilaian · Tugas · Pengamatan: keaktifan siswa dalam mengikuti proses pembelajaran. · Pengamatan: sikap dan minat belajar siswa dalam kelas atau laboratorium. · Ulangan
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+57
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 1 dan 2
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 5. Memahami gejala-gejala alam melalui pengamatan.
+
+Kompetensi Dasar : 5.1 Melaksanakan pengamatan objek secara terencana dan
+
+sistematis untuk memperoleh informasi gejala alam.
+
+Indikator
+
+: · Mengenal gejala alam biotik dan abiotik.
+
+· Menerapkan langkah-langkah kerja ilmiah melalui per-
+
+cobaan sederhana.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mengenal gejala-gejala alam biotik dan abiotik; · memberi contoh gejala alam biotik; · memberi contoh gejala alam abiotik; · menjelaskan langkah-langkah ilmiah dalam melakukan pengamatan.
+
+II. Materi Pokok · Kerja Ilmiah sebagai Langkah Pemecahan Masalah · Langkah-Langkah Metode Ilmiah
+
+III. Metode Pembelajaran 1. Diskusi 2. Observasi
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-1 Kegiatan Awal Guru memberi apersepsi tentang perbedaan materi biotik dan abiotik.
+Kegiatan Inti · Guru mengelompokkan siswa. · Siswa diminta menjelaskan pengertian gejala alam abiotik dan biotik. · Setiap kelompok siswa mengadakan observasi untuk menemukan gejala
+alam biotik dan biotik sebanyak-banyaknya. · Guru menunjuk perwakilan siswa untuk mempresentasikan hasil temuannya
+tentang gejala alam biotik dan abiotik. · Siswa diminta mendiskusikan perbedaan antara gejala alam abiotik dan
+biotik.
+
+58
+
+RPP Eksplorasi Alam SMP 1
+
+· Siswa diminta mendiskusikan tentang adanya hubungan antara kedua gejala alam tersebut.
+Kegiatan Akhir · Guru membimbing siswa untuk membuat kesimpulan tentang perbedaan
+abiotik dan biotik. · Guru memberi tugas pada siswa untuk mengadakan pengamatan tentang
+gejala alam biotik dan abiotik yang ditemukan di sekitar tempat tinggal masing-masing.
+Pertemuan Ke-2 Kegiatan Awal Guru memberi apersepsi tentang langkah-langkah kerja ilmiah serta mengarah kan siswa untuk menuliskan langkah-langkah kerja ilmiah di buku tugas.
+Kegiatan Inti · Guru mengelompokkan siswa. · Siswa membaca uraian pada buku tentang langkah-langkah kerja ilmiah,
+kemudian menuliskan ide pokok tentang metode ilmiah. · Siswa diminta menyusun gambar yang telah dipersiapkan guru sesuai dengan
+langkah-langkah kerja ilmiah. · Siswa diminta menyebutkan sikap ilmiah yang harus dimiliki dalam melaku-
+kan penelitian. · Siswa diminta melakukan percobaan sederhana yang mengikuti metode
+ilmiah. · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan.
+V. Alat/Bahan/Sumber Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah
+VI. Penilaian Penilaian meliputi tes tertulis dan kinerja.
+A. Tes Tertulis 1. Termasuk materi biotik atau materi abiotikkah benda-benda berikut ini?
+
+RPP Eksplorasi Alam SMP 1
+
+59
+
+a. air
+
+f. sinar matahari
+
+b. ikan
+
+g. udara
+
+c. biji kacang
+
+h. anak ayam
+
+d. sepotong kayu
+
+i. kecambah kedelai
+
+e. rumput
+
+j. sebongkah batu
+
+2. Apakah pengertian dari abiotik dan biotik?
+
+3. Sebutkan lima contoh gejala alam biotik.
+
+4. Sebutkan lima contoh gejala alam abiotik.
+
+5. Adakah hubungan antara gejala alam biotik dengan faktor abiotik dan
+
+sebaliknya?
+
+6. Apakah yang dimaksud dengan hipotesis?
+
+7. Apakah kesimpulan harus selalu sama dengan hipotesis?
+
+8. Apa fungsi dari tabel atau grafik dalam laporan penelitian ilmiah?
+
+9. Sebutkan langkah-langkah metode ilmiah.
+
+10. Apa yang harus dilakukan jika hipotesis tidak sesuai dengan kesimpulan?
+
+B. Penilaian Kinerja Penilaian ini dilakukan dengan mengamati seluruh kegiatan siswa satu per satu. Hasilnya dicatat untuk dimasukkan dalam tabel penilaian. Format penilaian kinerja sebagai berikut. Hari/Tanggal : .... Kelas/Semester : ....
+
+No.
+Nama
+1. 2. 3. 4. 5. dst.
+
+Aspek Penilaian
+
+Tingkat Kemampuan
+
+Keaktifan Presentasi
+
+(0­30)
+
+(0­30)
+
+Kemampuan Menyimpulkan
+(0­40)
+
+Jumlah
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+60
+
+RPP Eksplorasi Alam SMP 1
+
+(___________________) NIP. ................................
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 3 ­ 7
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 5. Memahami gejala-gejala alam melalui pengamatan.
+
+Kompetensi Dasar : 5.2 Menganalisis data percobaan gerak lurus beraturan dan
+
+gerak lurus berubah beraturan serta penerapannya dalam
+
+kehidupan sehari-hari.
+
+Indikator
+
+: · Membuat grafik perpindahan terhadap waktu berdasarkan
+
+percobaan jika benda bergerak dengan laju tetap dan laju
+
+makin besar.
+
+· Menemukan persamaan laju (meter/sekon = perpindah
+
+an yang ditempuh (meter)/waktu yang dibutuhkan (se-
+
+kon)).
+
+· Menunjukkan dan menentukan aplikasi konsep gerak
+
+lurus beraturan (GLB) dalam kehidupan sehari-hari.
+
+· Mendeskripsikan percepatan sebagai perubahan kecepat
+
+an setiap waktu (meter/sekon2).
+
+· Menyelidiki gerak lurus berubah beraturan (GLBB)
+
+dipercepat dengan ticker timer.
+
+· Menunjukkan dan menentukan aplikasi konsep GLBB
+
+dalam kehidupan sehari-hari.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · membuat grafik perpindahan terhadap waktu berdasarkan percobaan jika benda bergerak dengan laju tetap dan laju makin besar; · menemukan persamaan laju (meter/sekon = perpindahan yang ditempuh (meter)/waktu yang dibutuhkan (sekon)); · menunjukkan (mencari aplikasi) konsep gerak lurus beraturan (GLB) dalam kehidupan sehari-hari; · mendeskripsikan percepatan sebagai perubahan kecepatan setiap waktu (meter/sekon); · menyelidiki gerak lurus berubah beraturan (GLBB) dipercepat beraturan dengan ticker timer; · menunjukkan (mencari aplikasi) konsep GLBB dalam kehidupan seharihari.
+
+RPP Eksplorasi Alam SMP 1
+
+61
+
+II. Materi Pembelajaran Gerak Lurus
+III. Metode Pembelajaran 1. Informasi/ceramah 2. Demonstrasi 3. Diskusi 4. Tanya jawab
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-3 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan pemberian tanya jawab tentang pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan tanya jawab mengungkap pengetahuan tentang gerak lurus. · Melakukan pengamatan demonstrasi untuk menunjukkan macam-macam
+gerak lurus. · Melakukan pengamatan demonstrasi menunjukkan gerak lurus beraturan. · Melakukan percobaan dengan alat ticker timer menunjukkan gerak lurus
+beraturan.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada materi GLB, diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+Pertemuan Ke-4 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan pemberian tanya jawab tentang pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan tanya jawab mengungkap pengetahuan tentang gerak lurus. · Melakukan pengamatan demonstrasi untuk menunjukkan gerak lurus ber-
+aturan. · Melakukan percobaan dengan alat ticker timer menunjukkan gerak lurus
+beraturan. · Membuat grafik hubungan antara kecepatan, jarak, waktu pada gerak lurus
+beraturan (GLB). · Menyebutkan gerak lurus beraturan yang terjadi dalam kehidupan sehari-
+hari.
+
+62
+
+RPP Eksplorasi Alam SMP 1
+
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada materi dan manfaat GLB dalam kehidupan sehari-hari, diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+Pertemuan Ke-5 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan pemberian tanya jawab tentang pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan tanya jawab mengungkap pengetahuan tentang percepatan. · Melakukan pengamatan demonstrasi untuk menunjukkan gerak lurus ber
+ubah beraturan. · Melakukan percobaan dengan alat ticker timer menunjukkan gerak lurus
+berubah beraturan. · Membuat grafik hubungan antara kecepatan, jarak, waktu pada gerak lurus
+beraturan (GLBB). · Menyebutkan gerak lurus berubah beraturan yang terjadi dalam kehidupan
+sehari-hari.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada materi dan manfaat GLBB dalam kehidupan sehari-hari, diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+Pertemuan Ke-6 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan pemberian tanya jawab tentang pelajaran yang lalu dan kaitannya dengan pelajaran yang akan diberikan.
+Kegiatan Inti · Melakukan tanya jawab mengungkap pengetahuan tentang gerak lurus
+berubah beraturan. · Melakukan diskusi untuk menyebutkan manfaat gerak lurus berubah ber-
+aturan yang terjadi dalam kehidupan sehari-hari.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada materi dan manfaat GLBB dalam kehidupan sehari-hari, diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi untuk melakukan percobaan pada pertemuan berikutnya.
+
+RPP Eksplorasi Alam SMP 1
+
+63
+
+Pertemuan Ke-7 Kegiatan Awal Guru membuka pelajaran dan dilanjutkan dengan pemberian tanya jawab tentang pelajaran yang lalu dan kaitannya dengan percobaan yang akan dilakukan.
+Kegiatan Inti · Mengerjakan soal-soal pretest. · Melakukan percobaan untuk mengamati terjadinya gerak lurus dan gerak
+lurus berubah beraturan. · Melakukan percobaan untuk menunjukkan gerak vertikal ke atas dan ke
+bawah. · Membuat kesimpulan dan laporan hasil percobaan. · Mengerjakan soal-soal postest.
+Kegiatan Akhir Dengan cara tanya jawab, guru menyimpulkan dan memberi penekanan pada percobaan yang telah dilakukan, dan diteruskan dengan pemberian tugas mandiri, tugas kelompok, tugas membaca dan memahami materi berikutnya.
+V. Alat/Bahan/Sumber Belajar
+Alat/Bahan Kereta dinamik, penggaris, gunting, kertas milimeter bloks, bola voli, bola sepak, bola tenis dan kertas ticker timer
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media OHP, papan tulis, chart, model
+VI. Penilaian · Pengamatan: keaktifan siswa dalam mengikuti proses pembelajaran. · Pengamatan: sikap dan minat belajar siswa dalam kelas atau laboratorium. · Pretest dan postest · Tugas dan laporan
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+64
+
+RPP Eksplorasi Alam SMP 1
+
+(___________________) NIP. ................................
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 8 dan 9
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 5. Memahami gejala alam melalui pengamatan.
+
+Kompetensi Dasar : 5.3 Menggunakan mikroskop dan peralatan pendukung lain-
+
+nya untuk mengamati gejala kehidupan.
+
+Indikator
+
+: · Mengenal dan menggunakan mikroskop dengan benar.
+
+· Membuat preparat basah dan sayatan menurut arah ter-
+
+tentu.
+
+· Memperkirakan ukuran benda asli suatu preparat ber-
+
+dasarkan skala.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mengenal bagian-bagian mikroskop; · menggunakan mikroskop dalam mengadakan pengamatan terhadap bendabenda yang bersifat mikroskopis; · menggambar hasil pengamatan; · membuat preparat bagian tumbuhan sehingga dapat diamati dengan mikroskop; · memperkirakan ukuran suatu objek yang diamati di bawah mikroskop.
+
+II. Materi Pokok · Penggunaan Mikroskop · Objek Pengamatan
+
+III. Metode Pembelajaran 1. Eksploitasi pada sumber bacaan yang relevan; 2. Praktik untuk mengenal mikroskop dan cara penggunaannya; 3. Praktik membuat preparat secara sederhana.
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-8 Kegiatan Awal Guru memberi apersepsi tentang alat-alat yang digunakan di laboratorium IPA. Selanjutnya, guru memberikan permasalahan kepada siswa tentang bagaimana siswa dapat melihat makhluk hidup yang sangat kecil, misalnya bakteri.
+
+RPP Eksplorasi Alam SMP 1
+
+65
+
+Kegiatan Inti · Guru membawa beberapa model mikroskop, kemudian melakukan tanya
+jawab tentang nama bagian-bagian dari mikroskop. · Guru memberi contoh cara menggunakan mikroskop dan siswa diminta
+berlatih menggunakan mikroskop secara benar. · Guru memberi contoh cara membuat preparat dan siswa diminta berlatih
+membuat preparat hidup. · Siswa praktik mengamati makhluk bersel satu. · Guru menginformasikan kepada siswa tentang cara mengamati objek di
+bawah mikroskop dan cara menggambar hasil pengamatan tersebut. · Siswa melakukan praktik mengamati preparat menggunakan mikroskop
+dan menggambar hasil pengamatannya.
+Kegiatan Akhir Guru membimbing siswa untuk menyimpulkan cara-cara menggunakan mikroskop dengan benar dan cara pemeliharaan mikroskop tersebut.
+Pertemuan Ke-9 Kegiatan Awal Guru memberi apersepsi kepada siswa tentang bagian-bagian terpenting dari mikroskop. Selanjutnya, guru memberikan permasalahan kepada siswa tentang bagaimana mikroskop dapat digunakan untuk melihat sel tumbuhan.
+Kegiatan Inti · Guru mengingatkan siswa kembali tentang cara menggunakan mikroskop. · Guru meminta salah seorang siswa berlaku sebagai model dalam mengamati
+objek menggunakan mikroskop. · Siswa melakukan Aktivitas Siswa 13.1 halaman 169, buku Eksplorasi Ilmu
+Alam 1. · Guru mengamati kegiatan siswa dan membimbing siswa yang belum dapat
+mengadakan pengamatan dengan benar. · Siswa menggambar hasil Aktivitas Siswa 13.1 tersebut.
+Kegiatan Akhir Guru membimbing siswa merangkum tentang cara menggunakan mikroskop dengan benar.
+V. Alat/Bahan/Sumber Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah dan mikroskop
+
+66
+
+RPP Eksplorasi Alam SMP 1
+
+VI. Penilaian Penilaian meliputi tes tertulis dan kinerja.
+A. Tes Tertulis 1. Perhatikan gambar mikroskop berikut ini, kemudian berilah keterang an tentang nama bagian-bagian mikroskop dengan benar.
+
+a
+
+a. ....
+
+b. ....
+
+b
+
+j
+
+c. ....
+
+d. ....
+
+c d
+
+i
+
+e. ....
+
+f. ....
+
+e
+
+g. ....
+
+f
+
+h. ....
+
+g
+
+i. ....
+
+h
+
+j. ....
+
+2. Apa fungsi dari bagian-bagian mikroskop seperti pada gambar soal no. 1 tersebut?
+3. Lapangan pandang pada lensa objektif suatu mikroskop adalah 0,6 mm. Jika suatu objek menempati seperlima bagian dari lapangan pandang tersebut, tentukan ukuran objek yang sebenarnya.
+4. Sebutkan tiga cara menggunakan mikroskop. 5. Jelaskan secara singkat cara membuat preparat hidup. 6. Mengapa saat melakukan pengamatan menggunakan mikroskop, kita
+memasang lensa dengan perbesaran kecil terlebih dahulu? 7. Apa fungsi dari minyak imersi bagi mikroskop? 8. Sebutkan tiga cara yang diperlukan untuk memelihara mikroskop. 9. Apa perbedaan antara irisan melintang dan irisan membujur suatu ob-
+jek? 10. Gambarkan sebuah sel/jaringan tumbuhan yang kamu lihat dengan
+menggunakan mikroskop.
+B. Penilaian Kinerja Penilaian ini dilakukan dengan mengamati seluruh kegiatan siswa satu per satu. Hasilnya dicacat untuk dimasukkan dalam tabel penilaian. Format penilai an kinerja sebagai berikut.
+
+RPP Eksplorasi Alam SMP 1
+
+67
+
+Hari/Tanggal
+
+: ....
+
+Kelas/Semester
+
+: ....
+
+Judul praktik/eksperimen : ....
+
+Aspek Penilaian
+
+No.
+
+Cara
+
+Cara
+
+Nama
+
+Penggunaan Membuat Mikroskop Preparat
+
+(0­30)
+
+(0­30)
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+dst.
+
+Hasil Pengamatan
+(0­40)
+
+Jumlah
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+68
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 10 ­ 12
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 5. Memahami gejala alam melalui pengamatan.
+
+Kompetensi Dasar : 5.3 Menerapkan keselamatan kerja dalam melakukan peng
+
+amatan gejala-gejala alam.
+
+Indikator
+
+: · Memegang/membawa serta memperlakukan alat dan
+
+bahan di laboratorium secara aman.
+
+· Mengenal bahan yang berbahaya dan mengidentifikasi
+
+simbol-simbolnya.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menggunakan dan memperlakukan alat maupun bahan dalam melakukan kerja ilmiah secara aman; · mendeskripsikan bahan-bahan berbahaya dan bahan yang dapat menimbulkan penyakit serta mengidentifikasi simbol-simbol dalam laboratorium; · memperlakukan alat laboratorium IPA secara aman dalam melakukan kegiatan.
+
+II. Materi Pokok Keselamatan Kerja Ilmiah
+
+III. Metode Pembelajaran 1. Eksplorasi pada sumber bacaan yang relevan; 2. Observasi terhadap alat-alat dan bahan di laboratorium IPA.
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-10 Kegiatan Awal Guru memberi apersepsi tentang bahaya suatu bahan yang biasa digunakan dalam laboratorium IPA.
+Kegiatan Inti · Guru mengajak siswa melakukan observasi ke laboratorium IPA untuk
+memahami tata tertib di laboratorium IPA. · Guru mengajak siswa melakukan observasi untuk mengenal jenis-jenis
+bahan yang tersedia di laboratorium IPA.
+
+RPP Eksplorasi Alam SMP 1
+
+69
+
+Kegiatan Akhir Guru membimbing siswa untuk menyimpulkan tentang jenis-jenis bahan yang mudah terbakar, beracun, dan bersifat korosif serta cara menghindari bahaya yang ditimbulkan dari bahan-bahan tersebut.
+Pertemuan Ke-11 Kegiatan Awal Guru memberikan permasalahan kepada siswa tentang bagaimana cara menghindari bahaya dari bahan yang biasa digunakan dalam kegiatan di laboratorium IPA.
+Kegiatan Inti Guru mengajak siswa mengenal dan mengidentifikasi simbol bahan berbahaya yang tersedia dalam laboratorium IPA.
+Kegiatan Akhir Guru memberi tugas untuk merangkum hasil identifikasi tentang simbol-simbol berbahaya dalam laboratorium IPA.
+Pertemuan Ke-12 Kegiatan Awal Guru memberikan informasi bahwa akan segera diadakan ulangan harian.
+Kegiatan Inti 1. Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. 2. Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan harian.
+V. Alat/ Bahan/Sumber Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah dan mikroskop
+VI. Penilaian
+Tes Tertulis 1. Berikan tiga contoh bahan yang mudah terbakar dan jelaskan cara meng-
+hindari terbakarnya bahan-bahan tersebut. 2. Gambarlah simbol suatu bahan yang mudah meledak/bersifat korosif. 3. Apakah tujuan dari pembuatan tata tertib laboratorium IPA?
+
+70
+
+RPP Eksplorasi Alam SMP 1
+
+4. Mengapa kita tidak boleh mencium secara langsung bahan kimia dalam suatu wadah?
+5. Jelaskan bahaya dari bahan-bahan kimia berikut ini dan sebutkan cara menghindari bahaya tersebut. a. fosfor b. eter c. asam nitrat d. soda kautik e. air raksa (merkuri)
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+71
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 13 ­ 15
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 6. Memahami keanekaragaman makhluk hidup.
+
+Kompetensi Dasar : 6.1 Mengidentifikasi ciri-ciri makhluk hidup.
+
+Indikator
+
+: · Mengumpulkan informasi tentang ciri-ciri makhluk
+
+hidup.
+
+· Membuat laporan tentang ciri-ciri makhluk hidup.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mengidentifikasi ciri-ciri makhluk hidup; · mengenal gejala hidup pada hewan dan tumbuhan; · membedakan gejala hidup pada tumbuhan dan gejala hidup pada hewan.
+
+II. Materi Pokok · Bergerak · Bernapas · Memerlukan Makanan · Tumbuh · Peka terhadap Rangsang · Berkembang Biak · Mengeluarkan Zat Sisa
+
+III. Metode Pembelajaran 1. Eksplorasi pada sumber bacaan yang relevan; 2. Observasi untuk membandingkan ciri-ciri kehidupan antara hewan dan tumbuhan.
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-13 Kegiatan Awal Guru memberi apersepsi tentang apa yang dimaksud makhluk hidup. Selanjutnya, guru memberikan permasalahan kepada siswa, mengapa sebatang pohon pisang merupakan mahkluk hidup, sedangkan sepotong kayu merupakan benda tak hidup.
+Kegiatan Inti · Guru mengelompokkan siswa.
+
+72
+
+RPP Eksplorasi Alam SMP 1
+
+· Tiap kelompok diberi tugas untuk melakukan pengamatan terhadap makhluk hidup yang terdapat di sekitar sekolah untuk mengetahui gejala tentang ciri-ciri umum makhluk hidup.
+· Masing-masing kelompok membuat laporan tentang ciri-ciri umum makhluk hidup dan dipresentasikan di depan kelas.
+Kegiatan Akhir Guru membimbing siswa untuk menyimpulkan tentang ciri-ciri umum makh luk hidup.
+Pertemuan Ke-14 Kegiatan Awal Guru memberikan apersepsi tentang pengertian bernapas. Selanjutnya, guru memberikan motivasi berupa pertanyaan, "Samakah proses pernapasan antara hewan dan tumbuhan?"
+Kegiatan Inti · Guru membagi siswa dalam beberapa kelompok. · Masing-masing kelompok membaca buku tentang ciri-ciri makhluk hidup
+dan menggarisbawahi konsep-konsep penting tentang materi tersebut. · Siswa melakukan presentasi tentang ciri-ciri makhluk hidup, yaitu bergerak,
+bernapas, menerima dan mereaksi rangsang, serta memerlukan makan.
+Kegiatan Akhir Guru membimbing siswa untuk dapat membuat rangkuman dan memberi tugas rumah, yaitu mengamati gerak pada tumbuhan.
+Pertemuan Ke-15 Kegiatan Awal Guru memberikan apersepsi dengan memberikan pertanyaan kepada siswa tentang perbedaan gerak tumbuhan dan gerak hewan. Selanjutnya, guru memberi motivasi kepada siswa dengan meminta siswa menyampaikan hasil peng amatan tentang gerak pada tumbuhan.
+Kegiatan Inti · Guru membagi siswa dalam kelompok-kelompok, setiap kelompok terdiri
+atas dua orang. · Siswa diminta membaca buku tentang ciri-ciri makhluk hidup, yaitu tumbuh,
+berkembang, berkembang biak, melakukan adaptasi, dan memerlukan suhu lingkungan tertentu. · Siswa diminta menunjukkan konsep-konsep penting yang ditemukan dari materi tersebut. · Guru membimbing siswa secara berkelompok untuk mendiskusikan perbandingan ciri-ciri kehidupan antara hewan dengan tumbuhan.
+
+RPP Eksplorasi Alam SMP 1
+
+73
+
+Kegiatan Akhir Guru membimbing siswa untuk membuat rangkuman.
+
+V. Alat/Bahan/Sumber Belajar Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah dan mikroskop
+
+VI. Penilaian Penilaian meliputi tes tertulis dan kinerja.
+
+A. Tes Tertulis 1. Berikan penjelasan beserta contoh yang menunjukkan bahwa tumbuh an memiliki gejala berikut: a. bergerak; b. mengeluarkan zat sisa; c. memerlukan nutrisi. 2. Jelaskan perbedaan antara gerak pada tumbuhan dan hewan. 3. Jelaskan perbedaan dan persamaan proses bernapas antara tumbuhan dan hewan.
+
+B. Penilaian Kinerja Penilaian ini dilakukan dengan mengamati seluruh kegiatan siswa satu per satu. Hasilnya dicatat untuk dimasukkan dalam tabel penilaian. Format penilaian kinerja sebagai berikut:
+
+Hari/Tanggal : ....
+
+Kelas/Semester : ....
+
+Judul/Materi : ....
+
+Diskusi
+
+: ....
+
+Aspek Penilaian
+
+No.
+
+Nama
+
+Keterampilan Bertanya (0­30)
+
+Keterampilan Menggaris bawahi (0­30)
+
+Keterampilan Merangkum
+(0­40)
+
+Jumlah
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+dst.
+
+74
+
+RPP Eksplorasi Alam SMP 1
+
+Keterangan 1. Keterampilan bertanya:
+· merumuskan 5 pertanyaan dengan baik skor 30; · merumuskan 4 pertanyaan dengan baik skor 24; · merumuskan 3 pertanyaan dengan baik skor 18; · merumuskan 2 pertanyaan dengan baik skor 12; · merumuskan 1 pertanyaan dengan baik skor 6. 2. Keterampilan menggarisbawahi: · menggarisbawahi 5 konsep penting dengan baik skor 20; · menggarisbawahi 4 konsep penting dengan baik skor 15; · menggarisbawahi 3 konsep penting dengan baik skor 12; · menggarisbawahi 2 konsep penting dengan baik skor 8; 3. Keterampilan merangkum konsep penting: · merumuskan 5 rangkuman konsep penting dengan baik dan benar
+skor 40; · merumuskan 4 rangkuman konsep penting dengan baik dan benar
+skor 30; · merumuskan 3 rangkuman konsep penting dengan baik dan benar
+skor 20; · merumuskan 2 rangkuman konsep penting dengan baik dan benar
+skor 10; · merumuskan 1 rangkuman konsep penting dengan baik dan benar
+skor 5; · tidak dapat merumuskan rangkuman dengan baik dan benar skor
+0.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+75
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 16 ­ 19
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 6. Memahami keanekaragaman makhluk hidup.
+
+Kompetensi Dasar : 6.2 Mengklasifikasikan makhluk hidup berdasarkan ciri-ciri
+
+yang dimiliki.
+
+Indikator
+
+: · Membedakan makhluk hidup yang satu dengan yang lain
+
+berdasarkan ciri khusus kehidupan yang dimiliki.
+
+· Membuat perbandingan ciri-ciri khusus tiap kingdom
+
+dalam sistem klasifikasi lima kingdom dan memberikan
+
+contohnya.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · mendeskripsikan keanekaragaman makhluk hidup untuk mengklasifikasi makhluk hidup berdasar ciri-ciri yang dimiliki; · mengenali ciri-ciri khusus tumbuhan yang digunakan dalam pengelompokan (klasifikasi); · mengenal sistem klasifikasi lima kingdom yang diusulkan oleh Robert H. Whittaker.
+
+II. Materi Pokok · Dasar-Dasar Klasifikasi Makhluk Hidup · Nama Makhluk Hidup · Klasifikasi Sistem Lima Kingdom
+
+III. Metode Pembelajaran 1. Eksplorasi pada sumber bacaan yang relevan; 2. Praktik pengamatan terhadap anggota kingdom Protista dan kingdom Monera; 3. Observasi lingkungan untuk menemukan ciri-ciri kingdom Plantae dan kingdom Animalia.
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-16 Kegiatan Awal Guru memberi apersepsi dengan pertanyaan tentang perlunya nama makhluk hidup. Selanjutnya, guru memberi motivasi dengan memberi pertanyaan, "Mengapa makhluk hidup diberi nama ilmiah?"
+
+76
+
+RPP Eksplorasi Alam SMP 1
+
+Kegiatan Inti · Guru membagi seluruh siswa dalam beberapa kelompok, tiap kelompok
+terdiri atas dua orang siswa. · Guru meminta siswa membaca materi tentang nama ilmiah makhluk
+hidup. · Siswa menggarisbawahi konsep penting materi tentang nama ilmiah makh-
+luk hidup (binomial nomenklatur). · Siswa melakukan presentasi tentang tata cara penulisan nama ilmiah makh-
+luk hidup dan memberi lima contoh nama ilmiah makhluk hidup.
+Kegiatan Akhir Guru membimbing siswa merangkum tentang penulisan nama makhluk hidup dengan sistem tata nama ganda.
+Pertemuan Ke-17 Kegiatan Awal Guru memberi apersepsi tentang perlunya diadakan pengelompokan terhadap jenis objek yang jumlahnya banyak, misalnya barang-barang di pasar. Selanjutnya, guru memberikan motivasi kepada siswa tentang bagaimana klasifikasi makhluk hidup.
+Kegiatan Inti · Guru mengajak siswa berdiskusi secara kelompok untuk membahas tujuan
+dan dasar klasifikasi makhluk hidup. · Guru meminta siswa untuk mempresentasi dan menjelaskan tentang klasi-
+fikasi makhluk hidup sistem lima kingdom. · Guru membimbing siswa secara berkelompok menyebutkan ciri-ciri king-
+dom Monera. · Guru membimbing siswa menyebutkan ciri-ciri kingdom Protista. · Guru meminta wakil dari kelompok siswa untuk menuliskan ciri-ciri king-
+dom Monera. · Guru meminta wakil dari kelompok siswa untuk menuliskan ciri-ciri king-
+dom Protista.
+Kegiatan Akhir Guru membimbing siswa merangkum tentang ciri-ciri kingdom Monera dan Protista.
+Pertemuan Ke-18 Kegiatan Awal Guru memberikan apersepsi tentang macam-macam organisme yang termasuk dalam kingdom Monera dan Protista. Selanjutnya, guru memberi motivasi tentang adanya kelompok organisme tidak berklorofil yang dimasukkan ke dalam kingdom Fungi.
+
+RPP Eksplorasi Alam SMP 1
+
+77
+
+Kegiatan Inti · Guru membentuk siswa dalam kelas menjadi beberapa kelompok, tiap
+kelompok terdiri atas dua siswa. · Siswa diminta membaca buku yang menguraikan tentang kingdom Fungi,
+kingdom Plantae, dan kingdom Animalia. · Siswa diminta menggarisbawahi ide-ide pokok, kemudian menuliskannya
+pada buku catatan. · Guru meminta wakil dari kelompok siswa untuk mempresentasikan ciri-ciri
+dan contoh organisme yang termasuk dalam kingdom Fungi, Plantae, dan Animalia.
+Kegiatan Akhir Guru membimbing siswa merangkum materi pelajaran tentang ciri-ciri khusus lima kingdom.
+Pertemuan Ke-19 Kegiatan Awal
+Guru memberikan informasi bahwa akan segera diadakan ulangan harian.
+Kegiatan Inti · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan harian.
+V. Alat/ Bahan/Sumber Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah
+VI. Penilaian
+Tes tertulis 1. Mengapa setiap organisme membutuhkan nama ilmiah? 2. Tuliskan penulisan nama yang benar sesuai dengan tata nama binomial
+nomenklatur pada organisme-organisme berikut. a. CYCAS RUMPHII b. Rhizobium Leguminosarum c. Musa textilia d. Zea mays e. Aloe vera
+
+78
+
+RPP Eksplorasi Alam SMP 1
+
+3. Sebutkan tata cara penulisan nama ilmiah makhluk hidup. 4. Apa tujuan dan dasar dari klasifikasi makhluk hidup? 5. Sebutkan macam-macam kingdom dalam klasifikasi yang dilakukan oleh
+Robert. H. Whittaker. 6. Sebutkan ciri khusus kingdom Monera dan kingdom Protista. 7. Sebutkan masing-masing tiga anggota kingdom Monera dan kingdom
+Protista. 8. Apa yang membedakan kingdom Monera dari kingdom Protista? 9. Buatlah perbandingan ciri-ciri antara kingdom Plantae dan kingdom Fungi,
+kemudian beri contoh masing-masing kingdom tersebut. 10. Deskripsikan ciri-ciri dari kingdom Animalia.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+79
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 20 ­ 23
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 6. Memahami keanekaragaman makhluk hidup.
+
+Kompetensi Dasar : 6.3 Mendeskripsikan keragaman pada sistem organisme ke
+
+hidupan mulai dari tingkat sel sampai organisme.
+
+Indikator
+
+: · Mendeskripsikan keragaman tingkat sel berdasarkan hasil
+
+pengamatan menggunakan mikroskop.
+
+· Mendeskripsikan keragaman tingkat jaringan menurut
+
+sel-sel penyusunnya berdasarkan pengamatan menggu
+
+nakan mikroskop.
+
+· Mendeskripsikan keragaman tingkat organ dan sistem
+
+organ berdasar hasil pengamatan.
+
+· Mengaitkan hubungan antarsel, jaringan, organ, dan
+
+sistem organ makhluk hidup.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menjelaskan keragaman pada sistem organisme kehidupan pada tingkat sel, jaringan, organ, dan sistem organ; · menjelaskan pengertian dari sel, jaringan, organ, dan sistem organ; · membandingkan bagian-bagian sel hewan dan tumbuhan melalui peng amatan dengan mikroskop; · menggambar sel hewan dan tumbuhan melalui pengamatan dengan mikros kop; · memberikan contoh jaringan, organ, dan sistem organ; · menjelaskan fungsi jaringan otot pada manusia; · menjelaskan fungsi jaringan meristem pada manusia.
+
+II. Materi Pokok · Sel · Jaringan · Organ
+
+· Sistem Organ · Organisme
+
+III. Metode Pembelajaran 1. Eksplorasi sumber bacaan yang relevan; 2. Praktik pengamatan sel hewan dan sel tumbuhan; 3. Diskusi tentang macam-macam jaringan, organ, dan sistem organ.
+
+80
+
+RPP Eksplorasi Alam SMP 1
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-20 Kegiatan Awal Guru memberi apersepsi dengan mengajukan pertanyaan. Misalnya, "Apakah kamu pernah mendengar istilah sel? Bagaimana bentuknya?"
+Kegiatan Inti · Guru menjelaskan tentang teori sel dan menanyakan kepada siswa tentang
+gambar atau carta sel hewan dan sel tumbuhan yang telah dipersiapkan sebelumnya oleh guru. · Guru menanyakan kembali tentang fungsi mikroskop dan cara menggunakan mikroskop pada siswa. · Guru membimbing siswa secara berkelompok untuk melakukan Aktivitas Siswa 16.1 halaman 217, buku Eksplorasi Ilmu Alam 1.
+Kegiatan Akhir · Guru bersama siswa merangkum materi pelajaran tentang pengertian sel
+dan jaringan. · Guru memberi tugas yang dapat dikerjakan di rumah, yaitu membuat model
+sel dari gabus/busa sterofoam.
+Pertemuan Ke-21 Kegiatan Awal Guru memberi motivasi kepada siswa dengan memberi gambaran bahwa dalam sel terjadi berbagai aktivitas untuk menunjang kehidupan sel itu sendiri, misalnya memerlukan makanan dan melakukan pernapasan.
+Kegiatan Inti · Guru meminta siswa menggarisbawahi konsep penting tentang materi sel
+dan jaringan serta diminta mengajukan pertanyaan berdasarkan bacaan tentang sel dan jaringan tersebut. · Guru meminta wakil dari siswa membacakan konsep penting yang telah digaris bawahi dan menuliskan pertanyaan yang dibuatnya. Siswa lain diminta menanggapi dan menjawab pertanyaan tersebut. Pada akhir diskusi, siswa diharapkan membahas beberapa konsep penting tentang contoh dan fungsi beberapa jaringan, organ, dan sistem organ.
+Kegiatan Akhir Guru bersama siswa merangkum materi pelajaran tentang contoh dan fungsi jaringan, organ, dan sistem organ.
+Pertemuan Ke-22 Kegiatan Awal Guru memberi apersepsi dengan mengingatkan kembali tentang pengertian dan contoh jaringan pada tubuh hewan. Selanjutnya, guru memberi motivasi
+
+RPP Eksplorasi Alam SMP 1
+
+81
+
+dengan mengajukan pertanyaan mengapa suatu organ atau alat tubuh manusia, misalnya tangan, dapat digunakan untuk melakukan berbagai kegiatan.
+Kegiatan Inti · Guru membagi siswa dalam kelas menjadi beberapa kelompok. · Siswa diminta membaca materi yang menguraikan tentang organ pada
+hewan dan tumbuhan, sistem organ pada hewan dan pada tumbuhan, serta organisme. · Siswa menggarisbawahi konsep penting tentang materi organ, sistem organ, dan organisme. · Guru menunjuk wakil dari siswa untuk menuliskan konsep penting di papan tulis. · Guru meminta siswa lain membuat pertanyaan berdasarkan konsep penting yang ditulis di papan tulis tersebut.
+Kegiatan Akhir · Guru membimbing siswa merangkum materi pelajaran bab Organisasi
+Kehidupan. · Guru memberi tugas rumah kepada siswa untuk membandingkan macam-
+macam jaringan yang menyusun akar, batang, dan daun.
+Pertemuan Ke-23 Kegiatan Awal Guru memberikan informasi bahwa akan segera diadakan ulangan harian.
+Kegiatan Inti · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan harian.
+V. Alat/Bahan/Sumber Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah
+VI. Penilaian Penilaian meliputi tes tertulis dan kinerja.
+A. Tes Tertulis 1. Jelaskan pengertian dari sel, jaringan, organ, dan sistem organ. 2. Apa hubungan antara sel, jaringan, organ, dan sistem organ?
+
+82
+
+RPP Eksplorasi Alam SMP 1
+
+3. Sebutkan contoh dari sel, jaringan, organ, dan sistem organ.
+
+4. Sebutkan bagian-bagian penyusun sel hewan dan sel tumbuhan.
+
+5. Apakah yang membedakan sel hewan dengan sel tumbuhan?
+
+6. Gambarkan secara lengkap bagian-bagian penyusun sel hewan dan sel
+
+tumbuhan.
+
+7. Apakah jaringan penyusun akar dengan jaringan penyusun daun pada
+
+tumbuhan sama?
+
+8. Apakah eritrosit termasuk sel?
+
+9. Sebutkan perbedaan antara sel otot polos, otot lurik, dan otot jantung.
+
+10. Jelaskan fungsi jaringan berikut.
+
+a. meristem
+
+c. jaringan epitel
+
+b. pembuluh kayu/xilem
+
+d. jaringan otot
+
+B. Penilaian Kinerja Penilaian ini dilakukan dengan mengamati seluruh kegiatan siswa satu per satu. Hasilnya dicatat untuk dimasukkan dalam tabel penilaian. Format penilaian kinerja sebagai berikut:
+
+Hari/Tanggal : .... Kelas/Semester : .... Judul kegiatan : Membuat Model Sel Hewan/Sel Tumbuhan
+
+Aspek Penilaian
+
+No.
+
+Nama
+
+Ketepatan Waktu
+Mengumpulkan (0­20)
+
+Kelengkapan Model (0­50)
+
+Presentasi (0­30)
+
+Jumlah
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+dst.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+83
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 24 dan 25
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 7. Memahami saling ketergantungan dalam ekosistem.
+
+Kompetensi Dasar : 7.1 Menentukan ekosistem dan saling hubungan antara
+
+komponen ekosistem.
+
+Indikator
+
+: · Mengidentifikasikan satuan-satuan dalam ekosistem dan
+
+menyatakan bahwa matahari merupakan sumber energi
+
+utama pada sistem biologi.
+
+· Menggambarkan dalam bentuk diagram rantai makanan
+
+dan jaring-jaring kehidupan serta menjelaskan peran
+
+masing-masing tingkatan tropik.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menjelaskan sifat saling ketergantungan antarkomponen dalam ekosistem; · menjelaskan pengertian dari individu, populasi, dan komunitas; · menjelaskan pengertian dari kepadatan populasi; · menjelaskan peran faktor abiotik dalam ekosistem; · menjelaskan ketergantungan antara komponen biotik dan abiotik; · menjelaskan hubungan antara rantai makanan dan jaring-jaring kehidup an; · membuat contoh diagram rantai makanan dan jaring-jaring kehidupan; · menjelaskan bahwa matahari adalah sumber energi utama bagi makhluk hidup; · membedakan pengertian dari simbiosis mutualisme, komensalisme, dan parasitisme serta memberikan contohnya.
+
+II. Materi Pokok · Satuan-Satuan Kehidupan dalam Ekosistem · Komponen-Komponen Penyusun Kehidupan · Interaksi Antarkomponen Ekosistem · Rantai Makanan dan Jaring-Jaring Kehidupan · Arus Energi dalam Rantai Makanan · Interaksi Antarorganisme dalam Ekosistem
+
+84
+
+RPP Eksplorasi Alam SMP 1
+
+III. Metode Pembelajaran 1. Eksplorasi sumber bacaan yang relevan; 2. Praktik pengamatan satuan-satuan dalam ekosistem; 3. Diskusi tentang komponen-komponen ekosistem dan interaksinya.
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-24 Kegiatan Awal Guru menggali pengetahuan awal siswa dengan menanyakan arti kata ekosistem, seperti yang diperoleh waktu sekolah dasar. Selanjutnya, guru memberi motivasi siswa dengan menayangkan gambar berbagai ekosistem. Guru mengingatkan kembali perbedaan antara biotik dan abiotik.
+Kegiatan Inti · Guru mempresentasikan tentang ekosistem dan satuan-satuan kehidupan
+dalam ekosistem, kemudian meminta siswa menanggapinya. · Siswa melakukan Aktivitas Siswa 17.1 halaman 230, buku Eksplorasi Ilmu
+Alam 1, untuk mengenal individu, populasi, dan komunitas. · Guru meminta siswa menyebutkan komponen-komponen dalam ekosistem
+dan interaksi antarkomponen ekosistem. · Siswa menyebutkan konsep-konsep penting tentang komponen ekosistem
+dan interaksi antarkomponen ekosistem. · Guru meminta siswa menuliskan konsep-konsep penting tentang komponen
+ekosistem dan interaksinya.
+Kegiatan Akhir · Guru membimbing siswa merangkum pengertian dan contoh individu,
+populasi serta komunitas. · Guru membimbing siswa untuk merangkum komponen-komponen dalam
+ekosistem. · Guru membimbing siswa menggambar diagram interaksi antara produsen,
+konsumen, dan pengurai.
+Pertemuan Ke-25 Kegiatan Awal Guru memberi apersepsi kepada siswa dengan memberikan pertanyaan tentang pengertian individu dan populasi. Selanjutnya, guru bertanya tentang peranan masing-masing komponen biotik dan ekosistem. Guru memberi apersepsi tentang interaksi antara produsen, konsumen, dan pengurai. Selanjutnya, guru memberi motivasi dengan pertanyaan bagaimana sifat interaksi antara tumbuh an budi daya dengan gulma.
+
+RPP Eksplorasi Alam SMP 1
+
+85
+
+Kegiatan Inti · Guru meminta siswa menjelaskan pengertian dari rantai makanan dan
+jaring-jaring kehidupan serta arus energi dalam rantai makanan. · Siswa menggarisbawahi konsep penting tentang materi yang membahas
+rantai makanan dan jaring-jaring kehidupan. · Guru menunjuk perwakilan siswa untuk mendefinisikan rantai makanan
+dan jaring-jaring kehidupan. · Guru menunjuk siswa lain untuk membuat contoh diagram rantai makanan. · Guru menuliskan sepuluh nama makhluk hidup, kemudian siswa diminta
+membuat diagram jaring-jaring kehidupan berdasarkan nama-nama makhluk hidup tersebut. · Guru menunjuk perwakilan siswa untuk membuat diagram tentang arus energi dalam rantai makanan. · Guru meminta siswa mendiskusikan interaksi organisme yang dibedakan menjadi tiga macam, yaitu predasi, kompetisi, dan simbiosis. · Siswa mendefinisikan dan memberi contoh pola interaksi berupa predasi dan kompetisi. · Siswa membedakan macam-macam simbiosis dan memberikan contoh masing-masing simbiosis. · Guru meminta wakil dari siswa menjelaskan perbedaan tentang predasi, kompetisi, dan simbiosis.
+Kegiatan Akhir · Guru membimbing siswa mendefinisikan rantai makanan dan jaring-jaring
+kehidupan. · Guru membimbing siswa untuk menyimpulkan bahwa matahari merupakan
+sumber energi pada sistem biologi.
+V. Alat/Bahan/Sumber Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah
+VI. Penilaian Penilaian meliputi tes tertulis dan kinerja.
+A. Tes Tertulis 1. Jelaskan pengertian dari individu, populasi, dan komunitas serta berikan contoh masing-masing. 2. Berikan contoh yang menunjukkan bahwa ada interaksi antara komponen biotik dan abiotik dalam ekosistem.
+
+86
+
+RPP Eksplorasi Alam SMP 1
+
+3. Buatlah suatu diagram jaring-jaring kehidupan yang menunjukkan peristiwa makan dan dimakan yang terjadi antarorganisme di sekitar tempat tinggalmu.
+4. Buatlah diagram yang menunjukkan bahwa energi yang dimakan makhluk hidup berasal dari matahari.
+B. Penilaian Kinerja Penilaian ini dilakukan dengan mengamati seluruh kegiatan siswa satupersatu. Hasilnya dicatat untuk dimasukkan dalam tabel penilaian. Format penilaian kinerja sebagai berikut:
+
+Hari/Tanggal : .... Kelas/Semester : ....
+
+No. Nama
+1. 2. 3. 4. 5. dst.
+
+Aspek Penilaian
+
+Kerja Sama (0­25)
+
+Keaktifan Siswa (0­25)
+
+Presentasi (0­25)
+
+Pelaporan
+
+Jumlah
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+87
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 26 ­ 28
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 7. Memahami saling ketergantungan dalam ekosistem.
+
+Kompetensi Dasar : 7.2 Mengidentifikasi pentingnya keanekaragaman makhluk
+
+hidup dalam pelestarian ekosistem.
+
+Indikator
+
+: · Mengemukakan pentingnya membudidayakan tumbuh
+
+an/hewan langka.
+
+· Mendeskripsikan usaha-usaha yang dapat dilakukan
+
+manusia untuk pelestarian ekosistem.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menjelaskan pengertian sumber daya alam hayati; · menjelaskan pentingnya keanekaragaman bagi kelestarian makhluk hidup; · menjelaskan manfaat sumber daya alam hayati dalam bidang IPA dan ling kungan; · menyebutkan usaha-usaha manusia dalam menjaga kelestarian sumber daya alam hayati.
+
+II. Materi Pokok · Keanekaraman pada Makhluk Hidup · Pentingnya Keanekaragaman bagi Kehidupan Makhluk Hidup · Keanekaragaman Sumber Daya Alam Hayati di Indonesia · Pelestarian Sumber Daya Alam Hayati
+
+III. Metode Pembelajaran 1. Eksplorasi sumber bacaan yang relevan; 2. Praktik yang menunjukkan adanya keanekaragaman yang menguntungkan kelestarian hidup; 3. Diskusi tentang peranan manusia dalam kaitannya dengan kelestarian sumber daya alam hayati.
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-26 Kegiatan Awal Guru menggali pengetahuan siswa tentang keanekaragaman makhluk hidup. Selanjutnya, guru memberikan motivasi dengan bertanya tentang perbedaan
+
+88
+
+RPP Eksplorasi Alam SMP 1
+
+dan persamaan antara tumbuhan dan hewan untuk menunjukkan keanekaragaman makhluk hidup. Guru merangsang siswa dengan macam-macam gambar keanekaragaman tumbuhan dan hewan. Selanjutnya, guru bertanya kepada siswa tentang keuntungan dan kerugian keanekaragaman makhluk hidup terhadap kelestarian suatu jenis makhluk hidup.
+Kegiatan Inti · Siswa diminta membaca buku dan menemukan konsep penting tentang
+keanekaragaman makhluk hidup untuk ditulis pada papan tulis. · Siswa diminta membuat pertanyaan dan jawaban dari konsep penting yang
+dituliskan siswa. Siswa mendiskusikan pertanyaan dan jawaban yang telah ditulis, dan ditanggapi siswa lain. · Siswa diminta mencari informasi tentang keanekaragaman pada tumbuhan dan hewan. · Siswa diminta menyebutkan keuntungan dan kerugian yang diperoleh suatu jenis makhluk hidup akibat adanya keanekaragaman makhluk hidup.
+Kegiatan Akhir Guru mengarahkan siswa untuk menyimpulkan keanekaragaman pada tumbuh an dan hewan. Guru membimbing siswa untuk dapat menyimpulkan keuntung an dan kerugian yang diperoleh suatu jenis makhluk hidup akibat adanya keanekaragaman makhluk hidup.
+Pertemuan Ke-27 Kegiatan Awal Guru merangsang siswa dengan menunjukkan macam-macam gambar taman nasional, kebun binatang, atau daerah cagar alam yang ada di Indonesia. Selanjutnya, guru bertanya tentang manfaat sumber daya alam serta cara pelestariannya. Guru memberikan informasi bahwa akan segera diadakan ulangan harian.
+Kegiatan Inti · Guru meminta siswa berdiskusi tentang keanekaragaman sumber daya alam
+hayati di Indonesia dan upaya pelestariannya. · Siswa mempresentasikan konsep-konsep penting yang ditemukan tentang
+hal tersebut.
+Kegiatan Akhir Guru mengarahkan siswa untuk dapat menyimpulkan keanekaragaman sumber daya alam hayati di Indonesia dan upaya pelestariannya.
+Pertemuan Ke-28 Kegiatan Awal Guru memberikan informasi bahwa akan segera diadakan ulangan harian.
+
+RPP Eksplorasi Alam SMP 1
+
+89
+
+Kegiatan Inti · Siswa diberi kesempatan untuk membaca materi selama sepuluh menit. · Siswa diminta menjawab pertanyaan yang telah disediakan guru sebagai
+bahan ulangan harian.
+Kegiatan Akhir Guru mengumpulkan hasil ulangan harian.
+V. Alat/Bahan/Sumber Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah
+VI. Penilaian
+Tes Tertulis 1. Jelaskan manfaat dari keanekaragaman bagi kelangsungan makhluk hidup
+suatu spesies. 2. Jelaskan manfaat sumber daya alam hayati dalam bidang ekonomi. 3. Berikan dua contoh kegiatan manusia yang berdampak negatif terhadap
+lingkungan. 4. Sebutkan usaha-usaha manusia untuk menjaga kelestarian sumber daya
+alam hayati. 5. Jelaskan manfaat sumber daya alam hayati bagi lingkungan.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+90
+
+RPP Eksplorasi Alam SMP 1
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 29 dan 30
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 7. Memahami saling ketergantungan dalam ekosistem.
+
+Kompetensi Dasar : 7.3 Memprediksi pengaruh kepadatan populasi manusia
+
+terhadap lingkungan.
+
+Indikator
+
+: · Memperkirakan hubungan ukuran populasi penduduk
+
+dengan kebutuhan air bersih dan udara bersih.
+
+· Memperkirakan hubungan ukuran populasi penduduk
+
+dengan kebutuhan pangan.
+
+· Memperkirakan hubungan ukuran populasi penduduk
+
+dengan ketersediaan lahan.
+
+· Menjelaskan pengaruh peningkatan populasi penduduk
+
+terhadap kerusakan lingkungan.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menjelaskan sifat saling ketergantungan untuk memperkirakan pengaruh kepadatan populasi manusia terhadap lingkungan; · menjelaskan sejarah pertumbuhan penduduk; · menghitung angka pertambahan penduduk; · menyimpulkan faktor-faktor yang mempengaruhi dinamika penduduk; · menghitung persentase pertambahan penduduk; · menjelaskan pengaruh kepadatan populasi manusia terhadap persediaan udara dan air bersih; · menjelaskan pengaruh kepadatan populasi manusia terhadap kebutuhan lahan pertanian; · menjelaskan pengaruh kepadatan populasi manusia terhadap kerusakan lingkungan.
+
+II. Materi Pokok · Dinamika Penduduk · Dampak Peningkatan Kepadatan Penduduk
+
+III. Metode Pembelajaran 1. Eksplorasi pada sumber bacaan dan berbagai sumber dan relevan; 2. Diskusi tentang faktor-faktor yang mempengaruhi dinamika penduduk;
+
+RPP Eksplorasi Alam SMP 1
+
+91
+
+3. Pemecahan masalah menghitung pertumbuhan penduduk dan kepadatan penduduk.
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-29 Kegiatan Awal Guru memberi apersepsi kepada siswa dengan menayangkan sebuah gambar penduduk yang padat pada suatu area. Kemudian, guru menanyakan pendapat siswa bagaimana keadaan penduduk di area tersebut. Siswa diminta menyebutkan faktor-faktor yang mempengaruhi kepadatan penduduk. Selanjutnya, guru memberikan motivasi dengan memberikan pertanyaan, "Apakah pe ngaruh negatif dan positif dari kepadatan penduduk?"
+Kegiatan Inti · Guru meminta siswa membaca buku siswa yang menguraikan tentang per-
+tumbuhan penduduk dan faktor-faktor yang mempengaruhi pertumbuhan penduduk di Indonesia. · Siswa diminta menggarisbawahi konsep-konsep penting tentang materi tersebut dan menuliskan konsep-konsep tersebut di buku tugas. · Siswa diminta membuat pertanyaan dan jawaban berdasarkan konsep pen ting yang ditulis. · Siswa diminta mendikusikan pengertian dari dinamika penduduk. · Siswa diminta menjelaskan faktor-faktor yang mempengaruhi dinamika penduduk. · Siswa diminta mencari informasi tentang sejarah pertumbuhan penduduk Indonesia. · Siswa memecahkan masalah tentang pertumbuhan penduduk yang diberikan guru. · Pada bagian akhir, guru memantapkan pemahaman siswa dengan penegasan tentang faktor-faktor yang mempengaruhi dinamika penduduk serta penggu naan rumus
+Pt = Po(1 + r)n untuk menghitung pertumbuhan penduduk.
+· Siswa diminta menghitung persentase pertambahan penduduk.
+Kegiatan Akhir · Guru membimbing siswa untuk merangkum materi pelajaran dengan tanya
+jawab kepada siswa. · Guru memberi tugas kepada siswa
+
+92
+
+RPP Eksplorasi Alam SMP 1
+
+Pertemuan Ke-30 Kegiatan Awal Guru memberi apersepsi kepada siswa dengan pertanyaan tentang usaha-usaha manusia untuk memenuhi kebutuhan hidupnya. Selanjutnya, guru memberi motivasi kepada siswa untuk memperkirakan apa yang akan terjadi pada lingkungan, jika manusia dengan segala cara berusaha untuk memenuhi kebutuhan hidup.
+Kegiatan Inti · Siswa diminta menguraikan tentang dampak peningkatan kepadatan pen-
+duduk terhadap lingkungan. · Guru meminta siswa menyebutkan konsep penting yang berhubungan
+dengan dampak peningkatan kepadatan penduduk. · Guru menunjuk wakil siswa menuliskan konsep-konsep penting pada papan
+tulis. · Guru meminta siswa membuat pertanyaan berdasarkan konsep penting yang
+ditulis. · Siswa diminta diskusikan konsep-konsep penting yang berkaitan dengan
+pengaruh peningkatan populasi manusia terhadap sumber air, persediaan udara bersih, kebutuhan lahan, ketersediaan pangan, dan kerusakan lingkungan.
+Kegiatan Akhir · Guru membimbing siswa merangkum materi pelajaran. · Guru memberi PR kepada siswa tentang hubungan pertambahan penduduk
+dengan kebutuhan pangan.
+V. Alat/Bahan/Sumber Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah
+VI. Penilaian Penilaian, meliputi tes tertulis dan kinerja.
+A. Tes Tertulis 1. Jelaskan apa yang dimaksud dengan dinamika penduduk. 2. Sebutkan faktor-faktor yang mempengaruhi dinamika penduduk. 3. Pada tahun 1971 pertumbuhan penduduk Indonesia kira-kira 2,3% tiap tahun, apakah artinya?
+
+RPP Eksplorasi Alam SMP 1
+
+93
+
+4. Jumlah penduduk pada suatu kota adalah 850.000 jiwa, jika tingkat pertumbuhan penduduk tiap tahun adalah 1,3%, berapa jumlah penduduk kota itu 10 tahun yang akan datang?
+5. Sebutkan dampak yang terjadi akibat dari peningkatan kepadatan penduduk.
+6. Bagaimana sejarah pertumbuhan penduduk di Indonesia? 7. Apa hubungan antara jumlah penduduk dengan jumlah udara bersih
+yang menipis? 8. Mengapa persediaan pangan dapat habis apabila jumlah penduduk
+meningkat? 9. Jelaskan pengaruh peningkatan populasi penduduk terhadap kerusak
+an lingkungan. 10. Bagaimana cara mengatasi peningkatan pertumbuhan penduduk?
+B. Penilaian Kinerja Penilaian ini dilakukan dengan mengamati seluruh kegiatan siswa satupersatu. Hasilnya dicatat untuk dimasukkan dalam tabel penilaian. Format penilaian kinerja sebagai berikut:
+Hari/Tanggal : .... Kelas/Semester : .... Judul Kegiatan : Dampak Peningkatan Kepadatan Penduduk
+
+Aspek Penilaian
+
+No.
+
+Nama
+
+Keterampilan Bertanya (0­30)
+
+Keterampilan Menggaris bawahi (0­30)
+
+Keterampilan Merangkum
+(0­40)
+
+Jumlah
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+dst.
+
+Keterangan 1. Keterampilan bertanya:
+· merumuskan 5 pertanyaan dengan baik skor 30; · merumuskan 4 pertanyaan dengan baik skor 24; · merumuskan 3 pertanyaan dengan baik skor 18;
+
+94
+
+RPP Eksplorasi Alam SMP 1
+
+· merumuskan 2 pertanyaan dengan baik skor 12; · merumuskan 1 pertanyaan dengan baik skor 6. 2. Keterampilan menggarisbawahi: · menggarisbawahi 5 konsep penting dengan baik skor 20; · menggarisbawahi 4 konsep penting dengan baik skor 15; · menggarisbawahi 3 konsep penting dengan baik skor 12; · menggarisbawahi 2 konsep penting dengan baik skor 8. 3. Keterampilan merangkum konsep penting: · merumuskan 5 rangkuman konsep penting dengan baik dan benar
+skor 50; · merumuskan 4 rangkuman konsep penting dengan baik dan benar
+skor 40; · merumuskan 3 rangkuman konsep penting dengan baik dan benar
+skor 30; · merumuskan 2 rangkuman konsep penting dengan baik dan benar
+skor 20; · merumuskan 1 rangkuman konsep penting dengan baik dan benar
+skor 10; · tidak dapat merumuskan rangkuman dengan baik dan benar skor
+0.
+
+Mengetahui, Kepala Sekolah
+
+Dilaksanakan, ........................... Guru IPA
+
+(___________________) NIP. ................................
+
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+95
+
+Rencana Pelaksanaan Pembelajaran
+
+Mata Pelajaran : IPA
+
+Kelas/Semester : VII/2
+
+Pertemuan Ke- : 31 dan 32
+
+Alokasi Waktu : @ 2 jam pelajaran
+
+Standar Kompetensi : 7. Memahami saling ketergantungan dalam ekosistem.
+
+Kompetensi Dasar : 7.4 Mengaplikasikan peran manusia dalam pengelolaan
+
+lingkungan untuk mengatasi pencemaran dan kerusakan
+
+lingkungan.
+
+Indikator
+
+: · Menjelaskan konsekuensi penebangan hutan dan penga
+
+ruhnya terhadap kerusakan lingkungan (misalnya,
+
+kondisi tanah dan keanekaragaman hayati) serta upaya
+
+mengatasinya.
+
+· Menjelaskan pengaruh pencemaran air, udara, dan tanah
+
+kaitannya dengan aktivitas manusia serta cara mengata-
+
+sinya.
+
+· Mengusulkan cara penanggulangan pencemaran dan
+
+kerusakan lingkungan.
+
+I. Tujuan Pembelajaran Setelah pembelajaran ini, diharapkan kamu mampu · menyebutkan akibat dari penebangan hutan secara liar; · mengusulkan upaya-upaya untuk mencegah penebangan hutan secara liar; · menjelaskan penyebab dan efek polusi air serta tanah; · menjelaskan penyebab dan efek polusi udara; · mengusulkan penanggulangan pencemaran secara administratif; · menyebutkan contoh peran individu dan masyarakat dalam mencegah pencemaran lingkungan.
+
+II. Materi Pokok · Pengawetan Tanah · Pengawetan Hutan · Kerusakan dan Pencemaran Lingkungan · Dampak Pencemaran Lingkungan · Penanggulangan Pencemaran · Peran serta Individu dalam Pencegahan Pencemaran Lingkungan
+
+III. Metode Pembelajaran 1. Eksplorasi sumber bacaan yang relevan; 2. Diskusi tentang pencemaran lingkungan dan dampaknya.
+
+96
+
+RPP Eksplorasi Alam SMP 1
+
+IV. Langkah-Langkah Pembelajaran
+Pertemuan Ke-31 Kegiatan Awal Guru memberi apersepsi dengan menunjukkan kepada siswa sebuah stoples yang berisi air keruh yang diambil dari suatu sungai. Selanjutnya, siswa diberi pertanyaan, misalnya sebagai berikut. · Mengapa air dalam stoples tersebut keruh dan kotor? · Apa yang terjadi jika stoples tersebut diisi ikan?
+Kemudian, guru memberikan motivasi dengan menanyakan kepada siswa apakah di lingkungan kita juga terjadi hal-hal berkaitan dengan pencemaran dan kerusakan lingkungan.
+Kegiatan Inti · Guru meminta siswa menguraikan tentang cara pengawetan tanah dan
+hutan. · Guru mengadakan tanya jawab dengan siswa tentang faktor-faktor yang
+mendorong manusia melakukan penebangan hutan. · Siswa diarahkan untuk menemukan ide pokok yang berkaitan dengan
+macam-macam pencemaran/polusi lingkungan. · Siswa diminta menemukan ide pokok dari buku bacaan yang menguraikan
+tentang cara-cara penanggulangan pencemaran. · Siswa diminta melakukan diskusi yang membahas tentang macam-macam
+pencemaran dan cara penanggulangannya. · Siswa diminta mempresentasikan hasil diskusi tentang penanggulangan
+pencemaran.
+Kegiatan Akhir · Guru membimbing siswa merangkum materi pelajaran hari itu. · Guru memberi tugas pada siswa untuk membuat usulan kepada pemerintah
+daerah tentang penanggulangan terhadap pencemaran udara, tanah, air, dan polusi suara.
+Pertemuan Ke-32 Kegiatan Awal Guru memberi apersepsi kepada siswa tentang macam-macam polusi dan penyebabnya. Selanjutnya, guru memberi motivasi kepada siswa dengan pertanyaan tentang partisipasi kita dalam mencegah dan menanggulangi pencemaran terhadap lingkungan.
+Kegiatan Inti · Guru membagi siswa dalam kelompok-kelompok kecil. Tiap kelompok
+terdiri atas empat siswa.
+
+RPP Eksplorasi Alam SMP 1
+
+97
+
+· Masing-masing kelompok siswa mendiskusikan peran serta dalam mencegah dan menanggulangi pencemaran, baik secara individu ataupun sebagai anggota masyarakat, kemudian mempresentasikan hasil diskusi di depan kelas.
+Kegiatan Akhir · Guru membimbing siswa merangkum materi pelajaran. · Guru memberi PR kepada siswa.
+V. Alat/Bahan/Sumber/Bahan Belajar
+Sumber Belajar Buku Eksplorasi Ilmu Alam 1, Tiga Serangkai
+Sarana/Media Lingkungan sekitar sekolah
+VI. Penilaian
+Tes Tertulis 1. Sebutkan lima cara yang dilakukan untuk mengawetkan hutan. 2. Jelaskan penyebab terjadinya polusi udara dan cara menanggulanginya. 3. Jelaskan cara penanggulangan pencemaran secara edukatif. 4. Berikan lima contoh tindakan nyata yang dapat kita lakukan untuk menang-
+gulangi pencemaran. 5. Apakah yang dimaksud dengan hujan asam? Sebutkan akibat yang ditim-
+bulkan oleh hujan asam. 6. Mengapa penebangan hutan secara liar dilarang oleh pemerintah? 7. Benarkah penggunaan pupuk dapat menimbulkan pencemaran air? 8. Mengapa penanggulangan pencemaran secara administratif juga perlu
+dilakukan? 9. Apa hubungan antara aktivitas manusia menggunakan detergen dengan
+gerak buka­tutup insang ikan? 10. Termasuk mengakibatkan pencemaran apakah hal-hal berikut ini.
+a. pembakaran sampah b. tinggal di dekat bandar udara c. mencuci pakaian d. pemupukan dengan bahan anorganik e. kendaraan bermotor tidak terawat
+
+98
+
+RPP Eksplorasi Alam SMP 1
+
+Mengetahui, Kepala Sekolah
+(___________________) NIP. ................................
+
+Dilaksanakan, ........................... Guru IPA
+(___________________) NIP. ................................
+
+RPP Eksplorasi Alam SMP 1
+
+99
+
+Daftar Pustaka
+Badan Standar Nasional Pendidikan. 2006. "Panduan Penyusunan Kurikulum Tingkat Satuan Pendidikan Jenjang Pendidikan Dasar dan Menengah". Jakarta.
+Depdiknas. 2006 "Permendiknas Nomor 22 Tahun 2006 tentang Standar Isi untuk Satuan Pendidikan Dasar dan Menengah". Jakarta.
+_________. 2006. "Permendiknas Nomor 23 Tahun 2006 tentang Standar Kompetensi Lulusan untuk Satuan Pendidikan Dasar dan Menengah". Jakarta.
+_________. 2006. "Permendiknas Nomor 24 Tahun 2006 tentang Pelaksanaan Permendiknas Nomor 22 Tahun 2006 tentang Standar Isi untuk Satuan Pendidikan Dasar dan Menengah dan Permendiknas Nomor 23 Tahun 2006 tentang Standar Kompetensi Lulusan untuk Satuan Pendidikan Dasar dan Menengah". Jakarta.
+Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan.
+Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional.
+
+100
+
+RPP Eksplorasi Alam SMP 1
+
+Kunci Soal Uji Kompetensi
+
+Bab 1
+
+A. 1. a 2. c 3. d 4. b 5. c 6. b 7. c 8. b 9. b 10. a 11. c 12. a
+
+13. b 14. a 15. b 16. c 17. d 18. a 19. c 20. a
+
+B. 1. Besaran adalah segala sesuatu yang dapat diukur yang memiliki nilai dan
+
+satuan. Satuan adalah pembanding dalam pengukuran yang telah ditetapkan
+
+yang menyertai nilai suatu besaran.
+
+2. Besaran pokok adalah besaran yang menjadi pangkal atau dasar untuk
+
+menyusun besaran-besaran lain. Contoh besaran panjang, massa, waktu,
+
+dan suhu. Besaran turunan adalah besaran yang satuannya merupakan
+
+gabungan dari satuan-satuan pokok. Contoh besaran luas, kecepatan, mas-
+
+sa jenis, dan gaya.
+
+3. a. Besaran pokok dan satuannya menurut SI
+
+1. panjang, satuannya meter (m),
+
+2. massa, satuannya kilogram (kg),
+
+3. waktu, satuannya sekon (s),
+
+4. kuat arus listrik, satuannya ampere (A),
+
+5. suhu, satuannya kelvin (K).
+
+b. Satuan baku adalah satuan yang telah ditetapkan terlebih dahulu dan
+
+bersifat umum atau internasional sehingga nilainya sama meskipun
+
+dilakukan pengukuran di tempat lain, misalnya satuan untuk besaran
+
+panjang adalah milimeter, sentimeter, dan meter; satuan untuk besaran
+
+volume adalah liter, meter kubik, dan sentimeter kubik (cc atau cm3).
+
+Satuan tak baku adalah satuan yang digunakan di daerah tertentu dan
+
+memiliki nilai berbeda antara satu orang atau tempat dengan orang
+
+atau tempat lain, misalnya lengan, depa, jengkal, dan langkah.
+
+4. - 100 cc = 100 cm3 = 0,0001 m3
+
+- 10 gram
+
+= 0,01 kg
+
+- 24 inci = 60 cm = 0,6 m
+
+- 72 km/jam
+
+= 20 m/s
+
+5. Tujuan ditetapkannya sistem satuan internasional adalah untuk memu-
+
+dahkan pengukuran terutama dalam komunikasi ilmiah antarnegara.
+
+6. Syarat-syarat satuan standar:
+
+1. bersifat tetap, artinya tidak berubah dalam keadaan bagaimanapun;
+
+2. bersifat internasional, artinya dapat digunakan oleh negara di seluruh
+
+dunia;
+
+RPP Eksplorasi Alam SMP 1
+
+101
+
+3. mudah ditiru, artinya mudah dibuat dan diperbanyak untuk keperluan sehari-hari.
+7. Mengukur adalah membandingkan suatu besaran dengan satuan tertentu yang telah ditetapkan.
+8. Gelas ukur dalam suatu percobaan dapat digunakan untuk mengukur volu me benda secara langsung, terutama benda yang memiliki bentuk tidak teratur.
+9. 4,548 cm dan 5,25 cm 10. 1,6 m3
+
+Bab 2 A. 1. c 2. c 3. c 4. a 5. b 6. b 7. c 8. d 9. a 10. b 11. b 12. d
+13. b 14. a 15. c B. 1. Asam asetat, asam karbonat, asam benzoat, asam klorida, dan asam sitrat.
+2. Aluminium hidroksida, kalsium hidroksida, magnesium hidroksida, natrium hidroksida, dan amonia.
+3. Kertas lakmus dalam larutan asam, basa, dan netral
+
+Indikator Larutan Asam Larutan Basa Larutan Netral
+
+Lakmus merah
+
+merah
+
+biru
+
+merah
+
+Lakmus biru
+
+merah
+
+biru
+
+biru
+
+4. Karena asam merupakan zat-zat yang melepaskan ion hidrogen (H+) jika berada di dalam air, sedangkan basa melepaskan ion hidroksida (OH-). Oleh karena itu, jika asam dan basa direaksikan akan membentuk air yang bersifat netral sehingga disebut reaksi netralisasi. Selain itu, reaksi asam dan basa akan menghasilkan garam sehingga disebut reaksi penggaraman.
+5. a. asam kuat adalah zat yang mempunyai tingkat keasaman tinggi se hingga akan melukai jika terkena kulit.
+b. asam lemah adalah zat yang mempunyai tingkat keasaman yang rendah.
+c. basa kuat adalah zat yang mempunyai tingkat kebasaan tinggi. d. basa lemah adalah zat yang mempunyai tingkat kebasaan rendah. e. indikator adalah zat yang digunakan untuk mengidentifikasi sifat suatu
+larutan. f. indikator universal adalah campuran dari beberapa indikator asam
+basa yang dapat menunjukkan pH suatu larutan dengan perubahan warna. g. pH adalah skala keasaman dan kebasaan. h. kertas lakmus adalah indikator asam basa yang memiliki warna berbeda pada larutan asam, basa, dan netral.
+
+102
+
+RPP Eksplorasi Alam SMP 1
+
+Bab 3 A. 1. d 2. b 3. c 4. b 5. a 6. b 7. c 8. c 9. b 10. d B. 1. Massa adalah jumlah materi yang terkandung dalam suatu zat dan hanya
+memiliki nilai saja. Berat adalah perkalian antara massa benda dengan percepatan gravitasi bumi yang mempengaruhi benda tersebut. 2. Unsur adalah zat tunggal yang tidak dapat dibagi (diuraikan) menjadi zat lain dengan cara reaksi kimia biasa. Senyawa adalah zat tunggal yang tersusun oleh lebih dari satu macam unsur, dengan perbandingan tertentu dan memiliki sifat berbeda dengan sifat-sifat unsur pembentuknya. Campuran adalah zat yang terdiri atas beberapa molekul zat yang berlainan jenis. 3. Perbedaan antara campuran dan senyawa.
+
+Campuran
+
+Senyawa
+
+Terdiri atas dua atau lebih zat
+
+Terdiri atas satu zat
+
+Komposisi penyusunnya bervariasi Komposisi penyusunnya selalu te
+
+tap
+
+Dibuat tanpa reaksi kimia
+
+Dibuat melalui reaksi kimia
+
+Sifat unsur penyusunnya masih tam Sifatnya sangat berbeda dengan un-
+
+pak
+
+sur penyusunnya
+
+Dipisahkan dengan cara fisika
+
+Dipisahkan dengan reaksi kimia
+
+4. Unsur merupakan zat tunggal yang tidak dapat dibagi (diuraikan) menjadi zat lain dengan cara reaksi kimia biasa. Oleh karena itu, unsur tidak mungkin dapat berubah menjadi senyawa atau campuran.
+5. Lambang unsur adalah sebagai berikut. AXC
+B
+
+Keterangan: A = nomor atom B = nama unsur C = nomor massa X = lambang unsur
+
+Bab 4 A. 1. c 2. a 3. b 4. d 5. c 6. a 7. d 8. d 9. d 10. c 11. c 12. d
+13. a 14. d 15. c 16. b 17. d 18. b 19. a 20. d 21. c 22. tidak ada (yang benar 0,477 g/cm3) 23. a 24. d 25. c B. 1. a. Listrik bukan zat karena listrik adalah istilah mengenai pergerakan
+muatan listrik yang terdapat dalam suatu benda sehingga tidak memiliki massa.
+
+RPP Eksplorasi Alam SMP 1
+
+103
+
+b. Minyak tanah merupakan zat cair karena memiliki massa dan menempati ruang.
+c. Bohlam bukan merupakan zat, tetapi alat listrik yang dapat digunakan untuk mengubah energi listrik menjadi energi cahaya dan kalor.
+d. Panas bukan merupakan zat karena tidak memiliki massa dan tidak menempati ruang. Panas merupakan sifat suhu suatu benda.
+2. Partikel zat padat memiliki jarak yang dekat sehingga gaya ikat antarpartikelnya sangat kuat. Partikel zat cair memiliki jarak yang agak berjauhan jika dibandingkan dengan zat cair. Oleh karena itu, gaya ikat antarpartikelnya masih mampu mengikat partikel-partikel zat cair agar tidak lepas dari kelompoknya. Itulah sebabnya, volume zat cair tetap meskipun bentuknya selalui berubah sesuai dengan tempatnya. Partikel penyusun gas memiliki jarak yang berjauhan sehingga gaya ikatnya sangat lemah. Oleh karena itu, gerak partikelnya sangat bebas sehingga memiliki volume dan bentuk yang selalu berubah sesuai dengan bentuk dan ruang yang dimilikinya.
+3. Zat padat dapat meleleh jika dipanasi karena masing-masing zat (benda) memiliki titik lebur tertentu.
+4. Partikel penyusun gas memiliki jarak yang berjauhan sehingga gaya ikatnya sangat lemah. Oleh karena itu, gerak partikelnya sangat bebas. Dengan demikian, gas memiliki volume dan bentuk yang selalu berubah sesuai dengan bentuk dan ruang yang dimilikinya.
+5. Cat dapat melekat pada kayu karena partikel-partikel pada cat memiliki gaya adhesi yang sangat kuat dibandingkan gaya kohesinya.
+6. kayu = 0,75 g/cm3 7. Raksa tidak membasahi dinding karena partikel-partikel pada raksa memi-
+liki gaya ikat (kohesi) yang sangat kuat. 8. Logam tidak mudah melekat pada benda lain. 9. Contoh kapilaritas adalah meresapnya air pada kain, meresapnya minyak
+pada sumbu kompor, meresapnya air pada dinding tembok, dan meresapnya air tanah pada tumbuhan. 10. Air mempunyai massa jenis lebih besar karena pada saat membeku volumenya mengembang meskipun massa tetap.
+Bab 5 A. 1. d 2. b 3. a 4. d 5. d 6. a 7. b 8. d 9. a 10. b 11. b 12. b
+13. c 14. a 15. b B. 1. a. Pemuaian adalah peristiwa bertambah besar atau bertambah panjangnya
+benda karena dipanaskan (karena suhunya dinaikkan). b. Koefisien muai luas adalah angka yang menunjukkan pertambahan
+luas setiap derajat kenaikan suhu.
+
+104
+
+RPP Eksplorasi Alam SMP 1
+
+c. Koefisien muai ruang adalah angka yang menunjukkan pertambahan volume setiap derajat kenaikan suhu.
+d. Bimetal adalah dua pelat logam yang berbeda jenisnya disatukan, bia sanya dengan cara mengeling. Jika dipanaskan, bimetal akan melengkung ke arah pelat yang memiliki angka muai panjangnya terkecil.
+2. toC = 25oC dan toF = 87oF 3. Bimetal akan melengkung ke arah pelat yang memiliki angka muai pan-
+jang terkecil. Berdasarkan gambar tersebut maka logam B memiliki koefisien muai panjang kecil daripada logam B. 4. Pada saat panci diisi air secara penuh dipanasi, air tumpah. 5. Untuk memberikan ruang pada rel saat memuai. 6. T = 580,5oC
+Bab 6 A. 1. c 2. a 3. a 4. b 5. d 6. c 7. a 8. a 9. a 10. a 11. d 12. c
+13. b 14. c 15. b 16. c 17. d 18. d 19. c 20. d B. 1. Karena besar tekanan di daerah pegunungan lebih rendah daripada di pantai.
+Pada tekanan yang lebih rendah, air mendidih lebih cepat. 2. tC = 18oC 3. mes = 0,06 kg 4. Q = 1.125 joule 5. Q = 1,5 × 106 J
+Bab 7 A. 1. a 2. b 3. b 4. d 5. a 6. a 7. b 8. c 9. b 10. d B. 1. Mencair, membeku, dan menguap.
+2. Titik didih adalah suhu pada saat terjadinya perubahan wujud cair menjadi uap; titik leleh adalah suhu pada saat terjadinya wujud zat padat menjadi cair; titik beku adalah suhu pada saat terjadinya perubahan wujud cair menjadi padat.
+3. Karena pada saat itu kalor yang diperlukan untuk mengubah wujud se hingga suhu pada saat titik leleh dan titik beku adalah sama.
+4. Faktor yang mempengaruhi kelarutan zat adalah suhu, volume pelarut, dan ukuran zat.
+5. Air merupakan pelarut yang paling baik karena air sangat mudah mela rutkan zat.
+Bab 8 A. 1. b 2. c 3. c 4. c 5. d 6. c 7. d 8. a 9. d 10. a
+
+RPP Eksplorasi Alam SMP 1
+
+105
+
+B. 1. 2. 3.
+4. 5.
+
+Air murni dari air laut dapat diperoleh dengan proses penyulingan atau distilasi. Untuk mendapatkan garam dari laut dapat dilakukan dengan proses kristalisasi. Memisahkan campuran gula pasir dengan pasir dapat dilakukan dengan cara kristalisasi. Cara memisahkan zat warna dalam tinta adalah sebagai berikut. a. Meneteskan tinta hitam di ujung kertas saring. b. Membiarkan tinta menjadi kering. c. Memasukkan ujung kertas saring ke dalam air yang dipasang secara
+tegak. d. Air yang merambat naik akan memisahkan warna tinta. Memisahkan bensin dari air hujan dapat dilakukan dengan cara penyuling an atau destilasi. Untuk mendapatkan air murni dari air teh dapat dilakukan dengan cara penguapan atau destilasi.
+
+Bab 9
+A. 1. c 2. d 3. c 4. c 5. d 6. d 7. c 8. b 9. d 10. b 11. c 12. a
+13. c 14. b 15. d B. 1. Contoh perubahan fisika: es mencair, es membeku, air menguap, siklus air
+hujan, dan kapur barus menguap. Contoh perubahan kimia: kembang api terbakar, kertas terbakar, telur busuk, besi berkarat, dan singkong menjadi tape. 2. Salah. Karena jika gula dibakar, partikel-partikel penyusun gula akan rusak dan menyusut sehingga massanya berkurang. Besi jika dibakar terus akan meleleh sehingga partikel-partikel penyusunnya berubah wujud namun massanya tetap. 3. Ciri-ciri terjadinya perubahan kimia. a. timbulnya gelembung-gelembung b. terbentuknya endapan c. terjadinya perubahan warna d. terjadinya perubahan suhu 4. ­ 5. Perubahan kimia.
+
+Bab 10
+A. 1. b 2. b 3. d 4. b 5. c 6. d 7. b 8. c 9. c 10. b B. 1. 2C2H2(g) + 5O2(g)  4CO2(g) + 2H2O(g)
+2. Karena jumlah atom dalam reaksi harus selalu sama.
+
+106
+
+RPP Eksplorasi Alam SMP 1
+
+3. Ciri-ciri terjadinya reaksi kimia: a. menghasilkan endapan b. terjadi perubahan warna c. menghasilkan gas d. terjadi perubahan suhu
+4. Satu sendok tepung memiliki permukaan yang lebih luas jika dibandingkan dengan satu sendok beras. Karena makin kecil potongan-potongan beras, makin banyak permukaannya sehingga memiliki permukaan yang lebih luas.
+5. Faktor-faktor yang mempengaruhi kecepatan reaksi kimia adalah ukuran partikel dan suhu.
+
+Latihan Ulangan Semester 1 A. 1. a 2. c 3. c 4. d 5. b 6. c 7. c 8. c 9. d 10. d 11. c 12. b
+13. c 14. a 15. a 16. b 17. c 18. c 19. b 20. a 21. c 22. d 23. d 24. c 25. c 26. ­ 27. a 28. d 29. c 30. b 31. c 32. c 34. c 35. a 36. d 37. c 38. c 39. b 40. b B. 1. Besaran pokok adalah besaran yang menjadi pangkal atau dasar untuk
+menyusun besaran-besaran lain. Contoh besaran panjang, massa, waktu, dan suhu. Besaran turunan adalah besaran yang satuannya merupakan gabungan dari satuan-satuan pokok. Contoh besaran luas, kecepatan, massa jenis, dan gaya. 2. Karena alat indra kita hanya dapat merasakan panas atau dinginnya suatu benda atau keadaan. 3. Mikrometer lebih teliti jika dibandingkan dengan jangka sorong karena ketelitian mikrometer sampai 0,01 mm. 4. Identifikasi asam, basa, dan netral dengan kertas lakmus.
+
+Indikator
+Lakmus merah Lakmus biru
+
+Larutan Asam
+Merah Merah
+
+Larutan Basa Larutan Netral
+
+Biru
+
+Merah
+
+Biru
+
+Biru
+
+5. Unsur adalah zat tunggal yang tidak dapat dibagi (diuraikan) menjadi zat lain dengan cara reaksi kimia biasa. Senyawa adalah zat tunggal yang tersusun oleh lebih dari satu macam unsur, dengan perbandingan tertentu dan memiliki sifat berbeda dengan sifat-sifat unsur pembentuknya. Campuran adalah zat yang terdiri atas beberapa molekul zat yang berlainan jenis.
+6. Sifat fisika adalah sifat suatu zat yang ditinjau dari sudut mekanis, termis, dan konduksinya. Sifat kimia adalah sifat suatu zat ditinjau dari struktur atom dan reaksinya.
+
+RPP Eksplorasi Alam SMP 1
+
+107
+
+7. Bimetal adalah dua pelat logam yang berbeda jenisnya disatukan, biasa nya dengan cara mengeling. Jika dipanaskan, bimetal akan melengkung ke arah pelat yang memiliki angka muai panjangnya terkecil.
+8. cincin = 3,5 g/cm3 9. Cara pemisahan campuran adalah pengayaan, penyaringan, sentrifugasi,
+kristalisasi, dan penyulingan (distilasi). 10. Ciri-ciri terjadinya reaksi kimia:
+a. menghasilkan endapan b. terjadi perubahan warna c. menghasilkan gas d. terjadi perubahan suhu
+
+Bab 11
+A. 1. d 2. b 3. d 4. a 5. c 6. c 7. d 8. c 9. b 10. d 11. c 12. d
+13. c 14. b 15. b B. 1. Hubungan antara ilmu pengetahuan dengan teknologi: teknologi adalah
+penerapan ilmu pengetahuan dalam kehidupan sehari-hari. 2. Dengan metode ilmiah, penelitian dan pengujian dapat dilakukan kembali
+sehingga diperoleh pengetahuan ilmiah. 3. Perumusan masalah  pengumpulan data/observasi  penyusunan hipo-
+tesis  eksperimen  kesimpulan. 4. Tidak, sebab hipotesis merupakan dugaan dari observasi data dan bukan
+merupakan hasil eksperimen/penelitian yang sesungguhnya. 5. Membuat hipotesis baru dengan data yang lebih mendukung untuk kemu-
+dian melakukan eksperimen kembali. 6. Sebab alat indra yang kita miliki mempunyai keterbatasan. 7. Keterampilan mengamati, mengelompokkan, mengomunikasikan, menaf-
+sirkan, bertanya, dan merencanakan kegiatan percobaan. 8. Mengambil kesimpulan yang hasilnya dapat dimanfaatkan untuk mening-
+katkan kesejahteraan manusia. 9. Dengan menggunakan termometer tubuh yang kita letakkan pada bagian
+ketiak. 10. Menggunakan data yang ada dan tidak memanipulasi data seperti yang
+kita inginkan.
+
+Bab 12 A. 1. a 2. b 3. a 4. b 5. c 6. b 7. b 8. a 9. d 10. d 11. c
+13. c 14. c 15. d 16. d 17. b 18. b 19. d 20. b 21. c 23. c 24. d 25. c
+
+12. c 22. d
+
+108
+
+RPP Eksplorasi Alam SMP 1
+
+B. 1. Gerak seseorang yang naik sepeda jika dilihat orang yang berada di dalam mobil tidak sama dengan orang lain yang duduk di tepi jalan. Karena tinjauan gerak bergantung pada titik acuan yang digunakan.
+2. Gerak semu adalah benda yang seolah-olah tampak bergerak, namun sebenarnya tidak. Misalnya pada saat kita naik kendaraan, pohon yang diam di tepi jalan kelihatan bergerak.
+3. Gerak mobil di jalan yang tidak rata disebut gerak berubah tidak beraturan karena kecepatan dan percepatan gerak mobil berubahnya tidak beraturan.
+4. v- = 2 m/s 5. Ya, karena keduanya menempuh lintasan yang sama panjang dan ditem-
+puh dalam waktu yang bersamaan sehingga kecepatan kedua pelari tersebut memiliki kecepatan yang sama. 6. Pada sekon ke-20. 7. vkondektur = 58 km/jam 8. a. vt = 20 km/jam b. s = 75 km 9. Ralat satuan pada grafik sumbu s (m/s) yang benar adalah (m) a. Kecepatan paling besar terjadi pada saat t = 6 s sampai t = 8 s. b. Benda berhenti pada saat jaraknya tetap, yaitu pada t = 4 s sampai t =
+6 s dan t = 8 s sampai t = 10 s. c. Jarak yang ditempuh selama 10 s adalah 10 m. 10. a. a = 120 km/jam2 b. s = 15 km
+Bab 13
+A. 1. b 2. d 3. b 4. b 5. b 6. a 7. c 8. a 9. c 10. c 11. b 12. c
+13. a 14. a 15. d B. 1. Sebab dapat diatur membuka atau menutup sesuai dengan kebutuhan akan
+cahaya. 2. Sebab cairan yang berada dalam preparat dapat mengalir ke tempat yang
+lebih rendah. 3. Sediaan yang dibuat saat sel masih segar. 4. Agar sel-selnya tampak jelas saat dilihat dengan menggunakan mikroskop. 5. Dengan menggunakan bantuan wortel atau gabus. Wortel dipotong ter-
+lebih dahulu, kemudian sayat bagian tengah ke arah pangkal. Potong daun yang akan diiris, kemudian selipkan salah satu potongan daun ke bagian tengah wortel. Setelah daun terselip, iris wortel secara melintang setipis mungkin. Selanjutnya, irisan daun diletakkan dalam kaca preparat. Tambahkan setetes air di atasnya. Tutup dengan kaca penutup. Preparat siap dilihat dengan menggunakan mikroskop.
+
+RPP Eksplorasi Alam SMP 1
+
+109
+
+6. Sebagai media untuk melakukan pembedahan. 7. Untuk melihat dengan memperbesar kenampakan bagian yang kecil. 8. Alkohol, fosforus, natrium. Cara menghindari agar bahan tersebut tidak
+terbakar adalah dengan menjauhkannya dari api. 9. Agar siswa dapat memastikan bahan yang digunakan sudah betul sebab
+bahan di laboratorium banyak yang bersifat bahaya. Adapun peletakkan simbol digunakan agar siswa mengetahui perlakuan yang harus dilakukan pada bahan tersebut. 10. A lebih benar sebab pada bahan-bahan tertentu jika dicium secara langsung dapat menimbulkan bahaya.
+
+Bab 14
+A. 1. a 2. d 3. d 4. d 5. b 6. a 7. b 8. d 9. c 10. a 11. d 12. b
+13. d 14. b 15. c 16. b 17. a 18. b 19. c 20. c B. 1. Kaki merupakan organ alat gerak pada hewan dan manusia. Oleh karena
+itu, kaki dapat digolongkan sebagai ciri khas makhluk hidup. 2. Tidak, sebab kapal terbang tidak memiliki ciri khas makhluk hidup yag
+lain, misalnya berkembang biak. 3. Tidak, misalnya udang dan penyu bergerak dengan kaki. 4. Bunga matahari bergerak mengikuti arah sinar matahari, daun putri malu
+menutup saat disentuh, akar tanaman bergerak menuju air. 5. Dari makanan yang dimakannya dan oksigen yang dihirupnya. 6. Sebab mempunyai klorofil. 7. Proses bertambahnya ukuran yang meliputi tinggi, berat, dan besar (vo
+lume). 8. Daun putri malu menutup saat disentuh atau dikenai panas. 9. Makhluk tersebut akan punah. 10. Untuk bernapas dan mengeluarkan zat sisa. 11. Tidak, ada yang bernapas menggunakan kulit tipis, trakea, dan insang. 12. Rambut getar. 13. Lentisel. 14. Karena tidak dapat kembali kebentuk semula. 15. Kemampuan menanggapi rangsangan.
+
+Bab 15 A. 1. c 2. b 3. a 4. c 5. b 6. b 7. d 8. b 9. d 10. d 11. a
+13. d 14. c 15. d 16. a 17. b 18. d 19. b 20. c 21. c 23. c 24. c 25. a 26. d 27. a 28. c 29. a 30. a B. 1. Ilmu yang mempelajari klasifikasi pada makhluk hidup. 2. Klasifikasi yang disusun berdasarkan hubungan kekerabatan.
+
+12. d 22. a
+
+110
+
+RPP Eksplorasi Alam SMP 1
+
+3. Organisme eukariotik bersel banyak yang bersifat heterotrof. 4. Karena merupakan organisme eukariotik. 5. Karena tidak mempunyai klorofil sehingga tidak dapat membuat makan-
+annya sendiri. 6. Dapat membuat makanannya sendiri, tulang daun sejajar, berakar serabut,
+biji berkeping lembaga satu. 7. Hidup di dua habitat, yaitu darat dan air. 8. Pohon mangga, rambutan, nangka, beringin, kayu putih, jati, mahoni,
+kentang, ketela pohon, sawo kecik. 9. Tidak, sebab lumba-lumba termasuk kingdom Mamalia bukan kingdom
+Pisces. 10. Kunci determinasi adalah alat bantu untuk mengidentifikasi suatu jenis
+atau kelompok makhluk hidup.
+
+Bab 16 A. 1. b 2. d 3. c 4. c 5. c 6. b 7. a 8. d 9. b 10. a 11. c 12. d
+13. a 14. a 15. b 16. d 17. c 18. c 19. a 20. d B. 1. Sel gabus.
+2. Tabel perbedaan sel tumbuhan dan sel hewan.
+
+Ciri-Ciri Kloroplas Lisosom Vakuola Dinding sel
+
+Sel Tumbuhan   
+
+Sel Hewan  -
+
+3. Persegi panjang pada sel epidermis umbi lapis bawang merah, berbentuk seperti batang pada sel penyusun jaringan tiang, tidak beraturan pada ja ringan bunga karang daun.
+4. Tidak, karena Amoeba hanya memiliki satu sel. 5. Dengan menggunakan preparat jaringan tumbuhan dan melihatnya meng-
+gunakan mikroskop. 6. Organisme banyak sel. Contohnya, manusia, tumbuhan paku, lumut, po-
+hon mangga, domba, kepiting, lumba-lumba, kuda laut, burung, katak. 7. Jaringan epidermis, jaringan tiang, jaringan bunga karang, xilem, floem. 8. Karena merupakan kumpulan dari jaringan, antara lain, darah, otot, saraf,
+dan lemak. 9. Akar berfungsi untuk menyerap air yang dibutuhkan untuk fotosintesis,
+batang berfungsi untuk menyokong tumbuhan, daun berfungsi untuk melakukan fotosintesis.
+
+RPP Eksplorasi Alam SMP 1
+
+111
+
+10. Organ penyusun sistem pengeluaran, antara lain ginjal, paru-paru, hati, dan kulit.
+Bab 17 A. 1. b 2. d 3. a 4. a 5. c 6. c 7. c 8. b 9. a 10. d 11. b 12. b
+13. a 14. d 15. c 16. b 17. b 18. b 19. c 20. c B. 1. Ekosistem alami adalah ekosistem yang terbentuk secara alami, sedangkan
+ekosistem buatan adalah ekosistem yang sengaja dibuat oleh manusia. 2. Sebab jumlah yang dimakan cenderung sebanding dengan jumlah individu
+yang bertambah. 3. Dapat, sebab cacing dapat menguraikan organisme yang telah mati men-
+jadi bagian yang lebih kecil. 4. Tidak, sebab tidak memiliki klorofil sehingga jamur merang tidak dapat
+membentuk makannya sendiri. 5. Akar pohon mengikat tanah di sekelilingnya sehingga tidak terjadi longsor,
+tumbuhan menghasilkan oksigen dalam jumlah banyak sehingga kualitas udara menjadi bagus, cacing meningkatkan kesuburan tanah. 6. Konsumen puncak adalah konsumen di mana tidak ada lagi hewan yang memakannya. 7. Simbiosis mutualisme adalah simbiosis di mana setiap organisme mendapat keuntungan dari organisme yang lain. 8. Predator adalah hewan yang memangsa hewan lain, sedangkan predasi adalah pola interaksi antara mangsa dan pemangsa. 9. Salah satu atau beberapa organisme akan mengalami kepunahan pula. 10. Kumpulan beberapa rantai makanan yang saling berhubungan.
+Bab 18 A. 1. c 2. b 3. a 4. c 5. d 6. b 7. b 8. d 9. c 10. c 11. b 12. d
+13. c 14. c 15. b B. 1. Keanekaragaman makhluk hidup yang ditandai dengan adanya beberapa
+macam spesies yang bervariasi. 2. Tumbuhan yang langka, misalnya cendana, sawo kecik, bunga bangkai. 3. Sebab pupuk yang larut dalam air, kemudian bersama air terbawa ke sugai
+atau danau dapat menimbulkan terjadinya eutrofikasi. Eutrofikasi dapat menyebabkan hewan di dalam air kekurangan tempat sebagai habitatnya atau kekurangan oksigen untuk bernapas. 4. Sebab dengan menggunakan bom rakitan, jenis, umur, dan jumlah ikan yang mati menjadi tidak terbatas. Oleh karena itu, keanekaragaman hayati dalam perairan dapat berkurang.
+
+112
+
+RPP Eksplorasi Alam SMP 1
+
+5. Sebab tumbuhan dan hewan dalam taman hutan raya dapat berkembang biak secara alami tanpa gangguan dari manusia.
+Bab 19 A. 1. d 2. a 3. c 4. b 5. c 6. a 7. d 8. b 9. c 10. d 11. b 12. a
+13. b 14. a 15. b 16. d 17. b 18. d 19. b 20. d B. 1. Makin banyak manusia, kebutuhan lahan makin besar, yaitu untuk pemukim
+an atau perumahan dan untuk lahan pertanian. 2. Sebab limbah udara dari jumlah kendaraan bermotor dan pabrik juga se-
+makin meningkat. Oleh karena itu, jumlah udara bersih sangat berkurang. 3. Jumlah penduduk yang makin meningkat mengakibatkan jumlah pangan
+yang dibutuhkan makin tinggi. Oleh karena itu, manusia membuka lahan pertanian dan perkebunan di areal hutan. Akibatnya, areal hutan menjadi semakin sempit. 4. Dengan membangun taman kota dan jalur hijau. 5. Penebangan hutan dapat menyebabkan longsor dan banjir, penambangan dapat menyebabkan pencemaran air sungai. 6. Penanaman pohon di lingkungan sepanjang jalan. 7. Sebab teknologi penghasil pangan di negara maju sudah berkembang pesat sehingga kebutuhan pangan di negara tersebut dapat tercukupi. 8. Ada, akar pohon dapat mengikat air hujan dan partikel tanah di bawahnya. Jika pohon ditebang maka air hujan yang jatuh tidak diikat oleh akar-akar pohon. Akibatnya, banjir dan tanah longsor akan terjadi. 9. Sebab luas tanah di pantai, terutama tanah yang dijadikan sebagai pemukiman akan semakin sempit oleh adanya abrasi. 10. Melakukan penebangan hanya terhadap pohon yang sudah cukup usia (ti dak terlalu muda. Selain itu perusahaan tersebut juga harus mengusahakan reboisasi, yaitu penanaman hutan kembali.
+Bab 20 A. 1. b 2. b 3. c 4. b 5. d 6. c 7. d 8. a 9. a 10. c B. 1. Dengan melakukan reboisasi, menebang hutan dengan sistem tebang pilih,
+mengolah limbah industri sebelum dibuang ke lingkungan, mengembangkan energi ramah lingkungan. 2. Polusi adalah pencemaran lingkungan, sedangkan polutan adalah penyebab polusi. 3. Sebab dapat menyebabkan terbentuknya asap kabut fotokimia, mengganggu sistem pernapasan, mengganggu pengikatan oksigen dalam darah, dan menimbulkan efek rumah kaca.
+
+RPP Eksplorasi Alam SMP 1
+
+113
+
+4. Sebab dengan daur ulang kita dapat memanfaatkan barang bekas atau limbah untuk digunakan menjadi barang baru.
+5. Sebab hutan memiliki manfaat yang sangat besar, antara lain menghasilkan oksigen yang dibutuhkan untuk pernapasan, mengikat tanah dan air hujan sehingga tidak terjadi banjir dan longsor, serta sebagai habitat berbagai tumbuhan dan hewan.
+
+Latihan Ulangan Semester 2 A. 1. d 2. a 3. a 4. b 5. b 6. c 7. b 8. b 9. b 10. c 11. c 12. a
+13. d 14. d 15. c 16. b 17. d 18. d 19. a 20. c 21. a 22. a 23. a
+24. a 25. b 26. b 27. c 28. b 29. b 30. b 31. b 32. c 33. c 34. a
+35. a 36. c 37. d 38. d 39. d 40. c 41. c 42. b 43. d 44. c 45. c
+46. b 47. c 48. a 49. d 50. d 51. b 52. b 53. b 54. a 55. c B. 1. Cermin datar bersifat memantulkan cahaya, sedangkan cermin cekung
+bersifat mengumpulkan cahaya. 2. s = 60 m 3. Bernapas, bergerak, tumbuh dan berkembang biak, memerlukan makanan,
+mengeluarkan zat sisa, beradaptasi, peka terhadap rangsangan. 4. Tata nama dalam klasifikasi yang menunjukkan nama suatu spesies ke
+tentuan terdiri atas dua kata, kata pertama menunjukkan marga dan kata kedua menunjukkan jenis. Kata pertama dimulai dengan huruf besar, sedangkan kata kedua dimulai dengan huruf kecil. Penulisan nama tersebut miring atau digarisbawahi per kata. Misalnya, Solanum tuberosum atau Solanum tuberosum. 5. Tabel perbedaan sel tumbuhan dan sel hewan.
+
+Ciri-Ciri Kloroplas Lisosom Vakuola Dinding sel
+
+Sel Tumbuhan   
+
+Sel Hewan  -
+
+6. Sel  jaringan  organ  sistem organ  individu. 7. Hutan sebagai tempat hidup berbagai tumbuhan dan hewan. Jika hutan
+lestari maka organisme yang tinggal di dalammya akan lestari pula. Namun, jika hutan mengalami kerusakan maka organisme di dalamnya akan sengsara hingga mengalami kepunahan. 8. Suaka margasatwa adalah kawasan suaka alam yang mempunyai ciri khas berupa keanekaragaman jenis satwa tertentu, sedangkan cagar alam adalah
+
+114
+
+RPP Eksplorasi Alam SMP 1
+
+kawasan suaka yang karena keadaan alamnya mempunyai kekhasan tumbuhan. 9. Sebab dapat kesengsaraan bahkan menimbulkan kepunahan suatu organisme. 10. Manusia dapat melakukan berbagai hal untuk mengatasi pencemaran dan kerusakan lingkungan, antara lain melakukan reboisasi, daur ulang, peng olahan limbah, penangkaran tumbuhan dan hewan, serta mengurangi pemakaian benda-benda yang menimbulkan pencemaran, misalnya kendaraan bermotor.
+
+RPP Eksplorasi Alam SMP 1
+
+115

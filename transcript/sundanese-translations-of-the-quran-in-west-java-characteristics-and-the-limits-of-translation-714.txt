@@ -1,0 +1,803 @@
+DINIKA Academic Journal of Islamic Studies Volume 2, Number 2, May - August 2017
+ISSN: 2503-4219 (p); 2503-4227 (e) DOI: 10.22515/dinika.v4i2.1713
+Sundanese Translations of the Quran in West Java: Characteristics and the Limits of Translation
+Jajang A Rohmana UIN Sunan Gunung Djati Bandung email: jajangarohmana@uinsgd.ac.id
+Abstract There is no target language can fully represent the source language.This study focuses on the problem of differences, uniqueness and limitations of Sundanese as the target language in accommodating Arabic Quran, using the linguistic approach to translation. I use eleven translations of the Quranic Sundanese as the main object. This study shows that there is a similar structure of Sundanese language in the midst of variations of the translation of the Quran. I confirm that the translation of the Quran in Sundanese has limitations and barriers,such as thechange of lexical, word types and unit of semantic and structure of sentences.The most complicated is translation in the form of Sundanese metrical verse or dangding. The translations of the Quran in Sundanese, unlike the Bible translations in Christianity, tend to be fettered by the structure of source language.The Sundanese translators generally difficult to use the structure of target language, because it is bounded by their loyalties to the source language. Therefore, there are various compromises were taken by translators to bridge the complexity between both target and source language structures. It is an attempt to show inability of Sundanese language to accommodate Arabic language in the midst of rich and complexity of the language.
+Keywords: translation, the Quran,Arabic, Sundanese, characteristics
+
+164
+
+Jajang A Rohmana
+
+Introduction This paper began its discussion with a Sundanese commentator of
+the Quran who once delivered a speech at a national seminar in Bandung. He claimed that Sundanese language is equivalent and more closer to the Arabic word than bahasa Indonesia. The Arabic sentences of jawabal-sar , for instance, is also can be found in Sundanese. He sets an example of the sentence fa ja'a, then he (Abraham) turned quickly, in Arabic Quran surah 51 Al-Dzariyat: 26.1 The sentence fa ja'a have a means of the response as immediate as possible is closer to the Sundanese sentence jol dating in the form of idiomatic expressions (kecap anteuran). The sentence means that the subject committed to the situation at the beginning of arrival time. (Djajasudarma 1986: 17)
+Sundanese language is one of the Western Autronesian languages that spoken by 40 million people in West Java. (Leo Suryadinata 2003: 38) Sundanese Muslim mostly believe the idea of Sundanese language has a superiority in the translation of the Quran than bahasa Indonesia. They believe that Sundanese is richer in its structure and vocabulary than bahasa. (Teeuw 1961: 40-41); (Teeuw 1967: 2) Bahasa Indonesia as a unitary language that declared by nationalist movement in 1928 was seen as too "youngish" than Sundanese. It could not adequately accommodate the source language of Arabic Quran. Bahasa Indonesia as the national language of Indonesia initially refers to the Malay language. It was
+
+1 *An earlier version of this paper was presented at International Conference and Workshop "The Translation of the Qur'an in Indonesia," July 30-31, 2018, at the State Islamic University Sunan Kalijaga Yogyakarta. I am grateful to Johanna Pink and the participant for their valuable comments. As ever, I remain responsible for the arguments advanced in this paper.
+Hal atak hadith dayf Ibrahim al-mukramin. Idh dakhalu `alayh faqalu salaman. Qal salam qawm munkarun. Faragh ila ahlih fa ja'a bi `ijl samin. Faqarrabah ilayhim qal ala ta'kulun (Has the story reached thee, of the honoured guests of Abraham? Behold, they entered his presence, and said: Peace! He said, Peace! (And thought, These seem) unusual people. Then he turned quickly to his household, brought out a fatted calf, And placed it before them, He said, Will ye not eat?), surah 51: Al-Dhariyat ayah 24-27, p. 200.
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+165
+
+regarded as a lingua franca in the Indonesian archipelago which has a long and close relationship with bahasa and other languages, such as Arabic, Persian, Sanskrit, Siamese, Chinese, Dutch, and others. (Millie 2017: 91). There are many loan words that used in bahasa Indonesia coming from local language in the Indonesian archipelago. This is different from local languages, such as Javanese, Sundanese, Buginese and others that are considered older than bahasa. Therefore, the local languages are richer in vocabulary when used to translate the Quran than Bahasa.
+However, although the local languages are richer than bahasa, but it is not true that the Sundanese language is more superior when used in the translation of the Quran. Abdul-Raof called it as an illusion of language equivalence. (Abdul-Raof 2001: 5). All languages, including bahasa Indonesia and local languages, have great barriers in order to bridge the gap to the target language. There is no target language can really represent the source language. Although there are the richness of vocabulary and variations of local language, but it does not mean could make equivalence with the Arabic Quran.
+This study focuses on the variations and barriers of Sundanese as a target language in accommodating Arabic Quran. The focus of discussion is important due to what Zimmer calledas an inter-illumination between Arabic Quran and Sundanese. (Zimmer 2000: 38); (Johns 1999: 109). Both Arabic and Sundanese language contributed to each other in producing the Quranic meaning in the Sundanese translation. Although the translation often leads to cases of poor translability, but Sundanese translators make some creativities in order to bridge the gap to Sundanese audience.
+The analysis will be concerned with the eleven Sundanese translations of the Quran. (Sanusi, n.d.); (Wiranatakoesoema, n.d.); (Suryalaga 1994); (Suryalaga 2003); (K. H. Romli 1991); (Dahlan 2005); (Huda 1997); (LPTQ Provinsi Jawa Barat 2002). I also use another works of translation in bahasa Indonesia and English as a comparison (RI 1971); ('Ali 2007).
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+166
+
+Jajang A Rohmana
+
+This study explains the richness and variations of the translation of the Quran in Sundanese, using the linguistic approach. The linguistic expert are considered to have neutral side than the translation theorists. The latter believe can transform the original one into the equivalent text in different languages (Bell 1991: 21). This study is not only important for Sundanese translators in order to realize the gap of languages, but also can prove the fault of equivalence theory in translation which believed by translation theorists and mostly Sundanese people.
+
+Translation of the Quran in the Sundanese Language This section will generally explain the development of the Sundanese
+translation of the Quran in West Java and Banten. It is important to show the long traces of the Sundanese people efforts in negotiating their languages with the Arabic Quran. I do not use the qur'anic commentaries in Sundanese language, because there are many variations of its forms and characteristics with the translations. The Sundanese commentaries of the Quran generally contains the explanations and long commentaries, in contrast to the translations which simply translate word for word of the Quran. (Rohmana 2014: 72)
+I will identify the Sundanese translations of the Quran in West Java according to three important periods. The first encompasses the period ca. 1600s-1900s during which several Arabic words in ancient Sundanese manuscripts, the manuscripts of the Quran and ancient manuscripts of the Quran with Javanese translations in pegon script appeared; the second covers the decades from the 1900s to 1930s which Sundanese translations of the Quran in pegon script appear at many pesantrens in Priangan. This period covers the tradition of Sundanese santris in learning of kitab kuning (ngalogat) at pesantren that use interliner translation, in addition in the form of Sundanese metrical verses. In the beginning of the twentieth century, there are many objections of Islamic scholars in Priangan to
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+167
+
+the translation and transliteration of the Quran into non-Arabic scripts. The third encompasses the period ca. 1930s to the present day which increasingly translations in latin script appeared and continues to be produced.
+The First Period, ca. 1600s-1900s In this period renderings of the early translation into Sundanese
+which several Arabic words in ancient Sundanese manuscripts appeared. It can be seen in the oldest manuscripts of Carita Parahiyangan, the story of holy spirits, and Sri Ajnyana that produced in the sixteenth century. Carita Parahiyangan mentioned at least four Arabic words such as duniya (the world), niyat (intention), selam (Islam), and tinja (cleansing after defecation). (Rosidi 2000: 620). Meanwhile, Sri Ajnyana called Meukah which probably refers to the name of the holy city of Mecca. (Noorduyn and Teeuw 2009: 168).
+In addition, this period is characterised by Malay and Javanese translations and commentaries in ancient quranic manuscripts. It is generally written in dluwangor saéh, European paper and others. There are four ancient qur'anic manuscripts from Bantenthat used Malay and Javanese translations in the eighteenth century. Now three manuscripts are stored at National Library (A 51; A 54; W. 277) and the rest was stored at Masjid Agung Banten. (Gallop and Akbar 2006); (Nurtawwab 2009: 49-51). According to Ekadjati and Darsa, there are 245 manuscripts of Islam, including thirteen qur'anic manuscripts and six qur'anic translations and commentaries, which stored at museums in West Java. One of these manuscripts is Kitab tafsir fatihah, the book tafsir al-Fatihah.There are also manuscripts of another disciplinary of Islamic knowledge, such as fiqh, Islamic orders (thariqah), hagiography or manaqib, prayers and the others. (Ekadjati and Darsa 1999: 425); (Nurtawwab 2009b); (Nurtawwab 2009a: 163,171); (Nurtawwab 2016: 52).
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+168
+
+Jajang A Rohmana
+
+One of manuscripts of the qur'anic translations and commentaries was stored at the Museum of Cangkuang in Garut. (Sudrajat 2005: 111); (Syatri 2013: 309-310)These qur'anic manuscripts, including Javanese or Sundanese translations and commentaries, show how these manuscripts not only written for reading the Quran, but also to understand its meaning. All the manuscripts are written in Javanese pegon script.
+The Second Period, ca. 1900s-1930s This is the period when Sundanese people increasingly use
+translations of the Quran in Sundanese language and pegon script. They do not use language levels as seen in the term aing (I) for God as a subject or speaker. The Sundanese people has not influenced yet by the standard rule of Sundanese language which generally applied by the Dutch colonial government. (Uhlenbeck 1964: 3-9); (Rosidi 2011: 121-122). Their early works are handwriting manuscripts which spreading abroad through surviving copy and then published in the form of print technology, precisely lithography. There are also the use of romanized script of the Quran, but then it raised controversial issues within Muslims cholars in Priangan. This shows that the translation and transliteration of the Quran into non-Arabic languages and romanized scripts have not been entirely accepted by all Muslims. It was regarded cannot fully accommodating the meaning of the Quran with the result that cause apprehension of disgrace of qur'anic sanctity. (Darmawan 2009: 164).
+The works of Hasan Mustapa and Ahmad Sanusi were published in this second period of qur'anic translation in Sundanese. In the 1920s, Hasan Mustapa wrote his translation and brief commentary of the Quran, Qur'anul Adhimi, the noble of the Quran. He chose 105 verses of the Quran which considered as meaningful for Sundanese people (Mustapa 1920); (Mustapa 1937); (Rosidi 1989: 389-433). In the 1900s to 1902s, he also composed more than ten thousand metrical verses of Sundanese poetry in the form of dangding, including poetic translation of the Quran.
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+169
+
+Hasan Mustapa's views are similar to Hamza Fansuri in his Malay syair, who integrated the verses of the Quran into his poetic works. (Rohmana 2015, 1-27); (Rohmana 2015b).
+However, compared to Hasan Mustapa, Ahmad Sanusi is one of the three Islamic scholars who regarded as the prolific Sundanese writers in West Java, including on the qur'anic translations and commentaries. He wrote about fifteen qur'anic translations and commentaries, such as Raudat al-`Irfan (30 volumes), Malja' al-Talibin (28 volumes, from surah Al-Fatiha to Al-A'raf: 158), Tamshiyat al-Wildan fi Tafsir al-Qur'an (n.d.), Tijan al-Ghilman f Tafsir al-Quran bi Lughah al-Sundawi (n.d.), Tafrih Qulub al-Mu'minin fi Tafsir Kalimat Surat Yasin (n.d.), Tanbih al-Hairan fi Tafsir Surat al-Dukhan (n.d.), Hidayat al-Qulub al-sibyan fi Fadl Surat Tabarak al-Mulk min al-Quran (n.d.), Kashf al-Sa'adah fi Tafsir Surat al-Waqi'ah (n.d.), Al-Safiyyah al-Wafiyyah fi Fada'il Surah Al-Fatihah (n.d.), Siraj al-Mu'minin fi Ad'iyah Surah Yasin (n.d.), Tafsir Surah al-Falaq, Tafsir Surah al-Nas, Kashf al-Awham wa alzunun fi Bayan Qawlih Ta'ala La Yamassuh illa al-Mutahharun (1928), Kanz alRahmat wa al-Lutf fi Tafsir Surat al-Kahf (1932), Usul al-Islsm fi Kalam al-Mulk al-`Allam fi Tafsir Surat al-Fatihah (1935). (Gunseikanbu 1986: 442).
+Sanusi's qur'anic translation was written in the form of interliner translation word for word which called as ngalogat (Yahya 2009). Sanusi, for instance, used the ngalogat systemin his Rau at al-`Irfan, the garden of knowledge. He puts his Sundanese translation which written sloping beneath the main text of the Arabic Quran (jenggotan, like beard). The main purpose of the ngalogat was to make Islamic student at pesantren (santri) more easier in understanding the structure of main text. Meanwhile, we can find Sanusi's brief commentary of the Quran on the edge of his works. Sanusi's word for word translation of the Quran is following the structure of the main text of Arabic Quran (Sanusi, n.d.).
+Another Sanusi's works, such as Tamsjijjatoel Moeslimin, the guidance of Muslims, led him to become involved in a polemic against some Islamic
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+170
+
+Jajang A Rohmana
+
+scholars related to the issue of qur'anic translation in 1934-1937. Although Sanusi was regarded as rashly Sundanese translators of the Quran, but Sanusi himself insisted that what he did was not translation of the Quran. Sanusi called his works as a brief Sundanese commentary of the Quran. The translation of the Quran was still considered as have to be avoided at that time. Many scholars chose to call their works as a brief commentary of the Quran, although it is more appropriate to be considered as the translation of the Quran (Darmawan 2009: 164-165).
+In addition, at the end of the nineteenth century, R.H. Moehamad Moesa (1822-1886), Chief of Penghulu Limbangan, open up the use of printing technology in order to publish Sundanese books in Priangan. His effort then followed by another Sundanese elite or ménak. (Moriyama 2005: 176). Moesa is a close friend of K.F. Holle (1829-1896), a Dutch colonial advisor. In addition to writing Sundanese books, Moesa was also reported to have translated the Quran from Dutch into Sundanese language. (Nina H. Lubis 2003: 131).
+The Third Period, ca. 1930s--present
+Since 1930s, the translation of the Quran in Sundanese held an important role in the developmentof the study of the Quran in West Java. This would be related to shift of Egypt scholars' views in 1940s. They have a notion that the translation of the Quran is not forbidden, because it is part of the qur'anic understanding or commentary (tafsir). (Darmawan 2009: 166). In addition, the idea of reformism of Islam in early twentieth century which spread in the Islamic world, including Indonesia, became another factor that increased the study of the Quran and its commentary, including qur'anic translation. At previous decades, there are some scholars who perceived that the study of the Quran at pesantren is considered as less important in learning of santri than other Islamic knowledge. Thus, it could be understood if the translation of the Quran and its commentary generally was written by many scholars who are influenced by the idea of reformism of Islam (Federspiel 1994: 46-47); (Feener 1998: 57).
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+171
+
+The translation of the Quran in Sundanese in this period then was increasingly dominated by printing books that used the romanized script, from the old Sundanese spelling to aperfectibility spelling. There are no longer debates and polemics about the use of romanized script to write the qur'anic verses as before. The use of Sundanese language in the translation of the Quran is also influenced by the standard rule of Sundanese language, such as the use of language or speech levels. There is no longer use the term aing (I) for God as the subject in the translation of the Quran, as previously were found inboth Sanusi and Mustapa's works.
+The translators backgrounds in this periodare also multiple diverse, from the variation of personal works to the works of translator team which formed by private institutions and official government of Indonesia. Each persons who translated the Quran into Sundanese can be mentioned here, such as Muhammad Kurdi, R.A.A. Wiranatakoesoema (1888-1965), K.H. Qamaruddin Shaleh(1912-1977), M. Syarief Sukandi, K.H. Abdulchalim (1887-1962), R. Hidayat Suryalaga(1941-2011), Enas Mabarti (19422014), Muhammad Romli (1889-1981), M. Djawad Dahlan (1935-2007), Miftahurrahman, Anwar Huda and Mariyah Maryati Sastrawijaya.
+Meanwhile, there are the translators team which formed by some institutions, such as K.H. Qamaruddin Shaleh, H.A.A. Dahlan and Yus Rusamsi, activists of Islamic reformism organization Persatuan Islam (the Islamic Union) who published the Sundanese translation of the Quran, Al-Amin (1971); the translators team of Kitab Suci Al-Qur'an Tarjamah Sunda (1998) from the Jemaat Ahmadiyah Indonesia (JAI); and the translators team of Tarjamah Al-Qur'an Basa Sunda (1974) and AlQur'an Miwah Tarjamahna dina Basa Sunda (2002) from the government of West Java Province and the Regional Office of Ministry of Religious Affairs in West Java (Rohmana 2014: 7-8). Some scholars of UIN Sunan Gunung Djati Bandung in cooperation with Department of Research and Development, Ministry of Religious Affairs lately plan to publish a new
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+172
+
+Jajang A Rohmana
+
+Sundanese translation of the Quranin 2019 (UIN Terjemah al-Quran Ke Bahasa Sunda 2018: 11).
+In addition, the Sundanese translatorsused a wide variety of methods of the translation of the Quran. If previously Sanusi used the interlinear translation method as well asthe form of poetic translation as seen in the work of Hasan Mustapa, there are various translation methods which used by Sundanese translators in this period, such as the translation in the form of Sundanese metrical verses (dangding and pupujian or nadoman), the use of parentheses, footnotes, dictionary types and the romanized transliteration. All these variation methods split text into two column presentationof parallel corpus of Arabic Quran text and its translation.
+In this period, the Sundanese translation of the Quran generally was also dominated by the kind of tafsiriyyah translation than literal translation (harfiyyah) and the communicative translation than semantics. The semantic translation, for instance, can be seen in word for word translation of the interlinear transation of Sanusi's Raudat al-`Irfan. Sanusi tends to use the literal translation than communicative. His translation tends to be oriented to the structure of Arabic Quran than the Sundanese language. Meanwhile, the communicative translations as seen in mostly Sundanese translations of the Quran, following to Abdul-Raof 's category, present their translations in a communicative Sundanese by emphasizing the target language rather than the source language (Abdul-Raof 2001: 15).
+However, there are also some Sundanese translations of the Quran that make another translation in bahasa Indonesia as their references. In addition, there are Sundanese commentaries of the Quran which integrated the section of translation as a first steps of their commentaries. Another translations are not only translate all surahs, but translate one juz or only one surah.
+The translation in the form of dangding, Soerat Al-Baqarah (1949), as another interesting translation in this period, was written by R.A.A.
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+173
+
+Wiranatakoesoema (1888-1965) who assisted by R.A.A. Soeriamihardja (Wiranatakoesoema, n.d.). This is the first translation in the form of Sundanese poetry of the Quran that borrowing Sundanese literary tradition of dangding. This translation in the form of dangding then was followed by R. Hidayat Suryalaga (1941-2011) who wrote Nur Hidayah: Saritilawah Basa Sunda Al-Qur'an 30 Juz Winangun Pupuh (1980) (Suryalaga 2006). Meanwhile, there is another Sundanese translation of the Quran in the form of pupujian or nadoman, a Sundanese poetic form of syair. The translation in the form of nadoman works are written by R. Hidayat Suryalaga in his Nadoman Nurul Hikmah (2001), Enas Mabarti in his Sundanese translations of several short surahs which have been published in Sundanese magazine, Manglé (1974) and some Sundanese translations in the form of nadoman which was compiled by Yus Rusyana (1970).
+Another Sundanese translations of the Quran lately used parentheses and footnotes in order to make their translations more understandable, such as Muhammad Kurdi's Al-Qur'an Sundawiyah (1927) which published by TB. Sitti Syamsiah Solo, Muhammad Romli's Qoeran Tardjamah Soenda (1950s) (A. H. M. Romli, n.d.); (Suryalaga 1994: 103-106) and Alkitabul Mubin (1974), K.H. Qamaruddin Shaleh, H.A.A. Dahlan and Yus Rusamsi's Al-Amin: Al-Qur'an Tarjamah Sunda (1971), the committee of Sundanese translation of the Qur'an of Jemaat Ahmadiyah Indonesia's Kitab Suci AlQur'an Tarjamah Sunda (1998), (Sunda 1998) and the committee of qur'anic translators, the Government of West Java Province and Regional Office of Ministry of Religious Affairs in West Java which published Tarjamah Al-Qur'an Bahasa Sunda (1974) and Al-Qur'an Miwah Tarjamahna dina Basa Sunda (2002), M. Djawad Dahlan's Al-Munir: Al-Qur'an Tarjamah Basa Sunda (2005) (Dahlan 2005), Miftahurrahman'sAl-Huda (2009) and Mariyah Maryati's Al-Hikmah: Tarjamah Al-Qur'an Basa Sunda Juz Ka-1 (2009) and Anugerah Al-Qur'anul-Karim Tarjamah Basa Sunda Juz 1 -30 (2011) (Dahlan 2005); (Sastrawijaya 2011).
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+174
+
+Jajang A Rohmana
+
+Another Sundanese translation of the Quran which lately published in the form of dictionary and word for word translation that split text into two column, such as Anwar Huda's Qomus Al-Qur'an Basa Sunda (1995) (Huda 1997). In addition, some Sundanese translations also added the romanized transliteration of the Arabic Quran into their translations, such as M. Syarief Sukandi'sTerjemah Al-Qur'an sareng Laten (1993) and Kiai Miftahurrahman's Al-Huda: Al-Qur'an Tarjamahku Basa Sunda (Transliterasi) 30 Juz (2009). (Rahman 2009).
+Some Sundanese translations of the Quran also used another translation in bahasa Indonesiaas their references. The committee of translation from the Government of West Java Province and the Regional Office of Ministry of Religious Affairs in West Java, for instance, published Tarjamah Al-Qur'an Bahasa Sunda (1974-1979) which refers to the translation of Qur'an in bahasa from Mukti Ali's edition (1974) and Saudi Arabia's (1990), Al-Qur'an dan Terjemahnya (Ichwan 2009: 420-421). The Institution of Tilawatil Qur'an Development (LPTQ) of West Java Province in cooperation with Handam Citamatra Studio was doing the same thing when published Al-Qur'an Miwah Tarjamahna dina Basa Sunda (2002) ( LPTQ Provinsi Jawa Barat 2002). It is also used lately by Mariyah Maryati in his translation of Al-Hikmah (2009) and Anugerah Al-Qur'anulKarim (2011) which refers to the translation of Saudi Arabia's edition (1990).
+The Sundanese translations are not only translate all surahs, but there are some translations that translate one juz or only one surah. There are the one juz translation, such as K.H. Qamaruddin Shaleh's Tardjamah Djuz `Amma Basa Sunda (1965) and Muqaddam Al-Qur'an Tardjamah Sunda, Juz 1 (1969) (Shaleh 1969) and Mahyuddin Syaf and Hasan Basri's Tarjamah Surah Yasin (1986).
+In addition to the various methods and references, Sundanese translation of the Quran also cannot be separated from the development
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+175
+
+of Sundanese commentaries that also integrated the translation in their first step commentaries, such as Ghajatoel Bajan (1928) by M. Anwar Sanuci, Tafsier Soerat Al-Ma'oen (1930) by K.H. Abdulchalim, Nurul-Bajan (1960) by Muhammad Romli and H.N.S. Midjaja, Ayat Suci Lenyepaneun (1984) by Moh. E. Hasim,Al-Razi (2011) by Uu Suhendar and others.
+As noted above, it can be seen that the publication of Sundanese translation of the Quran since the pre-independence period to the present day generally was considered as multiple diverse in its forms and methods. It is not only diverse in the use of script (pegon and romanized scripts), references, the form of translations (literal and tafsiriyah, semantic and communicative), the translation method (such as poetry, prose, logat, or dictionary method), its translator backgrounds (individual, committee or official institution) and the coverage oftranslation (fully translation of all surahs and the integrated translation in qur'anic commentary). The variation of qur'anic translations in Sundanese cannot be separated from the multiple diverse background of its translators, such as their educations, families, geographies, social and cultural situation, dialects and others. The variation of their backgrounds then influenced into their qur'anic translations in various forms and methods. However, there are some translations which were considered as a more better work than others and often used by Sundanese Muslims in their daily activities, including was used by other Sundanese translators as well as Sundanese commentaries of the Quran.
+
+Distinctive Feature Characterizing the Qur'anic Translation in Sundanese
+I generally explained the development of translation of the Quran in Sundanese language. This section will highlight some important characteristics of the Sundanese translation. It is important in order to Sundanese readers know about the Sundanese translationof the Quran.
+DINIKA, Volume 4, Number 2, May - August 2019
+
+176
+
+Jajang A Rohmana
+
+Although there are various types and forms of the translation, there are special characteristics that can be found in all the Sundanese translation. One of the most importants is the use of Sundanese language which regarded as an ethnic trait for Sundanese people in West Java (Rosidi 1984: 125-159); (Rosidi 2010: 188-221).
+There are some characteristics of the Sundanese translation of the Quran, such as the use of Sundanese language levels, kind of words which regarded as markers of emphasis (mah, téa, and pan), the use of idiomatic expressions, the conformance of sound and syllables that appropriated with source language, the availability of various vocabularies in Sundanese language for the Arabic Quran, the source language which adopted by the structure of Sundanese language with suffix or infix addition. This is the Sundanese distinctiveness as a language of translation that different with other languages. This is later for some people are believed to be the "superiority" of Sundanese language against bahasa Indonesia when used in the translation of the Quran.
+
+Language Levels The language levels (undak usuk basa, Javanese: unggah ungguh) are
+speech levels system in Sundanese language that relate to differences of age, position, social status, intimacy level and situation between the subject and object, speakers, the person you are talking to, and the one you are talking about. (Rosidi 1987: 19-24); (Anderson 1993: 107); (Locher 1996). This speech levels originally is derived from the Javanese-Mataram culture which then influences the Sundanese language since seventieenth century (Ayatrohaedi 1978: 11); (Suwarsih Warnaen 1993: 165). It shows the strong principle of social respect one and another in Javanese ethics (Magnis-Suseno 1991: 60) that reflects feudal culture in the past (Rosidi 2011a: 35). Since the congress of Sundanese language in 1988, the use of language levels is no longer intended as a differences of social status,
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+177
+
+but a language of mutual respect. It is now commonly used in two major
+categories of language levels, namely respectful (lemes) and disrespectful
+(loma), for oneself and others (Tamsyah 2006: 9); (Karna Yudibrata 1990:
+46-47); (Suryalaga, n.d.: 149).
+All Sundanese translators of the Quranuse the language leves in
+many variations of using both respectful and disrespectful words. They
+attempt to interpret the "egalitarian" language of Arabic Quran which
+does not use the language levels in order to suitable with the structure of
+Sundanese language. This language levels, for instance, was used in the
+translation of surah20 Thaha: 92-93: ('Ali 2007: 116)
+Ngadawuh Nabi Musa, Hei Nabi Harun naon anu ngahalangan anjeun, waktu ningali anjeun ka Bani Israil sasar kupur kabeh. Kana hanteu nurutkeun anjeun ka kaula. Naha make nyulayaan anjeun kana parentah kaula." (Sanusi, n.d.: 564).
+Musa nyarita (ka Harun dina nalika dongkapna ti gunung Thur): "He Harun! Naon nu janten pamengan ka anjeun nalika anjeun ningali ka maranehna parantos sarasab (malusyrik)". "Bet ngantep henteu tumut kana conto kang rai (dina ambek karana Alloh sareng merangan jalmijalmi nu kupur ka Mantenna)?, atanapi memang kang raka ngahaja doraka kana parentahan kang rai?" (Romli 1991: 674-675).
+Cek Musa: "Yeuh Harun! Naon anu jadi halangan keur andika, nalika andika ningali maranehna salasar?. Naha geuning andika henteu nurut ka kaula? Naha andika teh geus baha kana parentah kaula?" (Shaleh 1971: 449).
+Inyana Musa nyarita, "He, Harun! Naon anu jadi halangan keur anjeun, waktu anjeun nyaksian maranehna sasar, "Bet henteu nurut ka kaula? Naha anjeun teh baha kana parentah kaula?" (Sunda 1998: 20).
+Anjeunna (Musa) ngajawab, "Hey Harun!Naon anu matak jadi hahalang pikeun anjeun nalika anjeun ningali maranehna geus salasar. (nepikeun) ka anjeun henteu ngagugu ka kuring? Naha anjeun teh geus (ngahaja) ngarumpak kana parentah kuring?" (Rahman 2009: 639).
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+178
+
+Jajang A Rohmana
+
+Nabi Musa ngadawuh, "Yeuh Harun!Naon anu ngahalangan andika, basa andika ningali maranehna salasar?Naha andika henteu nurut ka kaula?Naha andika teh geus baha kana parentah kaula?" (Dahlan 2005: 445-446).
+Musa negor (bari ngajenggut Harun), "He Harun, naon nu ngahalangan anjeun, waktu mireungeuh maranehna geus sasab, (nepi ka) anjeun henteu nurut ka kaula? Naha anjeun ngahaja wangkelang kana parentah kaula?" (LPTQ Provinsi Jawa Barat 2002: 489).
+The above qur'anic verse told a story of Moses who admonished his brother, Aaron, after he was going home from Mount Sinai. Moses was angry that the people of Israel who were entrusted to Aaron for 40 days performing idolatry by worshiping the calf. The dialogue between these two prophets, Moses and Aaron, was told by Sundanese translators using a respectful words of language level seven with variation words for pronouns (kaula, kang rai, kuring; anjeun, kang raka, andika). It is different with other story when Sundanese translators told the dialogue between God and the Satan in surah 7 Al-A'raf: 12: ('Ali 2007: 243)
+(a) Maka mariksa Allah, naon anu nyegah ka manéh (iblis) kana heunteu daék sujud manéh ka Nabi Adam, waktu maréntah Aing ka manéh.
+(b) Ngajawab iblis, ari abdi eta leuwih hade tibatan Nabi Adam karana geus ngadamel Gusti ka abdi tina seuneu jeung ngadamel Gusti ka Nabi Adam tina taneuh. (Sanusi, n.d.: 269-270)
+The above verse translation uses of the disrespectful words and sentences (loma/talk wildly) that different with the dialogue between Moses and Aaron, such as manéh (Thee), daék sujud (bowing down), and maréntah Aing (I commanded) that is used for God as speaker (part a). The Sundanese translator uses the disrespectful words to show God's superiority against His creatures and the low position of Satan in the presence of God. On the contrary, when used for Satan as a speaker to answer the question of God (part b), the Sundanese translators use the respectful words (abdi/I,
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+179
+
+ngadamel Gusti/ Thoudidst create). The translator considers that Satan as a creature must have respect to God, even though the translator basically dislikes Satan. It shows that the translator's background as a Sundanese plays a very important role in choosing the appropriate expression in translating the Quran. Therefore, compared to other language that are not use language levels, the translation of the Quran in Sundanese language leves became one of creativities in maintaining the "local wisdom" of Sundanese culture.
+
+The Marker of Emphasis Another character of the Sundanese translation of the Quran is the
+use of the marker of emphasis, such as téa, mah, téh, baé, ogé, waé, deuih, and kénéh. These words are used as an emphasis and phrase markers. Sundanese linguists called it as panganteb, which is used to emphasise the main sentence. (Tamsyah 2001: 94). These words of emphasis cannot be translated into other languages. The word téh, mah and téa, for instance, were used to be a functional unification system for marking the information of structures of text that have different characteristics with other. The word mah is used to be a focus marker in introducing new information or showing differences. Meanwhile, the word téh is a familiar marker or information that related to a particular topic. The word téa is a marker to shows that something which has been previously talked was introduced back into the conversation (Muller-Gotama 1994: 235-236). Following Sundanese translation describes these three emphasis words, téh, mah and téa:
+Maranéhna téh torék, pireu jeung lolong. Atuh kumaha deuk barisaeunana marulang (tina sababna jeung kamunafikanana) (surah Al-Baqarah/2: 18) (Romli 1991: 21).
+Saéstuna ari jalma-jalma anu kalupur, sarua baé pikeun maranéhna mah, boh ku manéh diwawadian boh henteu diwawadian ogé, tetep baé moal ariman (surah Al-Baqarah/2: 6). (Shaleh 1971: 14).
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+180
+
+Jajang A Rohmana
+
+Anging jalma-jalma anu tobat sabada éta, jeung maranéhna (éta kapir téa) ngoméan dirina. Lantaran satemena Allah maha Jembar pangapunten tur Maha Asih(surah Ali `Imran/3: 89). (LPTQ Provinsi Jawa Barat 2002: 89).
+In the above translation, the Sundanese translators use the emphasis word téh, mah or téa to strengthen the importance of the sentence. The use of word téh, mah or téa is one of peculiarities of Sundanese language as a language of sense or the soul of language so that it will directly reach the heart and mind (Moriyama 2015: 114); (Millie 2017: 87). The emphasis words and markers were regarded as a medium or channel of Sundanese sense. The Sundanese translation will be considered less powerful to the Sundanese reader without use these emphasis words. It can be seen among Sundanese translations of the Quran which influenced by the structure of bahasa Indonesia. Sundanese people were called it as kamalayon (Malayness, likewise Malay). Following Sundanese translation shows how the structure of bahasa Indonesia have influenced its translation, look at the use of the word sahingga (bahasa: sehingga):
+Maranéhna torék, pireu, tur lolong, sahingga maranéhna moal bisa baralik deui kana jalan anu lempeng (haq) (surah Al-Baqarah/2: 18) (Rahman 2009: 6).
+
+Idiomatic Expressions In addition to the emphasis markers, another characteristic of
+Sundanese language sense in the translation of the Quran is the use of idiomatic expressions or kecap panganteur, such as pok nyarita (to say), joldatang (to come), trétnulis (to write), amdahar (to eat), dugsaré (to sleep), kunianghudang (to wake up), gékdiuk (to sit), and others. Following translation shows how these idiomatic expressions, pok nyarita and jol datang, used by the Sundanese translators:
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+181
+
+Pok caritakeun ku hidep (Muhammad), "upama bener yén ahérat téh mungguhing Allah diajangkeun pikeun maranéh wungkul, lain pikeun nu séjénna, (atuh) geura arep-arep baé (datangna) maot, upama enya mah maranéh bener (surah Al-Baqarah/2: 94) ( LPTQ Provinsi Jawa Barat 2002: 25).
+Jeung jol baé datang ti tungtung kota, hiji lalaki kalawan rurusuhan, manéhna nyarita, "Yeuh kaom kaula, geura narurut aranjeun ka éta para utusan." (surah Yasin/36: 20). (Studio 2002: 705).
+Nya torojol bojona datang ngocéak (kagét), tuluy nyabok pameunteuna nyalira bari nyarios, "(Apan kuring téh) nini-nini gabug." (surah AlZariyat/51: 24-30) ( LPTQ Provinsi Jawa Barat 2002: 866).
+The above translation shows the peculiarities of Sundanese idioms. It also can influence to the meaning of the Quran in Sundanese. The both term jol dating or torojol datang, for instance, refer to means that the
+subject who committed to the situation at the beginning of arrival time spontaneously. It is different with the term datang without jol which only
+means to come in general situation. It is also different with the translation of bahasa Indonesia that uses "dan telah datang, and has come" that does
+not refer to the beginning situation spontaneously (Djajasudarma 1986:
+17).
+
+The Richness of Vocabularies The Sundanese language, compared to bahasa Indonesia, has more
+synonymous vocabulary choices that make differences between one and others. There are many types and variations of synonymous vocabulary in Sundanese translation of the Quran. The names of suras, for instance, are translated into various words of Sundanese as can be seenin the following table:
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+182
+
+Jajang A Rohmana
+
+Surah
+Al-Nisa'/4 (the women) Al-Ra'd/13 (the thunder) Al-A zab/33 (the confederates)
+Al- aff/61 (the battle array) Al-Naba'/78 (the great news) `Abasa/80 (he frowned) Al-Tn/95 (the fig)
+
+Al-Amin
+Awéwé Guludug Komplotankomplotan Barisan Béja Baeud Buah tin
+
+Alkitabul Mubin
+Wanita
+
+JAI's Kitab SuciAlQur'an
+Awéwé
+
+Gelédék Guludug
+
+Golongan- Laskar golongan gabungan
+
+Ngabaris sabarisan
+Pawartos
+
+Barisan anu ngajajar
+Béja
+
+Baeud jamedud
+Buah loa
+
+Anu kerung Buah tin
+
+Miwah Tarjamahna Wanoja-wanoja Guludug Golongan anu ngomplot Barisan
+Carita rongkah Baeud jamedud Buah tin
+
+Al-Huda
+Awéwé
+Guludug
+Golongan anu ngahariji Jajaran
+Béja anu rongkah Beungeut anu camerut Buah tin
+
+In addition to the surah's names, there are various synonymous vocabulary choices of Sundanese which also used in the certain translations of the Arabic words. Following table shows some examples of synonymous vocabulary in several works of Sundanese translation of the Quran:
+
+Qur'anic words Ja'ala,Q 2:22 Khalaq,Q 2: 29 Ra'a,Q 6:76 Na ar,Q 9: 127 Ba ar, Q 2: 17 Khawf, Q2: 38 Khashyah,Q36:11
+
+Al-Amin Ngajadikeun Ngayugakeun Nenjo Ngareret Nenjo Kasieun Sieun
+
+Kamilah, Q 16:25 Sagemblengna
+
+Tamam, Q6:154
+
+Nyampurnakeun
+
+Tajr min ta tiha al- Curcor anhar, Q2: 25
+
+Alkitabul Mubin Midamel
+
+Rau at al- Miwah `Irfan Tarjamahna
+Ngadamel Ngajadikeun
+
+Mangdamelkeun Ngadamel Ngadamel
+
+Ningali
+
+Ningali
+
+Ningali
+
+Ngareret
+
+Nenjo
+
+Marelong
+
+Arawas
+
+Nenjo
+
+Nenjo
+
+Kasieun
+
+Kasieun Kasalempang
+
+Mikasieun
+
+Sieun
+
+(mikaajrih)
+
+Nu cukup (sampurna)
+
+Anu sampurna
+
+Nyampurnakeun Anu sampurna
+
+Curcor ngagalulidag
+
+ngalocor
+
+Sieun Sapuratina Nyampurnakeun patinggulidag
+
+Al-Munir Ngadamel Ngayugakeun Nenjo Silih pelong Nenjo Kasieun Rempan
+Sagemblengna
+Nyampurnakeun
+Curcor
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+183
+
+Loan Words In addition, there are loan words in all the Sundanese translations
+of the Quran which refer to the Arabic Quran. The Sundanese translation of Al-Amin, for instance, used several terms of the Arabic Quran in its translation without being translated into Sundanese language, such as Muslim, kafir, musyrik, aras (`Arsh), batil (al-batil, bad), jahar (jahr, aloud), hisab (calculation), diyat (fine), kosor (al-qa r, short form of prayer), goib (ghayb, invisible), hasad (hasad, jealous), hujah (hujjah, argument), idah (`iddah), ikrar, imam (al-imam), istiqomah (istiqamah), i'tikap, junub, and others. The translators or authors of Al-Amin give some notes or explanations in other parts of their works in the form of appendix. It is interesting that the loan words of Arabic Quran are then also adapted into the structure of Sundanese language. The use of certain letters as dissimilations are usually used to denote the plural meaning in Sundanese language, such as darolim (the letter ar was inserted into term dolim, despotics), jarahil (ar and term jahil, fools), arariman (ar and iman, to believe), maruslim (ar and muslim, muslims), marukmin (ar and mukmin, believers), malusyrik (al and musyrik, polytheists), kalupur (al and kupur, unbelievers), and others (Shaleh 1971: 891-895).
+
+The Poetic of Translations The poetic translationsof the Quran in Indonesia are not a new
+phenomenon. Raden Adipati Aria Moeharam Wiranatakoesoema (1888-- 1965), also known as Dalem Haji, who had previously written about his Hajj pilgrimage in 1924, (Dijk 1997: 79) published one Soerat Al-Baqarah in 1949 long before H.B. Jassin's polemical work. Wiranatakoesoema's work then has influenced R.Hidayat Suryalaga (1941--2011), a Sundanese poet from Padjadjaran University, to composed Saritilawah Nur Hidayah. The most complete of Sundanese poetry translation of the Quran in the form of guguritan (Suryalaga 1994).
+DINIKA, Volume 4, Number 2, May - August 2019
+
+184
+
+Jajang A Rohmana
+
+Guguritan is a type of Sundanese poem which is composed in metrical verses rules, known as pupuh rules (Danasasmita 2001: 171-172). This is apparent in its number of cantos (larik), guru lagu (the scheme of ending vowels in each stanza), and guru wilangan (the number of syllables). Although there is some flexibility with the nature of pupuh, pedotan, and the unity of cantos, guguritan rules are still used as a reference (Salmun 1958: 50); (Rusyana and Raksanegara 1980: 1). There are seventeen kinds of the pupuh. However, there are only four kinds of pupuh that are commonly used, namely Kinanti (8u-8i-8a-8i-8a-8i; it has the character of hope and expectation); Sinom (8a-8i-8a-8i-7i-8u-8a-8i-12a; it has the character of joy); Asmarandana (8i-8a-8é/o-8a-8a-8u-8a; it has the character of love); and Dangdanggula (10i-10a-8é/o-7u-9i-6u-6a-7a-8a-12i; it has the character of happiness) (Salmun 1958: 50-55). Wiranatakoesoema and Suryalaga used the pupuh Kinanti and Sinom in their translations on Surah Al-Baqarah/2: 19, as shown by the following:
+
+"Or (another similitude) is that of rain-laden cloud from the sky; in it are zones of darkness, and thunder and lightning; they press their fingers in their ears to keep out
+the stunning thunderclap, the while they are in terror of death. But Allah is ever round
+the rejecters of Faith!" ('Ali 2007: 2)
+
+No.
+
+Pupuh Kinanti (by Wiranatakoesoema)
+
+19. Misilna deui kaseboet Hoedjan gedé redjeung angin Poék mongkléng dor-dar gelap Sieun torék noetoep tjeuli Malah sieuneun koe adjal Eta siksaan noe kafir (Wiranatakoesoema, n.d.: 6)
+
+syllables & end vowels
+8u 8i 8a 8i 8a 8i
+
+Pedotan
+4 + 4 4 + 4 4 + 4 4 + 4 4 + 4 4 + 4
+
+Its example is also mentioned a big rain and wind the darkand thunder to press ears, but is not deaf fear the terror of death the torture for the unbelievers
+
+Pupuh Sinom (by Suryalaga)
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+185
+
+19. Mungguh anu munapék
+
+8a
+
+4 + 4 Really hypocrite
+
+mah,
+
+8i
+
+4 + 4 behaviour,
+
+Ibarat nu leumpang peuting,
+
+8a
+
+4 + 4 likeman who walk
+
+Hujan angin dor-dar gelap,
+
+8i
+
+4 + 4 alone,
+
+Terus nyarocokan ceuli,
+
+7i
+
+4 + 3 a thunderstorm booms,
+
+Sieun ngemasi pati,
+
+8u
+
+4 + 4 their ears are pressed
+
+Kitu kersaning Nu Weruh,
+
+8a
+
+4 + 4 by fingers,
+
+Nu Kawasa saéstuna,
+
+8i
+
+4 + 4 they are in terror of
+
+Alloh Nu Maha Tingali,
+
+12i
+
+4 + 8 death,
+
+Nu ngamurba ngawengku
+
+that is the will of the
+
+ogé nu kapir. (Suryalaga
+
+most know,
+
+1994: 17)
+
+truly the Almighty,
+
+God is seeing,
+
+The Almightyknows
+
+the unbelievers.
+
+In addition, there is another form of poetic translation of the Quran that used nadoman (Arab: na m) or pupujian which was also known as syi'iran in Javanese (Rigg 1862: 384); (LBSS) 1985: 401). It is a poetry of Sundanese that influenced by both Persian ruba'i and Arabic syair. I found the poetic translation of the Quran in the form of nadoman in the works of R. Hidayat Suryalaga, Enas Mabarti and the inventory of nadoman works by Yus Rusyana (Suryalaga 2003); (Rosidi 2011b: 127-133); (Rusyana 1971). The similarity of Sundanese kwatrén (quatrain) and Persian ruba'i as well as the processing game of similar sounds and rhymes become the important character of Persian and Arabic influences. However, there is also the creativity of Sundanese in the use of octosyllabic pattern (eight syllabels). It is a Sundanese creativity which use other literary traditions as a part of their richness literary traditions, such as syair, mantra or magic formula, sisindiran or rajah, the pantun of Sunda, and others (Noorduyn and Teeuw 2009: 108). Following translation of surah 103 Al-`Asrshow the Sundanese translation in the form of nadoman which taken from Rusyana:
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+186
+
+Jajang A Rohmana
+
+1. By (the Token of) time (through the Ages), 2. Verily Man in loss, 3. Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy. ('Ali 2007: 243)
+
+Rusyana's nadoman Al-`Asr Sundana surat al-Asri Aoseun pameget istri Sumawonna santri-santri Sing aremut kana diri
+Gusti Allah enggeus nyumpah Pasti engke di kiamah Sakabeh jalma sarusah Wawalesna suka bungah
+Anging jalma anu iman Geus milampah kasolehan Jeung wasiat bebeneran Jeung wasiat kasabaran (Rusyana 1971: 67)
+
+This is a Sundanese translation of Al`Ashr A reading for man and women and also for santris to remember the self
+God has sworn that later on the Day of Judgment everyone be in troubled Its reply was a pleasure
+Except man who has believed who has done good deeds and who have asked to the truth and who have asked patiently
+
+The Limits of Qur'anic Translation in Sundanese According to Abdul-Raof, the linguistic universal fact of lack of
+absolute synonymy between two lexical items in a given language leads us to believe that non-equivalence in translation among languages is an expected linguistic phenomenon. We will often find that there is no exact equivalence between the words of one language and the words of another. Lack of equivalence among languages at lexical, textual, grammatical, or pragmatic level is a common fact and a problem which is always encountered by translators (Abdul-Raof 2001: 9). Following sections are some cases of the limits of the Sundanese translation of the Quran that can be easily found, especially in the lexical changes, the change of kind of words and the unit of semantic, and the change of structure of sentences:
+
+Lexical Change We can find the lexical change in the language internal system, such
+as the plural lexical in the Arabic Quran (aswaf, awbar, ash'ar) which cannot be translated into the same plural form in the Sundanese lexical, as shown
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+187
+
+by followingtranslation ofsurah Al-Nahl / 16: 80.
+
+"...dan (dijadikan-Nya pula) dari bulu domba, bulu unta, dan bulu kambing, alat-alat
+
+rumah tangga..."(QS. Al-Nahl/16: 80) (Departemen Agama RI 1971: 414)
+
+Rau at al-`Irfan
+
+...jeung tina bulu2 domba, jeung bulu2na onta, jeung bulu2na embe, buat
+
+dijieun amparan...(Sanusi, n.d.: 488)
+
+Al-Amin Alkitabul Mubin
+JAI's Kitab Suci AlQur'an Al-Munir Miwah Tarjamahna Al-Huda
+
+...jeung tina bulu domba, bulu onta, bulu embe (ku Anjeunna dijadikeun) alat-alat rumah tangga...(Shaleh 1971: 384)
+...Nyakitu deui bulu-bulu domba, bulu-bulu onta jeung bulu-bulu embe. Mantenna ngajadikeun bahan pikeun parabot imah-imah maraneh... (Romli 1991: 565)
+...Jeung tina wolna jeung buluna jeung buukna Anjeunna nyadiakeun pikeun maraneh parabot rumah tangga...(Sunda 1998: 535)
+...Jeung tina bulu domba, bulu onta, bulu embe (ku Mantenna dijadikeun) alat-alat rumah tangga...(Dahlan 2005: 381)
+...sarta papaes imah jeung parabot (nu dijieun) tina bulu-bulu domba, onta, jeung embe... (LPTQ Provinsi Jawa Barat 2002: 418)
+...sarta (dijadikeun-Na oge) tina bulu domba, bulu onta, jeung bulu embe, parabot rumah tangga...(Rahman 2009: 543)
+
+The Arabic Quran used the words ashwaf, awbar, and ash'ar in the form of plural noun. It is different with Sundanese translation which mostly use a single noun (bulu domba, bulu onta, bulu embé). There are only two Sundanese translators have an awareness to use the plural noun, namely Mhd. Romli's Alkitabul Mubin and Sanusi's Raudat al-`Irfan. However, both Romli and Sanusi's translations becomes somewhat unusual, because the word bulu is plural noun in Sundanese. There is almost unusual to use the word "bulu-bulu" for animals, because all their bodies is covered with fur.
+
+Kind of Words and Unit of Semantic Change In addition, there is change the kind of words from Arabic Quran
+to the different structure of Sundanese grammar. We can see that one word of Arabic Quran then change into several words or sentences in Sundaneseas shown by following translation ofsurah Al-Rum/30: 42.
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+188
+
+Jajang A Rohmana
+
+The Arabic Quran uses a plural noun (mushrikin) as the last word of the verse. Some Sundanese translators also use the word mushrikin, but another translators changed the plural noun of mushrikin into singular noun (mushrik), use plural noun in Sundanese that inserted the word al (malusyrik), or used the translation in the long form sentences "orangorang yang menyekutukan Allah." This is a proof that Sundanese language cannot be regarded as equivalence with Arabic Quran.
+We can found another cases in the qur'anic word yastawi in surah Al-Hashr/59: 20. The word yastawi is the fi'il mudari' (the verb is used to show something what you are doing and going to do in the future). The word yastawi is mostly translated by Sundanese translators into an adjective (sarua):
+
+"Tidak sama penghuni-penghuni neraka dengan penghuni-penghuni surga..." (QS. Al-Hasyr/59: 20). (Departemen Agama RI 1971: 919)
+
+Raudat al-`Irfan
+
+Henteu sarua ahli naraka jeung ahli surga...(Sanusi, n.d.: 1118)
+
+Al-Amin
+
+Teu sarua teu sing ahli naraka jeung ahli sawarga mah...(Shaleh 1971: 795)
+
+Alkitabul Mubin
+
+Henteu teh teuing sarua ahli-ahli naraka jeung ahli-ahli sawarga... (Romli 1991: 1262)
+
+JAI's Kitab Suci Al- Pangeusi naraka jeung pangeusi sawarga teh henteu sarua...(Sunda
+
+Qur'an
+
+1998: 1214)
+
+Al-Munir Miwah Tarjamahna
+
+Teu sarua ahli naraka jeung ahli sawarga mah...(Dahlan 2005: 806)
+Memang teu sarua ahli naraka jeung ahli sawarga mah...(Studio 2002: 927)
+
+Al-Huda
+
+Henteu sarua para pangeusi naraka jeung para pangeusi sawarga... (Rahman 2009: 1179)
+
+The Sundanese word sarua (the same) was used by all Sundanese translators is an adjective. It is different with yastawi which used averb (fi'il mudari'). Therefore, the Sundanese translation cannot fully accommodate the Arabic Quran word. I propose more appropriate translation for the word yastawi, namely "teu (bisa) nyaruakeun pangeusi naraka jeung pangeusi surga." (cannot compare the inhabitants of hell with the heaven).
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+189
+
+To mention another example, we can see another kind of words change or reduction words in all of Sundanese translations. One of the interesting cases is the change of pronouns, from the Arabic Quran that uses the different of masculine and feminine to Sundanese language that do not recognize the gender differences, as shown by following translation:
+
+"Demi matahari dan cahayanya di pagi hari, dan bulan apabila mengiringinya." (QS. Al-Syams/91: 1-2. (Departemen Agama RI 1971: 1064)
+
+Al-Amin
+
+Perhatikeun srangenge katut cahyana. Jeung bulan nalika nuturkeunana (nyaangan saperti srangenge). (Shaleh 1971: 875)
+
+"Dan telah Kami tetapkan bagi bulan manzilah-manzilah, sehingga (setelah dia sampai ke manzilah yang terakhir) kembalilah dia sebagai bentuk tandan yang tua." (QS. Yasin/36: 39). (Departemen Agama RI 1971: 710)
+
+Al-Amin
+
+Jeung bulan ku Kami geus dipastikeun tempat-tempatna sababaraha darajat, nepi ka balik deui kawas bunderan langgari nu kolot. (Shaleh 1971: 632)
+
+The Arabic Quran uses the different between the feminine and masculine words. The form of feminine pronoun (ha) for the sun and masculine pronoun (hu) for the moon. However, it is different from the Sundanese language that do not recognize the different between the feminine and masculine words. The Sundanese translators use the pronoun na for all genders. Therefore, based on the gender differences between Arabic Quran and Sundanese language, the change of pronoun is unavoidable and it can be found in all of the Sundanese translations of the Quran.
+Another cases of the likes of the above translation is the translation of word ibtala in the form of active verb (ma'lum) which means "to examine." However, we can find that the Sundanese translators mostly translated the word ibtala into the form of passive verb (majhul), so it can eliminate the unity of meaning with the word idz.
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+190
+
+Jajang A Rohmana
+
+"Dan (ingatlah) ketika Ibrahim diuji Tuhannya dengan beberapa kalimat (perintah dan larangan) lalu Ibrahim menunaikannya..." (QS. Al-Baqarah/2: 124). (RI 1971: 32)
+
+Rau at al-`Irfan Al-Amin Alkitabul Mubin JAI's Kitab Suci AlQur'an Al-Munir Miwah Tarjamahna
+Al-Huda Al-Hikmah
+
+Jeung ingetkeun waktu nyoba aing ka nabi aing Pangeranana kalawan pirang2 kalimat Islam...(Sanusi, n.d.: 29)
+Jeung (sing inget) nalika Ibrahim dicoba ku Pangeranna ku sawatara parentah...(Shaleh 1971: 34)
+Jeung ingetkeun, waktu Ibrohim dicoba ku Pangeranana ku rupa-rupa parentahan (jeung larangan)... (Romli 1991: 46)
+Jeung sing inget waktu Pangeranna nguji Ibrahim ku sawatara parentah. (Sunda 1998: 44)
+Jeung (masing inget) dina mangsa Ibrahim dicoba ku Pangeranana ku sawatara dawuhan (parentah jeung larangan). (Dahlan 2005: 37)
+(Masing inget) nalika Ibrahim dicoba ku Pangeranana ku sababaraha kalimah (parentah jeung cegahan)... (LPTQ Provinsi Jawa Barat 2002: 31) Jeung (sing inget), nalika Ibrahim diuji ku pangeranna ku sababaraha kalimat...(Rahman 2009: 36)
+Jeung (masing inget) nalika Ibrahim diuji ku sawatara kalimah (parentah jeung larangan). (Sastrawijaya 2009: 43)
+
+There is only one translation follows the structure of word of Arabic Quran using the form of active verb (ma'lum), namely the Sundanese translation of the Holy Quran from the Jemaat Ahmadiyah Indonesia (JAI), although its meaning of pronoun of God became unclear.
+
+The Structure of Sentences Change There are another proofs that Sundanese language cannot be
+regarded as equivalence with the Arabic Quran. The following translation show the structure changes of Sundanese sentences which different with the structure of Arabic Quran.
+
+"...serta mereka yakin akan adanya (kehidupan) akhirat." (QS. Al-Baqarah/2: 4). (Departemen Agama RI 1971: 9)
+
+Raudat al-`Irfan
+
+...jeung kana perkara aherat, eta sakabeh jalma, eta nyaho kabeh sarta yakin.(Sanusi, n.d.: 3)
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+191
+
+Al-Amin Alkitabul Mubin JAI's Kitab Suci AlQur'an Al-Munir Miwah Tarjamahna
+Al-Huda Al-Hikmah
+
+...sarta maranehna yakin kana poe aherat. (Shaleh 1971: 13) ...sarta maranehanana yakin kana ayana akherat. (Romli 1991: 19) ...jeung maranehna yakin kana saniskara nu bakal datang. (Sunda 1998: 16)
+...tur maranehna yakin kana poe aherat. (Dahlan 2005: 17) ...jeung maranehna teh yakin kana (datangna) poe aherat. (LPTQ Provinsi Jawa Barat 2002: 7)
+...jeung aranjeunna yakin kana ayana poe aherat. (Rahman 2009: 3) ...sarta maranehna yakin kana poe aherat. (Sastrawijaya 2009: 10)
+
+The Sundanese translation mostly changes their structure of sentences which different with the structure of Arabic Quran. The word hum yuqinun (they have the assurance) that placed as mubtada' mu'akhkhar (mubatada' which is placed behind khabar) is translated by Sundanese translators more earlier than the word bi al-akhirah (of the Hereafter) which becomes khabar muqaddam (khabar which is placed before mubtada'). The change of the structure of sentences in the Sundanese translation can be understood, because the translators adapted the Arabic Quran into the structure of the Sundanese language sentences. However the change indicates the inadequacy of the Sundanese language to conform to the Arabic Quran as the source language. There is only one Sundanese translator who followed the structure of the Arabic Quran, namely Sanusi's Raudat al-`Irfan. This is because the Sanusi's translation uses a logat pattern that translates in word for word method following the Arabic structure of the Quran.
+On the contrary, the Sundanese translation of the Quran is mostly often overwhelmed by an awkward translation that relate to the complexity Sundanese words which rarely used in daily language. The Sundanese translators is mostly being "over-obedient" to the structure of Arabic Quran and source language oriented. They used the same rule of structure of Arabic Quran by breaking the words that should be put forward in the rule of Sundanese structure in order to be more appropriately understood
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+192
+
+Jajang A Rohmana
+
+by the Sundanese readers. The following translation shows how the Sundanese translators "over-obedient" to the structure of Arabic Quran surah `Abasa/80: 19.
+
+"Dari setetes mani, Allah menciptakannya..."(Departemen Agama RI 1971: 1025)
+
+Rau at al-`Irfan Al-Amin Alkitabul Mubin
+
+Tina mani, ngadamel Allah ka eta jalma...(Sanusi, n.d.: 1209)
+Tina nuthfah, Anjeunna ngayugakeun manehna...(Shaleh 1971: 881)
+Tina cai nuthfah (cai mani nu hina), Mantenna geus ngajadikeun manehna...(Romli 1991: 1370)
+
+JAI's Kitab Suci Al- Tina hiji nutfah! Anjeunna nyiptakeunana...(Sunda 1998: 1349) Quran
+
+Al-Munir Miwah Tarjamahna
+
+Tina nuthfah, Mantenna ngayugakeun manehna...(Dahlan 2005: 37)
+Tina mani sakeclak. Mantenna ngayugakeun...( LPTQ Provinsi Jawa Barat 2002: 1036)
+
+Al-Huda
+
+Tina sakeclak cai mani, Mantenna nyiptakeun manehna teh...(Rahman 2009: 1292)
+
+The above Sundanese translations follow the structure of the Arabic Quran as its source language. The translators uses the unusual structure of Sundanese language by putting the word tinanutfah, from the sperm drop, at the beginning of the Sundanese sentence, although the structure of the sentence may still be understood by the Sundanese reader.
+From the discussion above, it is clear that there are numbers of the limits of Sundanese translations, such as lexical changes, the kind of words, semantic units and the structure of sentence changes. There is also a dilemma of the Sundanese translators in translating the Quran. On the one hand, when they follow the structure of the Arabic qur'anic sentence, the translation is considered to be disobedient to the Sundanese language and ignores the reader's need for well understanding. On the contrary, when their translations in accordance with the structure of the Sundanese sentences, they was considered disobedient to the structure of the Arabic Quran as its source language. The Sundanese translators are trapped in a dilemma between obeying the source language and following the rules of the target language to fulfil the needs of the reader.
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+193
+
+This is very different with the Biblical translations that tend to be more free and unfettered by the source language than the Arabic Quran (Abdul-Raof 2001: 18). Following table show the translations of the Biblein Sundanese (the book of Genesis verse 1) which have various differences between one and others:
+
+The translation of LAI in bahasa Indonesia
+C o o l s m a 's translation
+The translation of LAI 1991
+
+"1. Pada mulanya Allah menciptakan langit dan bumi. 2. Bumi belum berbentuk dan kosong; gelap gulita menutupi samudera raya, dan Roh Allah melayang-layang di atas permukaan air." (Lembaga Alkitab Indonesia 2000: 1)
+1. Dina mimiti Allah ngajadikeun langit djeung boemi. 2. Demi boemi teja asalna soewoeng sarta kosong, djeung poek di loehoereun sagara, sarta Roh Allah ngalajang di loehoereun tjai teja" (Coolsma 1891: 1)
+1. Nalika Allah nyiptakeun jagat raya, 2. harita bumi teh teu puguh wangunna, kaayaanana kacida matak geueumanana. Sagara motah ngaliputan satangkaraking jagat. Alam poek ngajumbleng. Pangawasa Allah murba saluhureun sagara. (Lembaga Alkitab Indonesia 1991: 2)
+
+The above translations of the Bible in Sundanese, we can see that the translations of the Bible are more freewith multiple diverse and unfettered by the source language. This is different from the translation of the Quran in Sundanese which is bounded by the structure of Arabic Quran. The translators of Arabic Quran generally have difficulties in using the structure of the target language, because their transations are bounded by the adherence to the structure of the source language.
+
+Conclusion This study shows that there are various Sundanese translations
+of the Quran in West Java. It can be categorized into several distinctive aspects, such as scripts (pegon and roman), source of translations, methods (literal and non-literal, semantic and communicative), form of translations (poetry, prose, dialect, dictionary), translator backgrounds (individual, team, institution), translation coverages (sura selections, translation of all suras completely, translation and qur'anic commentaries or tafsir) and dialect.
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+194
+
+Jajang A Rohmana
+
+The variety of the translations relate to variety of translator backgrounds, whether their educations, families, and other social backgrounds.
+However, although there are diversification amongst the Sundanese translations of the Quran, there are also similar characteristics of Sundanese language amongst the Sundanese translations of the Quran. It is a language that regarded as one of ethnic characteristics of Sundanese people in West Java. The similar characteristics, for instance, can be seen in Sundanese language levels (undak usuk, Javanese: unggah ungguh), emphasis words and phrase markers (such as téh, mah, téa and pan), the use of idiomatic expressions (kecap anteuran), the uniformity of source language and target language in its sound of words as well as syllables, the richness of vocabulary in the target language, the loan words of source language into the target language, and others. This is the uniqueness of Sundanese language that can be differed from other languages. This uniqueness is also believed the superiority of Sundanese language.
+This paper shows that the claim of superiority of Sundanese in the translation of the Quran is not true. I argue that Sundanese language as well as bahasa also have limits and barriers in accommodating Arabic Quran. This can be seen from at least four important aspects, such as lexical change, change of words and semantics, structure of sentences andmorphological change. One of greatest barriers in accomodating Arabic language of the Quran is the rule of Sundanese poetic translation of the Quran (dangding and pupujian) which are composed following pupuh rules, such as number of cantos (larik), guru lagu (the scheme of ending vowels in each stanza), and guru wilangan (the number of syllables).
+Therefore, although Sundanese language shows its effectiveness of much richer vocabulary than bahasa, but it also unable to fully accommodate the source language and even some qur'anic translators provide wrong Sundanese words which distorts the intended meaning of a given qur'anic structure. It is different from the translation of the Bible that generally
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+195
+
+tend to be more free and therefore audience-oriented, no matter what language it may be written in. For Muslims, the divine Word assume a specific, Arabic form, and that form is as essential as the meaning that the words convey. The qur'anic translators, therefore, generally are difficult in using the structure of their target languages which were restricted by the Arabic structure of the Quran.
+
+References
+'Ali, 'Abdullah Yusuf. 2007. The Holy Quran, Text and Translation. Kuala Lumpur: Islamic Book Trust.
+(LBSS), Panitia Kamus Lembaga Basa & Sastra Sunda. 1985. Kamus Umum Basa Sunda. Bandung: Tarate.
+Abdul-Raof, Huseein. 2001. Quran Translation, Discourse, Texture and Exegesis. London and Newyork: Routledge.
+Anderson, Edmund A. 1993. "Speech Levels: The Case of Sundanese." Pragmatics: International Pragmatics Association 3 (2). https://journals. linguisticsociety.org/elanguage/pragmatics/article/view/161/97. html.
+Ayatrohaedi. 1978. "Bahasa Sunda di Daerah Cirebon (Sundanese Language in Cirebon)." Universitas Indonesia.
+Bell, Roger T. 1991. Translation and Translating: Theory and Practice. London and Newyork: Longman.
+Coolsma, S. 1891. Kitab Soetji Hartosna Sadajana Kitab Anoe Kasebat Perdjangdjian Lawas Sareng Perdjangdjian Anjar. Amsterdam: Uitgegeven door het Nederlandsch Bijbelgenootschap.
+Dahlan, M. Djawad. 2005. Al-Munir: Al-Quran Tarjamah Basa Sunda. Bandung: Pustaka Fithri.
+Danasasmita, Ma'mur. 2001. Wacana Bahasa dan Sastra Sunda Lama (A Discourse on Old Sundanese Language and Literature). Bandung: STSI Press.
+DINIKA, Volume 4, Number 2, May - August 2019
+
+196
+
+Jajang A Rohmana
+
+Darmawan, Dadang. 2009. "Ortodoksi Tafsir: Respons Ulama terhadap Tafsir Tamsjijjatoel-Moeslimien Karya K.H. Ahmad Sanusi." UIN Syarif Hidayatullah Jakarta.
+Dijk, Kees Van. 1997. "Perjalanan Jemaah Haji Indonesia (Indonesian Pilgrims Journey)." In Indonesia dan Haji (Indonesia and Hajj), edited by Dick Douwes and Niko Kaptein. Jakarta: INIS.
+Djajasudarma, T. Fatimah. 1986. "Kecap Anteuran Basa Sunda: Satu Kajian Semantik dan Struktur." Universitas Indonesia.
+Ekadjati, Edi S., and Undang A. Darsa. 1999. Katalog Induk Naskah-naskah Nusantara Jilid 5A: Jawa Barat; Koleksi Lima Lembaga. Jakarta: YOI dan EFEO.
+Federspiel, Howard M. 1994. Popular Indonesian Literature of the Quran. Ithaca, New York: Cornel Modern Indonesia Project.
+Feener, R. Michael. 1998. "Notes Toward the History of Quranic Exegesis in Southeast Asia." Studia Islamika 5 (3).
+Gallop, Annabel Teh, and Ali Akbar. 2006. "The Art of the Quran in Banten: Calligraphy and Illumination." Archipel 72: 95­156.
+Gunseikanbu. 1986. Orang Indonesia yang Terkemuka di Jawa. Yogyakarta: Gadjah Mada University.
+Huda, Anwar. 1997. Qomus al-Quran Basa Sunda. 3 jilid. Bandung: al-Huda.
+Ichwan, Moch. Nur. 2009. "Negara, Kitab Suci dan Politik: Terjemah Resmi al-Quran di Indonesia." In Sadur, Sejarah Terjemahan di Indonesia dan Malaysia, edited by Henri Chambert-Loir. Jakarta: KPG (Kepustakaan Populer Gramedia).
+Indonesia, Lembaga Alkitab. 1991. Kitab Suci Nya Eta Kitab Perjangjian Lawas Sareng Perjangjian Anyar, Nganggo Basa Sunda Sadidinten. Jakarta.
+------. 2000. Alkitab yaitu Perjanjian Lama dan Perjanjian Baru dalam Terjemahan Baru. Jakarta.
+Johns, A.H. 1999. "She Desired Him and He Desired Her" (Quran 12:24): `Abd Al-Ra'Uf 's Treatment of an Episode of the Joseph Story in Tarjumanal-Mustafid." Archipel 57.
+Karna Yudibrata, Et.al. 1990. Bagbagan Makéna Basa Sunda. Bandung: Rahmat Cijulang.
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+197
+
+Leo Suryadinata, Et.al. 2003. Indonesia's Population: Ethnicity and Religion in a Changing Political Landscape. Singapore: Institute of Southeast Asian Studies.
+Locher, Michael A. 1996. "The `Speech Levels' of Sundanese: Disfluency and Identity." In Annual Meeting of the American Association of Applied Linguistics. Chicago, London.
+Magnis-Suseno, Frans. 1991. Etika Jawa. Jakarta: PT. Gramedia.
+Millie, Julian. 2017. Hearing Allah's Call: Preaching and Performance in Indonesia Islam. London: Cornell University Press.
+Moriyama, Mikihiro. 2005. Semangat Baru: Kolonialisme, Budaya Cetak dan Kesastraan Sunda Abad Ke-19 (Terj). Edited by Suryadi. Jakarta: KPG (Kepustakaan Populer Gramedia).
+------. 2015. "Bahasa Sunda dalam Berdoa." In Islam dan Regionalisme, edited by Julian Millie and Dede Syarif. Bandung: PT. Dunia Pustaka Jaya.
+Muller-Gotama, Franz. 1994. "The Sundanese Particles Teh, Mah, and Tea." In Second Annual Meeting of the Southeast Asian Linguistics Society, edited by K.L. Adams and T.J. Hudak. Arizona State University.
+Mustapa, Haji Hasan. 1920. Quranul Adhimi Adji Wiwitan Quran Sutji. Bandung.
+------. 1937. Petikan Qoeran Katoet Adab Padikana. Bandung: Droek Boehron Bd.
+Nina H. Lubis, Et.al. 2003. Sejarah Tatar Sunda. 2nd ed. Bandung: Satya Historika.
+Noorduyn, J., and A. Teeuw. 2009. Tiga Pesona Sunda Kuna (Terj). Edited by Hawe Setiawan. Jakarta: Pustaka Jaya.
+Nurtawwab, Ervan. 2009a. Tafsir al-Quran Nusantara Tempo Doeloe. Jakarta: Ushul Press.
+------. 2009b. "The Tradition of Writing Quranic Commentaries in Java and Sunda." Suhuf: Jurnal Pengkajian al-Quran dan Budaya 2 (2): 163­95.
+------. 2016. "Quranic Translations in Malay, Javanese and Sundanese: A Commentary or Substitution?" In The Quran in the Malay-Indonesian
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+198
+
+Jajang A Rohmana
+
+World, edited by Peter G. Riddell and Andrew Rippin. London and Newyork: Routledge.
+Rahman, Kiai Miftahur. 2009. Al-Huda: Al-Quran Tarjamah Ku Basa Sunda (Transliterasi) 30 Juz. Bandung: Sinar Baru Algensindo.
+RI, Departemen Agama. 1971. Al-Quran dan Terjemahnya. Jakarta.
+Rigg, Jonathan. 1862. A Dictionary of the Sunda Language. Batavia: Lange & Co.
+Rohmana, Jajang A. 2014. Sejarah Tafsir al-Quran di Tatar Sunda. Bandung: Mujahid Press-Diktis Kemenag RI.
+------. 2015a. "Sastra Sufistik Melayu dan Sunda di Nusantara: Mempertemukan Hamzah Fansuri dan Haji Hasan Mustapa." Ibda': Jurnal Kebudayaan Islam 13 (1): 1­27.
+------. 2015b. "Sufi Commentaries on the Quran in the Archipelago: A Comparison of Hamzah Fansuri (ca. 1600) and Haji Hasan Mustapa (1852-1930)." In International Conference of IQSA.
+Romli, Adjengan H. Moh. n.d. Qoeran Tardjamah Soenda Djoez 1-30. 3 jilid. Poestaka Islam Bandoeng.
+Romli, K.H. 1991. Alkitabul MubinTafsir Basa Sunda. Bandung: PT. AlMa'arif.
+Rosidi, Ajip. 1984. "Ciri-ciri Manusia dan Kebudayaan Sunda." In Masyarakat Sunda dan Kebudayaannya, edited by Edi S. Ekadjati. Jakarta: Girimukti Pasaka.
+------. 1987. "Ngabina Jeung Ngamekarkeun Kabudayaan Sunda." In Polémik Undak Usuk Basa Sunda, edited by Et.al Ajip Rosidi. Bandung: PT. Mangke Panglipur.
+------. 1989. Hasan Mustapa Jeung Karya-karyana. Bandung: Pustaka.
+------. , ed. 2000. Ensiklopedi Sunda, Alam, Manusia dan Budaya. Jakarta: Pustaka Jaya.
+------. 2010. Mencari Sosok Manusia Sunda. Jakarta: Pustaka Jaya.
+------. 2011a. Kearifan Lokal dalam Perspektif Budaya Sunda. Bandung: Kiblat.
+------. 2011b. Sawer Jeung Pupujian. Bandung: Kiblat.
+------. 2011c. Urang Sunda Jeung Basa Sunda. Bandung: Kiblat.
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+Sundanese Translations of the Quran in West Java
+
+199
+
+Rusyana, Yus. 1971. Bagbagan Puisi Pupujian Sunda. Bandung: Projek Penelitian Pantun dan Folklore Sunda.
+Rusyana, Yus., and Ami Raksanegara. 1980. Puisi Guguritan Sunda. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Depdikbud.
+Salmun, M.A. 1958. Kandaga Kasusastran Sunda. Bandung: Ganaco.
+Sanusi, Ahmad. n.d. Rau at Al-`Irfan Fi Ma'Rifat al-Quran. Sukabumi: Pesantren Gunung Puyuh.
+Sastrawijaya, Mariyah Maryati. 2009. Al-Hikmah Tarjamah al-Quran Basa Sunda Juz Ka-1. Bandung: Kiblat.
+------. 2011. Anugerah al-Quranul-Karim Tarjamah Basa Sunda. Bandung: IKA Universitas Padjadjaran.
+Shaleh, K.H. Qamaruddin. 1969. Muqaddam al-Quran Tardjamah Sunda. Bandung: Diponegoro.
+------. 1971. Al-Amin, al-Quran Tarjamah Sunda. Bandung: CV. Diponegoro.
+Studio, LPTQ Propinsi Jawa Barat Bekerjasama dengan Handam Citamatra. 2002. Al-Quran Miwah Tarjamahna Dina Basa Sunda. Bandung: Kerjasama Pemprov Jabar, MUI, LPTQ, Kanwil Depag.
+Sudrajat, Enang. 2005. "Mushaf Kuno Jawa Barat." In Mushaf-mushaf Kuno di Indonesia, edited by Fadhal AR. Bafadhal and Rosehan Anwar. Jakarta: Puslitbang Lektur Keagamaan Departemen Agama RI.
+Sunda, Panitia Tarjamah al-Quran. 1998. Kitab Suci al-Quran Tarjamah Sunda. 3 jilid. Jakarta: Jamaah Ahmadiyah Indonesia.
+Suryalaga, H.R. Hidayat. n.d. Ngungkulan Bangbaluh Ngagunakeun Undak Usuk Basa. Subang: Kempelan Makalah Kongres Basa Sunda VIII.
+------. 1994. Nur Hidayah: Saritilawah Basa Sunda, al-Quran 30 Juz Winangan Pupuh, Juz 1. Bandung: Yayasan Nur Hidayah.
+------. 2003. Nadoman Nurul Hikmah, Tema-tema Ayat al-Quran Daras 30. Bandung: Yayasan Nur Hidayah.
+------. 2006. "Ngamanfaatkeun Seni Budaya Sunda Pikeun Da'wah Islam." In Ngamumule Budaya Sunda Nanjeurkeun Komara Agama, 110­29. Bandung: Perhimpunan KB-PII.
+
+DINIKA, Volume 4, Number 2, May - August 2019
+
+200
+
+Jajang A Rohmana
+
+Suwarsih Warnaen, Et.al. 1993. Etika Sunda, Suatu Ikhtiar untuk Mengungkap Etika Orang Sunda dan Tatakramanya Melalui Hasil Penelitian KualitatifKuantitatif. Jakarta: Yayasan Pembangunan Jawa Barat.
+Syatri, Jonni. 2013. "Mushaf al-Quran Kuno di Priangan: Kajian Rasm, Tanda Ayat, dan Tanda Waqaf." Suhuf: Jurnal Pengkajian al-Quran dan Budaya 6 (2).
+Tamsyah, Budi Rahayu. 2001. Galuring Basa Sunda. Bandung: Pustaka Setia.
+------. 2006. Kamus Undak Usuk Basa Sunda. Bandung: Geger Sunten.
+Teeuw, A. 1961. A Critical Survey of Studies on Malay and Bahasa Indonesia. The Hague, Netherlands: KITLV.
+------. 1967. Modern Indonesian Literature. Leiden: KITLV.
+Uhlenbeck, E.M. 1964. A Critical Survey of Studies on the Languages of Java and Madura. s-Gravenhage: Martinus Nijhoff.
+UIN Terjemah al-Quran ke Bahasa Sunda. 2018. Galamedia.
+Wiranatakoesoema, R.A.A. n.d. Soerat al-Baqarah. Bandung: Poesaka. Yahya, Iip Zulkifli. 2009. "Ngalogat di Pesantren Sunda: Menghadirkan
+yang Dimangkirkan." In Sadur Sejarah Terjemahan di Indonesia dan Malaysia, edited by Henri Chambert-Loir. Jakarta: KPG (Kepustakaan Populer Gramedia).
+Zimmer, Benjamin G. 2000. "Al-`Arabiyyah and Basa Sunda: Ideologies of Translation and Interpretation among the Muslims of West Java." Studia Islamika 7 (3): 31­65.
+
+DINIKA, Volume 4, Number 2, May - August 2019

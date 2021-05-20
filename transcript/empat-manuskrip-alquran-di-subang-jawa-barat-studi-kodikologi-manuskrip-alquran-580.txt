@@ -1,0 +1,473 @@
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16 Website: journal.uinsgd.ac.id/index.php/jw
+ISSN 2502-3489 (online) ISSN 2527-3213 (print)
+EMPAT MANUSKRIP ALQURAN DI SUBANG JAWA BARAT (Studi Kodikologi Manuskrip Alquran)
+Jajang A. Rohmana
+UIN Sunan Gunung Djati Bandung Jl. AH. Nasution No. 105, Bandung, Jawa Barat, Indonesia
+E-mail: jajangarohmana@uinsgd.ac.id
+_________________________
+Abstract The article focuses on four qur'anic manuscripts in Subang, West Java. I will analize the material aspect of the manuscripts and its writing styles, using codicological approach. This study shows that three manuscripts used European paper and containing "Concordia" watermark which were produced around the late 19th century. These three manuscripts might be written latter in the beginning of twentieth century. Meanwhile, the last one which used bark paper of daluang cannot be estimated its dating. The writing of four manuscripts used naskhi style. There are also some errors of hand writing. Moreover, the manuscripts used rasm imla'i as same as classical mushaf in the archipelago. These manuscripts are different with palace manuscripts that generally used beauty illuminations and scribes. This study is not only important to give another perspective on the spread of qur'anic manuscripts in Southeast Asia, particularly in West Java, but also to strengthen the distinctive feature on material manuscripts, rasm and illumination of qur'anic manuscripts in the Archipelago. These four qur'anic manuscripts show the important of the role of the Qur'an in strengthening Islam in the society through the scribe of qur'anic manuscripts and its use in the learning of Islam.
+Keywords: Manuscripts; the Qur'an; Subang; codicology.
+__________________________
+Abstrak Kajian ini memfokuskan pada empat naskah mushaf yang ditemukan di Subang, Jawa Barat dilihat dari aspek bahan naskah dan ragam penulisan. Melalui pendekatan kodikologi, tulisan ini menunjukkan bahwa tiga dari empat naskah berbahan kertas Eropa dan mengandung cap air Concordia dibuat pada abad ke-19, tetapi boleh jadi penulisan teks mushafnya dilakukan jauh lebih belakangan sekitar awal abad ke-20. Satu naskah lagi yang berbahan daluang tidak bisa dipastikan usianya. Sementara dilihat dari ragam penulisan, model tulisan yang digunakan, yaitu gaya naskhi, terkadang terdapat pelbagai kesalahan dalam penulisannya. Selain itu, sebagaimana umumnya mushaf klasik Nusantara dari pelbagai daerah, rasm yang digunakan adalah rasm imla'i. Pada naskah mushaf juga tidak didapatkan iluminasi yang mencolok. Hal ini berbeda dengan kecenderungan naskah mushaf yang berasal dari lingkungan istana yang umumnya mementingkan segi keindahan mushaf dengan kualitas baik. Kajian kodikologi mushaf ini penting tidak saja bisa menambah data kajian tentang sebaran mushaf kuno di Asia Tenggara, khususnya di Jawa Barat, tetapi semakin mempertegas kecenderungan umum bahan, rasm dan iluminasi mushaf Nusantara. Ditemukannya empat mushaf di Subang ini juga memperkuat tesis pentingnya posisi Alquran dalam menunjukkan tingkat keislaman di masyarakat melalui upaya penyalinannya dalam kerangka pengajaran Islam.
+Kata kunci: Manuskrip; Qur'an; Subang; kodikologi.
+__________________________
+DOI: 10.15575/jw.v3i1.1964 Received: January 2018 ; Accepted: August 2018 ; Published: August 2018
+
+Jajang A. Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+A. PENDAHULUAN Dari berbagai jenis manuskrip Nusantara,
+mushaf termasuk salah satu naskah yang paling banyak disalin oleh masyarakat. Ini terkait dengan kedudukan Alquran sebagai sumber utama Islam. Sehingga berpengaruh terhadap tradisi pembacaan, pengajaran dan penyalinannya di masyarakat. Pengajaran baca-tulis Alquran umumnya dianggap pendidikan Islam yang paling dasar.1 Setiap Muslim selain dituntut untuk menamatkan bacaannya, ia juga dianjurkan memiliki mushafnya. Dari sini, penyalinan mushaf menjadi sebuah keniscayaan. Karenanya, tak berlebihan bila dikatakan bahwa tradisi naskah keagamaan dimulai dengan penyalinan mushaf.2 Di dunia MelayuNusantara, manuskrip mushaf yang berasal dari kawasan regional menyebar di seluruh kawasan ini. Ini mencerminkan apa yang disebut pusat getaran produksi manuskrip yang sebagiannya membawa kekhasannya sendiri.3
+Di Jawa Barat, inventarisasi mushaf sudah cukup banyak dilakukan. Katalog Induk Naskah-Naskah Nusantara Jilid 5A: Jawa Barat; Koleksi Lima Lembaga, mencatat sedikitnya sembilan belas naskah mushaf AlQur'an. Mushaf-mushaf tersebut disimpan di Museum Geusan Ulun Sumedang lima naskah, KPKU Universitas Padjadjaran Bandung tiga naskah, EFEO sebanyak sebelas naskah.4 Hasil penelusuran Syatri di tiga kota Jawa Barat
+
+(Bandung, Sumedang, Garut) menyebutkan adanya data mushaf lain yang disimpan di Museum Geusan Ulun Sumedang ternyata bertambah menjadi tujuh naskah, Museum Sri Baduga Bandung sebanyak tiga naskah, Kantor Kementerian Agama Garut tiga naskah, Museum Candi Cangkuang Garut satu naskah, dan koleksi individu empat naskah.5 Data sebelumnya juga pernah diungkapkan Rosidi, Sudrajat dan Fathoni.6 Data ini sebagian termasuk mushaf dari Banten yang dahulu pernah menjadi bagian dari provinsi Jawa Barat.7
+Kajian ini membahas naskah mushaf yang ditemukan di daerah Subang, salah satu kabupaten yang relatif muda dibanding kabupaten lain di Jawa Barat karena baru dibentuk pada 4 April 1948. Wilayah yang pada zaman kolonial didominasi perkebunan teh dan karet ini semula merupakan bagian dari Kabupaten Sumedang dan Purwakarta.8 Terdapat empat naskah mushaf yang dikaji dalam tulisan ini. Meski bahan naskah tiga mushaf terbuat dari kertas Eropa yang diperkirakan dibuat pada abad ke-19, tetapi ketiganya kemungkinan ditulis jauh lebih belakangan boleh jadi sekitar awal abad ke-20. Semua naskah merupakan koleksi Lembaga Pengembangan Tilawatil Qur'an (LPTQ) Kabupaten Subang. Menurut informasi dari beberapa informan, sebagian naskah tersebut
+
+1 Karel A. Steenbrink, Pesantren Madrasah Sekolah, Pendidikan Islam dalam Kurun Modern (Jakarta: LP3ES, 1991), 10.
+2 Ali Akbar, "Oman Fathurahman dkk., Filologi dan Islam Indonesia," dalam Khazanah Mushaf Kuno Nusantara (Jakarta: Puslitbang Lektur Keagamaan Balitbang Kemenag RI, 2010), 181, 191-192.
+3 Annabel Teh Gallop, "The art of the Qur'an in Southeast Asia," dalam An Offprint from Word of God, Art of Man, The Qur'an and Its Creative Expressions, ed. oleh Fahmida Suleman (London: Oxford University Press in association with The Institute of Ismaili Studies London, 2008), 191.
+4 Edi S. Ekadjati dan Undang A. Darsa, Katalog Induk Naskah-Naskah Nusantara (Jakarta: YOI dan EFEO, 1999), 235-236.
+5 Jonni Syatri, "Mushaf Al-Qur'an Kuno di Priangan Kajian Rasm, Tanda Ayat, dan Tanda Waqaf," Suhuf 6, no. 2 (2013), 297, https://doi.org/10.22548/shf.v6i2.31.
+
+6 Ajip Rosidi, Ensiklopedi Sunda, Alam, Manusia dan Budaya (Jakarta: Pustaka Jaya, 2000), 434.; Lihat juga Enang Sudrajat, "Mushaf Kuno Jawa Barat," in Mushaf-Mushaf Kuno di Indonesia, ed. oleh Fadhal AR. Bafadhal dan Rosehan Anwar (Jakarta: Puslitbang Lektur Keagamaan Balitbang Diklat Depag, 2005), 110123.; Ahmad Fathoni, "Sebuah Mushaf dari Sumedang," in Mushaf-Mushaf Kuno di Indonesia, ed. oleh Fadhal AR. Bafadhal dan Rosihon Anwar (Jakarta, 2005), 124141.
+7 Ervan Nurtawab, Tafsir Al-Qur'an Nusantara Tempo Doeloe (Jakarta: Ushul Press, 2009), 163, 171.
+8 Panitia Khusus Peneliti Sejarah Kabupaten Subang, 5 April 1948 Hari Jadi Kabupaten Subang dengan Latar Belakang Sejarahnya (Subang: Pemkab Subang, 1980), 105.
+
+2
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+Jajang A Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+awalnya berasal dari warga di sekitar Sindanglaya dan Cikadu, Tanjungsiang yang diserahkan ke kantor Kementerian Agama Subang tahun 1980-an dan kini menjadi koleksi LPTQ Subang.9 Sebetulnya terdapat satu mushaf lain dari kulit binatang yang disimpan di Museum Daerah atau Museum Wisma Karya Subang. Mushaf yang berisi enam teks surah seperti al-Fatihah, al-Ikhlas, ayat kursi, alKafirun, al-`Alaq dan Yasin ini diklaim sebagai "mushaf tertua" di Kabupaten Subang.10
+Karena diduga ditulis pada masa belakangan sekitar awal abad ke-20 dan tidak diketahui kepengarangannya, maka sulit dipastikan keberadaan mushaf-mushaf tersebut dalam konteks perkembangan Islam yang terus menguat di daerah Subang selatan (Tanjungsiang, Cisalak, Sagalaherang). Munculnya Islamisasi di kawasan ini tidak bisa dilepaskan dari peran pesantren di daerah Sumedang dan Purwakarta sekitar abad ke-19. Selain itu, terlalu gegabah juga bila kehadiran mushaf-mushaf tersebut dihubungkan dengan cerita lisan tentang penyebar Islam di Subang selatan, Aria Wangsa Goparana, sekitar abad ke-16 yang menyebarkan Islam di Sagalaherang.11 Konon, cerita lisan menyebutkan bahwa Islam masuk ke daerah Subang melalui Priangan timur terutama Kuningan, Majalengka dan Sumedang. Pesantren diyakini menjadi salah satu agen utama penyebaran Islam di
+
+perbatasan Subang-Sumedang. Pesantren Pagelaran di Tanjungsiang yang didirikan tahun 1920-an oleh K.H. Muhyiddin (18821973) atau lebih dikenal dengan Mama Pagelaran, memiliki peran sangat penting dan terhubung dengan jaringan pesantren di Priangan.12
+Namun kendati demikian, tulisan ini penting tidak saja menjelaskan deskripsi fisik naskah melalui pendekatan kodikologi,13 tetapi mempertegas kecenderungan umum manuskrip mushaf Alquran Nusantara dilihat dari ragam aspek penulisan teksnya, seperti rasm, tanda tajwid, kepala surah, tanda ayat, teks tambahan dan ragam kesalahan penulisan. Kajian ini kiranya bisa menambah data kajian tentang sebaran mushaf kuno di Asia Tenggara, khususnya di Jawa Barat, Banten, Aceh, Bone dan daerah lainnya. Gallop dan Akbar sudah menjelaskan seni mushaf Alquran Banten ditinjau dari keumuman mushaf Nusantara dari sisi jilid, ukuran kertas, gaya khat, kepala surah dan iluminasi.14 Gallop juga sudah mengkaji mushaf Alquran Aceh dan Bone, Sulawesi Selatan.15 Tradisi penyalinan mushaf juga tidak bisa lepas dari semakin kuatnya penyebaran Islam melalui pengajaran keagamaan terutama melalui jaringan pesantren di pedalaman yang semakin berkembang pada abad ke-19.16 Umumnya teks tertulis Alquran di dunia Islam Melayu-Indonesia periode awal terbatas pada
+
+9 K.H. Duding dan K.H. Abdul Hamid, wawancara oleh Jajang A Rohmana, di Pesantren Al-Athfal Singdanglaya Kec. Tanjungsiang, tanggal 2 Oktober 2014.
+10 Mang Raka, "ini Dia, Al-Qur'an Tertua di Subang," Radar karawang, diakses 20 Januari 2018, http://www.radar-karawang.com/2012/08/ini-dia-alquran-tertua-di-subang.html.
+11Kusma, Sejarah Subang (Subang: Disbudpar Kabupaten Subang, 2007), 105. Lihat juga Teguh Meinanda dan Beni Rudiono, Subang dalam Dimensi Jaman (Subang: Yayasan Buku Anak Desa (YBAD), 2008), 36-38.
+12 Ading Kusdiana et al., "The Pesantren Networking in Priangan (1800-1945)," International Journal of Nusantara Islam 1, no. 2 (2014): 118­37, https://doi.org/10.15575/ijni.v1i2.30.
+13 Siti Baroroh Baried, Pengantar Filologi (Jakarta: Pusat Pembinaan dan Pengembangan Bahasa Departemen Pendidikan dan Kebudayaan, 195M), 4-5.
+
+14 Annabel Teh Gallop dan Ali Akbar, The Art of the Qur'an in Banten: Calligraphy and Illumination (Paris: Archipel 72, 2016), 95-156. Lihat juga Ali Akbar, "Mushaf-mushaf Banten: Mencari Akar Pengaruh," dalam Mushaf-Mushaf Kuno di Indonesia, ed. oleh Fadhal AR. Bafadhal dan Rosehan Anwar (Jakarta: Puslitbang Lektur Keagamaan Balitbang Diklat Depag, 2005), 97-109.
+15 Gallop dan Akbar, The Art of the Qur'an in Banten: Calligraphy and Illumination. Lihat juga Annabel Teh Gallop, "The Boné Qur'an from South Sulawesi," dalam Treasures of the Aga Khan Museum Arts of the Book & Calligraphy, ed. oleh Benoit Junod (Sakip Sabanci Muzesi, 2010), 162-173.
+16 Martin van Bruinessen, "Pesantren and Kitab Kuning," dalam Texts from the islands: Oral and written traditions of Indonesia and the Malay world, ed. oleh Wolfgang Marschall (Berne: The University of Berne Institute of Ethnology, 1994), 129.
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+3
+
+Jajang A. Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+teks asli berbahasa Arab, bukan terjemahan.17 Karenanya, ditemukannya empat mushaf di Subang ini juga memperkuat tesis pentingnya posisi Alquran dalam menunjukkan tingkat keislaman di masyarakat melalui upaya penyalinannya dalam kerangka pengajaran Islam tersebut.
+B. HASIL DAN PEMBAHASAN 1. Mushaf A
+Mushaf Alquran ini adalah koleksi LPTQ Kabupaten Subang dan belum tercatat dalam daftar katalog naskah. Sebagian naskah dalam mushaf ini sudah hilang, sebagiannya sudah tercecer dan sisanya terlepas dari benang karena sudah tidak berjilid. Umumnya halaman yang hilang, robek dan tercecer itu dari urutan awal Surat Al-Fatihah hingga Surat Ali `Imran/3: 27. Jumlah keseluruhan halaman yang ada adalah 583 halaman. Terdapat dua halaman kosong sebelum Surat Al-Kahf sebagai penanda pertengahan mushaf, salah satunya terdapat coretan tak menentu penulisnya untuk berlatih dalam menulis huruf Arab.
+Tidak terdapat keterangan nama penyalin dan tempat, tetapi di bagian akhir disebutkan sumber dan tahun penyalinan dalam bahasa Arab sebagai berikut:
+Wa akhiratuna innaka `ala kull shai' qadir. Qad faragha min tajrid hadha Alquran alKarim bifadlillah al-karim aqall al-kitab Baqir ibn Muhammad Musa al-Kashimri fi yawm al-sabi' min shahr safar al-muzaffar sanah alf wa mi'atayn wa thamanin min hijrah al-muqaddas al-buwayti bitashih
+
+afsah qurra' al-zaman al-hafiz Luqman salam ila Allah al-Manan ... Kami mengakhirinya sesungguhnya Engkau berkuasa atas segala sesuatu. Telah selesai kupasan Al-Qur'anul Karim ini dengan keutamaan Allah yang mulia, saya menyalin kitab Baqir bin Muhammad Musa alKashimri pada hari ketujuh bulan Safar yang penuh kemenangan tahun 1280 H dengan tashih dari Qurra' terbaik al-hafiz Luqman keselamatan atas Allah pemberi karunia... Tidak bisa dipastikan apakah maksud bahwa penyalin menyalin dari kitab Muhammad Baqir bin Muhammad Musa Al-Kashimri pada 7 Safar 1280 H atau Kamis, 23 Juli 1863 M. Siapa al-Kashmiri? Selain itu, terdapat keterangan lain dalam secarik kertas beraksara latin di luar naskah tertanggal 23 Agustus 1973 yang menyebutkan bahwa naskah ditulis oleh Azza di Kusumah pada zaman Penghulu Mulatif sekitar tahun 1280 H/1870 M. Konversi angka tahun yang salah seharusnya 1863 M. Karenanya, data tersebut tidak bisa dipastikan kebenarannya. Naskah ini ditulis di atas kertas Eropa dengan watermark "Concordia Resparvae Crescunt" seperti terlihat dalam gambar 1, dengan gambar singa bermahkota dengan countermark "V D L." Bahan kertas memiliki kesesuaian dengan No. 158 (No Date, CC, W/M of Van der Ley) dalam W.A. Churchill. Kertas dibuat oleh Perusahaan van der Ley dari Belanda antara tahun 1698-1815.18 Ukuran kertas 32 x 20.5 cm. Tebal naskah sekitar 6 cm. Kondisi kertas cenderung rusak di bagian pinggir.
+
+17 Peter G. Riddell, "Translating the Qur'an into Indonesian Languages," Al-Bayan Journal of Qur'an and Hadith Studies 12, no. 1 (2014): 1­27, https://doi.org/10.1163/22321969-12340001.
+
+18 W.A. Churchill, Watermarks in Paper, , MCMXXXV, hlm. 16, 72 dan cxxvii. (Amsterdam: Menno Hertsberger & Co., 1967), 16, 72.
+
+4
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+Jajang A Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+Gambar 1: Watermark "Concordia Resparvae Crescunt" dengan gambar singa bermahkota pada Mushaf A
+
+Setiap halaman Mushaf A tidak sama jumlah baris teksnya, tetapi umumnya berkisar antara 17-19 baris. Terdapat ciri pemisah antar ayat dengan lingkaran kecil tanpa nomor. Tidak terdapat penomoran halaman. Terdapat kata alihan (catch word) di setiap halaman verso pada bagian bawah sebelah kiri (pojok kiri bawah). Teks Alquran umumnya ditulis dengan menggunakan tinta berwarna hitam. Tinta merah digunakan juga untuk menandai awal surah dan awal juz. Selain itu, warna merah juga digunakan untuk menandai lafazh Allah, sebuah ciri umum yang terkait dengan
+
+Alquran India dari periode kesultanan hingga sesudahnya.19 Jenis kaligrafi MS A menggunakan gaya Naskhi, meskipun tidak konsisten seperti huruf waw dan ra' yang ditulis dengan gaya Thuluth. Naskah ini tidak memiliki iluminasi dan tanda maqra' atau marginal texts. Hanya terdapat garis-garis lurus secara vertikal dan horisontal di sekeliling teks dalam setiap halaman atau sebagai pemisah antar surah. Terdapat teks tambahan selain teks Al-Qur'an, yaitu keterangan penyalinan dan doa khatam di bagian akhir (lihat gambar 2).
+
+19 Gallop dan Akbar, The Art of the Qur'an in Banten: Calligraphy and Illumination.
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+5
+
+Jajang A. Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+Gambar 2: Teks Arab Alquran dalam Mushaf A
+
+2. Mushaf B Mushaf B adalah koleksi LPTQ Kabupaten
+Subang dan belum tercatat dalam daftar katalog naskah. Sebagian naskah dalam mushaf ini sudah hilang terutama di bagian awal dan akhir. Sebagiannya hilang dan tercecer dari awal hingga Surat Al-Baqarah/2: 216. Di bagian akhir surah yang hilang yaitu antara Surat AlQuraysh hingga Surat Al-Nas. Uniknya mushaf B menempatkan Surat Al-Fatihah tidak dibagian awal, tetapi diletakkan di bagian paling akhir setelah Surat Al-Nas. Ini setidaknya mengingatkan kita pada tafsir AlJalalayn yang juga menempatkan Surat AlFatihah di bagian akhir penafsirannya. Bruinessen dan Van den Berge menyatakan bahwa Al-Jalalayn merupakan kitab tafsir yang umumnya menjadi bagian dari kurikulum regular pesantren manapun.20
+
+Mushaf ini sudah sangat rapuh. Selain sudah tidak berjilid, di beberapa bagian juga tampak rusak dan berlubang. Jumlah halaman yang tersisa adalah 296 halaman. Tidak terdapat halaman kosong. Selain itu, tidak terdapat keterangan nama penyalin, tempat dan tahun penyalinan. Di halaman terakhir terdapat keterangan dalam aksara Pegon berbahasa Sunda dengan jenis tulisan berbeda tentang ijab kabul jual-beli Alquran ini:
+Kaula Muhammad Halil Urang Kampung Cicurug Hizir tarima ngajual kitab Qur'an ka Urang Bantarhaur hargana... (tidak jelas). Kaula Bapa Zenah tarima meuli kitab Qur'an ti... (tidak jelas) Kampung Cicurug Hizir hargana... (tidak jelas)." Saksina Asta'dim. Hijrah Nabi Som Jawa 1261. Kumpeni 1321. Artinya: Saya Muhammad Halil orang Kampung Cicurug Hilir menerima untuk
+
+20 Martin Bruinessen, "Kitab kuning; Books in Arabic script used in the Pesantren milieu; Comments on a new collection in the KITLV Library," Bijdragen tot de taal-, land- en volkenkunde / Journal of the
+
+Humanities and Social Sciences of Southeast Asia 146, no. 2 (1990): 226­69, https://doi.org/10.1163/2213437990003218.
+
+6
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+Jajang A Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+menjual kitab Alquran ke orang Bantarhaur dengan harga ...(tidak jelas). Saya Bapa Zenah menerima untuk membeli kitab Alquran dari ...(tidak jelas) Kampung Cicurug Hilir harganya ...(tidak jelas)." Saksinya, Asta'dim. Tahun Hijrah Nabi Som Jawa 1261 (sekitar 1844 M). Kumpeni 1321. Naskah ini ditulis di atas kertas Eropa dengan watermark "Concordia Resparvae Crescunt" dan "God" dengan gambar singa bermahkota. Terdapat countermark VDL (gambar 3). Bahan kertas memiliki kesesuaian dengan No. 158 (No Date, CC, W/M of Van der Ley) dan 162 dalam W.A. Churchill. Kertas dibuat oleh Perusahaan van der Ley dari Belanda antara tahun 1698-1815.21 Ukuran ketas 33 x 21 cm. Ketebalan naskah sekitar 4.5 cm. Kondisi kertas cenderung sudah sangat rusak di bagian pinggir mengarah ke bagian tengah teks.
+
+menggunakan tinta berwarna hitam. Tinta merah digunakan juga untuk menandai awal surah, awal juz, dan tanda maqra' atau marginal texts di bagian pinggir. Jenis kaligrafi MS B menggunakan gaya Naskhi. Naskah ini memiliki iluminasi kasar dan cenderung kurang rapih pada awal Surat Al-Baqarah/2, dua halaman Surat Al-Kahf/18, dan bagian akhir di Surat Al-Nas dan Surat Al-Fatihah. Iluminasi setengah lengkungan setengah lingkaran juga tampak di kedua bagian pinggir di setiap awal juz. Jenis tanda juz simetris ganda di sebelah luar bingkai vertikal merupakan salah satu karakteristik Qur'an di pulau Jawa dan bisa dianggap sebagai salah satu indikator yang tepat tentang asal usul manuskrip Qur'an di kawasan ini.22 Iluminasi didominasi oleh warna warna merah dan hitam. Di luar itu, umumnya hanya terdapat garis-garis lurus merah yang cukup tebal secara vertikal dan horisontal di sekeliling teks dalam setiap halaman atau di bagian kepala surah (gambar 4).
+
+Gambar 3: Watermark "Concordia Resparvae Crescunt" dan "God" dengan gambar singa bermahkota pada Mushaf B
+Setiap halaman terdiri dari tujuh belas baris. Terdapat ciri pemisah antar ayat dengan lingkaran kecil tanpa nomor. Tidak terdapat penomoran halaman. Terdapat kata alihan (catch word) di setiap halaman verso pada bagian bawah sebelah kiri (pojok kiri bawah). Teks Alquran umumnya ditulis dengan
+
+Gambar 4: Iluminasi dan teks Arab pada surah Al-Kahf (pertengahan Al-Qur'an) dalam
+Mushaf B
+
+21 Churchill, Watermarks in Paper, , MCMXXXV, hlm. 16, 72 dan cxxvii.
+22 Annabel Teh Gallop, "The Art of the Qur'an in Java," Suhuf: Jurnal Pengkajian al-Quran dan Budaya
+
+5,
+
+no.
+
+2
+
+(2012):
+
+https://doi.org/10.22548/shf.v5i2.40.
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+215­229, 7
+
+Jajang A. Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+3. Mushaf C Mushaf C adalah koleksi LPTQ Kabupaten
+Subang dan belum tercatat dalam daftar katalog naskah. Naskah ini masih cukup bagus dan lengkap. Tidak ada halaman yang hilang. Meskipun jilidnya yang terbuat dari kulit tebal sudah mulai lepas dibagian sampul depan. Jilidnya berwarna merah tua dengan garis hitam dan hiasan bingkai berwarna berwarna emas. Jumlah halaman keseluruhan adalah 150 halaman. Tidak terdapat halaman kosong. Selain itu, tidak terdapat keterangan nama penyalin, tempat dan tahun penyalinan.
+Di halaman awal terdapat beberapa kalimat berbahasa Sunda: "...dumaneng kang raka linggih di? bumi di Sagalerang Kampung Cinengah... (tinggal kakak saya yang tinggal di rumah di Sagal[ah]erang Kampung Cinengah...). Terdapat pula keterangan daftar nama-nama juz Al-Qur'an. Sedangkan di bagian akhir naskah terdapat pula tambahan catatan tambahan berbahasa Sunda dengan aksara pegon kemungkinan dari beberapa pemilik selanjutnya yang menunjukkan transaksi jual-beli naskah mushaf:
+Sim kuring ngajual Qur'an 20 Godon Bulan Sapar tanggal 8 Poe Arba' lembur Cigupakan 1283 tanda kuring Mu Tolib eukeur tolabul ilmi di Cirebon ...pisan lampahan. Tanda kaula nulis Qur'an satamatan keur di Sindanglaya aran kaula Embah Tolib sarta geusan terang pisan pang ngajualna hargana tilu puluh rupia...wulan Rayagung tanggal Opatbelas poe salasa. Saya menjual Alquran 20 gulden bulan Safar tanggal 8 hari Rabu kampung Cigupakan tahun 1283 (1866 M), tertanda saya Mu Tolib sewaktu menuntut ilmu di Cirebon ...(tidak jelas) perjalanan. Tertanda saya menulis Alquran sampai selesai di Sindanglaya, nama saya Embah Tolib dan sangat sadar betul menjualnya dengan harga tiga puluh rupiah...bulan Rayagung (Dzulhijjah) tanggal empat belas hari selasa.
+
+Kedua keterangan tersebut berbeda hurup dan jenis tinta. Kemungkinan ditulis oleh dua pemilik berbeda yang berbeda kepemilikan atas naskah ini. Terlihat dari jenis mata uang yang digunakan, yang satu menggunakan "golden" (mata uang zaman Belanda) dan yang kedua "rupiah" (mata uang zaman Republik). Namun, secara umum seluruh catatan tersebut tidak bisa memastikan siapa, kapan dan di mana naskah mushaf ini ditulis.
+Naskah ini ditulis di atas kertas Eropa dengan watermark "Concordia Resparvae Crescunt" dengan gambar Singa Bermahkota dengan Counter Mark "W S T Z" (gambar 5). Bahan kertas memiliki kesesuaian dengan No. 158 (No Date, CC, W/M of Van der Ley) dalam W.A. Churchill. Kertas dibuat oleh Perusahaan van der Ley dari Belanda antara tahun 16981815.23 Ukuran kertas 33 x 20.5 cm. Ketebalan naskah sekitar 3 cm. Kondisi kertas cenderung masih bagus.
+Gambar 5: Watermark "Concordia Resparvae Crescunt" dengan gambar Singa
+Bermahkota pada Mushaf C
+
+23 Churchill, Watermarks in Paper, , MCMXXXV, hlm. 16, 72 dan cxxvii.
+
+8
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+Jajang A Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+Setiap halaman terdiri dari sembilan belas baris. Tidak terdapat penomoran ayat dan halaman sama sekali. Pemisah antar ayat hanya ditandai dengan tanda titik. Tidak terdapat kata alihan (catch word). Teks Alquran umumnya ditulis dengan menggunakan tinta berwarna hitam. Tinta merah digunakan juga untuk menandai awal surah dan awal juz. Tidak terdapat tanda maqra'. Jenis kaligrafi MS C menggunakan gaya Naskhi dengan ukuran cenderung terbilang kecil. Naskah ini memiliki iluminasi pada awal Surat Al-Fatihah dan AlBaqarah. Di bagian akhir Surat Al-Nas juga terdapat iluminasi sederhana tanpa warna hanya sekedar garis lurus vertikal dan horisontal. Di luar itu, umumnya hanya terdapat garis-garis lurus secara vertikal dan horisontal di sekeliling teks dalam setiap halaman atau di bagian kepala surah (gambar 6).
+Gambar 6: Iluminasi dan teks Arab pada surah Al-Fatihah dan Al-Baqarah dalam
+Mushaf C 4. Mushaf D
+Mushaf D adalah koleksi LPTQ Kabupaten Subang dan belum tercatat dalam daftar katalog naskah. Sebagian askah dalam mushaf ini sudah hilang di bagian akhir (dari Surat AlJumu'ah ayat 2 hingga Surat Al-Nas). Terdapat
+
+jilid yang terbuat dari kulit tebal sudah mulai lepas. Jilidnya berwarna coklat tua dengan hiasan timbul. Mushaf ini cukup tebal. Bahan naskah untuk alas teks adalah daluang (dluwang) yang terbuat dari kulit kayu pohon saéh, salah satu bahan naskah Nusantara, sehingga cenderung mengkilat ketika terkena cahaya. Warna bahan naskah cenderung tampak berwarna kecoklatan. Karena keterbatasan, saya tidak bisa memastikan keakuratan warna tersebut, karena tidak menggunakan alat ukur warna dan pola warna yang dikonversi pada tabel warna yang dikeluarkan oleh Winsor & Newton. Ini berbeda dengan studi kodikologi Permadi atas naskah daluang gulungan koleksi Cagar Budaya Candi Cangkuang yang jauh lebih akurat.24
+Selain itu, karena tidak terdapat colophon di bagian akhir naskah, maka tidak diketahui siapa, kapan dan di mana penulisan mushaf ini dilakukan. Saya juga tidak bisa memperkirakan usia bahan naskah daluang tersebut, karena keterbatasan penulis yang tidak bisa menentukan akurasi identifikasi bahan naskah di laboratorium. Sehingga tidak bisa diketahui pH atau kadar asam, jenis serat, panjang serat, daya serap tinta, daya serap air dan ketahanan lipat. Berbeda dengan Kozok yang berhasil menentukan usia naskah Tanjung Tanah di Kerinci sebagai naskah Melayu tertua melalui uji radiokarbon Accelerator Mass Spectometry (AMS) di Wellington, Selandia Baru.25
+Adapun jumlah keseluruhan halaman naskah mushaf D ini sekitar 692 halaman. Terdapat beberapa halaman kosong, terutama pada halaman tambahan yang terlewat kemudian disisipkan lembar tambahan kulit kayu yang lebih tipis. Selain itu, tidak terdapat keterangan nama penyalin, tempat dan tahun penyalinan. Tetapi terdapat tulisan dengan ballpoint di bagian awal Surat Al-Baqarah/2 bahwa naskah tersebut semula merupakan hak milik Desa Gembor, Kecamatan Pagaden.
+
+24 Tedi Permadi, "Identifikasi Bahan Naskah (Daluang) Gulungan Koleksi Cagar Budaya Candi Cangkuang dengan Metode Pengamatan Langsung dan
+
+Uji Sampel di Laboratorium," Jumantara 3, no. 1 (2012), 134.
+25 Uli Kozok, "A 14 th Century Malay Manuscript from Kerinci," Archipel 67 (2004): 37­55.
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+9
+
+Jajang A. Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+Ukuran mushaf ini 31.5 x 20 cm dengan ketebalan sekitar 8 cm. Kondisi kulit kayu sudah berlubang di sana-sini dengan pengelupasan di bagian pinggir. Ketebalan kertasnya cenderung beragam antara yang tebal dan tipis. Ini menunjukkan bahan naskah tersebut dibuat secara tradisional; bukan dibuat secara modern menggunakan mesin pembuat kertas yang bisa menghasilkan kertas dengan ketebalan sama berdasarkan mekanisme pembentuk kertas yang presisi.26
+Setiap halaman terdiri dari lima belas baris. Terdapat tanda pemisah ayat dengan buatan kecil, meski tanpa nomor. Tidak terdapat penomoran halaman sama sekali. Tidak
+
+terdapat kata alihan (catch word). Teks Alquran umumnya ditulis dengan menggunakan tinta berwarna hitam. Tinta merah digunakan juga untuk menandai awal surah saja dan bulatan kecil pemisah ayat tanpa nomor. Tidak terdapat tanda pemisah juz dan maqra'. Jenis kaligrafi MS C menggunakan karakter riq'ah terlihat dari lekukan huruf sin/syin yang cenderung rata. Naskah ini tidak memiliki iluminasi. Di luar itu, umumnya hanya terdapat garis-garis lurus secara vertikal dan horisontal di sekeliling teks di setiap halaman atau di bagian kepala surah (Gambar 7).
+
+Gambar 7: Teks Arab Alquran pada Mushaf D
+
+C. RASM Dari empat naskah yang dikaji dalam
+penelitian ini, seluruhnya menggunakan rasm imla'i. Ini bisa dilihat dari perbedaanya dari kaidah rasm `uthmani seperti kaidah hadhf (membuang huruf alif, ya', waw, dan lam), kaidah al-ziyadah (menambah huruf alif, ya', dan waw), penulisan hamzah, penggantian huruf (al-badl), menyambung atau memisah tulisan (al-fasl wa al-wasl), dan penulisan kata
+
+yang dapat dibaca dengan dua ragam qira'at.27 Namun dalam penulisan penggantian huruf terutama kata al-salat, al-zakat, dan al-hayat, semua mushaf menggunakan huruf waw bukan alif. Meski semua mushaf cenderung menggunakan kaidah rasm imla'i, tetapi mushaf B kadang-kadang menggunakan rasm `uthmani dalam kaidah hadhf. Penggunaan rasm uthmani dalam mushaf Nusantara, berdasarkan temuan mushaf yang sudah ada
+
+26 Tedi Permadi, "Asal-usul Pemanfaatan dan Karakteristik Daluang," dalam Filologi dan Islam Indonesia, ed. oleh Oman Fathurahman dkk (Jakarta: Puslitbang Lektur Keagamaan Balitbang Diklat kemenag, 2010), 231.
+
+27 Muhammad Al-Zarqani, Manahil al-`Irfan fi "Ulum al-Qur"an (Beirut: Dar al-Kutub al-Ilmiyah, 1988), 300-306.
+
+10
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+Jajang A Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+hingga saat ini, tidak terlalu banyak dibanding rasm imla'i.28 Mushaf yang disimpan di
+berbagai Museum di Jawa Barat dan sejumlah
+koleksi individu umumnya juga menunjukkan
+
+penggunaan rasm imla'i.29 Berikut contoh penggunaan rasm imla'i dalam keempat naskah seperti dalam tabel 1.
+
+Rasm `Uthmani Pembanding
+
+MS A
+
+MS B
+
+MS C
+
+MS D
+
+    
+
+   
+
+        
+
+Tabel 1: Penggunaan rasm imla'i dalam empat naskah
+
+D. TANDA TAJWID Tanda harakat keempat naskah
+menggunakan tanda baca pada umumnya dengan fathah, kasrah, dhammah, syaddah dan sukun. Mushaf A, C, dan D tidak menggunakan tanda harakat fathah berdiri untuk menunjukkan bacaan panjang, tetapi menggunakan alif. Hanya mushaf B yang menggunakan tanda harakat berdiri untuk hukum mad tabi'i atau disertai dengan tanda (~) untuk mad wajib muttasil dan ja'iz munfasil. Untuk tanda waqaf, semua naskah tidak menggunakan satupun penandanya.
+E. KEPALA SURAH DAN TANDA AYAT Kepala surah biasanya berisi tentang nama
+surah, jumlah ayat, dan tempat surah tersebut diturunkan dengan gaya tulisan dan warna khas sebagai pembeda dengan teks utama. Mushaf A menggunakan warna merah untuk menunjukkan pembeda dengan teks utama dengan mencantumkan nama surah dan tempat
+
+surah diturunkan. Ia tidak mencantumkan jumlah ayat tetapi sekedar mencantumkan kalimat ayatuha, kalimatuha, hurufuha kadang diselingi dengan lafazh basmalah pembuka ayat. Mushaf B dan D berbeda sedikit, karena mencantumkan jumlah ayat selain nama surah dengan bahasa Arab. Namun, mushaf C cenderung jauh lebih sederhana, karena hanya mencantumkan nama dan jumlah surah dengan warna tinta merah tetapi tanpa diberikan garis pembatas, seolah menyatu dengan teks. Dilihat dari gaya kepala surah, keempat mushaf umumnya berusaha membedakannya dengan teks mushaf terutama warna. Tetapi karena kepala surahnya cenderung sederhana, tidak beriluminasi dan gaya khat yang tidak jauh berbeda, maka kemungkinan penulis teks sekaligus juga penulis kepala surah tersebut. Bentuk kepala surah semacam ini tidak terlalu jauh berbeda dengan naskah Qur'an Banten yang kepala surahnya tidak sesuai dengan tradisi Nusantara.30
+
+28 Ali Akbar, "Manuskrip Al-Qur'an dari Sulawesi Barat Kajian Beberapa Aspek Kodikologi," Suhuf: Jurnal Pengkajian al-Quran dan Budaya 7, no. 1 (2014), 113, https://doi.org/10.22548/shf.v7i1.123.
+29Sudrajat, "Mushaf Kuno Jawa Barat." Lihat juga Fathoni, "Sebuah Mushaf dari Sumedang." Lihat juga
+
+Syatri, "Mushaf Al-Qur'an Kuno di Priangan Kajian Rasm, Tanda Ayat, dan Tanda Waqaf."
+30 Gallop dan Akbar, The Art of the Qur'an in Banten: Calligraphy and Illumination.
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+11
+
+Jajang A. Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+Mushaf A
+
+Mushaf B
+
+Mushaf C
+
+Mushaf D
+
+Tabel 2: Bentuk kepala surah dan tanda ayat pada naskah
+
+Untuk penanda akhir ayat, mushaf C sama sekali tidak menggunakan tanda yang mencolok, tetapi hanya menggunakan tanda titik saja. Sementara mushaf A, B, dan D menggunakan tanda bulat kecil kadang dengan warna merah, meskipun tidak disertai nomor angka.
+
+F. TEKS TAMBAHAN Dari empat naskah tersebut, hanya dua
+mushaf yang memiliki teks tambahan yakni mushaf A dan C. Keduanya menambahkan doa khatam Alquran sebagai penutup di bagian akhir mushaf. Tetapi tulisan khatam Alquran dalam mushaf C berbeda aksaranya dengan teks mushaf, boleh jadi ditulis oleh orang berbeda pada masa belakangan.
+
+Mushaf A
+
+Mushaf C
+
+Gambar 8: Teks tambahan dalam naskah
+
+G. KESALAHAN
+
+dalam mushaf. Tidak saja penulisan huruf yang
+
+Salah satu hal yang mencolok dari keempat kurang rapih, tetapi juga terdapat beberapa
+
+mushaf ini adalah kesalahan penyalinan teks kalimat yang terlewat. Terdapat kesan bahwa
+
+12
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+Jajang A Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+keempat mushaf cenderung kurang teliti dalam menyalin mushaf. Dalam menghadapi kesalahan penulisan, umumnya teks yang salah tidak dihapus atau menggantinya dengan kertas baru. Ini menunjukkan kekurang hati-hatian penyalin di tengah keterbatasan jumlah kertas. Mushaf A seringkali membiarkan saja beberapa kesalahan muncul dalam teks dengan memberi tanda coretan dan mengulang teks ayat yang dianggap benar. Misalnya terjadi dalam menyalin Surat Ali `Imran/3: 192-193. Penyalin tidak membetulkan kesalahan tersebut di pinggir teks. Begitu pun mushaf B yang
+
+penulisnya secara tidak sadar melewatkan teks Surat Ali `Imran/3: 10-11. Sedangkan Mushaf C dan D mengoreksi kesalahan tulisan yang terlewat dengan membetulkannya di bagian pinggir teks seperti tampak pada koreksi Surat Al-Rahman/55: 17-18 pada mushaf C dan Surat Al-Nisa'/4: 23 pada mushaf D. Namun, penulis mushaf D kadang juga menyiapkan kertas tambahan yang diselipkan pada mushaf sebagai koreksi atas kesalahan. Tidak jelas apakah yang mengoreksi adalah penulis yang sama atau bukan.
+
+Mushaf A
+
+Mushaf B
+
+Mushaf C
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+13
+
+Jajang A. Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+Mushaf D
+
+Gambar 9: Contoh koreksi kesalahan penulisan dalam naskah
+
+H. SIMPULAN Para sarjana menunjukkan adanya
+kecenderungan umum tipikal naskah mushaf di Asia Tenggara. Misalnya jumlah volume tunggal, ukuran kertas Eropa yang menggunakan format "folio" yang relatif lebih kecil umumnya berkisar antara 26.5 x 18 cm sampai 39 x 25 cm, gaya khat Naskhi dasar atau versi bebas Naskhi bukan standar, dua halaman awal dengan Surat Al-Fatihah di sebelah kanan dan Surat Al-Baqarah di sebelah kiri, kepala surah yang beriluminasi, dan banyak kecenderungan umum lainnya.31 Naskah Mushaf koleksi LPTQ Kabupaten Subang kiranya tidak terlepas dari kecenderungan tersebut paling tidak dilihat dari aspek ukuran kertas, gaya khat, dua halaman awal dan lainnya. Tetapi dilihat dari keragaman struktur dekorasi frame ganda terutama pada mushaf B dan C, kajian ini boleh jadi menguatkan keyakinan ketidakmungkinan menentukan gaya distingtif tunggal bagi mushaf Jawa termasuk Sunda sebagaimana dinyatakan Gallop.32
+Selain itu, kajian ini juga memperlihatkan bahwa empat naskah mushaf menunjukkan adanya kecenderungan tradisi penyalinan mushaf di masyarakat. Ini paling tidak dilihat dari gaya khat Naskhi yang cenderung kurang baik, hampir tanpa iluminasi, dan adanya sejumlah kesalahan dalam penulisan. Hal ini berbeda dengan kecenderungan naskah mushaf
+
+yang berasal dari lingkungan istana yang umumnya menggunakan mementingkan segi keindahan mushaf dengan iluminasi indah dari penulis kaligrafi dan iluminasi yang berbeda. Sementara mushaf yang dibuat masyarakat termasuk kalangan pesantren secara tradisional yang berlangsung sampai akhir abad ke-19 atau awal abad ke-20 pada umumnya, bersifat sederhana, atau amat sederhana, karena ketelitian penggarapan dan fungsinya berbeda. Mushaf bagi kalangan ini adalah untuk dibaca atau untuk keperluan pengajaran.33 Tiga dari empat naskah tersebut berbahan naskah dari abad ke-19, tetapi boleh jadi ditulis sekitar awal abad ke-20 dan beredar di wilayah Subang selatan.
+Ini menunjukkan bahwa posisi Alquran sebagai sumber utama Islam sangat berpengaruh terhadap upaya penyalinan teks tersebut di masyarakat dalam kerangka pengajaran dasar ajaran Islam. Sehingga kajian ini berimplikasi pada pentingnya untuk terus menggali dan mengkaji khazanah mushaf Alquran di daerah lainnya di Nusantara. Dalam konteks kajian Alquran di Jawa Barat, kajian ini penting tidak saja menunjukkan luasnya studi Alquran yang tidak hanya terbatas pada terjemah dan tafsir berbahasa Sunda sebagaimana ditunjukkan oleh kajian Rohmana
+
+31 Gallop dan Akbar. 32 Gallop, "The Art of the Qur'an in Java."
+
+33 Akbar, "Oman Fathurahman dkk., Filologi dan Islam Indonesia."
+
+14
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+Jajang A Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+sebelumnya,34 tetapi juga kiranya perlu memperluasnya pada aspek manuskrip mushaf Alquran yang secara jumlah boleh jadi lebih banyak sebarannya di berbagai wilayah di Jawa Barat.
+DAFTAR PUSTAKA Akbar, Ali. "Manuskrip Alquran dari Sulawesi
+Barat Kajian Beberapa Aspek Kodikologi." Suhuf: Jurnal Pengkajian al-Quran dan Budaya 7, no. 1 (2014): 101­23. https://doi.org/10.22548/shf.v7i1.123. ------. "Mushaf-mushaf Banten: Mencari Akar Pengaruh." dalam Mushaf-Mushaf Kuno di Indonesia, diedit oleh Fadhal AR. Bafadhal dan Rosehan Anwar. Jakarta: Puslitbang Lektur Keagamaan Balitbang Diklat Depag, 2005. ------. "Oman Fathurahman dkk., Filologi dan Islam Indonesia." dalam Khazanah Mushaf Kuno Nusantara. Jakarta: Puslitbang Lektur Keagamaan Balitbang Kemenag RI, 2010. Al-Zarqani, Muhammad. Manahil al-`Irfan fi "Ulum al-Qur"an. Beirut: Dar al-Kutub alIlmiyah, 1988. Baried, Siti Baroroh. Pengantar Filologi. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa Departemen Pendidikan dan Kebudayaan, 195M. Bruinessen, Martin. "Kitab kuning; Books in Arabic script used in the Pesantren milieu; Comments on a new collection in the KITLV Library." Bijdragen tot de taal-, land- en volkenkunde / Journal of the Humanities and Social Sciences of Southeast Asia 146, no. 2 (1990): 226­69. https://doi.org/10.1163/2213437990003218. Bruinessen, Martin van. "Pesantren and Kitab Kuning." In Texts from the islands: Oral and written traditions of Indonesia and the
+
+Malay world, diedit oleh Wolfgang Marschall. Berne: The University of Berne Institute of Ethnology, 1994. Churchill, W.A. Watermarks in Paper, , MCMXXXV, hlm. 16, 72 dan cxxvii. Amsterdam: Menno Hertsberger & Co., 1967. Ekadjati, Edi S., dan Undang A. Darsa. Katalog Induk Naskah-Naskah Nusantara. Jakarta: YOI dan EFEO, 1999. Fathoni, Ahmad. "Sebuah Mushaf dari Sumedang." dalam Mushaf-Mushaf Kuno di Indonesia, diedit oleh Fadhal AR. Bafadhal dan Rosihon Anwar. Jakarta, 2005. Gallop, Annabel Teh. "The Art of the Qur'an in Java." Suhuf: Jurnal Pengkajian al-Quran dan Budaya 5, no. 2 (2012): 215­29. https://doi.org/10.22548/shf.v5i2.40. ------. "The art of the Qur'an in Southeast Asia." In An Offprint from Word of God, Art of Man, The Qur'an and Its Creative Expressions, diedit oleh Fahmida Suleman. London: Oxford University Press in association with The Institute of Ismaili Studies London, 2008. ------. "The Boné Qur'an from South Sulawesi." dalam Treasures of the Aga Khan Museum - Arts of the Book & Calligraphy, diedit oleh Benoit Junod. Sakip Sabanci Muzesi, 2010. Gallop, Annabel Teh, dan Ali Akbar. The Art of the Qur'an in Banten: Calligraphy and Illumination. Paris: Archipel 72, 2016. Kozok, Uli. "A 14 th Century Malay Manuscript from Kerinci." Archipel 67 (2004): 37­55. Kusdiana, Ading, Nina Herlina Lubis, Nurwadjah Ahmad EQ, dan Mumuh Muhsin Z. "The Pesantren Networking in Priangan (1800-1945)." International Journal of Nusantara Islam 1, no. 2 (2014): 118­37. https://doi.org/10.15575/ijni.v1i2.30.
+
+34 Jajang A Rohmana, Sejarah Tafsir Al-Qur'an di Tatar Sunda (Bandung: Press-Diktis Kementerian Agama RI, 2014).;Jajang A Rohmana, "Perkembangan Kajian Al-Qur'an di tatar Sunda: Sebuah Penelusuran Awal," Suhuf 6 (2013). ; Jajang A Rohmana, "Metrical Verse as a Rule of Qur'anic Translation: Some
+
+Reflections on R.A.A. Wiranatakoesoema's Soerat AlBaqarah (1888-1965)," Al-Jami'ah Journal of Islamic Studies 53 (2015).Jajang A Rohmana, "Terjemah Puitis Kitab Suci di Jawa Barat: Terjemah Al-Qur'an Berbentuk Puisi Dangding dan Pupujian Sunda," Suhuf 8 (2015).
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16
+
+15
+
+Jajang A. Rohmana
+
+Empat Manuskrip Alquran di Subang Jawa Barat (Studi Kodikologi Manuskrip Alquran)
+
+Kusma. Sejarah Subang. Subang: Disbudpar
+
+Kabupaten Subang, 2007.
+
+Meinanda, Teguh, dan Beni Rudiono. Subang
+
+dalam Dimensi Jaman. Subang: Yayasan
+
+Buku Anak Desa (YBAD), 2008.
+
+Nurtawab, Ervan. Tafsir Alquran Nusantara
+
+Tempo Doeloe. Jakarta: Ushul Press, 2009.
+
+Panitia Khusus Peneliti Sejarah Kabupaten
+
+Subang. 5 April 1948 Hari Jadi Kabupaten
+
+Subang dengan Latar Belakang Sejarahnya.
+
+Subang: Pemkab Subang, 1980.
+
+Permadi, Tedi. "Asal-usul Pemanfaatan dan
+
+Karakteristik Daluang." dalam Filologi dan
+
+Islam Indonesia, diedit oleh Oman
+
+Fathurahman dkk. Jakarta: Puslitbang
+
+Lektur Keagamaan Balitbang Diklat
+
+kemenag, 2010.
+
+------. "Identifikasi Bahan Naskah (Daluang)
+
+Gulungan Koleksi Cagar Budaya Candi
+
+Cangkuang dengan Metode Pengamatan
+
+Langsung dan Uji Sampel di Laboratorium."
+
+Jumantara 3, no. 1 (2012).
+
+Raka, Mang. "ini Dia, Alquran Tertua di
+
+Subang." Radar karawang. Diakses 20
+
+Januari
+
+2018.
+
+http://www.radar-
+
+karawang.com/2012/08/ini-dia-al-quran-
+
+tertua-di-subang.html.
+
+Riddell, Peter G. "Translating the Qur'an into
+
+Indonesian Languages." Al-Bayan Journal
+
+of Qur'an and Hadith Studies 12, no. 1
+
+(2014):
+
+1­27.
+
+https://doi.org/10.1163/22321969-
+
+12340001.
+
+Rohmana, Jajang A. "Metrical Verse as a Rule
+
+of Qur'anic Translation: Some Reflections
+
+on R.A.A. Wiranatakoesoema's Soerat Al-
+
+Baqarah (1888-1965)." Al-Jami'ah Journal
+
+of Islamic Studies 53 (2015).
+
+------. "Perkembangan Kajian Alquran di
+
+tatar Sunda: Sebuah Penelusuran Awal,."
+
+Suhuf 6 (2013).
+
+------. Sejarah Tafsir Alquran di Tatar
+
+Sunda. Bandung: Press-Diktis Kementerian
+
+Agama RI, 2014.
+
+------. "Terjemah Puitis Kitab Suci di Jawa
+
+Barat: Terjemah Alquran Berbentuk Puisi
+
+Dangding dan Pupujian Sunda." Suhuf 8
+
+(2015).
+
+Rosidi, Ajip. Ensiklopedi Sunda, Alam,
+
+Manusia dan Budaya. Jakarta: Pustaka Jaya, 2000. Steenbrink, Karel A. Pesantren Madrasah Sekolah, Pendidikan Islam dalam Kurun Modern. Jakarta: LP3ES, 1991. Sudrajat, Enang. "Mushaf Kuno Jawa Barat." dalam Mushaf-Mushaf Kuno di Indonesia, diedit oleh Fadhal AR. Bafadhal dan Rosehan Anwar. Jakarta: Puslitbang Lektur Keagamaan Balitbang Diklat Depag, 2005. Syatri, Jonni. "Mushaf Alquran Kuno di Priangan Kajian Rasm, Tanda Ayat, dan Tanda Waqaf." Suhuf: Jurnal Pengkajian al-Quran dan Budaya 6, no. 2 (2013): 295­ 320. https://doi.org/10.22548/shf.v6i2.31.
+WAWANCARA K.H. Duding dan K.H. Abdul Hamid.
+wawancara oleh Jajang A Rohmana. di Pesantren Al-Athfal Singdanglaya Kec. Tanjungsiang, tanggal 2 Oktober 2014.
+
+16
+
+Wawasan: Jurnal Ilmiah Agama dan Sosial Budaya 3, 1 (Juni 2018): 1-16

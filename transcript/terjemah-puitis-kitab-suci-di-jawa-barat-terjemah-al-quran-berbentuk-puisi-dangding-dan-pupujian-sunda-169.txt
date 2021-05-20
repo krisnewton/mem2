@@ -1,0 +1,650 @@
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 175
+Terjemah Puitis Al-Qur'an di Jawa Barat
+Terjemah Al-Qur'an Berbentuk Puisi Guguritan dan Pupujian Sunda
+Poetic Translation of the Qur'an in West Java
+Translation of the Qur'an in the Form of Sundanese Poetry Known as Guguritan
+Jajang A. Rohmana UIN Sunan Gunung Djati Bandung Jl. AH Nasution No. 105 Bandung jajang_abata@yahoo.co.id
+Naskah diterima: 14-10-15; direvisi: 07-11-15; disetujui: 12-11-15
+Abstrak Kajian ini bertujuan menganalisis puisi guguritan dan pupujian Sunda yang digunakan sebagai pola terjemah Al-Qur'an. Keduanya merupakan puisi lokal yang dijadikan lirik tembang atau nyanyian. Guguritan dinyanyikan dengan diiringi kacapi-suling. Sedang pupujian atau nadoman merupakan nyanyian puji-pujian di pesantren dan masjid-masjid saat menunggu waktu salat. Terdapat sedikitnya dua karya guguritan dan tiga karya pupujian Al-Qur'an. Dengan menggunakan kajian interteks dan analisis terjemah, kajian ini menunjukkan bahwa terjemah puitis guguritan dan pupujian lebih kompleks dibanding terjemah puitis lain, karena sangat terikat oleh aturan metrum sehingga cenderung mengarah pada terjemah tafsriyyah. Terjemahnya tidak terlalu taat pada bahasa sumber, karena mengutamakan kaidah puisi dan pencapaian makna. Kajian ini signifikan tidak saja menunjukkan resepsi orang Sunda terhadap Al-Qur'an dan sastra Arab, tetapi juga memperlihatkan komitmen orang Sunda terhadap Islam dan sastra Sunda. Sebuah upaya bagaimana orang Sunda menegosiasikan ekspresi estetiknya tentang kitab suci dengan menyerap sekaligus mempengaruhi sastra Islam ke dalam atau melalui sastra Sunda. Kata Kunci: terjemah, Al-Qur'an, guguritan, pupujian, Sunda
+Abstract The paper aims to analyze both Sundanese poetries of guguritan and pupujian which used as rules of translation of the Qur'an. These are Sundanese local poetries that used as lyrics of Sundanese tembang or religious hymn. Guguritan can be sung to the accompaniment of kacapi and Sundanese flute. Meanwhile, pupujian or nadoman is a Islamic hymn which sung at pesantren and mosque
+
+176 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+especially when waiting for prayer time.There are at least two works of guguritan and three works of pupujian which used as a form of translation of the Qur'an. By using intertextual studies and analysis of translation, the study argues that both poetic translation of guguritan and pupujian are more complex than other poetic translation, because it is bound by the rules of metrical verses that tend to lead to exegetical translation (tafsiriyah). Both poetic translations are not too obedient to the source language (Arabic), becausetend to give priority to the rules and achievement of the meaning. The study is significant not only to demonstrates the reception of Sundanese people against the Quran and Arabic literature, but also shows their commitmentsagainst Islam and Sundanese literature. It is an attempt of the Sundanese people to negotiate their aesthetic expressions on the scripture that absorb all at once influence the Islamic literature into or through Sundanese literature. Keywords: translation, the Qur'an, guguritan, pupujian, Sundanese
+Pendahuluan
+Pada tahun 1970-an, masyarakat Indonesia dikejutkan dengan kontroversi terjemah puitis Al-Qur'an karya H.B. Jassin, Bacaan Mulia.1 Karyanya mengundang banyak kritik, karena dianggap terlalu menekankan pada keindahan bahasa puitis dan mengabaikan redaksi bahasa sumber (Arab).2 Pemerintah melalui Departemen Agama dan MUI saat itu ikut bereaksi. Namun, Jassin tetap bergeming, meski bukan tanpa koreksi sebagai bagian dari upaya untuk meredam kritik.3 Karya Jassin menandai munculnya sebuah kesadaran di antara para sarjana muslim Indonesia pentingnya menangkap pengaruh bahasa puitis Al-Qur'an dan menggunakan fungsi yang sama dalam terjemah. Jassin dianggap revolusioner karena termasuk perintis dalam mendahulukan pencapaian fungsional yang signifikan bagi teks bahasa sasaran (target language) dibanding bahasa sumber (source language).4
+Namun, jauh sebelum polemik Bacaan Mulia H.B. Jassin, kaum muslim Indonesia tidak banyak mengetahui bahwa penggunaan
+1Yusuf Rahman, "The controversy around H.B. Jassin: a study of his alQur'anu'l-Karim Bacaan Mulia and al-Qur'an al-Karim Berwajah Puisi," dalam Abdullah Saeed, Approaches to the Qur'an in Contemporary Indonesia, New York: Oxford University Press, 2005, hlm. 85-105.
+2H.B. Jassin ed., Kontroversi Al-Qur'an Berwajah Puisi, Jakarta: Pustaka Utama Grafiti, 1995.
+3Howard M. Federspiel, Popular Indonesian Literature of the Qur'an, Ithaca, New York: Cornel Modern Indonesia Project, 1994, hlm. 125.
+4Peter Riddell, "Translating the Qur'an into Indonesian Languages," Al-Bayan, Journal of Qur'an and Hadith Studies, 12 (2014), hlm. 15-16.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 177
+puisi untuk menerjemahkan Al-Qur'an sudah sejak lama dilakukan oleh orang Sunda. Puisi Sunda berupa guguritan atau dangding misalnya, digunakan sebagai sarana penerjemahan Al-Qur'an oleh seorang ménak Sunda (Jawa: priyayi), R.A.A. Wiranatakoesoema (1888-1965) dalam karyanya Soerat Al-Baqarah sekitar tahun 1949.5 Guguritan (Jawa: geguritan, sekar macapatan) merupakan bentuk puisi Sunda bermatra dengan aturan kaidah pupuh layaknya tembang Sunda. Selain guguritan, orang Sunda juga menggunakan tradisi lisan berupa syair pupujian atau nadoman (Jawa: syi'iran) untuk menerjemahkan Al-Qur'an. Pupujian merupakan puisi syair yang masih beredar secara lisan dan dinyanyikan di pesantren dan masjid-masjid terutama saat menunggu waktu salat.6 Ia menunjukkan besarnya kontribusi pesantren terhadap perkembangan sastra Sunda.7
+Di kalangan para sarjana seperti Johns, Federspiel, Feener dan Riddell, terjemah puitis Al-Qur'an berbentuk guguritan dan pupujian tampaknya kurang populer dibanding Bacaan Mulia karya H.B. Jassin.8 Faktor bahasa lokal kiranya menjadi alasan kekurangpopuleran terjemah puitis lokal tersebut. Selain itu, pemerintah dan para ulama tidak terlalu berkepentingan dengan karya para ménak tersebut, seiring dengan semakin pudarnya pengaruh mereka di masyarakat. Ini berbeda dengan kontroversi terjemah puitis Jassin yang dianggap memiliki gaung lebih luas dilihat dari sisi ketokohannya sebagai paus sastra Indonesia dan banyaknya pihak yang terlibat.
+Kendati demikian, dilihat dari kekayaan sastra dan bahasa daerah di Nusantara, terjemah puitis lokal Al-Qur'an seperti
+5Benjamin G. Zimmer, "Al-`Arabiyyah and Basa Sunda: Ideologies of Translation and Interpretation among the Muslims of West Java," Studia Islamika, 7 (3): 2000, hlm. 53.
+6Yus Rusyana, Bagbagan Puisi Pupujian Sunda, Bandung: Projek Penelitian Pantun dan Folklore Sunda, 1971, hlm. 1.
+7Usep Romli H.M., "Pesantren sebagai Pusat Budaya Orang Sunda," dalam Cik Hasan Bisri dkk., Pergumulan Islam dengan Kebudayaan Lokal di Tatar Sunda, Bandung: Kaki Langit, 2005, hlm. 151.
+8A.H. Johns, "Quranic Exegesis in the Malay World: In Search of Profile," Andrew Rippin ed., Approaches to the History of the Interpretation of the Qur`ân, Oxford: Clarendon Press, 1988; Howard M. Federspiel, Popular Indonesian Literature of the Qur'an, Ithaca, New York: Cornel Modern Indonesia Project, 1994; R. Michael Feener, "Notes Towards the History of Qur'anic Exegesis in Southeast Asia", Studia Islamika, Vol. 5, No. 3, 1998, hlm. 47-76; Peter G. Riddell, "Literal Translation, Sacred Scripture, and Kitab Malay", Studia Islamika, Vol. 9, No. 1, 2002, hlm. 1-26.
+
+178 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+guguritan dan pupujian sebetulnya lebih kompleks dan bernuansa dibanding terjemah puitis Jassin. Terjemah puitis Al-Qur'an tersebut sangat terikat dengan ragam aturan kaidah metrum berupa pupuh dan nadom seperti jumlah larik, suku kata, bunyi vokal akhir, dan aturan baku lainnya. Penyusunnya tidak hanya dituntut memperhatikan bahasa sumber (Arab), tetapi juga menyesuaikan dengan aturan metrum.
+Oleh karena itu, kajian tentang terjemah puitis Al-Qur'an di tatar Sunda ini kiranya sangat signifikan. Ia tidak sekadar mencerminkan kesadaran akan pentingnya menangkap pengaruh bahasa puitisAl-Qur'an, tetapi juga menunjukkan dialog lintas bahasa yang saling mencerahkan (interilumination) antara bahasa Arab (Al-Qur'an) dan Sunda.9 Meski kadang berujung pada kekurangan dalam menyampaikan pesan kitab suci, tetapi kreatifitasnya mampu menjembatani keindahan bahasa Al-Qur'an ke dalam bahasa puisi lokal sehingga bisa dinikmati oleh orang Sunda.
+Selain itu, kajian ini juga penting mengingat kedudukan terjemah puitis Al-Qur'an berbahasa Sunda sebagai tembang dan nyanyian. Di tengah anggapan "ketidakpantasan" melagukan AlQur'an melalui langgam kesenian lokal seperti tembang Jawa, karawitan,atau Cianjuran--melainkan harus melalui seni bacaan Arab seperti Bayt, ¢b, dan lainnya--melagukan terjemah puitis Al-Qur'an dengan guguritan dan pupujian menjadi salah satu pilihan.10 Orang Sunda bisa menyalurkan ekspresi estetis lokalnya atas Al-Qur'an melalui terjemahnya tanpa perlu khawatir dianggap menodai kesucian Al-Qur'an.
+Terjemah Al-Qur'an di Tatar Sunda
+Terjemah merupakan salah satu topik penting dalam kajian Al-Qur'an. Ini terkait dengan kenyataan bahwa hal pertama yang digunakan para penutur non-Arab yang berusaha memahami Islam adalah membaca terjemah Al-Qur'an.11 Meskipun umumnya kaum muslim meyakini bahwa bacaan yang valid hanya mungkin
+9Benjamin G. Zimmer, "Al-`Arabiyyah and Basa Sunda, hlm. 38. 10Anne K. Rasmussen, Women, the Recited Qur'an and Islamic Music in Indonesia, Berkeley and Los Angeles: University of California Press, 2010, hlm. 85. 11Abdullah Saeed, The Qur'an An Introduction, London and New York: Routledge, 2008, hlm. 119.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 179
+dilakukan dengan menggunakan teks Al-Qur'an berbahasa Arab, bukan terjemah, tetapi bukan berarti menafikan pandangan lain yang memperkenankan penggunaan terjemah non-Arab.12
+Di Indonesia, terjemah Al-Qur'an telah menjadi bagian dari isu tabu dan sensitif bagi kaum Muslim. R.A. Kartini (1879-1904) dalam suratnya tertanggal 6 November 1899 sempat mengeluhkan tentang "terlalu sucinya" Al-Qur'an pada masanya untuk diterjemah ke bahasa apapun.13 Sekitar 1909, Sayyid `Usman, seorang mufti polemis Batavia yang dekat dengan kolonial Belanda, secara terbuka menyebarkan pamflet untuk merespon penerbitan terjemah berbahasa Jawa oleh Bagus Ngarpah Solo. Sayyid Usman dikabarkan mengirimkan surat pada pejabat Kasunanan Solo untuk melarang penerbitan tersebut.14 Sekitar tahun 1925, masalah terjemah juga muncul dalam fatwa Rashid Ridha di majalah Al-Manr Mesir terkait pertanyaan Basyuni Imran dari Sambas Kalimantan Barat mengenai upaya H.O.S. Tjokroaminoto yang menerjemahkan The Holy Al-Qur'an karya Muhammad Ali, ulama Ahmadiyah, ke dalam bahasa Melayu-Indonesia.15
+Di Priangan, KH. Ahmad Sanusi juga pernah memicu perdebatan tentang masalah ini terkait penolakan ulama pakauman terhadap karangannya berupa tafsir berbahasa Melayu, Tamsjijjatoel Moeslimin tahun 1934.16 Berbagai kasus tersebut menunjukkan bahwa pada masa dahulu terjemah umumnya masih dianggap tabu oleh para ulama di Indonesia, setidaknya hingga paruh pertama abad ke-20.17 Penolakan atas terjemah didasarkan atas pandangan
+12Hartmut Bozbin, "Translations of the Qur'an," dalam Jane Dammen McAuliffe,
+Encyclopaedia of the Qur'an, Vol. 3, Leiden-Boston-Koln: Brill, 2001, hlm. 340; Mohamed Ali Mohamed Abou Sheishaa, "Muslim Discourse in the Early Twentienth Century on the Translation of the Qur'an," Journal of the Society for Qur'anic Studies, Number 1, Volume 1, October 2001.
+13Raden Adjeng Kartini, Letters of A Javanese Princess, translated by Agnes Louise Symmers, London: Duckworth & Co., 1921, hlm. 20-21.
+14Nico J.G. Kaptein, Islam, Colonialism and the Modern Age in the Netherlands East Indies, Leiden: Brill, 2014, hlm. 198.
+15Moch Nur Ichwan, "Differing Responses to an Ahmadi Translation and Exegesis. The Holy Qur>ân in Egypt and Indonesia," Archipel, Vol. 62, 2001, hlm. 145-146.
+16Dadang Darmawan, Ortodoksi Tafsir: Respons Ulama terhadap Tafsir Tamsjijjatoel-Moeslimien Karya K.H. Ahmad Sanusi. Disertasi. Jakarta: Sekolah Pascasarjana UIN Syarif Hidayatullah Jakarta, 2009, hlm. 164.
+17Mahmud Yunus, Sejarah Pendidikan Islam di Indonesia, Jakarta: Mutiara Sumber Media, 1995, hlm. 173.
+
+180 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+
+bahwa terjemah dianggap sesuatu yang mustahil karena tidak bisa menggantikan bahasa Arab Al-Qur'an. Bisa dipahami bila terjemah non-Arab kemudian dihukumi haram.
+Pergeseran terjadi pasca polemik terjemah di Mesir sekitar tahun 1940-an. Berkembang semacam konsensus bahwa terjemah tidak haram karena merupakan bagian dari pemahaman atau "tafsir."18 Inilah yang dalam literatur `Ulum al-Qur'an kemudian sering disebut dengan tarjamah tafsriyyah atau ma`nwiyyah yang dibedakan dari tarjamah ¥arfiyyah (literal).19 Syekh AlMargi berpendapat bahwa sebagian ayat Al-Qur'an mungkin bisa diterjemah secara harfiah, sebagiannya lagi tidak (melainkan harus secara tafsriyyah).20 Pandangan ini dianggap mampu menjembatani kebuntuan kontroversi di seputar terjemah hingga saat ini seperti dalam kasus Jassin di tahun 1970-an.
+Pergeseran pandangan atas terjemah tersebut secara tidak langsung menjadi salah satu faktor pendorong semakin maraknya terjemah Al-Qur'an di Indonesia. Ini misalnya tampak pada sejumlah besar publikasi terjemah Al-Qur'an berbahasa Sunda di Jawa Barat terutama sejak pertengahan abad ke-20. Meskipun hal ini tidak berarti menafikan kenyataan bahwa jauh sebelumnya upaya "penerjemahan" Al-Qur'an sudah banyak dilakukan di kawasan ini--terutama dalam bahasa Jawa--seperti didapatkan dalam naskah mushaf Al-Qur'an dari abad ke-18.21 Berikut data sementara publikasi terjemah Al-Qur'an berbahasa Sunda yang pernah beredar:
+
+Tabel 1: Publikasi Terjemah Al-Qur'an Berbahasa Sunda
+
+No
+
+Penulis
+
+Judul
+
+Tahun Kategori
+
+1 Muhammad Kurdi
+
+Al-Qur'an Sundawiyah (Penerbitan
+
+1927
+
+Terjemah
+
+Percetakan TB. Sitti Syamsiyah Solo)
+
+2 K.H. Ahmad Sanusi (1888- Rau«atu al-`Irfn f Ma'rifati al-
+
+1930-an Terjemah
+
+1950)
+
+Qur'n, dll.
+
+logat
+
+18Dadang Darmawan, Ortodoksi Tafsir, hlm. 166. 19Az-Zarqniy, Manhil al-`Irfn fi'Ulm al-Qur'n, Jilid 2, T.tp: Isa al-Babiy al-Halabiy, 1362/1943,hlm. 111-113; Mann' Khall al-Qa¯¯n, Mab¥i£ fi `Ulm alQur'n, Beirut: Man£urt al-`Asr al-¦ad£, t.th, hlm. 313. 20Mu¥ammad Mu¡¯af al-Margiy, Ba¥£ f Tarjamat al-Qur'n al-Karm wa A¥kmuh, Kairo: Matba`at al-Rag'ib, 1355/1936, hlm. 79. 21Ervan Nurtawab, Tafsir Al-Qur'an Nusantara Tempo Doeloe, Jakarta: Ushul Press, 2009, hlm. 171.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 181
+
+3 R.A.A. Wiranatakoesoemah & R.A.A. Soeriamihardja
+4 Adjengan H.Mhd. Romli
+5 K.H. Qamaruddin Shaleh
+6 Inventarisasi Yus Rusyana 7 K.H. Qamaruddin Shaleh,
+H.A.A. Dahlan, dan Yus Rusamsi 8 K.H. Mhd. Romli 9 Enas Mabarti 10 Depag-Pemprov Jabar 11 Mahyudin Syaf-Hasan Basri 12 H.R. Hidayat Suryalaga
+13 Anwar Huda 14 Muh. Syarief Sukandi 15 Jamaah Ahmadiyah
+Indonesia 16 Depag-Pemprov Jabar 17 M. Djawad Dahlan 18 Kiai Miftahur Rahman
+19 Mariyah Maryati Sastrawijaya
+
+Soerat Al-Baqarah
+
+1949
+
+Qoeran Tardjamah Soenda, 3 Jilid (Bandung: Poestaka Islam, t.th.), cet. ke-1. Qur'an Tarjamah Sunda (Penjiar Islam Yogyakarta, 1955), cet. ke-3.
+Tarjamah Juz `Amma Basa Sunda
+Muqaddam Al-Qur'an Tardjamah Sunda, Juz 1
+Pupujian Al-Qur'an dalam Bagbagan Puisi Pupujian Sunda Al-Amin: Al-Qur'an Tarjamah Sunda
+
+1950
+1965 1969 1970 1971
+
+Al-Kitabul Mubin: Tafsir Basa Sunda, 2 Jilid Pupujian Al-Qur'an
+
+1974 1974
+
+Tarjamah Al-Qur'an Bahasa Sunda, 3 Jilid Tarjamah Surah Yasin
+
+1974 1986
+
+Nur Hidayah: Saritilawah Basa Sunda, Al-Qur'an 30 Juz Winangan Pupuh
+Nadoman Nurul Hikmah Al-Qur'an 30 Juz Qomus Al-Qur'an Basa Sunda 30 Juz
+
+1980
+2001 1995
+
+Tarjamah Al-Qur'an Sareng Laten Kitab Suci Al-Qur'an Tarjamah Sunda, 3 Jilid
+Al-Qur'an Miwah Tarjamahna Dina Basa Sunda Al-Munir: Al-Qur'an Tarjamah Basa Sunda Al-Huda: Al-Qur'an Tarjamah ku Basa Sunda (Transliterasi) 30 Juz
+Al-Hikmah Tarjamah Al-Qur'an Basa Sunda Juz Ka-1
+
+1993 1998
+2002 2005 2009
+2009
+
+Terjemah Guguritan
+Terjemah
+Terjemah Terjemah
+Terjemah pupujian Terjemah
+Terjemah
+Terjemah pupujian Terjemah
+Terjemah
+Terjemah Guguritan
+Terjemah pupujian Terjemah Perkata Terjemah Terjemah
+Terjemah
+Terjemah Terjemah
+Terjemah
+
+Tabel tersebut menunjukkan bahwa sejak awal abad ke-20 hingga saat ini, setidaknya terdapat sekitar 19 terjemah Sunda dengan beragam bentuk (aksara maupun metodologi), tujuan dan latar penulisan. Data tersebut tidak termasuk tafsir Al-Qur'an berbahasa Sunda yang bisa dipastikan juga mengandung terjemah.22 Pemilahan dilakukan untuk kepentingan membedakan publikasi mana saja yang
+22Tentang tafsir Al-Qur'an berbahasa Sunda, lihat Jajang A Rohmana, Sejarah Tafsir Al-Qur'an di tatar Sunda, Bandung: Diktis Kemenag RI-Mujahid, 2014, hlm. 83-92; Jajang A Rohmana, "Kajian Al-Qur'an di Tatar Sunda: Sebuah Penelusuran Awal," Jurnal Suhuf, Vol. 6, No. 1, 2013, hlm. 206.
+
+182 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+betul-betul terjemah dengan tanpa memberikan penjelasan berupa tafsir.
+Di samping itu, tabel di atas juga menunjukkan keragaman bentuk terjemah dan latar belakang penulisnya. Publikasi terjemah tidak lagi dilakukan individu atau kelompok secara swasta, tetapi sejak tahun 1970-an muncul kecenderungan pelibatan tim (ulama dan ahli bahasa Sunda) seperti proyek terjemah versi Kanwil Depag dan Pemprov Jawa Barat. Namun, dari sekian banyak terjemah, secara alamiah hanya terjemah tertentu saja yang terus mengalami cetak ulang dan sering dijadikan rujukan oleh masyarakat Sunda. Salah satu bentuk terjemah yang dibahas dalam kajian ini adalah menggunakan puisi guguritan dan pupujian Sunda.
+
+Guguritan dan Pupujian Sunda Guguritan merupakan salah satu bentuk karya sastra yang
+semula berasal dari tradisi kesusastraan Jawa. Ia bisa dianggap menjadi ciri keterpelajaran orang Sunda dalam menyerap pengaruh budaya Jawa. Guguritan merupakan salah satu jenis karangan puisi Sunda yang digubah menurut aturan kaidah pupuh (metrum).23 Dari 17 jenis pupuh umumnya digunakan empat metrum, yakni Kinanti, Sinom, Asmarandana, dan Dangdanggula.24 Berikut rincian kaidah pupuh tersebut:
+
+Tabel 2: Kaidah Pupuh
+
+Pupuh/ metrum Kinanti
+Sinom
+
+Jumlah larik dan suku kata setiap bait
+6 larik, 8 suku kata
+9 larik (larik 1­ 4: 8 suku kata; 5: 7; 6: 8; 7: 7; 8: 8; 9: 12)
+
+Vokal akhir
+u ­ i ­ a ­ i ­ a ­ i a ­ i - a ­ i ­ i ­ u ­ a ­ i ­ a
+
+Watak
+prihatin, harapan dan penantian senang dan gembira
+
+23Terdapat 17 jenis pupuh, yakniAsmarandana, Balakbak, Dangdanggula, Durma, Gambuh, Gurisa, Jurudemung, Kinanti, Ladrang, Lambang, Magatru, Maskumambang, Mijil, Pangkur, Pucung, Sinom, dan Wirangrong. Pupuh inilah yang kemudian melahirkan karangan berbentuk wawacan dan guguritan. Pupuh karenanya sangat terikat oleh nama, sifat (karakter), jumlah larik (padalisan) tiap bait (pada), jumlah suku kata (guruwilangan) pada setiap baris, pedotan dan bunyi vokal pada setiap akhir baris (guru lagu). Ma'mur Danasasmita, Wacana Bahasa dan Sastra Sunda Lama, Bandung: STSI Press, 2001, hlm. 171-172.
+24M.A. Salmun, Kandaga Kasusastran Sunda, Bandung: Ganaco, 1958, hlm. 5055.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 183
+
+Asmarandana Dangdanggula
+
+7 larik (8 suku kata kecuali larik 5: 7 suku kata)
+10 larik (l -2: 10; 3: 8; 4: 7; 5: 9; 3 : 7; 7: 6; 8: 8; 9: 12; 10: 7 atau 8).
+
+i ­ a ­ é/o ­ a ­ a ­u ­a
+i ­ a ­ é/o ­ u ­ i ­ a ­ u ­ a ­ i ­ a
+
+rasa cinta dan saling menyayangi
+kebahagiaan dan keagungan
+
+Puisi guguritan Sunda, sebagaimana puisi pupujian dan sawér, sebetulnya biasa dibawakan dengan lagu tembang Sunda dengan diiringi alat musik seperti kacapi-suling.25 Guguritan sebagai tembang umumnya tersebar di masyarakat secara lisan. Seperti halnya macapat di Jawa, guguritan biasa ditembangkan pada acara yang dihadiri orang banyak (mamaos atau beluk), seperti melahirkan, mencukur bayi, manaqiban memperingati Syekh `Abdul Qadir Jailani dan lain-lain.26 Karangan guguritan yang lebih panjang juga digunakan untuk menyampaikan cerita (hikayat, roman), uraian agama dan masalah pertanian, biasanya disebut wawacan.27 Karangan guguritan berisi berbagai hal, misalnya kasih sayang antar manusia, ungkapan tingkah laku manusia, pencaharian, kebudayaan, pendidikan dan pengajaran, kejadian dan keindahan alam.
+Sebagai salah satu karya sastra Sunda tradisional, guguritan banyak dikembangkan oleh kalangan ménak Sunda sejak abad ke19.28 Dari sekian banyak menak Sunda yang menulis guguritan, Haji Hasan Mustapa (1852-1930) dianggap paling kental dengan tradisi sastra sufistik Sunda melalui guguritan. Namun, hingga saat ini, semakin sedikit pengarang Sunda yang menggunakan guguritan sebagai medianya seiring dengan semakin besarnya pengaruh sastra modern seperti puisi, sajak dan novel.29
+Dalam konteks guguritan dan Sundanisasi Al-Qur'an, R.A.A. Wiranatakoesoema (1888-1965) bisa dianggap termasuk salah satu
+25Willem van Zanten, Tembang Sunda, An ethnomucilogical study of the Cianjuran music in West Java, Thesis Leiden, 1987, hlm. 66; Yus Rusyana dan Ami Raksanegara, Puisi Guguritan Sunda, Jakarta: Pusat Pembinaan dan Pengembangan Bahasa Depdikbud, 1980, hlm. 1.
+26Ajip Rosidi, Mencari Sosok Manusia Sunda, Bandung: Pustaka Jaya, 2010, hlm. 30-31 dan 194.
+27Ajip Rosidi, "Perihal Puisi Guguritan Sunda," Pikiran Rakyat, Rabu 20 Juli 1983.
+28Nina H. Lubis, Kehidupan Menak Priangan 1800-1942, Bandung: Pusat Informasi Kebudayaan Sunda, 1998, hlm. 240-241.
+29Ajip Rosidi, Guguritan, Bandung: Kiblat Buku Utama, 2011, hlm. 18; Yus Rusyana dan dan Ami Raksanegara, Puisi Guguritan Sunda, hlm. 3-4.
+
+184 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+perintis penggunaan bentuk guguritan sebagai media terjemah AlQur'an melalui karyanya, Soerat Al-Baqarah. Ia juga menyusun buku Riwajat Kangdjeng Nabi Moehammad s.a.w (1941) yang memuat terjemah ayat berbentuk guguritan. Kreatifitas literer guguritan Wiranatakoesoema kemudian diteruskan oleh R. Hidayat Suryalaga (1941-2011), budayawan dari Universitas Padjadjaran, melalui Saritilawah Nur Hidayah,30 Juz.
+Soerat Al-Baqarah adalah salah satu dari sekian banyak karya Wiranatakoesoema. Ia dipublikasikan sekitar tahun 1949 atau dua puluh lima tahun setelah kepulangannya dari Mekah. Penyusunannya dibantu oleh R.A.A. Soeriamihardja, Bupati Purwakarta. Wiranatakoesoema menyusun terjemahnya dengan menggunakan satu jenis pupuh, yakni Kinanti dan satu jenis puisi tembang lain yang pupuh-nya mirip Kinanti, yakni Kidung. Dari 286 ayat dalam surah Al-Baqarah, pupuh Kinanti digunakan untuk menerjemahkan ayat 1-20 dan 67-121, sedang Kidung digunakan dalam ayat 21-66 dan 122-286. Total jumlah bait dalam karya puisi Soerat Al-Baqarah ini adalah 521 bait (Kinanti 111 bait, Kidung 410 bait).30
+Sedangkan Nur Hidayah: Saritilawah Basa Sunda 30 Juz karya Suryalaga disusun selama delapan belas tahun (1980-1998). Buku ini terdiri atas tiga jilid besar masing-masing sepuluh juz, setelah sebelumnya sempat mencetak beberapa jilid kecil (Juz 1-2 dan Juz 30). Jumlahnya lebih dari 6000 bait dengan rata-rata 200 bait/juz. Suryalaga menggunakan empat jenis pupuh secara acak, yakni Kinanti, Sinom, Asmarandana dan Dangdanggula, kecuali Surah al-F±ti¥ah yang khusus menggunakan lagu Papatet. Istilah terakhir disebut juga Papatat berasal dari istilah karawitan atau seni tembang Sunda yakni deretan nada dasar jenis pélog dalam seni tembang Cianjuran.31 Sebagai sebuah karya tembang, pada tahun 2000, Nur Hidayah pernah ditembangkan selama bulan Ramadan 1421 H di Stasiun TVRI Bandung. Beberapa stasiun radio seperti RRI dan beberapa radio swasta juga pernah menyiarkannya. Bahkan audio dan video hasil tembang "Nur Hidayahan" tersebut kemudian juga sudah direkam ke dalam kaset dan CD/VCD.32
+30R.A.A. Wiranatakoesoemah, Soerat Al-Baqarah,Bandung: "Poesaka," t.th. 31R.A. Danadibrata, Kamus Basa Sunda, Bandung: Kiblat Buku Utama, 2007. 32"Pangjajap Yayasan Nur Hidayah" dalam R. Hidayat Suryalaga, Nur Hidayah, Saritilawah Basa Sunda Al-Qur'an Winangun Pupuh 30 Juz, Buku A,Bandung: Yayasan Nur Hidayah, 2000, cet. ke-2.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 185
+Selain menggunakan guguritan, Sundanisasi Al-Qur'an di tatar Sunda juga menggunakan jenis puisi lainnya, yaitu puisi pupujian atau nadoman. Pupujian termasuk ke dalam salah satu budaya lokal pesantren berbentuk tradisi lisan biasanya terdengar dinyanyikan di masjid-masjid. Ia berisi puji-puja, doa, nasehat dan pendidikan yang berjiwakan agama Islam.
+Sedikitnya terdapat enam fungsi pupujian, yakni untuk memuji keagungan Tuhan, salawat kepada Rasulullah, doa dan taubat pada Allah, meminta syafaat kepada Rasulullah, menasihati umat agar melakukan ibadah dan amal saleh dan menjauhi maksiat, memberi penjelasan tentang agama seperti keimananan, rukun Islam, fiqih, akhlak, tarikh, dan terjemah atau tafsir Al-Qur'an.33
+Puisi pupujian yang dinyanyikan oleh para santri atau merbot masjid sebetulnya tidak hanya pupujian yang berbahasa Sunda saja, tetapi juga berupa syair pupujian berbahasa Arab. Tradisi syair Arab inilah yang mempengaruhi bentuk puisi Sunda seperti puisi pupujian Sunda atau nadoman dan juga sawer. Sebagaimana puisi sawer yang berasal dari bahasa Arab sha'r, nadoman juga semula berasal dari kata na§am.34
+Dari segi ilmu persajakan Arab (`aru«, qawf), aturan pola rima pupujian juga hampir tidak jauh berbeda dengan syair Arab.35 Bahkan pola empat seuntai dalam pupujian sebagaimana syair Melayu cenderung lebih dekat dengan ruba'i/ruba'iyat Persia.36 Penyaduran puisi Arab ke dalam bahasa Sunda dilakukan pula sebagai bagian dari pengajaran agama agar mudah dipahami dan dihapal oleh orang Sunda.
+Struktur puisi pupujian umumnya terdiri dari beberapa pola ikatan syair, baik dua seuntai, empat, lima hingga delapan seuntai.37 Tetapi semua baitnya terikat dengan kaidah puisi berupa jumlah larik,
+33Tini Kartini, et.al., Puisi Pupujian dalam Bahasa Sunda, Jakarta: Pusat Pembinaan dan Pengembangan Bahasa Departemen Pendidikan dan Kebudayaan, 1986, hlm. 19.
+34Ajip Rosidi, Sawer jeung Pupujian, Bandung: Kiblat, 2011, hlm. 11. 35Titin N. Ma'mun, "Pola Rima Syi'iran dalam Naskah di Tatar Sunda dan Hubungannya dengan Pola Syair Arab," Jurnal Manassa, Vol. 1, No. 1, 2011, hlm. 147-159. 36J.T.P. De Bruijn, An Introduction to the Mystical Use of Classical Poems, Great Britain: Curzon Press, 1997, hlm. 7; V.I. Braginsky, "Evolution of the Verse Structure of the Malay Syair," Archipel, Volume 42, 1991, hlm. 133-154. 37Tini Kartini, et.al., Puisi Pupujian dalam Bahasa Sunda, hlm. 15.
+
+186 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+
+jumlah suku kata setiap larik, dan kesamaan bunyi vokal akhir di setiap larik. Sebagaimana guguritan, terjemah pupujian Al-Qur'an juga sangat terikat dengan aturan berupa jumlah larik dan suku kata. Namun dibanding guguritan yang didasarkan pada beragam kaidah pupuh, aturan puisi pupujian cenderung lebih sederhana. Berikut beberapa aturan puisi pupujian berupa jumlah larik, suku kata tiap bait dan vokal akhir: 38
+
+Tabel 3: Kaidah pupujian
+
+Jumlah larik 4 2 6 9
+
+Jumlah suku kata setiap larik 8, 10-12 12, 10-14 12 8-10
+
+Vokal akhir
+a-a-a-a, a-a-b-b, a-b-a-b, a-b-b-b, a-a-b-c. a-a a-a-a-a-a-a Tidak tentu
+
+Jumlah larik dalam puisi pupujian Sunda umumnya adalah empat larik layaknya syair Arab. Setiap bait disusun dalam empat larik yang semuanya ujungnya memiliki vokal akhir sama (murwakanti). Tetapi ada pula yang dibangun dengan dua, enam atau delapan larik. Jumlahnya selalu genap, tidak ada yang ganjil. Ujung lariknya pun kadang ada yang tidak memenuhi ketentuan, sebab penyusunnya kurang mahir dalam memilih dan menggunakan kata. Begitu pula dalam suku kata pada setiap lariknya, umumnya delapan suku kata, meski ada pula yang enam dan dua belas suku kata.
+Terdapat banyak puisi pupujian Sunda yang sama dan tersebar di masyarakat Sunda, seperti yang populer adalah eling-eling dulur kabeh, eling-eling umat, anak Adam, nabi urang sadayana, dan banyak yang lainnya. Bukan hanya berisi nasehat, pupujian juga digunakan untuk memberikan pengajaran agama.
+Salah satu kandungan pupujian Sunda adalah pengajaran terjemah Al-Qur'an. Puisi pupujian Sunda yang berisi tentang terjemah Al-Qur'an, umumnya berupa surah-surah pendek. Dari sekian banyak terjemah Al-Qur'an berbahasa Sunda, secara kuantitatif, jumlahnya tidak banyak dibanding terjemah prosa biasa. Selain karena tujuan pupujian umumnya sebagai puji-pujian dan
+38Yus Rusyana, Bagbagan Puisi Pupujian Sunda, hlm. 14-16.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 187
+nasehat, penggubah pupujian Al-Qur'an yang berisi pengajaran cenderung kurang melibatkan emosi pendengar saat dinyanyikan. Karenanya ia kurang populer dibanding puisi pupujian Sunda lainnya yang berisi nasehat keagamaan. Selain itu, tidak banyak pula kyai atau santri yang mendokumentasikannya ke dalam tulisan.
+Berdasarkan penelusuran penulis, sedikitnya terdapat tiga karya yang berkaitan dengan terjemah pupujian Al-Qur'an: pupujian Al-Qur'an hasil inventarisasi Yus Rusyana, pupujian Al-Qur'an karangan Enas Mabarti (1942-2014), dan Nadoman Nurul Hikmah karya R. Hidayat Suryalaga. Selain itu diketahui juga adanya pupujian Al-Qur'an karya KH. Sirodjuddin Abbas dari Pesantren Al-Sawiyah Cibiru Bandung, dan kitab At-Tabyn Al-Ajl wa alAhl f At-Tafsr Srat Al-A'l karya KH. R. Ahmad Dimyati dari Pesantren Sukamiskin Bandung.
+Hasil inventarisasi Yus Rusyana berjudul Bagbagan Puisi Pupujian Sunda merupakan kumpulan pupujian dari masjid-masjid di beberapa daerah di Jawa Barat, seperti Garut, Tasikmalaya, Ciamis, Sumedang, Subang, Cicalengka dan Banjaran Bandung. Di dalamnya didapatkan tujuh surah pendek yang diterjemah ke dalam bentuk puisi pupujian Sunda, yakni Surah al-`A¡r, al-Fl, al-Ma'n, al-Humazah, Al-Quraisy, al-Lahab dan at-Tak£ur.39Pupujian AlQur'an karya Enas Mabarti semula dimuat di Majalah Sunda, Mangle Nomor 444-450 tahun 1974, lalu dimuat ulang oleh Ajip Rosidi dalam Sawer dan Pupujian (2011). Jumlahnya hanya delapan surah: ayat kursi, al-`diyt, al-Qri`ah, al-Ma`n, al-Kau£ar, alLahab, al-Ikhl¡, dan An-Ns.40Adapun Nadoman Nurul Hikmah karya R. Hidayat Suryalaga disusun selama sekitar dua belas tahun (1997-2009) tak lama setelah ia menunaikan ibadah haji tahun 1418 H/1997 M. terutama setelah menyelesaikan karya utamanya berupa puisi guguritan Al-Qur'an, Nur Hidayah: Saritilawah Basa Sunda, Al-Qur'an 30 Juz Winangan Pupuh (1980-1998). Buku ini terdiri atas tiga puluh seri masing-masing satu juz dan ada juga yang dicetak dalam format buku saku. Terdapat sekitar 5782 nadom untuk 30 juz Al-Qur'an.41
+39Yus Rusyana, Bagbagan Puisi Pupujian Sunda, hlm. 67-70. 40Ajip Rosidi, Sawer Jeung Pupujian, , hlm. 127-133. 41R. Hidayat Suryalaga, Nadoman Nurul Hikmah, Tema-tema Ayat Al-Qur'an Daras 30, Bandung: Yayasan Nur Hidayah, 2003, hlm. 212.
+
+188 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+Kaidah Puisi Guguritan dan Pupujian sebagai Aturan Terjemah Dilihat dari segi materi atau kandungan pesan, terjemah
+guguritan dan pupujian Al-Qur'an tidak jauh berbeda dengan terjemah lain pada umumnya. Perbedaannya hanya terletak pada bentuk puisi keduanya yang digunakan sebagai wadah terjemah AlQur'an. Bentuk karangannya didasarkan pada bentuk guguritan dan pupujian yang menekankan pada keindahan bahasa dengan aturan sajak bermatra.
+Selain itu, dilihat dari rancang bangun guguritan dan pupujian yang digunakan, keduanya hampir tidak jauh berbeda dengan karangan guguritan dan pupujian Sunda pada umumnya. Ini terlihat terutama dari sisi jenis dan kaidah puisi yang digunakan serta kedudukannya sebagai lirik tembang dan nyanyian pupujian Sunda. Namun, karya guguritan dan pupujian Al-Qur'an ini memiliki perbedaan bila melihat isi atau pesan puisi yang hendak disampaikannya. Bagaimanapun ia merupakan guguritan dan pupujian yang mengandung pesan firman Tuhan. Karenanya, ia tidak hanya menekankan pada kaidah puisi tetapi juga kandungan pesan yang hendak disampaikan. Ia juga bukan hanya menerjemah layaknya terjemah Al-Qur'an biasa, tetapi juga merupakan puisi yang terikat dengan kaidah puisi sekaligus tembang atau nyanyian pupujian Sunda.42
+Oleh karena itu, di sini kita bisa menilai bahwa sebagai sebuah karya guguritan sekaligus tembang, buku Soerat Al-Baqarah karya Wiranatakoesoema dan Nur Hidayah karya R. Hidayat Suryalaga misalnya, sangat memperhatikan kaidah guguritan atau seringkali disebut pupuh (jenis metrum). Ini misalnya tampak pada aturan jumlah larik (padalisan)dalam setiap bait (pada), guru lagu (vokal akhir di setiap ujung larik) dan guruwilangan (jumlah suku kata). Meskipun dalam pilihan watak pupuh, pedotan (randegan atau pemenggalan suku kata dalam larik umumnya), dan perpaduan larik cenderung lebih fleksibel, meski secara prinsip tetap dijadikan acuan.43 Berikut contoh terjemah atas Surah Al-Baqarah/2: 19 di
+42Karenanya, untuk mengapresiasi karya guguritan Al-Qur'an ini sedikitnya bisa melibatkan qari' al-Qur'an, pemain musik (kacapi-suling), penembang dan ahli tafsir. Iip Zulkifli Yahya, "Saritilawah Nur Hidayah, Karya Besar Miskin Apresiasi," Pikiran Rakyat, 20 Desember 2002.
+43M.A. Salmun, Kandaga Kasusastran Sunda, hlm. 50; Yus Rusyana dan dan Ami Raksanegara, Puisi Guguritan Sunda, hlm. 1.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 189
+
+mana Wiranatakoesoema menggunakan kaidah pupuh Kinanti dan Suryalaga menggunakan kaidah pupuh Sinom:
+
+Tabel 4: Kaidah pupuh dalam terjemah
+
+                          
+
+No.
+
+Pupuh Kinanti
+
+Suku Pedotan
+
+Terjemah (pen.)
+
+Ayat
+
+(Wiranatakoesoemah)
+
+kata
+
+&
+
+vokal
+
+akhir
+
+19. Misilna deui kaseboet
+
+8u
+
+3+2+3 Umpama juga disebut
+
+Hoedjan gedé reudjeung angin 8i
+
+2+2+2+2 Hujan besar serta angin
+
+Poék mongkléng dor-dar gelap 8a
+
+2+2+2+2 Gulita guntur gelegar
+
+Sieun torék noetoep tjeuli
+
+8i
+
+2+2+2+2 Tutup telinga tak tuli
+
+Malah sieuneun koe adjal
+
+8a
+
+2+3+1+2 Takut pula pada ajal
+
+Eta siksaan noe kafir1
+
+8i
+
+2+3+1+2 Siksaan bagi yang kafir
+
+Pupuh Sinom (Suryalaga)
+
+Terjemah (pen.)
+
+19. Mungguh anu munapék mah, 8a
+
+2+2+3+1 Sungguh munafik
+
+Ibarat nu leumpang peuting,
+
+8i
+
+3+1+2+2 lakunya,
+
+Hujan angin dor-dar gelap,
+
+8a
+
+2+2+2+2 Bak malam jalan
+
+Terus nyarocokan ceuli,
+
+8i
+
+2+4+2 sendiri,
+
+Sieun ngemasi pati,
+
+7i
+
+2+3+2 Badai kilat
+
+Kitu kersaning Nu Weruh,
+
+8u
+
+2+3+1+2 menggelegar,
+
+Nu Kawasa saéstuna,
+
+8a
+
+1+2+3 Telinga pun ditutupi,
+
+Alloh Nu Maha Tingali,
+
+8i
+
+2+1+2+3 Takut rasakan mati,
+
+Nu ngamurba ngawengku ogé 12i 1+3+3+2+1+2 Itu kehendak Yang
+
+nu kapir.2
+
+Tahu,
+
+Sungguh Yang Maha
+
+Kuasa,
+
+Allah Maha Lihat
+
+pasti,
+
+Yang kuasa meliputi
+
+orang kafir.
+
+Penggunaan guguritan dalam kedua karya tersebut menunjukkan terjemah ayat yang berpijak pada aturan kaidah pupuh yang ketat. Wiranatakoesoema menggunakan pupuh Kinanti dan Suryalaga menggunakan pupuh Sinom. Dalam pupuh Kinanti terdapat enam larik dalam satu bait. Setiap larik terdiri dari delapan suku kata (guru wilangan) dengan huruf vokal (u-i-a-i-a-i) di akhir setiap larik (guru lagu). Sedang pupuh Sinom menggunakan sembilan larik dengan aturan larik berikut: 8a-8i-8a-8i-7i-8u-8a-8i-12a.
+
+190 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+
+Ketika ia ditembangkan, maka keselarasan lirik dengan nada lagu akan bisa dirasakan keindahannya. Karenanya, menerjemah Al-Qur'an dengan guguritan dianggap cukup rumit dan kompleks. Layaknya memasang puzzle, penulis tidak sekadar mengejar ketepatan makna sesuai ayat dalam bahasa sumber dan bahasa sasaran, tetapi juga harus mempertimbangkan kaidah pupuh, watak pupuh, pedotan, dan perpaduan antar larik. Selain itu, ketepatan diksi puitis akan sangat mempengaruhi keindahan lirik dan nada ketika dijadikan tembang guguritan Sunda.
+Begitu pun, sebagaimana ketatnya aturan pupuh dalam puisi guguritan Al-Qur'an, puisi terjemah pupujian Al-Qur'an juga menunjukkan keketatan yang hampir sama terhadap aturan pupujian atau nadom. Setiap baitnya, umumnya terdiri dari empat larik dan delapan suku kata dengan bunyi vokal akhir yang umumnya sama di setiap ujung lariknya (murwakanti). Aturan puisi pupujian tersebut harus dipenuhi terkait dengan kedudukannya sebagai lirik nyanyian yang biasa disenandungkan. Jenis lagunya berbeda-beda tergantung jumlah larik dan suku katanya. Berikut gambaran kaidah pupujian yang digunakan sebagai terjemah Al-Qur'an:
+
+Tabel 5: Kaidah pupujian dalam terjemah
+
+   
+
+ 
+
+ 
+
+(  )(  )( ) (
+
+   )()
+
+
+
+ 
+
+Pupujian Inventarisasi Yus Rusyana
+
+Pupujian Enas Mabarti
+
+Ieu sundana surat Tabbat (9a) (sic.) Jalma rugi teu mangpaat (8a) Abi Lahab nu kasebat (8a) Anu pegat tina rahmat (8a)
+Abi Lahab, Muawiyah (8a) Duanana ngabarantah (8a) Ngamusuh kabeh ka Allah (8a) Tinggal ibadah ka Allah (8a)3
+
+Kalayan asma Mantenna (8a) Rohman rohim salawasna (8a) Welas asih ka mahluk-Na (8a) Mikadeudeuh mikatresna (8a)
+Taya pupurieunana (8a) Geus cilaka duanana (8a) Nu katuhu jeung nu kenca (8a) Leungeun Abu Lahab nista (8a)
+Teu mawa guna hartana (8a) Mubadir kabeh amalna (8a) Keur manehna geus sadia (8a) Muntabna seuneu naraka. (8a)4
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 191
+Baik terjemah inventarisasi Rusyana maupun Mabarti, keduanya tampak mengacu pada kaidah puisi pupujian yang cukup ketat. Ia menggunakan aturan empat larik untuk setiap bait (kwartet), delapan suku kata perlarik, dan vokal akhir a-a-a-a. Hanya satu larik pertama yang cenderung melebihi kaidah 8 suku kata untuk setiap larik. Kemungkinan penyusunnya tidak terlalu mempertimbangkan bertemunya dua huruf vokal di awal bait "ieu" yang bisa dibaca dalam satu suara suku kata "yeu".
+Terjemah guguritan dan pupujian sebagai terjemah tafsiriyah
+Tugas penerjemah salah satunya menyampaikan pesan yang terdapat dalam bahasa sumber (source language) secara efektif melalui bahasa sasaran (target language) di tengah kemustahilan terjemah secara mutlak.44 Dalam proses tersebut, terjemah guguritan dan pupujian memiliki kompleksitas yang tidak ditemukan dalam terjemah lainnya. Kaidah pupuh dan pupujian sebagai aturan susunan kalimat dalam terjemahnya menjadi hambatan sekaligus tantangan bagi penerjemah untuk mencari cara agar bisa menjembatani kandungan makna dari bahasa sumber dengan bahasa sasaran. Oleh karena itu, bisa dipahami bila para penulisnya umumnya menggunakan semacam kompromi-kompromi menghadapi kompleksitas aturan puisi tersebut.
+Dalam terjemah guguritan karya Wiranatakoesoema dan Suryalaga di atas, keduanya tampak melakukan kompromi dengan mengatur panjang pendeknya kalimat dalam larik. Keduanya berusaha memaksa untuk meringkas terjemah satu ayat ke dalam satu bait sesuai kaidah pupuh Kinantiatau Sinom. Wiranatakoesoema misalnya, menggunakan kalimat "Sieun torék noetoep tjeuli (tutup telinga, tak tuli) untuk menerjemahkan kalimat yaj'aln a¡bi'ahum f ©nihim (mereka menyumbat telinganya dengan anakjarinya). Begitu juga, Suryalaga menggunakan kalimat singkat "Terus nyarocokan ceuli" (lalu menutupi telinga). Keduanya mereduksi terjemah ayat dengan sama sekali tidak menyebut kata "jari" (a¡bi') yang sangat eksplisit digunakan dalam bahasa sumber.
+Selain itu, keduanya terkesan memperluas makna dengan
+44Douglas Robinson, Becoming A Translator: An Introduction to the Theory and Practice of Translation, London and New York, Routledge, 2002, hlm. 164; J.C. Catford, A Linguistic Theory of Translation, London: Oxford University Press, 1978, hlm. 93.
+
+192 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+menambah redaksi kalimat lain demi mengejar bait pupuh Kinanti atau Sinom meski tidak sesuai dengan bahasa sumber. Hal ini tentu saja berakibat pada sejumlah perluasan makna yang sangat berbeda dari bahasa sumber. Wiranatakoesoema misalnya, menggunakan kata "kaseboet, angin, siksaan" yang tidak ada sama sekali dalam bahasa sumber. Begitu pun, Suryalaga menggunakan kalimat tambahan "mungguh anu munapék mah, ibarat nu leumpang peuting, kitu kersaning Nu Weruh, Nu Kawasa saéstuna, Alloh Nu Maha Tingali." Suryalaga tampak lebih ketat dalam mengejar makna dari bahasa sumber dibanding Wiranatakoesoema. Namun, baik Wiranatakoesoema maupun Suryalaga, keduanya sama-sama menambahkan kata atau kalimat tertentu untuk menyampaikan makna ayat dalam bahasa sasaran sekaligus mengejar kesesuaian dengan kaidah pupuh. Akibatnya terasa banyak ketidaksesuaian terjemah antara bahasa sumber dan bahasa sasaran.
+Begitu juga dalam puisi pupujian Al-Qur'an inventarisasi Yus Rusyana dan Enas Mabarti yang dikutip di atas, dilihat dari sisi diksi atau pilihan kata, penyusunnya cenderung melakukan kompromi yang hampir sama berupa penyempitan dan perluasan bahasa terjemah sebagaimana terjemah guguritan Wiranatakoesoema dan Suryalaga.
+Terjemah pupujian Rusyana dan Mabarti tampak cenderung memaksakan beberapa kata karena mengejar vokal akhir agar sama dan berirama (murwakanti). Misalnya tampak pada pengulangan kata Allah pada bait kedua pupujian hasil inventarisasi Rusyana. Terlebih sejumlah larik tampak sama sekali tidak terkait dengan bahasa sumber (ayat). Begitupun dengan pupujian karya Mabarti, meski cukup taat pada makna ayat, tetapi beberapa kalimat terakhir dalam redaksi ayat tidak diterjemahkannya seperti kalimat wamra'atuh ¥ammlah al-¥a¯ab f jdih ¥abl mim masad. Ini menunjukkan keterbatasan bahasa Sunda yang dikuasai penyusunnya, sehingga tidak berhasil mengeksplorasi kekayaan bahasa Sunda yang masih banyak tersedia.
+Meski demikian, dilihat dari sisi kandungan makna ayat, terjemah Mabarti cenderung lebih taat pada redaksi bahasa sumber dibanding pupujian hasil inventarisasi Rusyana. Mabarti berusaha menuangkan pemahamannya ke dalam bentuk puisi tanpa harus mengabaikan makna ayat. Sementara pupujian hasil inventarisasi
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 193
+Rusyana sama sekali tidak menjadikan redaksi ayat sebagai sumber. Penyusunnya tampak berusaha menuangkan pemahamannya sendiri. Bahkan ia memberikan interpretasi lain bahwa yang celaka bukan istri Abu Lahab sebagaimana dinyatakan redaksi ayat (wamra'atuh), melainkan Muawiyah. Nama terakhir merupakan salah seorang sahabat Nabi yang menjadi khalifah pertama dari Bani Umayah setelah terlibat "fitnah" dengan Ali bin Abi Thalib dan pengikutnya dalam perang Shiffin.45 Penyusun terjemah pupujian tersebut memang keliru. Tetapi penyamaan Muawiyah dengan Abu Lahab dalam bait di atas boleh jadi terkait dengan sikap kebencian kaum Syiah atas Muawiyah. Dilihat dari beragam bahasa dan budaya lokal Islam Nusantara yang banyak dipengaruhi budaya Persia, penulis tidak mengetahui secara pasti apakah ini merupakan salah satu bukti kuat pengaruh tradisi Syiah tersebut terhadap bait di atas.46
+Dengan demikian, dari uraian di atas tampak jelas bahwa terdapat ragam bentuk terjemah puitis guguritan dan pupujian berhadapan dengan redaksi bahasa sumber, yakni antara yang ketat dan longgar. Semua tergantung pada selera masing-masing penyusunnya sendiri. Tetapi dilihat dari kaidah terjemah, semua puisi guguritan dan pupujian Al-Qur'an tersebut sama sekali tidak mencerminkan terjemah yang sebenarnya. Ia bukan terjemah harfiah (literal) karena tidak mengacu pada urutan redaksi bahasa sumber. Terjemahnya cenderung pada terjemah makna Al-Qur'an atau terjemah tafsriyyah/ma`nwiyyah. Penyusunnya tampak berusaha memahami makna ayat terlebih dahulu, lalu menuangkannya dalam bentuk puisi guguritan dan pupujian.
+Meski mengarah pada terjemah tafsriyyah, terjemah guguritan dan pupujian dengan seperangkat kaidah puisinya memiliki kompleksitas tersendiri dibanding terjemah non-puitis pada umumnya, bahkan dibanding terjemah puitis Jassin yang dianggap kontroversial. Kerumitan puisi boleh jadi tidak ditemukan pula dalam terjemah puitis lain, seperti The Qur'an: The First Poetic Translation (Ultimate Book, 2000) karya F. Nikayin, seorang Muslim asal Iran, yang dianggap sebagai terjemah puitis pertama
+45G.R. Hawting, The First Dynasty of Islam, The Umayyad Caliphate AD 661750, London & New York: Routledge, 2000,hlm. 24.
+46Tentang pengaruh Syiah di Asia Tenggara lihat, Christoph Marcinkowski, "Selected Historical Facets of the Presence of Shi'ism in Southeast Asia," The Muslim World, Volume 99, 2009, hlm. 416.
+
+194 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+
+dalam bahasa Inggris.47 Bacaan Mulia karya H.B. Jassin misalnya, cenderung menekankan pada keindahan bahasa puisi ketika menerjemahkan ayat, tetapi tidak terikat pada aturan jumlah larik, suku kata, dan huruf vokal akhir di ujung setiap larik.
+
+19. Atau seperti awan mengandung hujan dari langit, Dalamnya kegelapan, guruh dan kilat. Mereka masukkan jari-jarinya ke dalam telinga, Supaya jangan mendengar bunyi petir, Ketakutan akan mati, Tapi Allah mengepung orang tiada beriman5
+
+
+
+Terjemah Jassin mencerminkan keindahan bahasa puisi yang tidak terlalu dipusingkan dengan ketatnya kaidah pupuh dan pupujian. Ia tidak terikat dengan aturan jumlah suku kata dan huruf vokal akhir di ujung larik, pedotan, serta kesatupaduan larik dan bait di tengah pilihan keindahan kata dan bahasa. Ia cenderung lebih bebas berekspresi memainkan keindahan kata-kata di sekitar ayat. Seperti dikatakan Jassin, ia adalah menterjemah Al-Qur'an secara puitis dengan memperhatikan keindahan bunyi, irama, kiasan, warna dan suasana, bukan mempuisikan Al-Qur'an.48
+Karenanya, bila terhadap puisi terjemah Jassin yang cenderung tidak terikat oleh aturan metrum saja kritik atas kemungkinan kekeliruan banyak dilontarkan, maka seharusnya `penundukkan' terjemah oleh kaidah puisi guguritan dan pupujian lebih memiliki potensi ketidaksesuaian terjemah terutama dilihat dari kaidah gramatika bahasa dan sastra Arab. Bukan hanya kemungkinan ketidaksesuaian makna dengan redaksi ayat sebagaimana banyak didapatkan dalam kasus Bacaan Mulia karya H.B. Jassin,49 tetapi
+47M.H. Broomand, "Interview with Dr. F. Nikayin, A Poetic Translation of the Holy Qur'an," ECHO, September 2009, hlm. 4-13.
+48H.B. Jassin, "Al-Quranul Karim Bacaan Mulia, Beberapa Catatan H.B. Jassin," Kompas, 8/11/1978, dimuat dalam Penerbit Mutiara, Polemik H. Oemar Bakry dengan H.B. Jassin, Jakarta: Penerbit Mutiara, 1979, hlm. 19.
+49Berbagai kritik ditujukan atas Bacaan Mulia H.B. Jassin, misalnya Moh. Zuhri, Terjemah Puitis Al-Qur'an, Kritik Ilmu Ma'ani terhadap Al-Qur'anul Karim Bacaan Mulia Karya H.B. Jassin, Yogyakarta: Lintang-PPs IAIN Walisongo, 2012, hlm. 156.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 195
+boleh jadi `reduksi yang disengaja' karena tidak tertampung dalam bait puisi. Inilah yang tidak dibaca secara jeli oleh para ulama dan pengkaji Al-Qur'an di tatar Sunda.
+Kerumitan terjemah berbentuk guguritan dan pupujian juga bisa dirasakan bila dibandingkan dengan terjemah (non-puitis) yang umumnya dibuat para penerjemah Al-Qur'an. Sebut saja misalnya terjemah `Abdullah Yusuf `Ali, Pickthall, A.J. Arberry, Muhammad Ali, Irving dalam tradisi terjemah berbahasa Inggris, atau Abdurrauf Al-Sinkili, Hasbi Ash-Shiddieqy, Departemen Agama, Hasbullah Bakry, Bahtiar Surin dalam bahasa Indonesia, atau juga KH. Ahmad Sanusi, Mhd. Romli, Qamarudin Saleh, Djawad Dahlan, Huda, Rahman, Sastrawijaya dan lainnya dalam bahasa Sunda. `Abdullah Yusuf `Ali misalnya, cenderung menggunakan terjemah tafsriyyah/ ma`nawiyyah dengan penjelasan dalam kurung untuk menampung makna bahasa sumber. Demikian juga terjemah bahasa Sunda (nonpuitis) yang sangat populer di kalangan orang Sunda seperti Al-Amin susunan Qamarudin Saleh dkk. yang lebih cenderung mengacu pada terjemah harfiah sesuai urutan kata dalam bahasa sumber (ayat):
+19. Or (another similitude) is that of a rain-laden cloud from the sky: in it are zones of darkness, and thunder and lightning: they press their fingers in their ears to keep out the stunning thunderclap, the while they are in terror of death. But Allah is ever round the rejecters of Faith! 6
+19. Atawa cara anu diguyur ku hujan ti langit jeung poék-mongkléng dibarung ku guludug katut kilat, maranéhna nyarocokan ceulina ku ramona alatan sieun paéh disamber gelap. Jeung Allah (kauninga jeung kakawasaana-Na) ngurung kapirin.7
+Dari perbandingan tersebut kita bisa melihat bahwa terjemah guguritan dan pupujian cenderung lebih rumit dan kompleks dibandingkan terjemah non-puitis pada umumnya, bahkan dengan terjemah puitis seperti Bacaan Mulia H.B. Jassin sekalipun. Seorang penerjemah guguritan dan pupujian selain dituntut memahami kandungan ayat dan menuangkannya ke dalam bahasa Sunda dengan diksi yang tepat, tetapi tidak hanya sampai di sini, ia juga harus berusaha menyesuaikannya dengan aturan kaidah pupuh dan pupujian yang sangat ketat terutama jumlah larik, guru lagu, guru wilangan, watak pupuh, pedotan dan perpaduan antar larik. Berikut gambaran proses terjemah guguritan dan pupujian dibanding terjemah puisi lainnya atau non-puitis.
+
+196 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+
+Tabel 6: Perbandingan proses terjemah
+
+No
+
+Proses terjemah
+
+1. Memahami kandungan ayat
+
+Terjemah guguritan
+
+
+Terjemah pupujian
+
+
+Terjemah H.B. Jassin 
+
+Terjemah non-puitis
+
+
+2. Menuangkan ke dalam
+
+
+
+
+
+
+
+
+
+bahasa sasaran
+
+3. Menyusun bahasa secara
+
+
+
+
+
+
+
+--
+
+puitis: Jumlah larik
+Jumlah suku kata
+
+
+
+
+
+--
+
+--
+
+
+
+
+
+--
+
+--
+
+perlarik
+
+Vokal akhir perlarik
+
+
+
+
+
+--
+
+--
+
+Watak puisi
+
+
+
+--
+
+--
+
+--
+
+Pedotan
+
+
+
+--
+
+--
+
+--
+
+4. Mengacu pada kaidah
+
+
+
+
+
+--
+
+--
+
+puisi
+
+5. Memperhalus bahasa
+
+
+
+
+
+
+
+
+
+Dengan demikian, mengingat kompleksitas terjemah guguritan tersebut, dilihat dari sisi jenis terjemah, maka tidak mungkin ia menggunakan pendekatan terjemah harfiah sesuai urutan kata bahasa sumber. Penerjemah guguritan Al-Qur'an bisa dipastikan hampir selalu menggunakan pendekatan terjemah tafsriyyah atau ma'nwiyyah dengan tanpa terikat pada urutan kata dalam bahasa sumber. Ia mengutamakan keutamaan makna dan maksud secara sempurna dengan konsekuensi terjadi perubahan urutan kata atau susunan kalimat.50
+Oleh karena itu, menarik ketika kita menemukan bahwa Wiranatakoesoemah memberikan nama bagi buku terjemahnya ini dengan Soerat Al-Baqarah, Tafsir Soenda Damelan Al-Hadj R.A.A. Wiranatakoesoema(h). Sesuatu yang tidak berani diungkapkan oleh Suryalaga yang lebih memilih istilah `saritilawah' sebagai judul bukunya dan dianggap lebih dekat dengan terjemah yang dibacakan secara baik dan indah layaknya membaca puisi atau sajak.51 Istilah `tafsir' juga diungkapkan Wiranatakoesoemah di bait pertama guguritan-nya:
+50Mann' Khall al-Qa¯¯n, Mab¥i£ fi `Ulm al-Qur'n, hlm. 313. 51Menurut Suryalaga, alasan memilih saritilawah karena terjemah dan tafsir dianggap memiliki aturan baku (sic!). Lihat "Purwawacana," R. Hidayat Suryalaga, Nur Hidayah, Buku A (2000).
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 197
+
+1. Kalawan asma Jang Agoeng Allah Noe Moerah toer Asih Aliflaamim nami soerat sareng kasebatna deui Albaqarah katelahna ajeuna badé ditafsir8
+
+Dengan nama-Nya Yang Agung Allah Pemurah Pengasih Aliflamim nama surah dan disebutnya lagi Albaqarah dikenalnya sekarang akan ditafsir
+
+Kata `tafsir' di sini tentu bukan dalam pengertian tafsir pada umumnya. Tetapi sebagaimana sudah dijelaskan, mengarah pada terjemah tafsriyyah atau ma`nwiyyah. Wiranatakoesomah lebih menyukai istilah `tafsir' dibanding terjemah, karena ia menyadari bahwa apa yang dilakukannya bukanlah terjemah ¥arfiyyah. Boleh jadi ia menyadari bahwa pada dasarnya Al-Qur'an tidak bisa diterjemah secara persis ke dalam bahasa apapun tanpa melibatkan penafsiran.52 Boleh jadi juga hal ini terkait dengan istilah terjemah Al-Qur'an yang saat itu masih tidak disukai dibanding tafsir terkait polemik keharamannya karena dianggap bisa menggantikan bahasa Arab Al-Qur'an. Seperti diketahui polemik terjemah di awal abad ke-20 dialami Ahmad Sanusi di daerah Sukabumi terkait penolakan dari ulama pakauman ketika ia mempublikasikan tafsir berbahasa Melayu, Tamsjijatoel Moeslimin tahun 1934.53 Tidak jelas apakah Wiranatakoesoemah sebagai Bupati Bandung saat itu mengetahui perdebatan tersebut di sekitar Priangan.
+Selain itu, dilihat dari proses tahapan terjemah dan latar penerjemah, para penerjemah guguritan dan pupujian cenderung bukan menerjemah langsung atas Al-Qur'an ke dalam bentuk guguritan dan pupujian. Tetapi merupakan terjemah atas terjemah atau tafsir Al-Qur'an. Wiranatakoesoemah misalnya, yang banyak dididik pendidikan modern Belanda boleh jadi menggunakan terjemah Al-Qur'an berbahasa Belanda atau Inggris dilihat dari kemampuannya menguasai banyak bahasa Eropa.54 Sedang Suryalaga secara terus terang mengakui bahwa ia menggunakan terjemah berbahasa Indonesia Departemen Agama edisi tahun 1982/1983. Begitu pun pupujian Al-Qur'an hasil inventarisasi Yus Rusyana umumnya berasal dari tradisi masyarakat yang merupakan terjemah bebas atas surat-surat pendek. Terkecuali, terjemah pupujian Enas
+
+52Benjamin G. Zimmer, "Al-`Arabiyyah and Basa Sunda, hlm. 40. 53Dadang Darmawan, Ortodoksi Tafsir, hlm. 164. 54Henri Chambert-Loir, Naik Haji di Masa Silam: Kisah-Kisah Orang Indonesia
+Naik Haji, Jilid II (1900-1950), Jakarta: KPG, 2013, hlm. 551.
+
+198 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+Mabarti, yang lahir dari pribadi yang berlatar belakang pesantren. Namun penting dicatat, meski ia berpijak pada teks surah pendek AlQur'an secara langsung, tetap saja terjemahnya mengalami banyak penyesuaian dengan kaidah puisi pupujian.
+Sampai di sini kita bisa mengambil kesimpulan bahwa terjemah guguritan dan pupujian cenderung menggunakan terjemah tafsriyyah sesuai dengan patokan kaidah pupuh dan pupujian. Keduanya menyadari bahwa ketika terjemah harfiah hampir mustahil dilakukan, maka tak ada pilihan lain bagi penerjemah untuk menggunakan terjemah tafsriyyah atau ma`nwiyyah yang lebih mengutamakan makna dan maksud secara sempurna di banding urutan kata bahasa sumber. Kuatnya penggunaan terjemah tafsriyyah ini dibuktikan pula dengan beberapa pola yang ditempuh penerjemah dalam mengelola guguritan dan pupujian sebagai wadah terjemahnya.
+Simpulan
+Terjemah guguritan dan pupujian menggunakan pendekatan Al-Qur'an sebagai teks sastra dalam karyanya. Terjemah tersebut sangat tergantung pada kaidah pupuh dan pupujian. Karenanya ia cenderung menggunakan terjemah tafsriyyah. Ia harus menjembatani makna dalam bahasa sumber ke dalam bahasa sasaran dengan menggunakan kaidah pupuh dan pupujian sebagai wadah pengungkapannya. Kompromi pun dilakukan dengan beragam cara, umumnya dilakukan dengan mengatur panjang-pendeknya kalimat sesuai dengan jenis pupuh dan ketercapaian makna dalam bahasa sasaran. Akibatnya terasa banyak ketidaksesuaian bahasa terjemah antara bahasa sumber dan bahasa sasaran.
+Sebagaimana dalam kasus terjemah puitis Jassin maupun Terjemah Al-Qur'an Departemen Agama edisi 1990, terjemah guguritan dan pupujian juga kerapkali mengalami banyak ketidaksesuaian dengan bahasa sumber.55 Kekeliruan tersebut terjadi akibat dari terlalu ketaatan pada kaidah puisi yang menjadi acuan pokok dalam guguritan dan pupujian. Para penulis terjemah puitis Sunda umumnya menyadari bahwa puisi guguritan yang disusunnya didasarkan pada aturan struktur bahasa dan sastra Sunda bukan
+55Ismail Lubis, Falsifikasi Terjemahan Al-Qur'an Departemen Agama Edisi 1990, Yogyakarta: Tiara Wacana, 2001, hlm.8-9.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 199
+bahasa Arab. Sebagiannya juga terkait dengan kecenderungan latar belakang penulisnya yang tidak memahami bahasa Arab, sehingga tidak langsung merujuk pada bahasa sumber (Arab) melainkan pada terjemah atau tafsir Al-Qur'an berbahasa Indonesia. Karenanya, berbagai kompromi yang dibuat terhadap kaidah pupuh dan pupujian menghasilkan banyak konsekuensi yang mengarah pada ketidaksesuaian makna dengan bahasa sumber. Namun, terlepas dari berbagai kekurangan tersebut, keduanya sudah berupaya untuk menyerap keindahan Al-Qur'an ke dalam khazanah sastra Sunda. Karya ini patut diapresiasi sebagai upaya menghargai ekspresi perasaan keagamaan kalangan seniman Sunda ke ruang publik. Karena bagaimana ia merupakan bagian dari kreatifitas budaya dan sastra lokal yang turut memperkaya keragaman khazanah kajian AlQur'an di Indonesia.[]
+Daftar Pustaka
+Abou Sheishaa, Mohamed Ali Mohamed. "Muslim Discourse in the Early Twentienth Century on the Translation of the Qur'an," Journal of the Society for Qur'anic Studies, Number 1, Volume 1, October 2001.
+`Ali, `Abdullah Yusuf.The Holy Qur'an, Text and Translation, Kuala Lumpur, Islamic Book Trust, 2007.
+Bozbin, Hartmut. "Translations of the Qur'an," dalam Jane Dammen McAuliffe, Encyclopaedia of the Qur'an, Vol. 3, Leiden-Boston-Koln: Brill, 2001.
+Braginsky, V.I. "Evolution of the Verse Structure of the Malay Syair," Archipel, Volume 42, 1991.
+Broomand, M.H. "Interview with Dr. F. Nikayin, A Poetic Translation of the Holy Qur'an," ECHO, September 2009.
+Catford, J.C. A Linguistic Theory of Translation, London: Oxford University Press, 1978.
+Chambert-Loir, Henri. Naik Haji di Masa Silam: Kisah-Kisah Orang Indonesia Naik Haji, Jilid II (1900-1950), Jakarta: KPG, 2013.
+Danadibrata, R.A. Kamus Basa Sunda, Bandung: Kiblat Buku Utama, 2007.
+Danasasmita, Ma'mur.Wacana Bahasa dan Sastra Sunda Lama, Bandung: STSI Press, 2001.
+Darmawan, Dadang.Ortodoksi Tafsir: Respons Ulama terhadap Tafsir Tamsjijjatoel-Moeslimien Karya K.H. Ahmad Sanusi. Disertasi. Jakarta: Sekolah Pascasarjana UIN Syarif Hidayatullah Jakarta, 2009.
+
+200 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+De Bruijn, J.T.P. An Introduction to the Mystical Use of Classical Poems, Great Britain: Curzon Press, 1997.
+Federspiel, Howard M. Popular Indonesian Literature of the Qur'an, Ithaca, New York: Cornel Modern Indonesia Project, 1994.
+Feener, R. Michael. "Notes Towards the History of Qur'anic Exegesis in Southeast Asia", StudiaIslamika, Vol. 5, No. 3, 1998: 47-76.
+Hawting, G.R. The First Dynasty of Islam, The Umayyad Caliphate AD 661-750, London & New York: Routledge, 2000.
+Ichwan, Moch Nur. "Differing Responses to an Ahmadi Translation and Exegesis. The Holy Qur'ân in Egypt and Indonesia," Archipel, Vol. 62, 2001.
+Jassin, H.B. Al-Qur'anu'l-Karim Bacaan Mulia ,Jakarta: Djambatan, 1991.
+_______. ed., Kontroversi Al-Qur'an Berwajah Puisi, Jakarta: Pustaka Utama Grafiti, 1995.
+Johns, A.H. "Quranic Exegesis in the Malay World: In Search of Profile," Andrew Rippin (ed.), Approaches to the History of the Interpretation of the Qur`ân, Oxford: Clarendon Press, 1988.
+Kaptein, Nico J.G. Islam, Colonialism and the Modern Age in the Netherlands East Indies, Leiden: Brill, 2014.
+Kartini, Tini. et.al., Puisi Pupujian dalam Bahasa Sunda, Jakarta: Pusat Pembinaan dan Pengembangan Bahasa Departemen Pendidikan dan Kebudayaan, 1986.
+Kartini, Raden Adjeng.Letters of A Javanese Princess, translated by Agnes Louise Symmers, London: Duckworth & Co., 1921.
+Lubis, Ismail.Falsifikasi Terjemahan Al-Qur'an Departemen Agama Edisi 1990, Yogyakarta: Tiara Wacana, 2001.
+Lubis, Nina H. Kehidupan Menak Priangan 1800-1942, Bandung: Pusat Informasi Kebudayaan Sunda, 1998.
+Ma'mun, Titin N."Pola Rima Syi'iran dalam Naskah di Tatar Sunda dan Hubungannya dengan Pola Syair Arab," Jurnal Manassa, Vol. 1, No. 1, 2011.
+Al-Margiy, Mu¥ammad Mu¡¯af. Ba¥£ f Tarjamat al-Qur'n al-Karm wa A¥kmuh, Kairo: Matba`at al-Ragha'ib, 1355/1936.
+Marcinkowski, Christoph. "Selected Historical Facets of the Presence of Shi'ism in Southeast Asia," The Muslim World, Volume 99, 2009.
+Nurtawab, Ervan.Tafsir Al-Qur'an Nusantara Tempo Doeloe, Jakarta: Ushul Press, 2009.
+
+Terjemah Puitis Al-Qur'an di Jawa Barat --- Jajang A Rohmana 201
+Penerbit Mutiara, Polemik H. Oemar Bakry dengan H.B. Jassin, Jakarta: Penerbit Mutiara, 1979.
+Al-Qa¯¯n, Mann` Khall, Mab¥i£ fi `Ulm al-Qur'n, Beirut: Man£r al-`Asr al-¦ad£, t.th.
+Rahman, Yusuf. "The controversy around H.B. Jassin: a study of his al-Qur'anu'lKarim Bacaan Mulia and al-Qur'an al-Karim Berwajah Puisi," dalam Abdullah Saeed ed., Approaches to the Qur'an in Contemporary Indonesia, New York: Oxford University Press, 2005.
+Rasmussen, Anne K. Women, the Recited Qur'an and Islamic Music in Indonesia, Berkeley and Los Angeles: University of California Press, 2010.
+Riddell, Peter G. "Literal Translation, Sacred Scripture, and Kitab Malay", Studia Islamika, Vol. 9, No. 1, 2002: 1-26.
+_______. "Translating the Qur'an into Indonesian Languages," Al-Bayan, Journal of Qur'an and Hadith Studies, 12 (2014).
+Robinson, Douglas.Becoming A Translator: An Introduction to the Theory and Practice of Translation, London and New York, Routledge, 2002.
+Rohmana, Jajang A. "Kajian Al-Qur'an di Tatar Sunda: Sebuah Penelusuran Awal," Jurnal Suhuf, Vol. 6, No. 1, 2013.
+_______.Sejarah Tafsir Al-Qur'an di tatar Sunda, Bandung: Diktis Kemenag RIMujahid, 2014.
+Romli H.M., Usep. "Pesantren sebagai Pusat Budaya Orang Sunda," dalam Cik Hasan Bisri dkk., Pergumulan Islam dengan Kebudayaan Lokal di Tatar Sunda, Bandung: Kaki Langit, 2005.
+Rosidi, Ajip. "Perihal Puisi Guguritan Sunda," Pikiran Rakyat, Rabu 20 Juli 1983.
+_______.Mencari Sosok Manusia Sunda, Bandung: Pustaka Jaya, 2010.
+_______.Guguritan, Bandung: Kiblat Buku Utama, 2011.
+_______.Sawer jeung Pupujian, Bandung: Kiblat, 2011.
+Rusyana, Yus.Bagbagan Puisi Pupujian Sunda, Bandung: Projek Penelitian Pantun dan Folklore Sunda, 1971.
+Rusyana, Yus. dan Raksanagara, Ami.Puisi Guguritan Sunda, Jakarta: Pusat Pembinaan dan Pengembangan Bahasa Depdikbud, 1980.
+Saeed, Abdullah.The Qur'an An Introduction, London and New York: Routledge, 2008.
+Salmun, M.A. Kandaga Kasusastran Sunda, Bandung: Ganaco, 1958.
+Shaleh, Qamaruddin. A.A. Dahlan, Yus Rusamsi, Al-Amin, Al-Qur'an Tarjamah Sunda, Bandung: CV. Diponegoro, 1971.
+
+202 Suhuf, Vol. 8, No. 2, Juni 2015: 175-202
+Suryalaga, R. Hidayat.Nur Hidayah Saritilawah Basa Sunda Al-Qur'an Winangun Pupuh Juz 1, Bandung: Yayasan Nur Hidayah, 2000.
+_______. Nadoman Nurul Hikmah, Tema-tema Ayat Al-Qur'an Daras 30, Bandung: Yayasan Nur Hidayah, 2003.
+Van Zanten, Willem.Tembang Sunda, An ethnomucilogical study of the Cianjuran music in West Java, Thesis Leiden, 1987.
+Wiranatakoesoema, R.A.A. Soerat Al-Baqarah, Bandung: "Poesaka," t.th.
+Yahya, Iip Zulkifli. "Saritilawah Nur Hidayah, Karya Besar Miskin Apresiasi," Pikiran Rakyat, 20 Desember 2002.
+Yunus, Mahmud.Sejarah Pendidikan Islam di Indonesia, Jakarta: Mutiara Sumber Media, 1995.
+Al-Zarqani, Manahil al-`Irfan fi'Ulum al-Qur'an, Jilid 2, t.tp: Isa al-Babiy alHalabiy, 1362/1943.
+Zimmer, Benjamin G."Al-`Arabiyyah and Basa Sunda: Ideologies of Translation and Interpretation among the Muslims of West Java", Studia Islamika, 7 (3): 2000.
+Zuhri, Moh. Terjemah Puitis Al-Qur'an, Kritik Ilmu Ma'ani terhadap Al-Qur'anul Karim Bacaan Mulia Karya H.B. Jassin, Yogyakarta: Lintang-PPs IAIN Walisongo, 2012.

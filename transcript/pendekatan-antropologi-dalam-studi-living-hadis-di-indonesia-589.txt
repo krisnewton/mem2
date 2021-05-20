@@ -1,0 +1,521 @@
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+PENDEKATAN ANTROPOLOGI DALAM STUDI LIVING HADIS DI INDONESIA:
+Sebuah Kajian Awal
+Jajang A Rohmana UIN Sunan Gunung Djati Bandung Email: jajang_abata@yahoo.co.id
+Abstract Hadith studies in Indonesia continually try to be developed by scholars. They try to develop the hadith studies which have been considered "rarely studied" compared to other Islamic studies. One of the issues uses a multidisciplinary approach involving the social sciences and humanities. The phenomenon of living hadith is part of the issues. It tried to shift the focus which is not only study the text of hadith, but also shifted to the issues of hadith in practice, such as socio-cultural phenomenon that live and thrive in the community. The object study of living hadith is the community who receive, use and practice the hadith in their daily lives. One of approaches that uses to research the community is anthropology. It is a scientific disciplines seen from the aspect of human culture. This paper is a preliminary studies on the importance of using anthropological techniques in the study of living hadith in Indonesia. It will focus on the issue of the development of living hadith in Indonesia, the importance to shift the hadith studies from the text to the public sphere, the development of the study of living hadith from the great tradition to the little tradition, the use of anthropology as an approach or perspective and the methodological steps in the anthropological studies of living hadith. This study is important not only in order to expand the area of hadith studies towards a more dynamic knowledge, but is also expected to strengthen the basis of arguments about the importance of living hadith in the discourse of the anthropology of Islam.
+247
+
+248 | Jajang A. Rohmana
+Abstrak Studi hadis di Indonesia berusaha untuk terus dikembangkan oleh para sarjana. Salah satunya menggunakan pendekatan multidisiplin dengan melibatkan ilmu-ilmu sosial dan humaniora. Fenomena studi living hadis (hadis yang `hidup') merupakan bagian dari upaya pengembangan kajian hadis yang selama ini dianggap "sepi" dibanding studi keislaman lainnya. Ia berusaha menggeser fokus kajian tidak saja berkutat di sekeliling teks hadis, tetapi beralih pada praktik hadis berupa gejala sosial-budaya yang hidup dan berkembang di masyarakat. Objeknya adalah masyarakat sebagai penerima, pengguna dan pengamal hadis dalam kehidupan kesehariannya (hadith in daily life). Salah satu pendekatan yang digunakannya adalah antropologi. Sebuah disiplin keilmuan tentang manusia dilihat dari aspek budayanya. Tulisan ini merupakan kajian awal tentang pentingnya penggunaan pendekatan antropologi dalam studi living hadis di Indonesia. Ia akan memfokuskan pada masalah perkembangan living hadis di Indonesia, pentingnya menggeser studi hadis dari teks ke masyarakat, pengembangan arah studi living hadis dari tradisi besar ke tradisi kecil, penggunaan antropologi sebagai pendekatan sekaligus perspektif dan langkah-langkah metodologis yang bisa ditempuh dalam penelitian living hadis dengan pendekatan antropologi. Kajian ini penting tidak saja dalam rangka memperluas wilayah kajian hadis ke arah keilmuan yang lebih dinamis, tetapi juga diharapkan bisa memperkuat basis argumen tentang pentingnya posisi studi living hadis dalam diskursus antropologi Islam.
+Kata kunci: living hadis, antropologi, masyarakat, metodologi
+Pendahuluan Bagi sebagian sarjana, studi hadis termasuk salah satu bidang
+kajian keislaman (Islamic studies) yang "sepi" dibicarakan dibanding kajian fikih atau tafsir. Bukan saja sifat kajiannya yang dianggap "agak monoton" berkutat menelusuri rangkaian sanad dan biografi
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 249
+periwayat di sekitar teks hadis, tetapi pandangan atas studi hadis sendiri yang disebut Al-Khul> i> sebagai salah satu keilmuan yang dianggap sudah terbakar dan matang (nad}aj wah}taraq).1
+Kajian kritik hadis (naqd al-h}adi>th) melalui kritik sanad (kritik eksternal, naqd kha>riji>) dan matn (kritik internal, naqd da>khili>) bagi sebagian orang dianggap sudah hampir "selesai" (matang) dengan beredarnya sejumlah kitab dan software hadis lengkap dengan hasil tah}qi>q dan takhri>j dari ulama terkemuka. Para pengkaji hadis secara mudah tinggal membaca hasil penilaiannya tanpa perlu repot-repot menyisir satu-persatu jalur sanad dan biografi periwayatnya melalui kitab rija>l al-h}adi>th yang tentu sangat rumit dan menyita waktu. Kecuali bila peneliti secara serius ingin melakukan peninjauan kembali atas metode penentuan otentisitas hadis hasil takhri>j dari ulama sebelumnya, seperti dilakukan Amin atas Al-Alba>ni>.2
+Karenanya, bisa dipahami bila tidak terlalu banyak sarjana Indonesia yang secara serius menggeluti bidang tersebut. Para pengkaji hadis abad ke-20 seperti T.M. Hasbi Ash-Shiddieqy (w. 1975), Abdul Qadir Hassan (w. 1980), Fatchur Rahman, M. Syuhudi Ismail, dan lainnya cenderung menjadi "juru bicara" tradisi kajian hadis dari para ulama sebelumnya dengan menggunakan bahasa Indonesia.3 Sejumlah publikasi tentang hadis juga tampak "dangkal" dengan hanya menerjemahkan potongan kumpulan hadis-hadis Bukhari, Muslim dan lainnya.4
+*Makalah ini disampaikan dalam acara Workshop dan Pelatihan Metodologi Living Hadis yang diselenggarakan oleh Asosiasi Dosen Ilmu Al-Qur'an dan Hadis (ADIAH) di IAIN Sultan Maulana Hasanuddin Banten, 23-24 Februari 2016.
+1 Amin al-Khuli, Mana>hij Tajdi>d, fi> al-Nah}w wa al-Bala>ghah wa al-Tafsi>r wa al-Adab, (tt.: Da>r al-Ma'rifah, 1962), hlm. 302; Da>'irah al-Ma'a>rif al-Isla>miyyah, entri tafsi>r, jilid 5, hlm. 365.
+2 Kamaruddin Amin, Menguji Kembali Keakuratan Metode Kritik Hadis, Bandung: Hikmah, 2009, hlm. 72-90.
+3 Muhamad Dede Rudliyana, Perkembangan Pemikiran Ulum Al-Hadits Dari Klasik sampai Modern, Bandung: Pustaka Setia, 2004, hlm. 135.
+4 Howard M. Federspiel, "H}adit} Literature in Twentieth Century Indonesia," Oriente Moderno, Nuova serie, Anno 21 (82), Nr. 1, 2002, hlm. 115-116.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+250 | Jajang A. Rohmana
+Ini berbeda dengan karya para ulama hadis Nusantara abad ke17 yang diakui secara internasional dan tersebar di dunia Islam dalam bahasa Arab. Karya ulama hadis Nusantara pada saat itu ternyata tidak sesepi yang diasumsikan selama ini. Meskipun dari segi jumlah masih kalah jauh dibanding disiplin keilmuan lain terutama tasawuf dan fikih. Selain itu, ini juga menunjukkan bahwa perkembangan studi awal hadis di Nusantara tidak bisa dilepaskan dari peranan komunitas ulama Jawi di Mekah dan Madinah (Haramayn).5 Bahkan terdapat kecenderungan di pelbagai kawasan dunia Islam termasuk Nusantara untuk mengembangkan disiplin keilmuan hadis yang distingtif. Literatur hadis pokok seperti kutub al-sittah (kitab hadis yang enam) menjadi titik pijak yang sama, tetapi pelbagai kawasan tersebut mengembangkan otoritas standar mereka sendiri yang berasal dari ulama berikutnya. Ini bisa dilihat dari penggunaan ijazah sanad hadis sebagai bentuk otoritas kesarjanaan hadis yang diperoleh dari pelbagai wilayah.6
+Salah satu karangan ulama hadis Nusantara abad ke-17 adalah Hida>yat al-Ha} bi>b fi> al-Targhi>b wa al-Tarhi>b karangan Nuruddin alRaniri. Karya lainnya juga menunjukkan kuatnya akar kajian hadis di Nusantara, seperti Sharh} Lat}i>f `ala> Arba'i>n Ha} di>than li al-Ima>m alNawawi> karangan Abdurrauf bin Ali al-Jawi al-Fansuri al-Sinkili, Tanbi>h al-Ghaf> ili>n karangan `Abdullah bin Lebai Abdul Mubin Pauh Bok al-Fatani, Fara>'id Fawa>'id al-Fikr fi> al-Ima>m al-Mahdi dan Kashf al-Ghummah karangan Dawud bin Abdullah al-Fatani, Tanqi>h al-Qawl Ha} thi>th karya Nawawi al-Bantani, Asan> i>d wa Ija>za>t wa Musalsala>t alFadani> yang ditulis oleh Muhammad Yasin bin `Isa al-Fadani di penghujung abad ke-20. Karya lainnya adalah Manhaj Dhawi> al-Naz}ar fi Sharh Manzumat `Ilm al-Athar yang ditulis oleh ulama kelahiran
+5 Oman Fathurahman, "The Roots of the Writing Tradition of Hadith Works in Nusantara: Hidayat al-Habib by Nur al-Din Al-Raniri," Studia Islamika, Vol. 19 No. 1, 2012, hlm. 48.
+6 John O. Voll, "Hadith Scholars and Tariqahs: An Ulama Group in the 18th Century Haramayn and Their Impact in the Islamic World," Journal of Asian and African studies. 15: 1980, hlm. 264-265.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 251
+Termas, Pacitan, Jawa Timur, Mah}fuz} Al-Tirmisi> (w. 1919).7 Ini menunjukkan bahwa sejumlah ulama Nusantara memiliki sanad yang kuat dan otoritatif sebagai ulama hadis di dunia Islam.
+Kemajuan kajian hadis oleh ulama Nusantara sejak abad ke-17 tersebut cenderung menurun hingga saat ini. Selain tidak terlalu banyak sarjana yang berminat mengambil spesialisasi di bidang hadis, keterbatasan kajian dalam bidang hadis juga tampak dari terbatasnya publikasi buku dan jurnal ataupun penelitian akademik di pelbagai PTKI di Indonesia yang secara khusus berkaitan dengan kajian hadis. Sesuatu yang kiranya berbeda bila dibandingkan dengan perkembangan kajian dalam bidang Al-Qur'an dan tafsir di Indonesia. Kajian terakhir cenderung meningkat paling tidak tampak dari sejumlah survey bibliografis tafsir Indonesia yang sudah dipublikasikan.8
+Studi hadis di PTKI Indonesia sebenarnya cukup mendapatkan angin segar dengan diterbitkannya KMA No. 36 tahun 2009 tentang pembidangan ilmu. Studi keilmuan tafsir-hadis kini dijadikan dua program studi menjadi ilmu Al-Qur'an dan tafsir (IAT) dan ilmu hadis.
+7 Oman Fathurahman, "The Roots of the Writing Tradition of Hadith Works in Nusantara," hlm. 48; Latifah AM., "Earliest Hadith Sciences Texts Written in Malay Archipelago," Mediterranean Journal of Social Sciences, Vol. 5 No.15, 2014, hlm. 550-558; Abdurrahman Mas'ud, Intelektual Pesantren, Perhelatan Agama dan Tradisi, Yogyakarta: LkiS, 2004, hlm. 147; Abdurrahman Mas'ud, "Mahfuz alTirmisi (d. 1338/1919): An Intellectual Biography," Studia Islamika, Vol. 5 No. 2, 1998, hlm. 27-48.
+8 Howard M. Federspiel, Popular Indonesian Literature of the Qur'an (Ithaca, New York: Cornel Modern Indonesia Project, 1994); Yunan Yusuf, "Perkembangan Metode Tafsir di Indonesia" dalam Jurnal Pesantren, Vol. VIII, No. 1, 1991; Islah Gusmian, Khazanah Tafsir Indonesia (Jakarta: Teraju, 2002); Nashruddin Baidan, Perkembangan Tafsir Al-Qur'an di Indonesia (Solo: Tiga Serangkai, 2003); Peter G. Riddell, Translating the Qurn into Indonesian Languages, Al-Bayan Journal of Qur'an and Hadith Studies, 12 (2014): 1-27; M. Nurdin Zuhdi, Pasaraya Tafsir Indonesia: Dari Kontestasi Metodologi Hingga Kontekstualisasi, Yogyakarta: Kaukaba Dipantara, 2014.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+252 | Jajang A. Rohmana
+Ini kemudian berdampak pada pembukaan program studi ilmu hadis di sejumlah PTKI di Indonesia.9
+Anggapan bahwa studi hadis cenderung "monoton" boleh jadi muncul sebagai reaksi terhadap kompleksitas studi hadis dibanding kajian keislaman lainnya. Boleh jadi kerumitan jejaring sanad yang bertebaran di pelbagai kitab hadis menjadi salah satu alasan keengganan sebagian sarjana untuk ikut terjun langsung mengurai belantara riwayat hanya untuk mengkaji satu buah hadis saja. Boleh jadi pula ini terkait pula dengan kedudukan hadis yang tidak seistimewa Al-Qur'an sebagai sumber ajaran Islam disertasi problem historisitas dan otentisitas yang menyertainya. Problem terakhir berdampak pada munculnya semacam "jurang besar" perbedaan studi hadis di dunia Islam dan Barat. Umumnya kajian hadis di Indonesia cenderung didominasi pendekatan sanad dan matan yang diakui secara internal saja dibanding menitikberatkan pada pendekatan kritik dating kesejarahan sebagaimana tradisi studi hadis di Barat.10 Hal ini misalnya dilakukan oleh I. Goldziher, J. Schacht, G.H.A. Juynboll, H. Motzki, W. Graham, J. Brown dan lainnya.11
+9 Muhammad Alfatih Suryadilaga, "Ragam Studi Hadis di PTKIN Indonesia dan Karakteristiknya: Studi atas Kurikulum IAIN Bukittinggi, IAIN Batusangkar, UIN Yogyakarta, dan IAIN Jember," Journal of Qur'a>n and H}adi@th Studies, Vol. 4, No. 2, 2015, hlm. 216.
+10 Tentang kesarjanaan hadis di Barat, lihat Kamaruddin Amin, "The Realiability of the Traditional Science of Hadith," Al-Jami'ah, Vol. 43, No. 2, 2005, hlm. 257-260.
+11 Ignaz Goldziher, Muhammedanische Studien, 2 vols. Leiden, 1889-1890. Trans. S. M. Stern as Muslim Studies, 2 vols. London, 1967; Joseph Schacht, The Origins of Muhammadan Jurisprudence, Oxford, 1950; G. H. A. Juynboll, Muslim Tradition. Studies in Chronology, Provenance and Authorship of Early H{adi>th, Cambridge, 1983; Harald Motzki with Nicolet Boekhoff-van der Voort and Sean W. Anthony, Analysing Muslim Traditions, Studies in Legal, Exegetical, and Magha>z> Hadi>th, Leiden: Brill, 2010; W.A. Graham, Divine Word and Prophetic Word in Early Islam: A Reconsideration of the Sources, with Special References to the Divine Saying or Hadith Qudsi (Hague, 1977); Jonathan A.C. Brown, Hadith, Muhammad's Legacy in the Medieval and Modern World, Oxford: OneWorld, 2009.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 253
+Kendati demikian, di tengah keterbatasan kajian hadis di atas, awal abad ke-21 menandai perkembangan "baru" kajian hadis dengan menggunakan pendekatan ilmu-ilmu sosial dan humaniora sebagai salah satu ciri pentingnya. Ini tidak bisa dilepaskan dari pengaruh wacana pemikiran Islam kritis tahun 1970-an dalam diskursus kajian Islam. Karya-karya yang menitikberatkan penggunaan ilmu sosialhumaniora ini diinspirasikan oleh pelbagai cara berpikir yang berasal dari tiga kecenderungan: ilmu-ilmu sosial kritis Anglo-Amerika, Marxisme Barat, strukturalis Prancis dan pemikiran poststrukturalis.12 Pengaruhnya terhadap kajian Islam di Indonesia dirasa sangat signifikan dan memicu beragam respon di pelbagai kalangan Islam di tanah air. Diskursus tersebut salah satunya berdampak pada semakin terbukanya metodologi kajian Islam dengan menggunakan pendekatan multidisiplin terutama ilmu-ilmu sosial dan humaniora, seperti sosiologi, antropologi, filsafat, bahasa, gender, lingkungan dan lainnya.
+Kajian living hadis kiranya tidak bisa dilepaskan dari diskursus keilmuan modern tersebut. Kajian ini tidak lagi terlalu difokuskan pada teks hadis dilihat dari aspek sanad dan matan saja, tetapi mulai bersentuhan dengan aspek kontekstualisasi hadis di masyarakat. Ia berusaha mengungkap makna dan fungsi hadis yang real dipahami dan dialami masyarakat Muslim dalam kesehariannya.
+Salah satu pendekatan yang sangat penting untuk terus dikembangkan dalam kajian living hadis adalah antropologi. Sebuah disiplin ilmu sosial yang mengkaji tentang manusia terutama dilihat dari ragam unsur budaya salah satunya dinyatakan Kluckhohn, yakni sistem pengetahuan, ekonomi, teknologi, sosial, religi, kesenian dan bahasa.13 Pendekatan antropologi (agama) dalam studi hadis tidak
+12 Moch. Nur Ichwan, A New Horizon in Qur'anic Hermeneutics: Nasr Hamid Abu Zayd's Contribution to Critical Qur'anic Scholarship, Thesis submitted to the Faculties of Theology and Arts of Leiden University, The Netherlands, August 1999, hlm. 31.
+13 Koentjaraningrat, Pengantar Ilmu Antropologi, Jakarta: Rineka Cipta, 1990, cet. Ke-8, hlm. 21.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+254 | Jajang A. Rohmana
+dimaksudkan untuk memahami dan menganalisis aspek antropologis dalam matan hadis (fiqh al-h}adi>th atau ma'a>ni> al-hadi>th) dengan latar budaya Arab abad ke-7, tetapi terkait dengan apa yang disebut Rahman sebagai perkembangan dan perluasan living sunnah di pelbagai kawasan dunia Muslim--termasuk di Nusantara--sebagai hasil proses interpretasi dalam pelbagai kepentingan praktik aktual dan perbedaan praktik hukum yang semakin meluas.14
+Tulisan ini merupakan kajian awal tentang penggunaan pendekatan antropologi tersebut dalam studi living hadis di Indonesia. Ia akan memfokuskan pada masalah perkembangan living hadis di Indonesia, pentingnya menggeser studi hadis dari teks ke masyarakat, arah studi living hadis dari tradisi besar ke tradisi kecil, penggunaan ilmu-ilmu sosial seperti antropologi sebagai pendekatan sekaligus perspektif dan langkah-langkah metodologis yang bisa ditempuh dalam penelitian living hadis dengan pendekatan antropologi. Kajian ini penting mengingat pengembangan studi hadis tidak cukup berhenti pada teks hadis itu sendiri, tetapi pada masyarakat sebagai penerima, pengguna dan pengamal hadis dalam kehidupan kesehariannya (hadith in daily life). Kajian masyarakat sebagai pengguna hadis bukan saja bisa memberi warna kajian yang cenderung dinamis, tetapi membuka peluang kajian yang lebih inovatif dan luas.
+Studi Living Hadis di Indonesia Kajian living hadis di Indonesia bermula dari fenomena Qur'an
+and hadith in daily life yang marak satu dekade belakangan. Istilah living hadis awalnya memang tidak bisa dilepaskan dari kajian living Qur'an, mengingat keduanya secara teologis tidak dapat dipisahkan. Kedekatan kedua disiplin keilmuan Islam ini, tergambarkan dari ucapan Aisyah yang menyebut akhlak Nabi adalah Al-Qur'an (ka>na
+14 Fazlur Rahman, Islamic Methodology in History, Islamabad: Islamic Research Institute, 1995, 3rd Reprint, hlm. 32.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 255
+khuluquh al-Qur'a>n).15 Karenanya, sejatinya makna living Qur'an secara historis awalnya merujuk pada pribadi Nabi Muhammad sendiri, sebagai "gambaran Al-Qur'an yang hidup" baik dalam ucapan maupun perbuatan (hadis, sunnah).16
+Namun, istilah living hadis sebenarnya tidak bisa dilepaskan dari diskursus "living sunnah" yang sudah lama diperkenalkan sejumlah sarjana. India dan Pakistan menjadi kawah candradimuka dalam diskusi penting hadis dan sunnah pada tahun 1960-an, bahkan jauh sebelumnya di akhir abad ke-19.17 Rahman termasuk salah satu ilmuwan yang mencoba menawarkan gagasan living sunnah sekitar tahun 1962.18 Ia dianggap sebagai salah satu penyumbang utama bagi peninjauan ulang tradisi Islam tersebut. Ia berusaha mendefinisikan ulang sunnah. Baginya, sunnah tidak hanya dipahami sebagai contoh normatif Nabi, tetapi juga harus dipahami sebagai interpretasi kolektif komunitas Muslim tentang teladan Nabi. Ia tidak statis, tetapi tumbuh dan berkembang. Sunnah dalam pengertian ini mewakili interpretasi, elaborasi, dan penerapan umat Islam akan sunnah Nabi dalam situasi spesifik. Diilhami oleh contoh Nabi dan mengambil contoh itu, tetapi formulasi spesifiknya merupakan karya kaum Muslim sendiri.19
+Bagi Rahman, hadis terbentuk sesudah sunnah, bukan sebelumnya. Hadis merupakan refleksi dan dokumentasi verbal "sunnah yang hidup" (living sunnah) dalam masyarakat, sehingga hadis tumbuh sejajar dengan sunnah. Di sini, Rahman berusaha membedakan hadis dan sunnah secara tegas. Ia percaya pada tesis
+      :                                       15 .) ( .       :                         :   
+16 Andrew Rippin, Muslims Their Their Religious Beliefs and Practices, London and New York: Routledge, 2005, hlm. 89.
+17 Alan M. Guenther, "The Hadith in Christian-Mulim Discourse in BritishIndia, 1857-1888," Thesis, McGill University, Montreal Canada, 1997.
+18 Fazlur Rahman, "Concept Sunnah, Ijtihad and Ijma' in the Early Period," Islamic Studies 1 (1), 1962.
+19 Daniel W. Brown, Menyoal Relevansi Sunnah dalam Islam Modern, terj. Jaziar Radianti & Entin Sriani Muslim, Bandung: Mizan, 2000, hlm. 132.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+256 | Jajang A. Rohmana
+Goldziher dan Schacht bahwa hadis sebenarnya tidak sepenuhnya diucapkan oleh Nabi. Hadis berasal dari proses kreatif para ulama dalam menyalurkan otoritas kenabian untuk membimbing umat. Ia lalu diproyeksikan ke belakang, ke titik labuhnya yang paling alamiah, yaitu Nabi Saw.20
+Pengertian living sunnah yang diformulasikan Rahman sedikit banyak menjadi pijakan dasar diskursus living hadis pada era belakangan. Bila Rahman merujuk pada pembentukan sunnah (tradisi) yang hidup di awal-awal pembentukan Islam di pelbagai kawasan secara luas, maka living hadis didasarkan pada adanya tradisi yang hidup di komunitas tertentu yang didasarkan pada teks hadis itu sendiri. Meskipun dari sisi lain, boleh jadi terdapat titik temu antara keduanya dilihat dari pelembagaan tradisi Islam yang terus hidup dan dipraktikkan di seluruh wilayah dunia Islam. Hanya saja bedanya, living hadis cenderung lebih spesifik dilakukan di daerah dan komunitas tertentu saja pada masa belakangan yang disandarkan pada teks hadis tertentu pula.
+Studi awal yang cukup jelas dalam mendefinisikan makna living hadis misalnya, dilakukan Metcalf dalam salah satu tulisannya tahun 1993. Ia melakukan pembacaan tradisi living hadis dalam organisasi Jamaah Tabligh di India. Baginya, istilah living hadis bagi para pengikut Jamaah Tabligh memiliki dua makna, yakni: "mencoba hidup dengan hadis (live by hadith)" dan "menginternalisasi teks hadis sampai pada titik bahwa mereka bercita-cita secara ideal dalam arti menjadi hadis yang hidup (become living hadith)" (Followers attempt to live by hadith but in such a way that they aspire to internalize the written/heard texts to the point that they ideally become, in a sense, "living hadith"). Metcalf mencontohkan bagaimana teks terjemah ringkasan hadis berbahasa Urdu, Tabli>ghi> nisa>b dan Faz}a>'il-i a'ma>l yang ditulis oleh Maulana Muhammad Zakariyya Kandhalawi (18981982), seorang ulama Jamaah Tabligh, tidak saja digunakan untuk
+20 Jonathan A.C. Brown, Hadith, Muhammad's Legacy in the Medieval and Modern World, Oxford: OneWorld, 2009, hlm. 250.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 257
+mengkomunikasikan ajaran-ajaran gerakan Jamaah Tabligh tetapi juga membentuk organisasi dan pengalaman gerakan tersebut.21
+Living hadis karenanya tidak saja dimaknai sebagai gejala yang tampak di masyarakat berupa pola-pola perilaku yang bersumber dari hadis Nabi, tetapi juga proses internalisasi hadis ke arah pencapaian cita-cita ideal untuk menjadikan hadis sebagai "pedoman hidup yang terus hidup." Ia tidak sekedar berkaitan dengan pola-pola perilaku sebagai bagian dari respon umat dalam interaksinya dengan hadishadis Nabi, tetapi pengaruh signifikan hadis terhadap kondisi dan pencapaian cita-cita umat itu sendiri. Ini mengingatkan pada studi Woodward terhadap terjemah hadis Riyad as-Salihin untuk melegitimasi kerjasama ormas keagamaan seperti NU dengan pemerintah dan sebagai kritik terhadap kaum modernis, aktifis radikal dan penganut Islam kejawen yang cenderung mengabaikan syariat. Terjemah hadis itu dilakukan sebagai bagian dari komentar dan respon penerjemahnya atas situasi sosial yang dihadapinya.22
+Umumnya kajian living hadis memfokuskan pada pelbagai respon masyarakat terhadap hadis berupa resepsi mereka terhadap teks hadis tertentu, hasil pemahaman dan praktik yang dilakukannya.23 Resepsi sosial terhadap hadis misalnya, dapat kita temui dalam kehidupan sehari-hari, seperti hadis tentang shalawat yang kerap dijadikan landasan dalam tradisi shalawat pada acara atau seremoni sosial keagamaaan yang diselenggarakan oleh masyarakat. Studi tentang tarian spiritual yang dilakukan oleh komunitas Joged Shalawat Mataram di Yogyakarta menjadi contoh real fenomena living hadis. Tradisi tersebut didasarkan pada sejumlah teks hadis yang
+21 Barbara Metcalf, "Living Hadith in the Tablighi Jamaat, Journal of Asian Studies, 52, No. 3, (1993), hlm. 585.
+22 Mark R. Woodward, "Textual Exegesis as Social Commentary: Religious, Social, and Political Meanings of Indonesian Translations of Arabic Hadith Texts," The Journal of Asian Studies 52, 3 (Agustus 1993), hlm. 565.
+23 Muhammad Alfatih Suryadilaga, "Model-model Living Hadis" dalam Sahiron Syamsuddin ed., Metodologi Penelitian Living Qur'an dan Hadis, Yogyakarta: TH Press, 2005, hlm. 107-114.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+258 | Jajang A. Rohmana
+memerintahkan untuk bershalawat atas Nabi dan meneladaninya.24 Teks hadis yang hidup di masyarakat itulah yang disebut dengan the living hadis.
+Karena ia berkaitan dengan pola prilaku sebagai respon dan interaksi masyarakat atas hadis, maka objek kajian living hadis sangat luas. Suryadilaga membaginya ke dalam tiga wilayah kajian, yakni tradisi tulis, lisan dan praktik.25 Tradisi tulis tidak hanya sebatas sebagai bentuk tulisan yang sering terpampang dalam tempat-tempat yang strategis, tetapi juga tradisi tulis yang kuat dalam khazanah khas Indonesia yang bersumber dari hadis Nabi. Sedangkan tradisi lisan dalam living hadis muncul seiring dengan praktik yang dijalankan oleh umat Islam, seperti bacaan dalam salat shubuh di hari jum'at, tahlil, bacaan qunut subuh, shalawat, talqi>n mayit, bacaan zikir dan do'a ba'da salat dan lainnya.26 Adapun tradisi berupa praktik dalam living hadis merujuk pada praktik yang dilakukan oleh umat Islam yang disandarkan pada hadis, seperti khitan perempuan, ruqyah, joged shalawat, salat wetu telu, gerakan salat dhuha, pembacaan kitab hadis dan lainnya.27
+24 Muhammad Alfatih Suryadilaga, "Mafhu>m al-S}alawa>t `inda Majmu>'at Joged Shalawat Mataram: Dira>sah fi> al-H}adi>th al-H}ayy," Studia Islamika, Vo. 21, No. 3, 2014, hlm. 555-557.
+25 Muhammad Alfatih Suryadilaga, "Model-model Living Hadis," hlm. 110. 26 M. Khoiril Anwar, "Living Hadis," Farabi, Vol. 12, No. 1, 2015, hlm. 7286. 27 Berikut beberapa judul penelitian living hadis yang sudah dilakukan di beberapa PTKI dan sebagiannya dipublikasikan di beberapa jurnal: Kolil Mustafid, "Mujahadah Bukhoren di Kec. Tempuran dan Salaman, Magelang Jawa Tengah," Skripsi UIN Yogyakarta, 2008; Yusuf, "Pengkajian Kitab Hadis Bulughul Maram di Ponpes Tegal Al-Amien Prenduan Madura," Skripsi UIN Yogyakarta, 2008; Ahmad Arrofiqi, "Implementasi Hadis Birrul Walidain Setelah Meninggal Dunia pada Masyarakat Wonokromo (Studi Living Hadis)," Skripsi UIN Yogyakarta, 2009; Arif, "Studi Living Sunnah tentang Makna Hadis Anjuran Menikah di Kalangan Aktifis HTI Malang," Skripsi UIN Malang, 2011; Maulida Himatun Najih, "Pemahaman dan Praktik Hadis Kepemimpinan Perempuan (Studi Living Hadis di Yayasan Ali Maksum Ponpes Krapyak Yogyakarta)," Skripsi UIN Yogyakarta, 2013; Halimatus Sa'diyah, "Majelis Bukhoren di Kasultanan Ngayogyak
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 259
+Meski sudah sejak satu dekade lalu studi living hadis dijadikan bagian dari program pengembangan, tetapi para sarjana mengakui bahwa pengembangan living hadis di lingkungan masyarakat akademis masih belum banyak mendapatkan perhatian. Meski sudah terdapat beberapa kajian living hadis yang dilakukan, tetapi umumnya penelitian di bidang hadis di PTKI masih dominan di wilayah kajian teks hadis, baik studi teori mustala>h} al-h}adi>th, kritik hadis (sanad dan matan), studi kitab hadis, studi tokoh, hadis tematik, maupun produk pemahaman atas hadis (fiqh al-hadith atau ma'a>ni> al-h}adi>th).
+Hasil survey skripsi hadis di UIN Makassar dalam rentang waktu 1994-2013 misalnya, menunjukkan dari 97 skripsi tidak ada satupun yang melakukan kajian living hadis.28 Begitu pun di UIN Yogyakarta sebagai salah satu lembaga perintis pengembangan kajian living hadis, jumlah skripsi prodi ilmu hadis yang menggunakan pendekatan living hadis masih sedikit dibanding studi di sekitar teks hadis.29 Hingga saat ini masih belum banyak PTKIN di Indonesia yang menjadikan living hadis sebagai salah satu mata kuliah wajib di program studi ilmu
+Hartahadiningrat (Studi living Hadis)," Skripsi UIN Yogyakarta, 2013; Muhammad Hanafi, "Tradisi Salat Kajat di Bulan Suro pada Masyarakat Dukuh Teluk Kragian Gantiwarno Klaten (Studi Living Hadis)," Skripsi UIN Yogyakarta, 2013; Nasrulloh, "Konstruksi Sosial Hadis-hadis Misoginis di Kalangan Aktifis Ormas (Studi Living Hadis di Kota Malang)," Disertasi UIN Surabaya, 2013; Abdurrahman Abu Hanif, "Gerakan Salat Dhuha (Studi Living Hadis dalam Majelis Dhuha Bantul," Tesis UIN Yogyakarta, 2015; Adrika Fitrotul Aini, "Living Hadis dalam Tradisi Malam Kamis Majelis Shalawat Diba' Bil-Mustofa," Ar-Raniry, Vol. 2, No.1, Juni 2014: 221-235; Umi Sumbulah, "Islam dan Ahl Al-Kitab: Kajian Living Sunnah di Kalangan Pimpinan NU , Muhammadiyah dan Hizbut Tahrir Malang," AlTahrir, Vol. 11, No. 1 Mei 2011: 151-171; Abu Azam Al-Hamdi, "Living Hadith Wakaf Menurut Ulama Tradisional dan Modern di Gresik," Islamica, Volume 9, Nomor 1, September 2014: 223-243, dan lain-lain.
+28 Arifuddin Ahmad dkk, "Kecenderungan Kajian Hadi@th di UIN Alauddin Makassar (Tracer Studi terhadap Skripsi Mahasiswa Tahun 1994-2013)," Journal of Qur'a>n and H}adi@th Studies, Vol. 4, No. 2, (2015): 249-266.
+29 Lihat data skripsi prodi tafsir-hadis yang tercantum dalam web digital library UIN Sunan Kalijaga: http://digilib.uin-suka.ac.id/view/divisions/jur=5Ftha/ (diakses Senin, 01/02/2016 pukul 15.51).
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+260 | Jajang A. Rohmana
+hadis.30 Sesuatu yang boleh jadi tidak jauh berbeda dengan pengembangan kajian living Qur'an.31
+Kajian living hadis sebagaimana kajian ilmu-ilmu sosial tentu saja memiliki potensi yang sangat besar untuk terus dikembangkan. Muhamad Ali misalnya, mencontohkan bagaimana living hadis bisa menyentuh wilayah tradisi lisan dan praktik keseharian yang luas, misalnya melalui bacaan, hapalan, lagu, pemahaman, penerapan dan praktik masyarakat atau lembaga tertentu. Menarik juga dikaji masalah hadis tertentu yang lebih populer di masyarakat tertentu ketimbang ayat Al-Qur'an dan soal bagaimana bagaimana ayat dan hadis saling menguatkan kepentingan dan konteks tertentu.32
+Secara umum, Rafiq dalam konteks penjelasannya tentang signifikansi studi living Al-Qur'an yang dilakukannya, bisa dijadikan dasar untuk mempertegas signifikansi studi living hadis dalam pengembangan kajian keislaman di Indonesia, di antaranya: 1) perluasan bidang studi hadis khususnya dan kajian keislaman pada umumnya; 2) penguatan penggunaan pendekatan multidisiplin terhadap studi hadis; dan 3) pengungkapan beragam fenomena keagamaan masyarakat Muslim di Indonesia.33
+30 Muhammad Alfatih Suryadilaga, "Ragam Studi Hadis di PTKIN Indonesia," hlm. 224.
+31 Jajang A Rohmana, "Pengembangan Penelitian Al-Qur'an dan Tafsir di Indonesia: Kajian Pendahuluan Studi Kawasan Tafsir di Tatar Sunda," Disampaikan dalam acara Kuliah Umum "Model Pengembangan Kajian Al-Qur'an di Indonesia," Fakultas Ushuluddin IAIN Raden Intan Lampung, Rabu, 18 Nopember 2015, hlm. 14. Tentang wilayah kajian living Qur'an, lihat Islah Gusmian, "Al-Qur'an dalam Pergumulan Muslim Indonesia," Jawa Pos, 16 Januari 2005; Hamam Faizin, "AlQur'an sebagai Fenomena yang Hidup: Kajian atas Pemikiran para Sarjana AlQur'an," Makalah pada International Seminar and Qur'anic Conference II 2012, UIN Sunan Kalijaga Yogyakarta, 24 Februari 2012, hlm. 6-10.
+32 Muhamad Ali, "Kajian Naskah dan Kajian Living Qur'a>n dan Living H}adi@th," Journal of Qur'a>n and H}adi@th Studies, Vol. 4, No. 2, (2015), hlm. 161.
+33 Ahmad Rafiq, "The Reception of the Qur'an in Indonesia: A Case Study of the Place of the Qur'an in a Non-Arabic Speaking Community," Diseertation, The Temple University, 2014, hlm. 9-10.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 261
+Dalam studi hadis, kajian living hadis tujuan utamanya adalah berusaha menghubungkan fenomena hadis dengan fenomena masyarakat. Hadis dibatasi oleh sanad dan matan, tetapi studi living hadis memperluasnya ke dalam masyarakat yang menerima dan mempraktikkan kandungannya. Masyarakat memproduksi sistem sosial, budaya dan agama berdasar pada penerimaannya atas hadis. Dengan demikian, studi tentang hadis di sini bisa pula menjadi studi tentang masyarakat itu sendiri. Karenanya studi hadis sangat penting dalam menggunakan pendekatan multidisiplin yang bersifat empiris melalui ilmu-ilmu sosial sebagai alat analisis.34 Ia tidak hanya menggunakan analisis teks, tetapi juga analisis sosial, budaya dan sejarah untuk menunjukkan posisi hadis dalam membentuk kehidupan masyarakat Muslim. Ia mengungkap fungsi aktual hadis sebagai sebuah susunan teks, tulisan, pembacaan atau praktik ritual, di samping fungsi idealnya sebagai pedoman. Sebagai susunan teks, hadis terdiri dari kata-kata dan bahasa dengan makna tekstual tertentu. Sebagai tulisan, hadis bisa berupa aksara Arab yang merangkai susunan hadis dalam satu atau sebagian kumpulan hadis. Sebagai sebuah bacaan, hadis dibaca secara lisan. Sebagai praktik ritual, hadis dijadikan landasan dalam kegiatan upacara atau ritual keagamaan di masyarakat.
+Signifikansi lainnya, studi living hadis mencoba mengungkap ragam fenomena keagamaan dalam setiap masyarakat Muslim di Indonesia. Dalam perspektif global, ini penting dalam memberikan wacana penyeimbang dalam kajian masyarakat Muslim di dunia. Kajian tentang masyarakat Muslim umumnya lebih banyak terkait langsung dengan kehidupan Muslim di Timur Tengah yang dianggap sebagai "pusat Islam," tempat di mana mayoritas Muslim tidak berada di sana, melainkan di Asia Selatan dan Asia Tenggara. Pandangan bahwa Timur Tengah sebagai pusat Islam, boleh jadi cenderung
+34 U. Maman Kh. dkk., Metodologi Penelitian Agama, Teori dan Praktik, Jakarta: RajaGrafindo Persada, 2006, hlm. 15.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+262 | Jajang A. Rohmana
+semakin bergeser dengan semakin berkembangnya Islam dan studi Islam di Barat.35
+Dalam konteks Indonesia, studi living hadis sangat penting dalam memberikan informasi seputar tradisi Islam dan kaum Muslim di pelbagai wilayah lokal di Indonesia, tidak hanya Melayu dan Jawa tetapi juga Sunda, Bali, Bugis, Dayak, Ambon, Sasak, Papua dan lainnya. Studi fenomena budaya Islam lokal juga penting dalam merespon narasi besar tentang masyarakat Muslim yang terlalu digeneralisasi dan dianggap homogen. Ia tidaklah tunggal, tetapi sangat dinamis sehingga tidak bisa dibatasi pada narasi dan pola yang sama. Bahkan kini keragaman budaya lokal dan nasional semakin diperkaya dengan budaya kosmopolit yang dihasilkan oleh budaya globalisasi jika tidak dikelola dengan bisa saja mengancam keragaman budaya lokal di Indonesia.36
+Sepengetahuan penulis, sampai saat ini belum terlalu banyak sarjana yang mempublikasikan kajian living hadis. Meskipun beberapa tahun belakangan ini muncul beberapa karya sarjana yang termasuk ke dalam bidang kajian ini, di antaranya: Barbara Metcalf, "Living Hadith in the Tablighi Jamaat, Journal of Asian Studies, 52, No. 3, (1993): 584-608; Mark R. Woodward, "Textual Exegesis as Social Commentary: Religious, Social, and Political Meanings of Indonesian Translations of Arabic Hadith Texts," The Journal of Asian Studies 52, 3 (Agustus 1993): 565-83; Muhammad Alfatih Suryadilaga, "Living Hadis dalam Tradisi Sekar Makam," Al-Risalah, Vol. 13 No. 1, 2013: 163-172; Muhammad Alfatih Suryadilaga, "Mafhu>m alS}alawa>t `inda Majmu>'at Joged Shalawat Mataram: Diras> ah fi> alHa} di>th al-Ha} yy," Studia Islamika, Vo. 21, No. 3, 2014; Adrika
+35 Ziauddin Sardar, "The Future of Islamic Studies," Islamic Culture 57 (1983), hlm. 197.
+36 Azyumardi Azra, "Cultural Pluralism in Indonesia: Continuous Reinventing of Indonesian Islam in Local, National and Global," Paper Annual Conference on Islamic Studies (AICIS) ke-10, Banjarmasin, 1 ­ 4 November 2010, hlm. 5.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 263
+Fithrotul Aini, "Living Hadis dalam Tradisi Malam Kamis Majelis Shalawat Diba' Bil-Mustofa," Ar-Raniry: International Journal of Islamic Studies, Vol. 2, No.1, Juni 2014, hlm. 221-235, dan lainnya.
+Dari teks hadis ke praktik masyarakat Antropologi dipahami sebagai ilmu yang mengkaji tentang
+manusia (anthropos dan logos). Meski banyak ilmu yang mempelajari tentang manusia, tetapi titik tekan antropologi lebih pada masalah sejarah perkembangan manusia secara biologis, ras, bahasa, dan budaya. Ia lalu dibedakan menjadi antropologi fisik dan budaya. Antropologi budaya mengkaji tentang tujuh unsur budaya, yakni sistem pengetahuan, ekonomi, teknologi, sosial, religi, kesenian dan bahasa.37 Sistem religi dan kepercayaan menjadi bagian penting dari kebudayaan.38 Ia kemudian menjadi salah satu bidang spesialisasi dalam antropologi yang kemudian dikenal dengan "antropologi agama." Sebuah studi antropologis terhadap keyakinan, institusi dan ideologi keagamaan.39
+Para sarjana belakangan mulai mengembangkan apa yang disebut antropologi Islam (the anthropology of Islam) terutama sejak meningkatnya ketegangan antara representasi Islam dan pandangan Barat di awal milenium. Perspektif antropologis dipertimbangkan kembali dalam mendekati Islam setelah sekian lama antropolog memfokuskan perhatiannya pada aspek eksotis Islam.40 Karenanya, antropologi Islam tidak bisa dilepaskan dari konteks global tersebut. Mengkaji Islam di Indonesia kontemporer sangat penting dilakukan
+37 Koentjaraningrat, Pengantar Ilmu Antropologi, hlm. 202. 38 Koentjaraningrat, Kebudayaan Mentalitet dan Pembangunan, Jakarta: Gramedia, 1974, hlm. 137. 39 Brian Morris, Antropologi Agama, Kritik Teori-teori Agama Kontemporer, terj. Imam Khoiri, Yogyakarta: Ak Group, 2007, hlm. vi. 40 Lila Abu-Lughod, "Honor and the Sentiments of Loss in a Bedouin Society," American Etnologiest, 12.2 (1985): 245-261; Clifford Geertz, Islam Observed, Religious Development in Morocco and Indonesia, Chicago: The University of Chicago Press, 1968.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+264 | Jajang A. Rohmana
+dengan mempertimbangkan beragam jejaring global Islam di negara lain.41 Karena antropologi Islam menitikberatkan pada studi akademik tentang fenomena Islam di seluruh dunia, maka istilah tersebut tidak dimaksudkan dalam pengertian "Islamisasi ilmu" yang berkeinginan "mengislamkan" antropologi ke dalam pandangan dunia Islam. Studi ini berusaha menggunakan pendekatan antropologi yang berkembang dalam tradisi ilmiah akademik secara objektif untuk mengkaji fenomena Islam dan masyarakat Muslim di dunia.
+Namun tak bisa dipungkiri terdapat hambatan yang berkembang terkait diskursus antropologi Islam di kalangan sarjana. Sebagian mengakui bahwa studi antropologis tentang Islam masih diganggu dengan masalah pendefinisian dan netralitasnya. Apa sebetulnya yang hendak dikaji? Apakah pelbagai praktik lokal, teks dan standar perilaku universal atau keseluruhannya? Apakah pelbagai praktik tradisi lokal Islam betul-betul mencerminkan Islam yang sebenarnya atau hanya merupakan tradisi yang terislamkan? Sarjana lain juga terus bersikukuh dengan pertanyaan bukankah sebagaimana Said katakan, antropologi merupakan bagian dari produk pengetahuan "orientalisme" Barat atas bangsa lainnya demi kepentingan penundukkan dan kekuasaan?42 Selain itu, muncul pula kekhawatiran antropologi akan mengganggu kesakralan ritual Islam yang kadang tabu untuk dipelajari. Karena dalam keyakinan penganutnya, ritual itu bukan merupakan ciptaan manusia melainkan perintah Tuhan yang dianggap suci.
+Menjawab keraguan di atas, Bowen berusaha memberikan keyakinan bahwa pendekatan antropologi terhadap Islam dilakukan dengan melihat Islam sebagai seperangkat sumber dan praktik
+41 Gabriele Marranci, The Anthropology of Islam, New York: Berg, 2008, hlm. 5.
+42 Ronald Lukens-Bull, "Between Text and Practice: Considerations in the Anthropological Study of Islam," Marburg Journal of Religion, Vo. 4 No. 2, 1999, hlm. 1; Talal Asad, "The Idea of An Anthropology of Islam," Occasional Papers Series, Center for Contemporary Arab Studies, Georgetown University, 1986, hlm. 1.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 265
+interpretif. Dari sumber-sumber Islam berupa teks, ide dan metode muncul pengertian bahwa semua Muslim terlibat dalam tradisi yang mendunia. Dari praktik Islam berupa ibadah, hukum dan pergumulannya muncul kemampuan untuk beradaptasi menghadapi tantangan dan perbedaan. Analisis yang disebut Bowen sebagai "antropologi Islam baru" tersebut menegaskan bahwa analisisnya dimulai dari upaya individu-individu menangkap sumber-sumber itu dan membentuk pelbagai praktik dengan cara yang penuh makna. Ini berbeda dengan antropolog lainnya yang mempelajari Islam sekarang dengan mata rantai penafsiran manusia secara sosial yang terhubung dengan praktik sekarang kapanpun di semua masyarakat.43
+Bagi Bowen, cara ini melihat Islam mulai dari gambaran pemeluknya tentang tradisi teks sampai pada praktik sosialnya melalui lensa antropologis. Ini memungkinkan kita menggunakan dua cara analisis yang saling melengkapi: pertama, fokus ke dalam (focusing inward), dengan pendalaman pemahaman tujuan, pemahaman, dan emosi di sekitar praktik tertentu, biasanya menyangkut perhatian terhadap kesaksian individu dan sejarah. Tetapi pada saat yang sama mengikuti cara kedua, yakni dengan membuka ke luar (opening outward), ke arah signifikansi sosial dari praktik dan kondisi keagamaannya. Antropologi Islam baru ini melakukan penekanan pada teks dan ide keagamaan, tetapi hanya sebagaimana mereka memahami dan mewujudkannya ke dalam ruang dan waktu tertentu. Antropologi berusaha memahami bagaimana Muslim tertentu memahami dan menggunakan bagian-bagian tertentu dari teks dan ide tersebut.44
+Apa yang diungkapkan Bowen di atas kiranya menjadi arah pengembangan dalam studi living hadis. Fenomena living hadis merupakan bagian kecil dari keseluruhan realitas "Islam yang hidup" (the living Islam) itu sendiri. Islam yang dipraktikkan dalam seluruh kehidupan keseharian kaum Muslim yang terkait dengan seluruh
+43 John R. Bowen, A New Anthropology of Islam, Cambridge: Cambridge University Press, 2012, hlm. 3.
+44 John R. Bowen, A New Anthropology of Islam, hlm. 4.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+266 | Jajang A. Rohmana
+praktik ritual Islam di sekitar Al-Qur'an, hadis, fiqih, sufisme, dan lainnya. Ia tidak lagi berfokus di sekitar teks suci, tetapi bergeser ke arah masyarakat dan budayanya. Ia yang dalam bahasa Bowen berusaha melihat gambaran pemeluknya tentang tradisi teks sampai pada praktiknya melalui analisis "fokus ke dalam" (pemahaman individu atas praktik living hadis) sekaligus "membuka ke luar" (signifikansi sosial dari praktik tersebut).
+Dalam pandangan antropologi, fenomena living hadis sebagaimana juga umumnya fenomena agama di masyarakat menunjukkan bahwa ia tidak bisa dilepaskan dari pengaruh budaya.45 Istilah budaya seringkali dipahami sebagai hasil cipta, karsa dan rasa manusia melalui akal budinya (buddhi, buddhayah).46 Budaya memberi pengaruh signifikan dalam membentuk keragaman ekspresi penerimaan hadis di kalangan kaum Muslim. Sumber teks hadis boleh jadi umumnya sama, tetapi ekspresi dan kreasi penerimaannya di pelbagai wilayah dunia Muslim berbeda-beda. Karenanya, posisi masyarakat sebagai penerima dan pengembang budaya living hadis sangat signifikan. Terdapat sejumlah hadis yang hanya bisa dipahami dengan baik secara kontekstual dengan menggunakan perspektif masyarakatnya. Memahami hadis yang sudah dipraktikkan dan menjadi tradisi di masyarakat menjadi tidak lengkap tanpa melibatkan kajian terhadap masyarakat itu sendiri. Di sinilah arti penting antropologi bagi studi living hadis.
+Karenanya, relevansi pendekatan antropologi bagi studi living hadis kiranya terkait dengan kepentingannya untuk membantu mempelajari dinamika resepsi hadis secara empirik. Kajian living hadis dalam hal ini harus diarahkan pada konteks sosial budaya yang melingkupinya ketika hadis itu diresepsi dan dipraktikkan saat ini.
+45 Jamhari Ma'ruf, "Pendekatan Antropologi dalam Kajian Islam," artikel pilihan http://pustaka.islamnet.web.id/Bahtsul_Masaail/Artikel/Kumpulan%20Makalah/K AJIAN%20ISLAM%20DENGAN%20PENDEKATAN%20ANTROPOLOGI.htm (diakses Senin, 07/02/2016 pukul 10.14).
+46 Koentjaraningrat, Pengantar Ilmu Antropologi, hlm. 181.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 267
+Pentingnya memahami hadis secara empiris ini terkait dengan masyarakat sebagai pengguna dan penerima hadis itu sendiri. Tanpa memahami masyarakat, maka pemahaman hadis dalam konteks saat ini menjadi kurang sempurna.
+Masyarakat melalui olah pikirnya membentuk dan mengkonstruksi ajaran hadis ke dalam bentuk ritual, upacara dan tradisi yang melembaga dan diwariskan secara turun-temurun. Masyarakat menerjemahkan ajaran hadis sesuai dengan kebutuhannya di dalam lingkungan budayanya. Keragaman latar sosial budaya melahirkan keragaman bentuk living hadis dalam setiap masyarakat.
+Karenanya, kajian antropologi dalam living hadis pada akhirnya akan memberikan gambaran tentang pengaruh keragaman budaya terhadap resepsi hadis di masyarakat. Dalam konteks Islam di Indonesia, resepsi tersebut melahirkan beragam tradisi Islam lokal di pelbagai daerah, seperti Jawa, Sunda, Bugis, Sasak dan lainnya. Pemahaman tentang realitas living hadis yang berbeda bisa menumbuhkan sikap menghargai terhadap perbedaan dalam melaksanakan ajaran Islam. Pemahaman hadis di pelbagai masyarakat yang tidak pernah bisa steril dari pengaruh ragam latar budaya memunculkan kearifan dalam menerima perbedaan. Living hadis mendorong upaya saling memahami di antara pelbagai keragaman dalam praktik Islam dan agama lokal di Indonesia.47
+Penerimaan akan keragaman tradisi Islam lokal dalam kajian living hadis didasarkan pada landasan bahwa antropologi tidak mempersoalkan benar-tidaknya, bidah-tidaknya, menyimpangtidaknya, ada tidaknya contoh Nabi, bahkan dhaif-tidaknya sumber hadis dari suatu praktik living hadis di masyarakat. Ia tidak berhak mengadili dan menilai. Antropologi berusaha memahami, memaparkan dan menjelaskan praktik agama tanpa terlalu jauh
+47 Tentang pandangan agama dunia dan agama lokal, lihat Samsul Ma'arif, "Kajian Kritis Agama Lokal," dalam Zainal Abidin Bagir dkk, Studi Agama di Indonesia, Refleksi Pengalaman, Yogyakarta: Program Studi Agama dan Lintas Budaya/CRCS, UGM Yogyakarta, 2015, hlm. 30.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+268 | Jajang A. Rohmana
+melakukan penilaian atas dasar keyakinan yang dianutnya.48 Bagi antropolog, biarlah para ahli teologi yang melakukan pembuktian kebenaran praktik tersebut.49 Karenanya, siapapun bisa melakukan studi living hadis, Muslim atau Non Muslim.
+Praktik living hadis karenanya diharapkan memiliki kontribusi penting dalam memperkuat apa yang disebut distingsi Islam Nusantara.50 Sebuah diskursus yang menegaskan pentingnya penguatan identitas Islam lokal di Indonesia yang bagi sebagian sarjana dianggap tidak betul-betul Islami, di mana living hadis juga menjadi bagian penting dalam praktik keberagamaannya.51 Kajian living hadis dengan menggunakan pendekatan antropologi dapat diarahkan pada analisis konsep-konsep Islam lokal tentang bagaimana penerimaan hadis dan budaya di masyarakat saling berinteraksi. Diskursus Islam lokal menjadi agenda penting dalam konteks pengembangan studi living hadis di Indonesia. Sebuah cerminan pertautan antara penerimaan Islam dan budaya lokal. Ini menjadi kekayaan penting artikulasi Islam di Nusantara yang sejak lama dikenal toleran dan menerima perbedaan. Ia menjadi bagian dari keragaman "tradisi kecil" yang boleh jadi tidak persis sama dengan "tradisi besar" Islam sebagai sumber awalnya. Dari tradisi besar ke tradisi kecil
+Salah satu topik penting dalam perdebatan antropologi Islam dan juga termasuk di dalamnya studi living hadis adalah kesulitan
+48 Heddy Shri Ahimsa-Putra, "The Living Qur'an: Beberapa Perspektif Antropologi," Walisongo, Volume 20, Nomor 1, Mei 2012, hlm. 251.
+49 Daniel Martin Varisco, Islam Obscured: The Rhetoric of Anthropological Representation, New York: Palgrave Macmillan, 2005, hlm. 2.
+50 Tentang Islam Nusantara, lihat misalnya, Akhmad Sahal dan Munawir Aziz ed., Islam Nusantara: Dari Ushul Fiqih hingga Faham Kebangsaan, Bandung: Mizan, 2015; M. Ishom Yusqi, Mengenal Konsep Islam Nusantara, Jakarta: Pustaka STAINU, 2015; Ahmad Baso, Islam Nusantara: Ijtihad Jenius & Ijma' Ulama Indonesia, Jakarta: Pustaka Afid, 2015.
+51 Martin van Bruinessen, "Global and Local in Indonesian Islam," Southeast Asian Studies, 37, 1999, hlm. 159.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 269
+kaum Muslim untuk menyesuaikan dengan model etnografi umumnya. Teks dan ritual dalam Islam hampir selalu dianggap lebih penting dari pelbagai unsur lokal. Keduanya membawa penganutnya keluar dari kampung tempat mereka tinggal untuk masuk ke dalam sebuah komunitas kaum beriman di seluruh dunia.52 Kapan dan di manapun, mereka tidak bisa lepas dari "pengakuan" dirinya sebagai sesama Muslim yang terikat dalam teks dan ritual yang sama dibanding struktur sosial dan budaya lokalnya.
+Untuk memposisikan pendekatan antropologi dalam studi living hadis, penting untuk membaca analisis Redfield yang membagi tradisi agama-agama ke dalam teori tradisi besar (great tradition) dan tradisi kecil (little tradition). Baginya, tradisi besar atau bentuk ortodoks dari pusat agama merupakan praktik kaum elit. Agama dengan sedikit renungan dan banyak dipelajari di sekolah-sekolah dan tempat ibadah. Tradisi besar juga disebut tradisi tekstual, ortodoksi, agama filosofis, tradisi tinggi, dan tradisi universal. Sedangkan tradisi kecil adalah bentuk heterodoks (lawan ortodoks) berada di wilayah pinggiran agama. Tradisi kecil menggabungkan banyak elemen tradisi dan praktik lokal. Ia merupakan agama sebagaimana dipraktikkan oleh orang biasa dalam kesehariannya. Tradisi kecil dipraktikkan begitu saja secara taken for granted tanpa perlu pemahaman cermat, perbaikan atau pemurnian. Tradisi kecil seringkali juga disebut dengan tradisi lokal, tradisi rendah atau agama rakyat.53
+Dalam antropologi agama, beberapa agama dunia seperti Yahudi, Kristen dan Islam juga terbagi ke dalam bentuk tradisi "tinggi" dan "rendah" tergantung pada kesesuaian atau perbedaan dari ajaran pokoknya. Pandangannya secara luas didasarkan pada doktrin ajaran kaum elit agama dibanding manifestasi popular rakyat biasa.54
+52 Ronald Lukens-Bull, "Between Text and Practice," hlm. 4. 53 Robert Redfield, Peasant Society and Culture, An Anthropological Approach to Civilization, Chicago: The University of Chicago Press, 1956, hlm. 70. 54 Fiona Bowie, The Anthropology of Religion, An Introduction, Oxford: Blackwell Publishers, 2001, hlm. 25.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+270 | Jajang A. Rohmana
+Bila ditarik ke dalam tradisi Islam di Indonesia, dua jenis tradisi keagamaan ini dengan mudah bisa ditemukan. Dalam pandangan Geertz, istilah santri dan abangan paling tidak mewakili kedua jenis tradisi tersebut, meskipun tidak sepi dari ragam kritik.55 Tradisi santri merupakan tradisi besar Islam yang dipraktikkan kaum elit agama (kyai) di pesantren. Tradisi abangan merepresentasikan "tradisi kecil" yang menggabungkan banyak elemen tradisi lokal dengan Islam dalam kesehariannya.56 Kyai sebagai elit agama kerapkali menjadi pialang budaya yang menjembatani kaum santri dan masyarakat termasuk kaum abangan.57
+Dalam konteks studi living hadis, kiranya penting untuk mempertimbangkan wilayah tradisi lokal sebagai bagian dari objek studinya. Ini didasarkan pada tujuan utama antropologi yang memfokuskan pada analisis terhadap budaya masyarakat dibanding doktrin agama. Studi tradisi besar Islam sudah sangat umum dilakukan dalam tradisi kajian Islam melalui analisis teologis. Bahkan seringkali antropolog Muslim terlalu banyak memberi sikap terhadap subjek penelitian secara teologis. Terkesan analisisnya menjadi kajian dengan "misi dakwah" dibanding objektifitas ilmiah.58 Ini tentu sangat berbeda dengan pendekatan antropologi yang menitikberatkan pada kajian budaya masyarakat secara apa adanya. Karenanya, tradisi lokal dalam studi living hadis menjadi sangat penting.
+Berikut beberapa praktik yang dalam batas tertentu bisa dipertimbangkan dalam penelitian living hadis, terutama dalam tradisi besar dan tradisi kecil di kalangan orang Islam Sunda, baik dahulu
+55 Respon terhadap Geertz didiskusikan secara singkat dalam A.G. Muhaimin, The Islamic Traditions of Cirebon, Ibadah and Adat among Javanese Muslims, Canberra: ANU E Press, 2006, hlm. 3-4.
+56 Zaini Muchtarom, "Santri and Abangan in Java," Thesis, McGill University, Montreal Canada, 1975, hlm. 55-60
+57 Clifford Geertz, `The Javanese Kyai: The Changing Role of Cultural Broker' Comparative Studies in Society and History, (2), 1959, hlm. 250-256.
+58 Lihat misalnya, R. Abuy Sodikin dkk., Memahami Islam melalui Pendekatan Antropologi, Bandung: Tarbiyah Press, 2003.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 271
+
+maupun sekarang.59 Ini boleh jadi bisa dijadikan sebagai tema
+
+penelitian living hadis dengan menggunakan pendekatan antropologi.
+
+No Tradisi Besar
+
+Tradisi Kecil
+
+Sumber Hadis
+
+1. Doa dan Syukur Doa Nurbuwat saat
+
+Hadis tentang
+
+mengandung dan
+
+perintah berdoa,
+
+melahirkan; Membaca
+
+akikah dan sedekah.
+
+wawacan layang she, Rawi
+
+Mulud, Nabi Yusuf dll.
+
+(hamil, melahirkan,
+
+salametan);
+
+Membaca surat
+
+Yusuf/Maryam saat hamil;
+
+Sidekah selamatan saat
+
+tingkeban, ekah, puput
+
+puseur; Marhabaan;
+
+Barjanzi.
+
+2. Doa
+
+Mengadzankan bayi;
+
+Hadis tentang
+
+Merendam rumput Fatimah perintah adzan bagi
+
+pasca melahirkan;
+
+bayi dan doa anak
+
+Beragam tabu saat hamil dan saleh.
+
+melahirkan.
+
+3. Memberi nama Memberi nama Arab bagi
+
+Hadis keutamaan
+
+yang baik
+
+anak, dari Sulaiman ke
+
+nama-nama.
+
+Eman, Khadijah ke Ijah
+
+4. Sunat
+
+Sunat perempuan, dari
+
+Hadis tentang sunat
+
+sundat ke sunat
+
+perempuan
+
+5. Doa
+
+Tradisi khataman
+
+Hadis tentang fadilah
+
+membaca Al-Qur'an
+
+6. Dzikir, Doa
+
+Dzikir dan shalawat akbar, Hadis tentang dzikir
+
+Muludan, Rajaban, Majelis dan shalawat
+
+Rasulullah
+
+7. Sedekah
+
+Gelar sorban saat pangajian; Hadis tentang fadilah
+
+Nyair sumbangan
+
+sedekah untuk
+
+(memungut sumbangan
+
+masjid.
+
+59 Haji Hasan Mustapa, Bab Adat2 Oerang Priangan Djeung Oerang Soenda Lian ti Eta, Ditjitakna di kantor tjitak Kangdjeng Goepernemen di nagara Batawi, 1913.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+272 | Jajang A. Rohmana
+
+No Tradisi Besar
+8. Doa 9. Sunnah janggut 10. Poligami 11. Ibadah bulan
+Ramadhan 12. Doa, sedekah 13. Talqin mayit,
+sedekah 14. Bagi warisan 15. Salat Dhuha 16. Pengobatan
+Nabi 17. dll.
+
+Tradisi Kecil pembangunan masjid di pinggir jalan) Palakiah pertanian, dari mantra ke doa Memanjangkan janggut dan fenomena obat penyubur Nyandung, memadu di kalangan aktifis dakwah Tradisi ifthar berjamaah, taraweh, itikaf berjamaah, dan walilat malam takbiran Salametan membangun/pindah rumah Tahlil malam ke-1 hingga 100 hari Tradisi sumun dalam warisan Gerakan salat dhuha berjamaah Pengobatan alternatif ruqyah, bekam, habbatusaudah, dll.
+
+Sumber Hadis
+Hadis perintah berdoa. Hadis memanjangkan janggut. Hadis tentang poligami. Hadis fadilah ibadah bulan Ramadhan
+Hadis tentang rumah
+Hadis tentang talqin, pahala sedekah. Hadis tentang bagian waris. Hadis tentang salat dhuha Hadis tentang t}ibb al-nabawi
+
+Pentingnya mempertimbangkan isu tradisi kecil dalam living hadis karena ini terkait dengan kenyataan bahwa umumnya Muslim dalam kesehariannya mengamalkan agamanya tidak terkait dengan pertanyaan besar teologi dalam "teks utama" (high text), tetapi lebih pada masalah ringan dan dekat. Muslim umumnya tinggal di tempat tertentu dengan menyesuaikan tradisi Islam ke dalam nilai lokal, meskipun penyesuaian ini menimbulkan perdebatan hangat di kalangan Muslim seputar kesesuaiannya dengan Islam. Bowen menyebut bahwa antropologi menempuh jalan di mana Muslim mencoba melampaui batas-batas masyarakatnya sendiri, bagaimana
+
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 273
+mereka mencoba mengatur kehidupannya dalam memahami "teks utama" itu agar dimengerti dalam kehidupan lokal.60
+Studi living hadis dan ragam perspektif antropologi Mengkaji living hadis dengan pendekatan antropologi tidak bisa
+dilepaskan dengan ragam perspektif di dalamnya. Para sarjana menyebut dengan beragam istilah yang boleh jadi secara umum mengarah pada maksud yang kurang lebih sama, misalnya kerangka teori, aliran, mazhab, paradigma hingga perspektif. Intinya semua merujuk pada cara pandang teoritis peneliti dalam memahami budaya masyarakat yang bersumber dari teori-teori antropolog sebelumnya. Peneliti akan dihadapkan pada ragam pilihan perspektif antropologi termasuk dalam membaca tradisi living hadis. Bisa saja peneliti menggunakan lebih dari satu perspektif antropologis untuk penelitiannya. Pemahaman akan ragam perspektif antropologi ini penting untuk memahami perkembangan teori-teori antropologi sekaligus untuk mempertajam analisis terhadap objek pembahasan. Melalui analisis ragam perspektif pula peneliti dituntut untuk memperjelas posisinya dalam perdebatan teoritis antropologi yang selama ini berkembang. Berikut beberapa perspektif antropologis yang diolah dari pelbagai sumber untuk dijadikan pijakan tepat oleh para pengkaji living hadis.
+Pertama, perspektif akulturasi. Perspektif ini merupakan perkembangan dari teori klasik difusi kebudayaan yang saah satunya disebabkan adanya penyebaran manusia. Penyebaran Islam dari Timur Tengah misalnya, melalui jalur budaya, ekonomi, sosial dan politik kemudian menularkan budaya tertentu. Terjadi ragam perubahan sebagai akibat adanya kontak budaya tersebut. Muncul konsep akulturasi di mana suatu kebudayaan bertemu dengan budaya lain lalu mengambil budaya baru tersebut dan mengubahnya menjadi seperti
+60 John R. Bowen, A New Anthropology of Islam, hlm. 5-6.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+274 | Jajang A. Rohmana
+budaya sendiri.61 Pertemuan Islam dan budaya Jawa mengundang banyak analsis melalui perspektif ini. Geertz misalnya, cenderung menganggap bahwa Islam di Jawa bercorak sinkretik, artinya terdapat perpaduan di antara dua atau lebih budaya yang disebut agama Jawa. Pandangan Geertz yang menggunakan konsep sinkretik selanjutnya digunakan pula oleh Mulder, Koentjaraningrat dan Beatty.62 Sementara para pengkritik Geertz seperti tampak pada Woodward, Pranowo, Muhaimin dan Nur Syam cenderung menolaknya dan menganggap bahwa Islam dan budaya lokal Jawa sesuatu yang akulturatif. Ia tidak antonim, tetapi kompatibel. Ada proses mengambil dan menerima, sehingga terjadilah Islam tersebut sebagai agama yang bercorak khas, Islam Jawa.63
+Peneliti bisa menggunakan perspektif akulturatif dalam menganalisis gejala sosial-budaya dalam konteks living hadis. Tradisi tahlilan di rumah keluarga yang meninggal misalnya, tidak dipandang sinkretik atau tidak murni karena berbaur dengan elemen pra-Islam. Melalui perspektif akulturatif, tradisi tersebut dipandang secara positif bahwa Islam menyerap budaya lokal, mengkompromikan, mengislamkan dan membentuknya menjadi identitas khas, Islam lokal. Tidak ada bentuk sinkretisme atau sempalan di sini, yang ada adalah proses akulturatif-kolaboratif yang positif dari tradisi lokal ke dalam
+61 Suwardi Endraswara, Metodologi Penelitian Kebudayaan, Yogyakarta: Gadjah Mada University Press, 2006, hlm. 100.
+62 Niels Mulder, Kebatinan dan Hidup Sehari-hari Orang Jawa, terj. Alois A. Nugroho (Jakarta: PT Gramedia, 1983) dan Agama, Hidup Sehari-hari dan Perubahan Budaya, terj. Satrio Widiatmoko (Jakarta: PT Gramedia Pustaka Utama, 1999); Koentjaraningrat, Kebudayaan Jawa (Jakarta: Balai Pustaka, 1994); Andrew Beatty, Varietes of Javanese Religion: An Anthropological Account (Cambridge: Cambridge University Press, 1999).
+63 Mark R. Woodward, Islam Jawa Kesalehan Normatif Versus Kebatinan, terj. Hairus Salim HS (Yogyakarta: LKiS, 2008), cet. ke-4.; M. Bambang Pranowo, Memahami Islam Jawa (Jakarta: Alvabet dan INSEF, 2009); A.G. Muhaimin, The Islamic Traditions of Cirebon, Ibadat and Adat Among Javanese Muslims (Canberra: ANU E Press, 2006); Nur Syam, Islam Pesisir (Yogyakarta: LKiS, 2005), hlm. 287289.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 275
+tradisi Islam lokal dan menjadi bagian dari identitasnya yang tidak terpisahkan.
+Kedua, perspektif fungsional. Pengertian fungsi merujuk pada manfaat budaya bagi kelangsungan masyarakat, baik laten (tidak disadari) maupun manifes (tidak disadari atau dikehendaki). Fungsi religi misalnya, secara sosial dapat mempersatukan masyarakat. Kebiasaan dan kepercayaan dalam masyarakat memiliki fungsi memelihara struktur masyarakat sehingga bisa lestari. Analisis fungsional atau fungsional struktural dalam antropologi cenderung bersifat mikro dan memiliki lokus terbatas (desa, komunitas, etnis dan lainnya).64 Karenanya penggunaan perspektif fungsional dalam living hadis diarahkan pada fungsi sosial-budaya praktik keseharian hadis dalam pandangan hidup, nilai, norma, aturan dan perilaku masyarakat. Seluruh ritual Islam di masyarakat pada dasarnya tidak bisa dilepaskan dari fungsi sosial-budaya. Salat, membaca Al-Qur'an, puasa, Jumatan, muludan, haji, akikah dan lainnya, semua memiliki fungsi baik psikologis, sosial, ekonomi maupun politik.
+Salat berjamaah misalnya, memiliki fungsi sosial penting sebagai perekat solidaritas sosial masyarakat. Begitu pun dzikir salah satunya berfungsi menghindarkan diri dari kecemasan dan gangguan psikologis lainnya. Penelitian antropologi Bowen menjelaskan bahwa salat di Indonesia memiliki banyak makna dan fungsi sosial-politik. Ia bisa menjadi simbol perlawanan bagi masyarakat Aceh, komunikasi di antara masyarakat Gayo dan menjadi penentu batas-batas sosial di kalangan pengikut Islam Jamaah di Jakarta.65 Peneliti living hadis bisa menggunakan perspektif ini untuk mengungkap ragam fungsi hadis dalam kehidupan sosial-budaya masyarakat.
+64 Nur Syam, Madzhab-madzhab Antropologi, Yogyakarta: LkiS, 2007, hlm. 33; Suwardi Endraswara, Metodologi Penelitian Kebudayaan, hlm. 100; David Kaplan dan Robert Manners, Teori Budaya, terj. Landung Simatupang, Yogyakarta: Pustaka Pelajar, 2002, hlm. 79.
+65 John R. Bowen, "Salat in Indonesia: The Social Meaning of an Islamic Ritual," Man, New Series, Vol. 24, No. 4 (Dec., 1989), hlm. 601-606.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+276 | Jajang A. Rohmana
+Ketiga, perspektif strukturalisme. Perspektif ini mendefinisikan budaya layaknya struktur dalam bahasa. Ia memiliki pola atau model berupa relasi, oposisi biner dan korelasi yang saling mempengaruhi di antara manusia dan tradisinya. Meski etnis manusia di dunia berbedabeda, tetapi bukan berarti tidak terdapat pola atau model dari realitas yang memiliki kesamaan sebagai pola umum yang berlaku mendasar. Perspektif ini dirintis oleh Levi-Strauss. Ia umumnya dipakai untuk membaca mitos dan dongeng yang hidup dalam struktur pengetahuan masyarakat di masa lalu hingga sekarang.66
+Peneliti bisa menggunakan perspektif ini untuk menganalisis mitos atau dongeng di sekitar Nabi dan para sahabat yang berkembang di masyarakat lokal. Bagi orang Sunda, cerita wawacan Amir Hamzah, Nabi-Panghulu-Raja, Nabi Paras, barjanzi, wawacan Nabi Yusuf atau cerita Keansantang yang bertemu Sayyidina Ali bisa menjadi objek kajian melalui perspektif strukturalisme. Cerita tersebut boleh jadi bersumber dari sejumlah hadis, athar sahabat atau kisah orang-orang suci yang masih hidup di masyarakat. Analisis strukturalisme terhadap cerita tersebut bisa menjelaskan pola atau model dari struktur pengetahuan orang Sunda.
+Keempat, perspektif fenomenologi. Perspektif ini menggali secara mendalam pelbagai gejala sosial-budaya dilihat dari sudut pandang, persepsi, pemikiran, kemauan, dan keyakinan subjek penelitian (masyarakat) tentang sesuatu di luar dirinya. Perspektif ini memiliki hubungan dekat dengan perspektif kognisi yang mengkaji pikiran, mood, perasaan, keyakinan dan nilai yang dianut masyarakat.67 Ini terkait dengan kesadaran dan pandangan dunia subjek (pelaku) tentang "dunia" tempat mereka berada, termasuk tradisi, ritual, upacara atau praktik yang mereka lakukan. Karenanya perspektif ini--juga perspektif antropologi lainnya--tidak berusaha menilai kebenaran pandangan pelaku tersebut. Peneliti "diam" dan
+66 Nur Syam, Madzhab-madzhab Antropologi, hlm. 70. 67 Noeng Muhadjir, Metodologi Penelitian Kualitatif, Yogyakarta: Rake Sarakan, 1991, hlm. 27; Nur Syam, Madzhab-madzhab Antropologi, hlm. 50.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 277
+bertugas menggali pandangan subjektif pelaku tentang tradisinya dan masuk ke dalam dunia pelaku yang ditelitinya (emik).68
+Studi living hadis penting menggunakan perspektif emik ini mengingat sejumlah tradisi akan lebih tepat bila dipahami dengan menggunakan sudut pandang pelaku sebagai pemilik tradisi itu. Tradisi "sumun" di masyarakat Sunda misalnya, awalnya berasal dari tradisi besar Islam dalam Al-Qur'an dan hadis yang dikenal dengan konsep "tsumun" (seperdelapan). Ia berarti bagian seperdelapan harta waris bagi istri mayit. Tetapi bagi orang Sunda di Sumedang, konsep ini dipahami sebagai hibah (berapa pun besarnya) dari anak pada janda mayit baik berkedudukan sebagai ibunya sendiri maupun ibu tiri. Ini disebabkan pandangan orang Sunda bahwa penerima waris dalam kenyataannya hanyalah anak kandung.69 Pandangan pelaku tradisi sumun semacam ini tidak bisa dinilai oleh peneliti sebagai bentuk penyimpangan dari ajaran tradisi besar Islam. Peneliti secara fenomenologis hanya berkewajiban menggali cara pandang masyarakat tentang tradisi tersebut.
+Kelima, perspektif hermeneutik, simbolik, atau interpretif. Inilah perspektif yang banyak diminati para antropolog belakangan terkait budaya kaum Muslim. Perspektif ini mencoba memahami gejala sosial budaya secara mendalam layaknya sebuah teks (hermeneutik).70 Bila teks dipenuhi oleh simbol bahasa, maka gejala sosial budaya juga pada dasarnya memiliki serangkaian simbol-simbol berupa benda, perilaku, ritual, bacaan dan lainnya. Peneliti melalui perspektif ini berusaha membaca, memahami dan menafsirkan jejaring makna dalam simbol-simbol tersebut (interpretif, simbolik). Geertz menyebut perspektif ini dengan thick description (deskripsi tebal). Ia
+68 Suwardi Endraswara, Metodologi Penelitian Kebudayaan, hlm. 44. 69 Cik Hasan Bisri, "Pergumulan Hukum Islam dengan Kaidah Lokal dalam Pembagian Harta," dalam Cik Hasan Bisri ed., Hukum Islam dalam Tatanan Masyarakat Indonesia, Jakarta: Logos, 1998, hlm. 180. 70 Mh. Nurul Huda, "Budaya sebagai Teks, Narasi dan Hermeneutik" dalam Mudji Sutrisno dan Hendar Putranto, Teori-teori Kebudayaan, Yogyakarta: Kanisius, 2005, hlm. 195.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+278 | Jajang A. Rohmana
+berusaha mendeskripsikan apa yang sedang dikerjakan dan dipikirkan masyarakat untuk kemudian diinterpretasikan.71 Penelitiannya tentang tradisi sabung ayam di Bali misalnya, dipahaminya sebagai simbol dari "permainan mendalam" (deep play). Ia tidak sekedar menunjukkan adu kekuatan ayam jago untuk berjudi, tetapi persaingan pemiliknya untuk mendapatkan kekuatan. Ayam jago adalah simbol kejantanan dan kebesaran status hirarki sosial pemiliknya.72
+Perspektif ini sangat penting untuk memahami tradisi living hadis di masyarakat. Tradisi sunat perempuan misalnya, meski tidak ada manfaatnya secara medis, tetapi praktik ini tetap dilakukan. Sebuah praktik yang bisa dimaknai sebagai upaya menempatkan anakanak dalam komunitas Muslim sebagai "pribadi bermoral."73 Umumnya praktik sunat perempuan di Indonesia dilakukan sebagai sikap simbolik saja tanpa adanya pemotongan klitoris sebagaimana dilakukan di negara-negara Afrika.74 Peneliti bisa terus menggali makna dari pelbagai simbol tradisi tersebut melalui perspektif gender, psikologi, relasi sosial hubungannya dengan hadis Nabi tertentu yang biasanya dijadikan sebagai landasan praktik tersebut.
+Metodologi dan langkah penelitian living hadis dengan pendekatan antropologi
+Fenomena living hadis merupakan fenomena empiris sosialbudaya, maka model metode penelitian yang dipakai merupakan
+71 David N. Gellner, "Pendekatan Antropologis," dalam Peter Connoly ed., Aneka Pendekatan Studi Agama, terj. Imam Khoiri, Yogyakarta: LkiS, 2001, hlm. 46; Daniel L. Pals, Seven theories of Religion, terj. Ali Noer Zaman, Yogyakarta: Qalam, 2001, hlm. 407.
+72 Clifford Geertz, The Interpretation of Cultures, Selected Essays, New York: Basic Books, 1973, hlm. 419.
+73 Lynda Newland, "Female Circumcision: Muslim Identities and Zero Toerance Policies in West Java," Women's Studies International Forum 29 (2006): 394-404.
+74 Andree Feillard and Lies Marcoes, "Female Circumcision in Indonesia: To `Islamize' in Ceremony or Secrecy," Archipel 56, Paris, 1998: 337-367.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 279
+model penelitian sosial dan budaya secara kualitatif.75 Karenanya, peneliti dalam menggunakan pendekatan antropologi harus berupaya mengikuti prosedur penelitian kualitatif berbasis riset lapangan di masyarakat (field research, field work) yang terkait dengan respon dan penerimaan atas hadis dalam kesehariannya.
+Umumnya terdapat beberapa metode yang digunakan dalam melakukan riset budaya dalam antropologi: etnografi, folklor, grounded theory, dan lainnya. Etnografi mendeskripsikan suatu kebudayaan budaya sebagaimana adanya secara holistik melalui alur penelitian maju bertahap. Holistik artinya gejala sosial-budaya yang diteliti dilihat sebagai praktik yang berkaitan dengan yang lain dalam masyarakat. Agama misalnya, dilihat sebagai sistem yang tidak bisa dilepaskan dari pengaruh sosial, ekonomi, politik dan budaya.76 Dalam penelitian etnografi, sedikitnya peneliti harus tinggal di lokasi penelitian selama enam bulan untuk melakukan pengamatan terlibat (participant observation) di mayarakat;77 Metode folklor digunakan bagi studi tradisi lisan berupa mitos di balik ritual tertentu di masyarakat; grounded theory merupakan model penelitian yang berusaha mencari rumusan teori budaya berdasarkan data empirik. Teori dihasilkan secara induktif berdasarkan data real.78 Peneliti bisa memanfaatkan ragam metode tersebut untuk mempermudah studi living hadis di lapangan.
+Adapun langkah-langkah metodis studi living hadis dengan pendekatan antropologi minimal terdiri dari: 1) menentukan informan dan lokasi; 2) menggunakan pendekatan dan perspektif subyek
+75 Mudjahirin Thohir, Memahami Kebudayaan: Teori, Metodologi dan Aplikasi, Semarang: Fasindo, 2007, hlm. 49.
+76 David N. Gellner, "Pendekatan Antropologis," hlm. 34. 77 James P. Spradley, Metode Etnografi, terj. Misbah Zulfa Elisabeth, Yogyakarta: Tiara Wacana, 2007, hlm. 3; Esther Kuntjara, Penelitian Kebudayaan, Sebuah Pengantar Praktis, Yogyakarta: Graha Ilmu, 2006, hlm. 7. 78 Suwardi Endraswara, Metodologi Penelitian Kebudayaan, hlm. 50-69; Noeng Muhadjir, Metodologi Penelitian Kualitatif, hlm. 173; Maryaeni, Metode Penelitian Kebudayaan, Jakarta: Bumi Aksara, 2005, hlm. 32.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+280 | Jajang A. Rohmana
+penelitian (emik); 3) teknik pengumpulan data dilakukan dengan teknik observasi dan wawancara mendalam (indepth interview) terhadap informan; 4) membuat catatan lapangan (field notes) 5) menentukan unit analisis data berupa individu, kelompok atau benda atau suatu latar peristiwa sosial-budaya yang ditentukan dengan teknik snowball; 6) pengolahan data dilakukan dengan teknik triangulasi melalui analisis interaktif berupa induksi-interpretasikonseptualisasi atau bisa juga berupa display (penyajian data), reduksi (pemilahan) dan interpretasi (analisis data menggunakan kerangka teori yang ada).
+Berikut salah satu contoh outline penelitian living hadis dengan pendekatan antropologi yang diambil dari tesis Abdurrahman Abu Hanif, mahasiswa UIN Sunan Kalijaga Yogyakarta tahun 2015 yang berjudul "Gerakan Shalat Dhuha (Studi Living Hadis dalam Majelis Dhuha Bantul)": 79
+BAB I PENDAHULUAN A. Latar Belakang Masalah B. Rumusan Masalah C. Tujuan dan Kegunaan Penelitian D. Kerangka Teoritik E. Metode Penelitian F. Telaah Pustaka F. Sistematika Pembahasan
+BAB II FENOMENA SALAT DHUHA SEBAGAI LIVING HADIS A. Makna Salat Dhuha bagi Masyarakat B. Fenomena Salat Dhuha pada Awal-awal Islam C. Fenomena Salat Dhuha pada Masa Sekarang
+BAB III IMPLEMENTASI SALAT DHUHA DALAM MAJELIS DHUHA
+79 Abdurrahman Abu Hanif, "Gerakan Salat Dhuha (Studi Living Hadis dalam Majelis Dhuha Bantul," Tesis UIN Yogyakarta, 2015. http://digilib.uinsuka.ac.id/17598/ (diakses tanggal 07/02/2016 pukul 14.57).
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 281
+BANTUL A. Majelis Dhuha Bantul B. Tim Pelaksana dan Peserta Majelis Dhuha Bantul C. Tempat Pelaksanaan dan Sarana Prasarana Majelis Dhuha Bantul D. Pelaksanaan Kegiatan Majelis Dhuha Bantul BAB IV ANALISIS RESEPSI LIVING HADIS DI MAJELIS DHUHA BANTUL A. Resepsi Hermeneutis B. Resepsi Estetis C. Resepsi Kultural BAB V PENUTUP A. Kesimpulan B. Saran dan Rekomendasi DAFTAR PUSTAKA LAMPIRAN-LAMPIRAN
+Penutup Kajian hadis di Indonesia mencoba untuk terus dikembangkan.
+Salah satu upayanya dilakukan melalui pendekatan multidisiplin dengan melibatkan ilmu-ilmu sosial dan humaniora. Fenomena studi living hadis merupakan salah satu upaya pengembangan kajian hadis yang selama ini dianggap "sepi" dibanding studi keislaman lainnya. Meski belum lama ditawarkan, tetapi studi ini diharapkan mampu menggairahkan studi hadis di Indonesia. Ia sangat penting untuk diapresiasi di tengah kebutuhan masyarakat akademik untuk terus melakukan inovasi keilmuan secara integratif-interkonektif.
+Studi living hadis--juga living Qur'an--dengan menggunakan pendekatan antropologi relatif masih sangat baru. Dalam tradisi antropologi, studi semacam ini belum banyak terpublikasi apalagi mendapat respon akademik yang luas. Jangankan "antropologi hadis," untuk antropolog yang meriset tentang Islam saja, para sarjana--
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+282 | Jajang A. Rohmana
+dengan pengecualian Geertz--dianggap belum berhasil menjangkau audiens akademik yang luas di luar subdisiplin miliknya sendiri.80 Karenanya pendekatan antropologi dalam living hadis masih perlu penguatan basis argumen, baik pada level teori dan metodologi. Tulisan ini baru merupakan "provokasi" awal soal studi living hadis dengan pendekatan antropologi. Ini penting untuk memposisikan studi ini di tengah diskursus keilmuan sosial yang terus berkembang. Studi ini mencoba mempertegas signifikansi studi living hadis di Indonesia.
+DAFTAR PUSTAKA
+Abu-Lughod, Lila. "Honor and the Sentiments of Loss in a Bedouin Society," American Etnologiest, 12.2 (1985): 245-261.
+Ahimsa-Putra, Heddy Shri. "The Living Qur'an: Beberapa Perspektif Antropologi," Walisongo, Volume 20, Nomor 1, Mei 2012.
+Ahmad, Arifuddin. dkk. "Kecenderungan Kajian Hadi@th di UIN Alauddin Makassar (Tracer Studi terhadap Skripsi Mahasiswa Tahun 1994-2013)," Journal of Qur'a>n and H}adi@th Studies, Vol. 4, No. 2, (2015): 249-266.
+Ali, Muhamad. "Kajian Naskah dan Kajian Living Qur'a>n dan Living Ha} di@th," Journal of Qur'a>n and Ha} di@th Studies, Vol. 4, No. 2, (2015).
+Amin, Kamaruddin. "The Realiability of the Traditional Science of Hadith," Al-Jami'ah, Vol. 43, No. 2, 2005.
+_______. Menguji Kembali Keakuratan Metode Kritik Hadis, Bandung: Hikmah, 2009.
+Anwar, M. Khoiril. "Living Hadis," Farabi, Vol. 12, No. 1, 2015. Asad, Talal. "The Idea of An Anthropology of Islam," Occasional
+Papers Series, Center for Contemporary Arab Studies, Georgetown University, 1986.
+80 Gabriele Marranci, The Anthropology of Islam, hlm. 4.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 283
+Azra, Azyumardi. "Cultural Pluralism in Indonesia: Continuous Reinventing of Indonesian Islam in Local, National and Global," Paper Annual Conference on Islamic Studies (AICIS) ke-10, Banjarmasin, 1 ­ 4 November 2010.
+Beatty, Andrew. Varietes of Javanese Religion: An Anthropological Account (Cambridge: Cambridge University Press, 1999).
+Bisri, Cik Hasan. "Pergumulan Hukum Islam dengan Kaidah Lokal dalam Pembagian Harta," dalam Cik Hasan Bisri ed., Hukum Islam dalam Tatanan Masyarakat Indonesia, Jakarta: Logos, 1998.
+Bowen, John R. "Salat in Indonesia: The Social Meaning of an Islamic Ritual," Man, New Series, Vol. 24, No. 4 (Dec., 1989).
+_______. A New Anthropology of Islam, Cambridge: Cambridge University Press, 2012.
+Bowie, Fiona. The Anthropology of Religion, An Introduction, Oxford: Blackwell Publishers, 2001.
+Brown, Daniel W. Menyoal Relevansi Sunnah dalam Islam Modern, terj. Jaziar Radianti & Entin Sriani Muslim, Bandung: Mizan, 2000.
+Brown, Jonathan A.C. Hadith, Muhammad's Legacy in the Medieval and Modern World, Oxford: OneWorld, 2009.
+Endraswara, Suwardi. Metodologi Penelitian Kebudayaan, Yogyakarta: Gadjah Mada University Press, 2006.
+Fathurahman, Oman. "The Roots of the Writing Tradition of Hadith Works in Nusantara: Hidayat al-Habib by Nur al-Din Al-Raniri," Studia Islamika, Vol. 19 No. 1, 2012.
+Federspiel, Howard M. "Ha} dit} Literature in Twentieth Century Indonesia," Oriente Moderno, Nuova serie, Anno 21 (82), Nr. 1, 2002.
+Feillard, Andree. and Marcoes, Lies. "Female Circumcision in Indonesia: To `Islamize' in Ceremony or Secrecy," Archipel 56, Paris, 1998: 337-367.
+Geertz, Clifford. `The Javanese Kyai: The Changing Role of Cultural Broker' Comparative Studies in Society and History, (2), 1959.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+284 | Jajang A. Rohmana
+_______. Islam Observed, Religious Development in Morocco and Indonesia, Chicago: The University of Chicago Press, 1968.
+_______. The Interpretation of Cultures, Selected Essays, New York: Basic Books, 1973.
+Gellner, David N. "Pendekatan Antropologis," dalam Peter Connoly ed., Aneka Pendekatan Studi Agama, terj. Imam Khoiri, Yogyakarta: LkiS, 2001.
+Goldziher, Ignaz. Muhammedanische Studien, 2 vols. Leiden, 18891890. Trans. S. M. Stern as Muslim Studies, 2 vols. London, 1967.
+Graham, W.A. Divine Word and Prophetic Word in Early Islam: A Reconsideration of the Sources, with Special References to the Divine Saying or Hadith Qudsi, Hague, 1977.
+Guenther, Alan M. "The Hadith in Christian-Mulim Discourse in British-India, 1857-1888," Thesis, McGill University, Montreal Canada, 1997.
+Huda, Mh. Nurul. "Budaya sebagai Teks, Narasi dan Hermeneutik" dalam Mudji Sutrisno dan Hendar Putranto, Teori-teori Kebudayaan, Yogyakarta: Kanisius, 2005.
+Ichwan, Moch. Nur. A New Horizon in Qur'anic Hermeneutics: Nasr Hamid Abu Zayd's Contribution to Critical Qur'anic Scholarship, Thesis submitted to the Faculties of Theology and Arts of Leiden University, The Netherlands, August 1999.
+Juynboll, G. H. A. Muslim Tradition. Studies in Chronology, Provenance and Authorship of Early H{adi>th, Cambridge, 1983.
+Kaplan, David. dan Manners, Robert. Teori Budaya, terj. Landung Simatupang, Yogyakarta: Pustaka Pelajar, 2002.
+al-Khuli, Amin. Mana>hij Tajdi>d, fi> al-Nah}w wa al-Bala>ghah wa alTafsi>r wa al-Adab, (tt.: Dar> al-Ma'rifah, 1962).
+_______, Da>'irah al-Ma'a>rif al-Isla>miyyah, entri tafsi>r, jilid 5. Koentjaraningrat, Kebudayaan Mentalitet dan Pembangunan, Jakarta:
+Gramedia, 1974. _______. Pengantar Ilmu Antropologi, Jakarta: Rineka Cipta, 1990,
+cet. Ke-8.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 285
+_______. Kebudayaan Jawa (Jakarta: Balai Pustaka, 1994). Kuntjara, Esther. Penelitian Kebudayaan, Sebuah Pengantar Praktis,
+Yogyakarta: Graha Ilmu, 2006. Latifah AM., "Earliest Hadith Sciences Texts Written in Malay
+Archipelago," Mediterranean Journal of Social Sciences, Vol. 5 No.15, 2014: 550-558. Lukens-Bull, Ronald. "Between Text and Practice: Considerations in the Anthropological Study of Islam," Marburg Journal of Religion, Vo. 4 No. 2, 1999. Maman Kh., U. dkk. Metodologi Penelitian Agama, Teori dan Praktik, Jakarta: RajaGrafindo Persada, 2006. Marranci, Gabriele. The Anthropology of Islam, New York: Berg, 2008. Maryaeni, Metode Penelitian Kebudayaan, Jakarta: Bumi Aksara, 2005. Mas'ud, Abdurrahman. "Mahfuz al-Tirmisi (d. 1338/1919): An Intellectual Biography," Studia Islamika, Vol. 5 No. 2, 1998: 2748. _______. Intelektual Pesantren, Perhelatan Agama dan Tradisi, Yogyakarta: LkiS, 2004. Metcalf, Barbara. "Living Hadith in the Tablighi Jamaat, Journal of Asian Studies, 52, No. 3, (1993). Morris, Brian. Antropologi Agama, Kritik Teori-teori Agama Kontemporer, terj. Imam Khoiri, Yogyakarta: Ak Group, 2007. Motzki, Harald. with Nicolet Boekhoff-van der Voort and Sean W. Anthony, Analysing Muslim Traditions, Studies in Legal, Exegetical, and Magha>z> Hadi>th, Leiden: Brill, 2010. Muchtarom, Zaini. "Santri and Abangan in Java," Thesis, McGill University, Montreal Canada, 1975. Muhaimin, A.G. The Islamic Traditions of Cirebon, Ibadah and Adat among Javanese Muslims, Canberra: ANU E Press, 2006. Muhadjir, Noeng. Metodologi Penelitian Kualitatif, Yogyakarta: Rake Sarakan, 1991.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+286 | Jajang A. Rohmana
+Mulder, Niels. Kebatinan dan Hidup Sehari-hari Orang Jawa, terj. Alois A. Nugroho (Jakarta: PT Gramedia, 1983).
+_______. Agama, Hidup Sehari-hari dan Perubahan Budaya, terj. Satrio Widiatmoko (Jakarta: PT Gramedia Pustaka Utama, 1999).
+Mustapa, Haji Hasan. Bab Adat2 Oerang Priangan Djeung Oerang Soenda Lian ti Eta, Ditjitakna di kantor tjitak Kangdjeng Goepernemen di nagara Batawi, 1913.
+Newland, Lynda. "Female Circumcision: Muslim Identities and Zero Toerance Policies in West Java," Women's Studies International Forum 29 (2006): 394-404.
+Pals, Daniel L. Seven Theories of Religion, terj. Ali Noer Zaman, Yogyakarta: Qalam, 2001.
+Pranowo, M. Bambang. Memahami Islam Jawa (Jakarta: Alvabet dan INSEF, 2009).
+Rafiq, Ahmad. "The Reception of the Qur'an in Indonesia: A Case Study of the Place of the Qur'an in a Non-Arabic Speaking Community," Diseertation, The Temple University, 2014.
+Rahman, Fazlur. "Concept Sunnah, Ijtihad and Ijma' in the Early Period," Islamic Studies 1 (1), 1962.
+_______. Islamic Methodology in History, Islamabad: Islamic Research Institute, 1995, 3rd Reprint.
+Redfield, Robert. Peasant Society and Culture, An Anthropological Approach to Civilization, Chicago: The University of Chicago Press, 1956.
+Rippin, Andrew. Muslims Their Their Religious Beliefs and Practices, London and New York: Routledge, 2005.
+Rohmana, Jajang A. "Pengembangan Penelitian Al-Qur'an dan Tafsir di Indonesia: Kajian Pendahuluan Studi Kawasan Tafsir di Tatar Sunda," Disampaikan dalam acara Kuliah Umum "Model Pengembangan Kajian Al-Qur'an di Indonesia," Fakultas Ushuluddin IAIN Raden Intan Lampung, Rabu, 18 Nopember 2015.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+Pendekatan Antropologi dalam Studi Living Hadis di Indonesia | 287
+Rudliyana, Muhamad Dede. Perkembangan Pemikiran Ulum AlHadits Dari Klasik sampai Modern, Bandung: Pustaka Setia, 2004.
+Samsul Ma'arif, "Kajian Kritis Agama Lokal," dalam Zainal Abidin Bagir dkk, Studi Agama di Indonesia, Refleksi Pengalaman, Yogyakarta: Program Studi Agama dan Lintas Budaya/CRCS, UGM Yogyakarta, 2015.
+Sardar, Ziauddin. "The Future of Islamic Studies," Islamic Culture 57 (1983): 193-205.
+Schacht, Joseph. The Origins of Muhammadan Jurisprudence, Oxford, 1950.
+Sodikin, R. Abuy. dkk. Memahami Islam melalui Pendekatan Antropologi, Bandung: Tarbiyah Press, 2003.
+Spradley, James P. Metode Etnografi, terj. Misbah Zulfa Elisabeth, Yogyakarta: Tiara Wacana, 2007.
+Suryadilaga, Muhammad Alfatih. "Model-model Living Hadis" dalam Sahiron Syamsuddin ed., Metodologi Penelitian Living Qur'an dan Hadis, Yogyakarta: TH Press, 2005.
+_______. "Mafhu>m al-S}alawa>t `inda Majmu>'at Joged Shalawat Mataram: Diras> ah fi> al-Ha} di>th al-Ha} yy," Studia Islamika, Vo. 21, No. 3, 2014.
+_______. "Ragam Studi Hadis di PTKIN Indonesia dan Karakteristiknya: Studi atas Kurikulum IAIN Bukittinggi, IAIN Batusangkar, UIN Yogyakarta, dan IAIN Jember," Journal of Qur'a>n and H}adi@th Studies, Vol. 4, No. 2, 2015.
+Syam, Nur. Islam Pesisir (Yogyakarta: LKiS, 2005). _______. Madzhab-madzhab Antropologi, Yogyakarta: LkiS, 2007. Thohir, Mudjahirin. Memahami Kebudayaan: Teori, Metodologi dan
+Aplikasi, Semarang: Fasindo, 2007. Van Bruinessen, Martin. "Global and Local in Indonesian Islam,"
+Southeast Asian Studies, 37, 1999. Varisco, Daniel Martin. Islam Obscured: The Rhetoric of
+Anthropological Representation, New York: Palgrave Macmillan, 2005.
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939
+
+288 | Jajang A. Rohmana
+
+Voll, John O. "Hadith Scholars and Tariqahs: An Ulama Group in the 18th Century Haramayn and Their Impact in the Islamic World," Journal of Asian and African studies. 15: 1980.
+Woodward, Mark R. "Textual Exegesis as Social Commentary: Religious, Social, and Political Meanings of Indonesian Translations of Arabic Hadith Texts," The Journal of Asian Studies 52, 3 (Agustus 1993): 565-83.
+_______. Islam Jawa Kesalehan Normatif Versus Kebatinan, terj. Hairus Salim HS (Yogyakarta: LKiS, 2008), cet. ke-4.
+
+Internet
+
+Abu Hanif, Abdurrahman. "Gerakan Salat Dhuha (Studi Living Hadis
+
+dalam Majelis Dhuha Bantul," Tesis UIN Yogyakarta, 2015.
+
+http://digilib.uin-suka.ac.id/17598/ (diakses tanggal 07/02/2016
+
+pukul 14.57).
+
+http://digilib.uin-suka.ac.id/view/divisions/jur=5Ftha/ (diakses Senin,
+
+01/02/2016 pukul 15.51).
+
+Ma'ruf, Jamhari. "Pendekatan Antropologi dalam Kajian Islam,"
+
+artikel
+
+pilihan
+
+http://pustaka.islamnet.web.id/Bahtsul_Masaail/Artikel/Kumpu
+
+lan%20Makalah/KAJIAN%20ISLAM%20DENGAN%20PEN
+
+DEKATAN%20ANTROPOLOGI.htm (diakses Senin,
+
+07/02/2016 pukul 10.14).
+
+Jurnal Holistic al-Hadis, Vol. 01, No. 02, (Juli-Desember) 2015 ISSN: 2460-8939

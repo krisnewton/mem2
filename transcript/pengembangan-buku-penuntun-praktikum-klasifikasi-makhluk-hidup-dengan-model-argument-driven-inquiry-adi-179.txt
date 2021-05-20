@@ -1,0 +1,658 @@
+Pengembangan Buku Penuntun Praktikum Klasifikasi Makhluk Hidup dengan Model Argument Driven Inquiry (ADI)
+
+Umi Nurkhasanah *, Neni Hasnunidah, Arwin Achmad
+Pendidikan Biologi FKIP Universitas Lampung, Jl. Prof. Dr. Soemantri Brojonegoro No. 1 Bandar Lampung
+* e-mail: uminurkhasanah968@gmail.com, Telp: +6285769356490
+
+Received:
+
+Accepted:
+
+Online Published:
+
+Abstract: Development of Practical Guidebooks Classification of Organisms with Argument Driven Inquiry (ADI) Model. The lab workbook was used to support laboratory activities. This study aims to describe the validity and practicality of the guide book of classification of living creatures developed with ADI model. The research design was R & D with 4-D model covering define stage, design, develop, and disseminate but disseminate not done. The practical lab book was made with a bright cover and a Franklin Gothic Book letter. Each practicum guide consists of a practical title, basic theory, objectives, research questions, tools, materials, work steps, argumentation schemes including claims, data, warrants, backing, argumentation sessions, and reports. Expert and practitioner validation test results are categorized as "excellent". The results of legibility test categorization "excellent". The results of the implementation test of practicum criteria "almost all activities performed". Thus, it can be concluded that the guiding book of practicum developed is declared valid and practical.
+Keywords: Argument Driven Inquiry (ADI) model, classification of living things, practical guidebook
+Abstrak: Pengembangan Buku Penuntun Praktikum Klasifikasi Makhluk Hidup dengan Model Argument Driven Inquiry (ADI). Buku penuntun praktikum digunakan untuk menunjang kegiatan laboratorium. Penelitian ini bertujuan mendeskripsikan validitas dan praktikalitas buku penuntun praktikum klasifikasi makhluk hidup yang dikembangkan dengan model ADI. Desain penelitian adalah R & D dengan model 4-D meliputi tahapan define, design, develop, dan disseminate tetapi disseminate tidak dilakukan. Buku penuntun praktikum dibuat dengan sampul yang cerah dan huruf Franklin Gothic Book. Setiap penuntun praktikum terdiri atas judul praktikum, dasar teori, tujuan, pertanyaan penelitian, alat, bahan, langkah kerja, skema argumentasi yang meliputi claim, data, warrant, backing, sesi argumentasi, dan laporan. Hasil uji validasi ahli dan praktisi berkategori "baik sekali". Hasil uji keterbacaan berkategori "baik sekali". Hasil uji keterlaksanaan praktikum berkriteria "hampir seluruh kegiatan terlaksana". Dengan demikian, dapat disimpulkan bahwa buku penuntun praktikum dikembangkan dinyatakan valid dan praktis.
+
+Kata kunci: Argument Driven Inquiry (ADI), klasifikasi makhluk hidup, penuntun praktikum
+
+PENDAHULUAN
+Praktikum adalah kegiatan pembelajaran yang bertujuan agar siswa mendapat kesempatan untuk menguji dan mengaplikasikan teori dengan menggunakan fasilitas laboratorium. Praktikum juga membuat siswa dapat memahami konsep dan hakikat sains sebagai proses ilmiah dan produk (Rustaman, 2005: 135). Menurut Subiantoro (2008: 7), kegiatan praktikum memungkinkan adanya penerapan keterampilan proses sains dan mengembangkan sikap ilmiah yang dapat mendukung proses perolehan pengetahuan dalam diri siswa.
+Kegiatan praktikum menjadi bagian integral dalam pembelajaran IPA, khususnya biologi. Oleh karena pembelajaran IPA identik dengan kegiatan penyelidikan secara ilmiah, maka model inkuiri tepat digunakan dalam pembelajaran. Menurut Trianto (2014: 27), model pembelajaran inkuiri menuntut siswa untuk merumuskan masalah, membuat desain eksperimen, melaksanakan ekperimen, mengumpulkan dan mengolah data serta membuat kesimpulan.
+Salah satu model pembelajaran berbasis inkuiri adalah Argument Driven Inquiry (ADI). Model ADI dirancang untuk memberikan kesempatan kepada siswa memahami argumentasi dan peran argumen dalam membangun pengetahuan ilmiah. Menurut Sampson dan Gleim (2009: 466) pembelajaran dengan model ADI terdiri dari lima tahapan yaitu: (1) identifikasi tugas, (2) pengumpulan data, (3) produksi argumen tentatif, (4) sesi interaktif argumentasi, (5) dan penyusunan laporan penyelidikan, (6) review laporan, (7) revisi laporan, dan (8) diskusi reflektif.
+Model ADI memiliki beberapa kelebihan. Menurut Sampson dan Gleim (2009: 465), pembelajaran dengan model
+
+ADI bertujuan untuk menciptakan penyelidikan ilmiah sebagai upaya pengembangan argumen dalam kegiatan laboratorium. Salah satu kemampuan yang diperoleh melalui model ADI adalah kemampuan argumentasi. Argumentasi dipandang sebagai hal penting dalam proses belajar sains karena merupakan aktivitas inti dari penyelidikan ilmiah. Menurut Weston (2000: xi), keesensialan argumentasi didasarkan pada dua alasan, yakni argumentasi merupakan sebuah usaha mencari tahu pandangan mana yang lebih baik dari yang lain dan argumen dijabarkan sebagai cara seseorang menjelaskan dan mempertahankan suatu gagasan yang diyakini benar.
+Salah satu materi IPA Sekolah Menengah Pertama (SMP) kelas VII adalah klasifikasi makhluk hidup. Materi tersebut membahas mengenai pengklasifikasian makhluk hidup yang meliputi 5 Kingdom yaitu: Monera, Protista, Fungi, Plantae, dan Animalia, tingkatan takson dalam klasifikasi makhluk hidup, serta kunci determinasi hewan dan tumbuhan. Pembelajaran materi tersebut harus diarahkan pada ketercapaian kompetensi dasar berikut: memahami prosedur pengklasifikasian makhluk hidup dan benda-benda tak hidup sebagai bagian kerja ilmiah serta mengklasifikasikan berbagai makhluk hidup, benda-benda tak hidup berdasarkan ciri yang diamati, mengumpulkan data, dan melakukan klasifikasi terhadap benda-benda, tumbuhan, dan hewan yang ada di lingkungan sekitar. Untuk mencapai KD tersebut maka tugas-tugas pokok yang harus dikerjakan oleh siswa adalah melakukan penyelidikan supaya siswa dapat mengumpulkan data dan melakukan klasifikasi terhadap bendabenda, tumbuhan, dan hewan yang ada di lingkungan sekitar. Sebelum melakukan penyelidikan siswa harus
+
+memahami terlebih dahulu mengenai prosedur pengklasifikasian makhluk hidup dan benda tak hidup sebagai bagian kerja ilmiah dan dapat merencanakan langkah-langkah untuk melaksanakan penyelidikan. Oleh karena itu, dalam proses pembelajarannya harus menggunakan model pembelajaran yang memuat kegiatan penyelidikan ilmiah di laboratorium yang dikenal dengan istilah praktikum. Menurut Budiada (2012:3), penyelidikan secara ilmiah dapat memberikan kesempatan kepada siswa untuk mempelajari cara menemukan fakta, konsep, dan prinsip melalui keterampilan secara ilmiah.
+Kegiatan praktikum akan efektif apabila ditunjang dengan fasilitas yang memadai. Salah satu fasilitas dalam kegiatan praktikum adalah buku penuntun praktikum. Penuntun praktikum merupakan pedoman pelaksanaan praktikum yang memiliki beberapa syarat tampilan, yaitu terdiri dari identitas judul, nama penyusun, kelas, semester, tahun terbit, dan ilustrasi yang dapat memberikan informasi secara tepat tentang materi isi penuntun praktikum. Menurut Zulaiha, Hartono, dan Ibrahim (2014: 87), penuntun praktikum berisi judul praktikum, penulisan standar kompetensi dasar dengan indikator untuk pencapaian kompetensi, tujuan praktikum agar siswa mengetahui tujuan dilakukannya praktikum, prosedur atau langkahlangkah pelaksanaan praktikum, alat dan zat apa saja yang digunakan dalam kegiatan praktikum, lembar observasi kegiatan praktikum.
+Berdasarkan hasil wawancara terhadap 20 guru SMP negeri dan swasta di Bandar Lampung yang mengajar kelas VII, diketahui bahwa selama ini penuntun praktikum klasifikasi makhluk hidup yang digunakan adalah buku siswa sebanyak 90% dan LKS yang disusun oleh guru 10%. Selain itu, diketahui
+
+bahwa penuntun praktikum yang
+
+digunakan tidak menggunakan model
+
+pembelajaran ADI. Hal ini didukung
+
+oleh hasil angket yang menunjukkan
+
+bahwa guru belum pernah menerapkan
+
+model ADI dalam kegiatan pembelajaran
+
+dan belum pernah ada pembuatan
+
+penuntun praktikum dengan model ADI.
+
+Menurut Subamia, Wahyuni, dan
+
+Widiasih (2014: 30), dalam
+
+pembelajaran IPA khususnya kegiatan
+
+praktikum
+
+diperlukan
+
+model
+
+pembelajaran berbasis penelitian yang
+
+memberikan kesempatan kepada siswa
+
+untuk membangun ide dan gagasan
+
+sehingga dapat meningkatkan
+
+keterampilan proses sains siswa. Sampai
+
+saat ini belum ada peneliti yang
+
+mengembangkan penuntun praktikum
+
+klasifikasi makhluk hidup dengan model
+
+ADI. Oleh karena itu, diperlukan adanya
+
+pengembangan penuntun praktikum
+
+dengan model ADI untuk
+
+mengoptimalkan berbagai kompetensi
+
+siswa
+
+terutama
+
+keterampilan
+
+argumentasi.
+
+Berdasarkan latar belakang yang
+
+telah dikemukakan di atas, penulis
+
+tertarik untuk melakukan penelitian yang
+
+berjudul " Pengembangan Buku
+
+Penuntun Praktikum Klasifikasi
+
+Makhluk Hidup Untuk Siswa SMP
+
+Kelas VII Dengan Model Argument
+
+Driven Inquiry (ADI)". Rumusan
+
+masalah dalam penelitian ini adalah
+
+bagaimana validitas dan praktikalitas
+
+buku penuntun praktikum klasifikasi
+
+makhluk hidup yang dikembangkan
+
+dengan model ADI. Penelitian ini
+
+bertujuan untuk mendeskripsikan
+
+validitas dan praktikalitas buku
+
+penuntun praktikum klasifikasi makhluk
+
+hidup yang dikembangkan dengan
+
+model ADI.
+
+METODE
+Penelitian ini dilaksanakan pada bulan Mei - Agustus 2017. Penelitian ini dilaksanakan di FKIP Unila dan di SMPN 15 Bandar Lampung. Penelitian dilakukan dengan menggunakan desain Research and Development (R & D) dengan mengadaptasi model pengembangan perangkat pembelajaran menurut Thiagarajan, Semmel dan Semmel (1974: 5) yaitu Model 4-D yang terdiri dari empat tahap yaitu: tahap define, design, develop, dan disseminate. Penelitian ini hanya sampai pada tahap ke-3 yaitu pada tahap develop sedangkan tahap disseminate tidak dilakukan.
+Tahap pendefinisian (define) bertujuan untuk menetapkan dan mendefinisikan syarat-syarat pembelajaran. Pada tahap ini dilakukan analisis kebutuhan yang terdiri dari: analisis ujung depan, analisis siswa, analisis konsep, analisis tugas, dan analisis perumusan tujuan pembelajaran. Tahap perancangan (design) bertujuan untuk merancang perangkat pembelajaran, yaitu komponen-komponen buku penuntun praktikum yang meliputi teks dan gambar terkait kegiatan untuk melatih kemampuan argumentasi siswa. Tahap pengembangan (develop) bertujuan untuk menghasilkan buku penuntun praktikum dan kuncinya yang layak secara teoritis. Tahap pengembangan ini terdiri dari langkahlangkah telaah dan validasi pedagogik, validasi content atau isi, validasi desain, dan uji keterbacaan kepada 30 siswa (Thiagarajan, Semmel dan Semmel, 1974: 5).
+Instrumen yang digunakan dalam penelitian ini adalah angket validasi buku penuntun praktikum yang diisi oleh pakar pendidikan biologi dan praktisi yang memiliki bidang keahlian dibidang IPA , angket keterbacaan yang diisi oleh siswa, dan lembar observasi
+
+keterlaksanaan prosedur praktikum. Data pada penelitian ini berupa data hasil validasi, keterbacaan siswa, dan observasi keterlaksanaan.
+Instrumen validasi ahli dan praktisi buku penuntun praktikum berupa daftar cek yang berisikan rangkaian pernyataan mengenai validitas pedagogik, validitas content/isi, dan validasi desain. Validator diminta untuk menanggapi pernyataan dengan memberikan skor penilaian dengan ketentuan: 1 = tidak baik/tidak sesuai; 2 = kurang baik/kurang sesuai; 3 = baik/sesuai; 4 = sangat baik/sangat sesuai. Instrumen validasi buku penuntun praktikum diisi oleh pakar dibidang keahlian bioteknologi tumbuhan dan pakar dibidang keahlian teknologi pendidikan yaitu dua orang dosen Unila dan tiga praktisi dibidang keahlian IPA SMP. Instrumen validasi ahli dan praktisi yang berupa daftar cek ini dikembangkan oleh peneliti dengan mengadaptasi angket oleh Ni'mah (2013: 85-91), kemudian divalidasi oleh pembimbing.
+Angket digunakan untuk mengetahui respons siswa terhadap keterbacaan buku penuntun praktikum klasifikasi makhluk hidup model ADI untuk siswa SMP/MTs Kelas VII. Angket disajikan dalam bentuk pernyataan positif dan siswa diminta untuk menanggapi pernyataan dengan jawaban Ya atau Tidak. Angket diberikan kepada setiap siswa yang telah melakukan praktikum dengan menggunakan buku penuntun praktikum klasifikasi makhluk hidup dengan model pembelajaran ADI yang telah dikembangkan. Instrumen angket yang berupa daftar cek ini dikembangkan oleh peneliti dengan mengadaptasi angket oleh Ni'mah (2013: 94-96), kemudian divalidasi oleh pembimbing.
+Kriteria rentang skor validasi dan angket respons siswa terhadap buku penuntun praktikum merujuk pada
+
+Arikunto (2006: 211) yang disajikan pada Tabel 1.
+
+Tabel 1. Kriteria Rentang Skor Validasi
+
+dan Angket Respons Siswa
+
+Terhadap Buku Penuntun
+
+Praktikum
+
+Persentase Skor
+
+Kategori
+
+Kurang dari 21
+
+Kurang
+
+21 ­ 40
+
+Cukup
+
+41 ­ 70
+
+Baik
+
+71 ­ 100
+
+Baik sekali
+
+Lembar observasi digunakan untuk mengamati keterlaksanaan praktikum menggunakan buku penuntun yang dikembangkan. Lembar observasi ini diberikan kepada observer yaitu tiga guru IPA di SMPN 15 Bandar Lampung yang mengamati kegiatan praktikum pada saat praktikum klasifikasi makhluk hidup dengan model pembelajaran ADI. Lembar observasi ini berupa daftar cek yang dikembangkan oleh peneliti dengan mengadaptasi lembar observasi oleh Hasnunidah (2016: 97), kemudian divalidasi oleh pembimbing. Interpretasi keterlaksanaan prosedur praktikum buku penuntun praktikum merujuk pada kriteria menurut Hasnunidah (2016: 98) seperti ditunjukkan pada Tabel 2.
+
+Tabel 2. Interpretasi Keterlaksanaan
+
+Prosedur Praktikum
+
+PKP (%)
+
+Kriteria
+
+PKP = 0
+
+Tak satu kegiatan pun terlaksana
+
+0 < PKP < 25 25  PKP < 50
+PKP= 50 50 < PKP < 75
+75  PKP< 100 PKP = 100
+
+Sebagian kecil kegiatan terlaksana Hampir setengah kegiatan terlaksana Setengah kegiatan terlaksana Sebagian besar kegiatan terlaksana Hampir seluruh kegiatan terlaksana Seluruh kegiatan terlaksana
+
+Teknik analisis data yang digunakan adalah statistik deskriptif untuk mendeskripsikan validitas dan
+
+praktikalitas buku penuntun praktikum yang dikembangkan. Statistik deskriptif digunakan untuk mengolah data yang dihimpun dari pendapat, komentar, saran semua validator, dan respons siswa.
+HASIL DAN PEMBAHASAN
+Penelitian ini menghasilkan produk berupa draft buku penuntun praktikum klasifikasi makhluk hidup yang dikembangkan dengan model ADI. Buku penuntun praktikum klasifikasi makhluk hidup tersebut memiliki karakteristik yaitu: (1) tampilan fisik buku penuntun praktikum memiliki sampul yang menarik, tulisan jelas, dan gambar berwarna, (2) komponenkomponen yang terdapat pada buku penuntun meliputi cover, kata pengantar, daftar isi, tata tertib praktikum, tata tertib dalam sesi argumentatif, panduan argumentasi, lembar review laporan penelitian, LKP 01, LKP 02, LKP 03, LKP 04, daftar pustaka, dan kunci jawaban, (3) lembar kerja praktikum meliputi identitas siswa (nama, kelas, dan tanggal), judul praktikum, dasar teori, tujuan, pertanyaan penelitian, alat dan bahan, langkah kerja, argumentasi pada papan tulis, sesi argumentasi, dan laporan, (4) format buku menggunakan huruf Franklin Gothic Book font 12, dan menggunakan ejaan yang baik dan benar.
+Buku penuntun praktikum klasifikasi makhluk hidup yang dikembangkan kemudian di validasi oleh ahli dan praktisi. Uji validasi ahli meliputi beberapa aspek, yaitu aspek kelengkapan, kejelasan tujuan praktikum, penyajian materi, penggunaan bahasa, tingkat keterbacaan, tampilan fisik, tingkat keterlaksanaan kegiatan praktikum, dan pengembangan diri siswa sesuai model ADI. Uji validasi ahli dilakukan untuk mendapatkan
+
+masukan perbaikan dari validator. Hasil uji validasi ahli disajikan pada Tabel 3.
+
+Tabel 3. Hasil Validasi Ahli Perangkat
+
+Buku Penuntun Praktikum
+
+Klasifikasi Makhluk Hidup
+
+Skor
+
+No
+
+Aspek
+
+Keidealan Kategori
+
+(%)
+
+1. Kelengkapan
+
+88
+
+Baik Sekali
+
+Kejelasan
+
+2. tujuan
+
+praktikum
+
+3.
+
+Penyajian materi
+
+4.
+
+Penggunaan bahasa
+
+5.
+
+Tingkat keterbacaan
+
+75
+
+Baik Sekali
+
+85
+
+Baik Sekali
+
+75
+
+Baik Sekali
+
+88
+
+Baik Sekali
+
+6. Tampilan fisik
+
+75
+
+Baik Sekali
+
+Tingkat
+
+7.
+
+keterlaksanaan kegiatan
+
+81
+
+Baik Sekali
+
+praktikum
+
+Pengembangan
+
+8. diri siswa sesuai
+
+82
+
+Baik Sekali
+
+model ADI
+
+Rata-Rata ± Sd 81 ± 0.05 Baik Sekali
+
+Mengacu pada Tabel 3 mengenai hasil validasi ahli terhadap buku penuntun praktikum menunjukkan bahwa skor keidealan tertinggi terdapat pada aspek kelengkapan dan tingkat keterbacaan buku penuntun yaitu sebesar 88%. Hasil rata-rata skor keidealan dari keseluruhan aspek yaitu sebesar 81% dengan standar deviasi 0.05. Berdasarkan hasil tersebut diperoleh kategori baik sekali. Tingkat validitas sebuah produk buku penuntun yang dikembangkan dicerminkan dari hasil validasi ahli yang memperoleh kategori baik sekali. Hasil tanggapan validator ahli menunjukkan bahwa pada validasi desain terdapat perbaikan yaitu gambar untuk sampul buku penuntun diperbanyak gambar makhluk hidupnya dan diberi warna yang menarik. Dari tanggapan tersebut, peneliti melakukan perbaikan yaitu dengan memperbaiki
+
+sampul buku penuntun agar lebih menarik dengan memperbanyak gambar makhluk hidupnya. Hasil uji validasi desain yang telah diperbaiki dengan sampul yang berkaitan dengan materi menjadikan siswa lebih tertarik menggunakan penuntun praktikum tersebut. Hal ini sesuai dengan pernyataan Mudjito (2015: 86), sebuah buku yang sampulnya menarik dan dilengkapi dengan gambar-gambar dapat meningkatkan minat seseorang untuk membaca. Perbaikan tersebut bertujuan untuk menghasilkan sebuah produk yang valid. Menurut Arikunto (2014: 211) sebuah produk yang dikembangkan harus valid agar dapat mengukur apa yang diinginkan dan tidak menyimpang dari gambaran hasil yang dimaksud.
+
+Selain validasi ahli, dilakukan juga validasi praktisi. Hasil validasi praktisi terhadap buku penuntun praktikum klasifikasi makhluk hidup yang dikembangkan dengan model ADI disajikan pada Tabel 4.
+
+Tabel 4. Hasil Validasi Praktisi
+
+Perangkat Buku Penuntun
+
+Praktikum Klasifikasi Makhluk
+
+Hidup
+
+Skor
+
+No
+
+Aspek
+
+Keidealan Kategori
+
+(%)
+
+1. Kelengkapan
+
+100
+
+Baik sekali
+
+2.
+
+Kejelasan tujuan
+
+praktikum
+
+3.
+
+Penyajian materi
+
+89
+
+Baik sekali
+
+90
+
+Baik sekali
+
+4.
+
+Penggunaan bahasa
+
+94
+
+Baik sekali
+
+5.
+
+Tingkat keterbacaan
+
+100
+
+Baik sekali
+
+6. Tampilan fisik
+
+100
+
+Baik sekali
+
+Lanjutan Tabel 4.
+
+No
+
+Aspek
+
+Tingkat
+
+7.
+
+keterlaksanaan kegiatan
+
+praktikum
+
+Skor Keidealan
+(%)
+83
+
+Kategori Baik sekali
+
+8.
+
+Pengembangan diri siswa sesuai
+
+83
+
+model adi
+
+Rata-Rata ± Sd 92 ± 0.07
+
+Baik sekali Baik sekali
+
+Berdasarkan Tabel 4 mengenai hasil validasi praktisi terhadap buku penuntun praktikum klasifikasi makhluk hidup yang dikembangkan dengan model ADI diketahui bahwa skor keidealan tertinggi terdapat pada aspek kelengkapan, tingkat keterbacaan, dan tampilan fisik yaitu sebesar 100%. Hasil rata-rata skor keidealan dari semua aspek yaitu 92% dengan standar deviasi 0.07 sehingga diperoleh kategori baik sekali.
+Setelah dilakukan validasi ahli dan praktisi terhadap buku penuntun praktikum klasifikasi makhluk hidup yang dikembangkan dengan model ADI, maka langkah selanjutnya adalah melakukan uji keterbacaan terhadap 30 siswa SMPN 15 Bandar Lampung kelas VII. Uji keterbacaan yang dilakukan meliputi aspek tampilan fisik buku penuntun praktikum, isi buku penuntun praktikum, tingkat keterlaksanaan kegiatan praktikum, penggunaan bahasa, dan pengembangan diri siswa sesuai dengan model ADI. Hasil uji keterbacaan buku penuntun terhadap siswa disajikan pada Tabel 5.
+Pada Tabel 5, diketahui bahwa hasil uji keterbacaan buku penuntun praktikum klasifikasi makhluk hidup pada aspek tampilan fisik menunjukkan skor 100%, pada aspek isi buku penuntun praktikum menunjukkan skor
+
+100%, pada aspek tingkat keterlaksanaan kegiatan praktikum menunjukkan skor 100%, aspek peng-gunaan bahasa menunjukkan skor 100%, dan pada aspek pengembangan diri siswa sesuai dengan model ADI menunjukkan skor 99% sehingga didapatkan rata-rata skor 99% dengan standar deviasi 0.008 sehingga diperoleh kategori baik sekali. Hal ini menunjukkan buku penuntun praktikum yang dikembangkan mampu dipahami oleh siswa. Hal ini sejalan dengan pernyataan Waluyo (2014: 55), pentingnya uji keterbacaan bagi sebuah buku adalah untuk mengetahui kemudahan siswa memahami isi buku serta ketertarikan siswa menggunakan buku penuntun praktikum.
+
+Tabel 5. Hasil Uji Keterbacaan Buku
+
+Penuntun Praktikum Klasifikasi
+
+Makhluk Hidup
+
+No
+
+Aspek
+
+Skor (%)
+
+Kategori
+
+1.
+
+Tampilan fisik buku penuntun praktikum
+
+100
+
+Baik sekali
+
+2.
+
+Isi buku penuntun praktikum
+
+100
+
+Baik sekali
+
+Tingkat 3. keterlaksanaan
+kegiatan praktikum
+
+100
+
+Baik sekali
+
+4. Penggunaan bahasa
+
+100
+
+Baik sekali
+
+Pengembangan diri
+
+5. siswa sesuai dengan
+
+99
+
+model ADI
+
+Baik sekali
+
+Rata-rata ± Sd
+
+99 ± 0.008
+
+Baik sekali
+
+Selain dilakukan uji keterbacaan terhadap siswa, dilakukan juga uji keterlaksanaan lembar kerja penuntun praktikum terhadap guru di SMPN 15 Bandar Lampung. Hasil uji keterlaksanaan lembar kerja praktikum disajikan pada Tabel 6.
+
+Tabel 6. Hasil Rata-Rata Skor Uji Keterlaksanaan Lembar Kerja Praktikum Klasifikasi
+
+Makhluk Hidup
+
+No Tahapan
+
+PKP (%)
+
+Rata-rata PKP (%)
+
+LKP 1 LKP 2 LKP 3 LKP 4
+
+Kriteria
+
+1.
+
+Identifikasi tugas
+
+100
+
+100
+
+100
+
+100
+
+100
+
+Seluruh Kegiatan Terlaksana
+
+2.
+
+Pengumpul an data
+
+94
+
+94
+
+100
+
+100
+
+97
+
+Hampir Seluruh Kegiatan Terlaksana
+
+Produksi 3. argumen
+tentatif
+
+83
+
+100
+
+100
+
+100
+
+96
+
+Hampir Seluruh Kegiatan Terlaksana
+
+Sesi
+
+4. interaktif
+
+100
+
+92
+
+100 100
+
+argumen
+
+Penyusunan
+
+5.
+
+laporan penyelidi
+
+83
+
+83
+
+100
+
+100
+
+kan tertulis
+
+98
+
+Hampir Seluruh Kegiatan Terlaksana
+
+92
+
+Hampir Seluruh Kegiatan Terlaksana
+
+Mengacu pada Tabel 6 mengenai hasil rata-rata skor uji keterlaksanaan lembar kerja praktikum diketahui bahwa pada tahapan identifikasi tugas menunjukkan rata-rata skor 100%, tahapan pengumpulan data menunjukkan rata-rata skor 97%, tahapan produksi argumen tentatif menunjukkan rata-rata skor 96%, tahapan sesi interaktif argumentasi menunjukkan rata-rata skor 98%, dan tahapan penyusunan laporan penyelidikan tertulis menunjukkan ratarata skor 92%. Hal tersebut menunjukkan bahwa buku penuntun praktikum klasifikasi makhluk hidup yang telah dikembangkan ter-laksana dengan baik. Hal ini sesuai dengan hasil penelitian Wijayanto (2012: 4) dimana pelaksanaan praktikum dengan model ADI dapat terlaksana dengan baik dan dapat meningkatkan kemampuan ilmiah siswa. Hal ini menunjukkan bahwa buku penuntun klasifikasi makhluk hidup praktis dalam menunjang proses pembelajaran. Merujuk pada Darmayanti (2014: 95) yang menyatakan bahwa kepraktisan sebuah produk yang dikembangkan menggambarkan kemudahan sebuah produk dalam pemakaian.
+
+SIMPULAN
+Produk hasil pengembangan yaitu draft buku penuntun praktikum klasifikasi makhluk hidup yang dikembangkan dengan model ADI dinyatakan valid dan praktis yang ditunjukkan dengan hasil uji validasi ahli dan praktisi berkategori "baik sekali", hasil uji keterbacaan berkategori "baik sekali", hasil uji keterlaksanaan praktikum berkriteria "hampir seluruh kegiatan terlaksana".
+
+DAFTAR RUJUKAN
+
+Arikunto, S. 2006. Prosedur Penelitian Suatu Pendekatan Praktik. Jakarta: Bumi Aksara.
+
+Arikunto, S. . 2014. Prosedur Penelitian Suatu Pendekatan Praktik. Jakarta: Bumi Aksara.
+
+Budiada, I.W. 2012. Pengaruh Model
+
+Pembelajaran
+
+Inkuiri
+
+Terbimbing Berbasis Asesmen
+
+Portofolio terhadap Hasil
+
+Belajar Kimia Siswa Kelas X
+
+Ditinjau dari Adversity
+
+Quotient. Jurnal Pendidikan.
+
+1(1): 1-16.
+
+Darmayanti, V. 2014. Pengembangan Buku Siswa Berbasis Inkuiri Pada Pokok Bahasan Pencemaran Dan Kerusakan Lingkungan Untuk Meningkatkan Hasil Belajar Siswa Kelas VII SMPN 1 Maesan Bondowoso. J. Pend.Kim. 3(3): 93-102.
+
+Hasnunidah, N. 2016. Pengaruh Argument Driven Inquiry dengan Scaffolding Terhadap Keterampilan Argumentasi, Ke-terampilan Berpikir Kritis, Dan Pemahaman Konsep Biologi Dasar Mahasiswa Jurusan Pendidikan MIPA Universitas Lampung. Disertasi Tidak Diterbitkan. Malang: Universitas Negeri Malang.
+
+Mudjito. 2015. Pembinaan Minat Baca. Jakarta: Universitas Terbuka.
+
+Ni'mah, H.I. 2013. Pengembangan Buku Petunjuk Praktikum Kimia Berbasis Pendekatan SETS Untuk Peserta Didik SMA/MA Kelas X. Skripsi. Yogyakarta: UIN Sunan Kalijaga.
+
+Rustaman, N. 2005. Strategi Belajar Mengajar Biologi. Malang: UM Press.
+
+Sampson, V. dan Gleim, L. 2009. Argument Driven Inquiry to Promote the Understanding of Important Concepts & Practices in Biology.Academic Journal Article. 1 (1): 465-472.
+
+Subamia, I Gusti, dan I Nyoman. 2014.
+
+Pengembangan
+
+Perangkat
+
+Penunjang Praktikum IPA
+
+SMP Berorientasi Lingkungan.
+
+Jurnal Pendidikan dan Pengajaran, 47 (1): 29-39.
+
+Subiantoro. A. W. 2008. Pentingnya Praktikum Dalam Pembelajaran IPA. Disampaikan dalam kegiatan PPM bagi guru IPA SMP kota Yogyakarta. Yogyakarta : FMIPA Universitas Negeri Yogyakarta.
+
+Thiagarajan, Semmel dan Semmel.
+
+1974.
+
+Instructional
+
+Development For Training
+
+Teachers of Exceptional
+
+Children A Blomington:
+
+Central For Inovation On
+
+Teaching The Hardicapped.
+
+Trianto. 2014. Mendesain Model
+
+Pembelajaran
+
+Inovatif,
+
+Progresif, dan Kontekstual.
+
+Jakarta: Prenadamedia Group.
+
+Waluyo, M. 2014. Pengembangan
+
+Panduan Praktikum Berbasis
+
+Inkuiri Terbimbing Tema
+
+Fotosintesis
+
+Untuk
+
+Menumbuhkan Keterampilan
+
+Kerja Ilmiah Siswa SMP.
+
+Online:digilib.uns.ac.id/view/y
+
+ear/2014.type.htm. Skripsi.
+
+Universitas Negeri Semarang.
+
+Semarang.
+
+Weston, A. 2000. A Rulebooks For Arguments. London: Hackett Publishing Company.
+
+Wijayanto, D. 2012. Pengembangan Buku Petunjuk Praktikum Kimia SMA Berbasis Inkuiri Terbimbing Materi Asam Basa. Malang: Universitas Negeri Malang.
+
+Zulaiha, Hartono, dan Ibrahim, R. 2014. Pengembangan Buku Panduan Praktikum Kimia Hidrokarbon Berbasis Keterampilan Proses
+
+Sains di SMA. J.Pendidikan.Kim. 1(1): 87-93.

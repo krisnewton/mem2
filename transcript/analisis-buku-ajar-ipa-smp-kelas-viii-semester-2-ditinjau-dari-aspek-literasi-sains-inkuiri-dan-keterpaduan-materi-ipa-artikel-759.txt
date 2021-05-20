@@ -1,0 +1,554 @@
+ANALISIS BUKU AJAR IPA SMP KELAS VIII SEMESTER 2 DITINJAU DARI ASPEK LITERASI SAINS, INKUIRI, DAN KETERPADUAN MATERI IPA
+ARTIKEL
+Diajukan Sebagai Salah Satu Persyaratan Memperoleh Gelar Sarjana Pendidikan
+OLEH: YOANDA RESKI AMALLIA
+NIM. 1301506
+PROGRAM STUDI PENDIDIKAN BIOLOGI JURUSAN BIOLOGI
+FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM UNIVERSITAS NEGERI PADANG 2017
+
+ANALISIS BUKU AJAR IPA SMP KELAS VIII SEMESTER 2 DITINJAU DARI ASPEK LITERASI SAINS, INKUIRI, DAN KETERPADUAN MATERI IPA
+
+Yoanda Reski Amallia, Heffi Alberida2, Fitri Arsih3
+1Mahasiswa Jurusan Biologi, Universitas Negeri Padang 2, 3 Staf Pengajar Jurusan Biologi, Universitas Negeri Padang
+Jl. Prof. Dr. Hamka Air Tawar Padang, Indonesia
+1yoandarezkiamallia@gmail.com 2alberidamatua@gmail.com 3Fitriarsih79@yahoo.co.id
+
+Abstract -- The aims of this research are to know contents of scientific literacy, inquiry, and integration of contents science. Population and sample are all content in science book SMP class VIII 2nd semester published by Kemendikbud RI 2014. The techniques of data collection in this research is total sampling. Data collection used analysis instrument of scientific literacy, inquiry and integration of contents science. The result of research are persentages of literacy science on the book 68,15% with the proportion of each aspect that has not been balanced. Percentages aspects of the inquiry on the book 54.67% with the kind of free inquiry. Then integration of the contents science was 66.6% with a model of integrity Connected. Keywords -- science book, scientific literacy, inquiry, integration of the contents science.
+
+PENDAHULUAN
+
+bidang ilmu biologi, fisika, dan kimia. Sehingga, buku ajar
+
+Buku ajar atau buku teks merupakan salah satu IPA yang ada harus menampilkan keterpaduan tersebut.
+
+media pembelajaran yang berisi uraian materi yang akan
+
+Buku ajar IPA yang baik adalah buku ajar yang
+
+dipelajari oleh peserta didik. Buku ajar atau buku teks benar secara isi dan metode sains. Buku ajar IPA harus
+
+peserta didik memegang peranan penting dalam proses menampilkan sains sebagai ilmu yang dinamis dan sebagai
+
+pembelajaran. Tersedianya buku ajar yang berkualitas akan sains eksperimen bukan hanya sebagai kumpulan fakta-
+
+mendukung keberhasilan proses pembelajaran. Buku ajar fakta atau istilah-istilah. Buku ajar IPA juga perlu
+
+atau buku teks digunakan oleh peserta didik untuk mempertimbangkan integritas sains dan hakikat
+
+memahami materi. Hampir 90% kegiatan pada proses pembelajaran sains serta mempertimbangkan literasi sains.
+
+pembelajaran menggunakan buku ajar. Demikian juga Ada beberapa hal yang perlu dipertimbangkan dalam
+
+kegiatan pembelajaran yang dilakukan oleh guru juga memilih buku ajar IPA. Empat tema yang harus
+
+menggunakan buku ajar. Hal ini sesuai dengan hasil dipertimbangkan dalam memilih buku ajar IPA, yaitu
+
+penelitian di Amerika yang menyimpulkan bahwa 90% pengetahuan sains, penyelidikan hakikat sains, sains
+
+guru sains menggunakan 90% waktu pembelajarannya
+dengan menggunakan buku ajar (Stake dan Easley,1978; Weiss,1989)[1].
+
+sebagai cara berpikir, serta interaksi sains, teknologi, dan masyarakat[5].
+Fenomena yang terjadi sekarang ini adalah pada
+
+Beberapa penelitian telah mengungkapkan persoalan buku ajar yang ada, sudah ada unsur fisika, kimia, dan
+
+yang menyangkut dengan buku ajar yang digunakan selama biologinya, tetapi pembahasan materi masih terpisah antara ini oleh guru di sekolah sehingga perlunya dilakukan fisika, kimia, dan biologi[2].Selain itu buku-buku ajar IPA
+
+perubahan. Pertama, banyak buku ajar IPA yang mengalamai miskonsepsi (Anisa, 2009)[27]. Kedua,
+penyajian buku hanya memperdalam kemampuan kognitif
+
+yang digunakan dalam proses pembelajaran selama ini
+lebih menekankan kepada dimensi konten daripada dimensi proses (Firman, 2007)[25]. Dalam menggunakan buku ajar
+
+dan kemampuan mengunggah kesadaran afektif sehingga peserta didik cenderung menghafal konsep yang ada pada
+
+tidak mampu menggerakkan daya kritis dan rasa ingin tahu buku ajar tanpa tahu bagaimana proses yang harus dilalui peserta didik[1]. Ketiga, buku ajar merupakan satu-satunya dalam memahami IPA. Hal ini mengakibatkan rendahnya
+
+buku yang digunakan oleh peserta didik (Supriadi, tingkat literasi sains peserta didik. Literasi sains adalah 2001)[28]. Ini artinya, sebagian besar peserta didik kemampuan pengetahuan sains untuk mengidentifikasi
+
+mengambil informasi yang terdapat pada buku ajar tanpa permasalahan dan menarik kesimpulan berdasarkan bukti-
+
+mencek kebenaran informasi dengan seksama dan hal ini bukti dalam rangka memahami serta membuat keputusan
+
+diperkuat dengan rendahnya minat baca peserta didik.
+
+tentang alam dan perubahan yang dilakukan terhadap alam
+
+Salah satu buku ajar yang digunakan oleh guru di melalui aktivitas manusia[20].
+
+sekolah adalah buku ajar IPA. Pembelajaran IPA pada
+
+Berdasarkan tes PISA diketahui bahwa kemampuan
+
+Kurikulum 2013 dikembangkan sebagai mata pelajaran literasi sains peserta didik Indonesia tahun 2015 masih
+
+integrative science atau IPA terpadu bukan sebagai tergolong rendah. Indonesia berada di urutan ke 62 dari 70 pendidikan disiplin ilmu. Konsep keterpaduan ini negara dengan skor 403[19]. Hal yang sama juga terjadi di
+
+ditunjukkan dalam KI dan KD pembelajaran IPA yakni di Sumatera Barat terutama di Kota Padang. Hasil analisis
+
+dalam satu KD sudah memadukan konsep-konsep IPA dari kemampuan literasi sains peserta didik SMA di Kota
+
+1
+
+Padang menunjukkan nilai 48,51% termasuk pada kategori rendah[10]. Hasil yang sama pada sekolah menengah pertama dengan tingkat akreditasi A juga diperoleh data nilai literasi sains hanya mencapai nilai tertinggi 49,36% dengan rata-rata nilai 26,6% dengan kategori rendah[21].
+Salah satu upaya dalam meningkatkan kemampuan literasi peserta didik khususnya peserta didik di kota Padang adalah dengan memberikan media pembelajaran berupa buku ajar yang mampu menfasilitasi peserta didik dalam mengembangkan kemampuan literasi sains. Menurut Rocard et al (2007) reformasi pendidikan sains dapat dilakukan dengan berbasis inkuiri untuk meningkatkan minat dan mengembangkan keterampilan intelektual peserta didik sehingga dapat meningkatkan kemampuan literasi sains peserta didik)[4].
+Salah satu pendekatan yang bisa meningkatkan kemampuan literasi sains peserta didik adalah pembelajaran dengan pendekatan inkuiri terbimbing[8]. Hasil penelitian Lukito, dkk, (2015) memberikan informasi bahwa untuk muatan literasi sains sebagai cara berpikir ilmiah ditekankan pada proses penemuan (inkuiri) konsep seorang ilmuan[17]. Leonard (1986)[1] menambahkan bahwa buku ajar yang berkualitas sebaiknya disamping mengemukakan tentang aspek kognitif, juga mengemukakan tentang inkuiri dan berpikir rasional.
+Pembelajaran inkuiri bertujuan mengorganisasikan pengetahuan yang dimiliki peserta didik sebagai pondasi yang kuat berdasarkan konsep metode ilmiah, membantu peserta didik dalam mengembangkan disiplin intelektual yang diperlukan untuk mencari data, mengolah data, dan menggunakan logika berpikir terhadap data tersebut.
+Penelitian sebelumnya yang dilakukan oleh Ilhami (2015) terhadap buku IPA SMP kelas VII, Adisendjaja (2009) pada buku Biologi kelas X, dan Yulianti (2009) pada buku Fisika menyimpulkan bahwa buku ajar tersebut sudah merefleksikan literasi sains, namun proporsi literasi sains yang disajikan tidak seimbang. Saat ini belum diketahui apakah buku ajar IPA kelas VIII terbitan Kemendikbud 2014 yang digunakan oleh peserta didik telah menggunakan aspek literasi sains dan inkuiri, serta sudah memadukan materi fisika, kimia, dan biologi. Hal ini perlu dilakukan sebagai dasar informasi dalam memilih buku ajar yang direkomendasikan untuk digunakan dalam proses pembelajaran.
+Berdasarkan permasalahan tersebut maka dilakukan penelitian dengan menganalisis aspek literasi sains, inkuiri, dan keterpaduan materi IPA yang terdapat pada buku ajar IPA SMP kelas VIII Semester 2 terbitan Kemendikbud 2014.
+METODE PENELITIAN Penelitian ini merupakan penelitian deskriptif karena penelitian ini bertujuan untuk mengetahui muatan aspek literasi sains, inkuiri, dan keterpaduan materi IPA pada buku ajar IPA SMP kelas VIII Semester 2. Populasi dan sampel pada penelitian ini adalah materi semester genap pada buku ajar IPA SMP kelas VIII Semester 2 yang diterbitkan oleh Kemendikbud 2014.
+Teknik pengumpulan data menggunakan lembar instrumen analisis buku yang memuat pernyataan aspek literasi sains, inkuiri, dan keterpaduan materi IPA. Instrumen yang digunakan dalam penelitian ini adalah lembar analisis yang memuat indikator literasi sains yang
+
+dimodifikasi dari Ilhami (2015)[11], inkuiri yang dimodifikasi dari Ong dan Borich (2006)[12], dan keterpaduan materi IPA yang dimodifikasi dari Trianto (2014)[26].
+Literasi sains memuat 4 aspek yaitu sains sebagai batang tubuh pengetahuan (a body of knowledge), sains sebagai cara untuk menyelidiki (way of investigating), sains sebagai cara berpikir (way of thinking) serta interaksi sains, teknologi dengan masyarakat (Interaction of science, technology, and society). Kemudian aspek-aspek untuk menganalisis inkuiri, mengarahkan peserta didik untuk merumuskan pertanyaan atau merumuskan hipotesis, mengarahkan peserta didik untuk mengumpulkan data (melakukan percobaan dan studi referensi), mengarahkan peserta didik untuk berlatih menganalisis dan menginterpretasi hasil, mengarahkan peserta didik untuk mendiskusikan temuan dan membuat kesimpulan dan mengarahkan peserta didik untuk merefleksi terhadap pengetahuan yang ditemukan. Selanjutnya aspek untuk menganalisis keterpaduan materi IPA dengan memperhatikan bidang studi yang terintegrasi dan keterkaitan konsep-konsep antara bidang studi.
+Prosedur pengumpulan data terdiri atas: 1. tahap pemilihan buku ajar,
+buku ajar yang dipilih adalah buku siswa SMP kelas VIII Semester 2 yang diterbitkan oleh Kemendikbud 2014. 2. tahap pengambilan sampel,
+sampel diambil dengan teknik total sampling yaitu teknik penentuan sampel dengan mengambil seluruh anggota populasi[16]. 3. tahap pengumpulan data
+peneliti menganalisis materi semua bab pada buku dengan menganalisis setiap paragraf dan mencocokkannya dengan indikator literasi sains dan inkuiri, dan keterpaduan materi yang ada pada lembar instrumen analisis. Kemudian menghitung kemunculan indikator literasi sains, inkuiri, dan keterpaduan materi pada dengan menuliskannya dalam tanda checklist. Selanjutnya dilaporkan dalam suatu kesimpulan.
+
+Teknik analisis data yang dilakukan dalam penelitian
+
+ini adalah sebagai berikut.
+
+1. Menentukan koefisien kesepakatan pengamatan
+
+Untuk menentukan toleransi perbedaan hasil
+
+pengamatan, digunakan teknik pengetesan reliabilitas pengamatan[3]. Reliabilitas dipakai menilai konsitensi
+
+dua orang penilai dalam menilai melalui checklist yang menghasilkan data nominal (Widhiarso, 2011)[11].
+
+a. Data diperoleh berupa skor dari peneliti dan
+
+penganalisis setelah memberikan tanda checklist
+
+pada lembar analisis indikator literasi sains,
+
+inkuiri, dan keterpaduan materi IPA.
+
+b. Menghitung koefisien kesepakatan dengan
+
+menggunakan rumus yang dikemukakan[3].
+
+=
+
+2 +
+
+100%
+
+Keterangan:
+
+KK : Koefisien Kesepakatan
+
+S
+
+: Sepakat, jumlah kode yang sama
+
+untuk objek yang sama
+
+N1 : Jumlah kode yang dibuat oleh
+
+pengamat I (Peneliti)
+
+2
+
+N2 : Jumlah kode yang dibuat oleh pengamat II (Pakar)
+
+c. Data direkap dalam sebuah tabel rekapitulasi
+
+dengan rincian kriteria kualitas reliabilitas berdasarkan ketentuan Altman D.G (1991)[24]
+
+yaitu,
+
+< 0,2
+
+: tidak setuju (poor agreement),
+
+0,20 - 0,40 : kurang setuju (fair agreement),
+
+0,41- 0,60 : netral (moderate agreement),
+
+0,61- 0,80 : setuju (good agreement),
+
+0,81-1,00 : sangat setuju (very good
+
+agreement). Menurut Rochaety (2007)[11] bahwa koefisien 0,6
+
+merupakan syarat minimum yang dianggap memiliki
+
+titik aman dalam penentuan reliabilitas instrumen dan
+
+secara umum banyak digunakan dalam penelitian.
+
+2. Menentukan muatan persentase literasi sains, inkuiri,
+
+dan keterpaduan materi IPA
+
+a. Menjumlahkan kemunculan indikator literasi
+
+sains, inkuiri, dan keterpaduan materi IPA untuk
+
+setiap aspek yang dianalisis.
+
+b. Menghitung persentase kemunculan indikator
+
+literasi sains, inkuiri, dan keterpaduan materi IPA
+
+untuk setiap kategori pada setiap buku yang
+
+dianalisis.
+
+Persentase(%)
+
+=
+
+jumlah indikator per kategori Jumlah Indikator total kategori
+
+100%
+
+c. Khusus untuk aspek literasi sains ditentukan
+
+proporsi dari masing-masing aspek dan
+
+membandingkan proporsi aspek literasi sains pada
+
+buku dengan kategori menurut Wilkinson (1999). Wilkinson (1999)[17] menyebutkan bahwa buku
+
+yang seimbang adalah buku yang memenuhi
+
+kriteria literasi sains dengan perbandingan 2:1:1:1
+
+untuk masing-masing aspek literasi sains.
+
+HASIL PENELITIAN DAN PEMBAHASAN A. Hasil Penelitian
+Data yang telah diperoleh dihitung nilai koefisien kesepakatannya. Perhitungan ini berdasarkan kesamaan antara peneliti dan pakar ibu Fitri Arsih, S.Si., M.Pd. dalam memberi skor pada tiap aspek yang dianalisis. Pada Tabel 1 ditampilkan koefisien kesepakatan aspek literasi sains, inkuiri, dan keterpaduan materi untuk masing-masing bab buku IPA SMP kelas VIII Semester 2.
+
+Tabel 2. Perbandingan Proporsi Persentase Aspek Literasi
+
+Sains pada Buku IPA SMP Kelas VIII Semester 2
+
+dengan Proporsi Menurut Wilkinson
+
+No
+
+Indikator Literasi Sains
+
+Proporsi Persentase Literasi Sains pada Buku IPA Menurut Wilkinson
+
+Proporsi Persentase Hasil Analisis Literasi Sains pada Buku
+IPA
+
+1 Pengetahuan sains
+
+27,26
+
+12,59
+
+Penyelidikan 2 tentang hakikat
+sains
+
+13,63
+
+16,67
+
+3
+
+Sains sebagai cara berpikir
+
+13,63
+
+32,22
+
+Interaksi sains,
+
+4 teknologi dan
+
+13,63
+
+6,67
+
+masyarakat
+
+32,22
+16,67 12,59
+6,67
+
+Pengetahuan sains
+Penyelidikan tentang hakikat sains Sains sebagai cara berpikir
+Interaksi sains, teknologi dan masyarakat
+
+Gambar 1. Diagram Persentase Aspek Literasi Sains Buku Ajar IPA SMP Kelas VIII Semester 2.
+
+Pesentase muatan aspek inkuiri ditampilkan pada Gambar 2.
+
+17,33
+
+Merumuskan pertanyaan atau hipotesis
+
+12,00 10,67 8,00
+6,67
+
+Mengumpulkan data
+Menganalisis data dan menginterpretasi hasil Mendiskusikan temuan dan membuat kesimpulan
+
+Membuat refleksi
+
+Tabel 1. Koefisien Kesepakatan Analisis Buku IPA Kelas
+
+VIII Semester 2
+
+No Bab Literasi Sains
+
+Inkuiri
+
+Keterpaduan Materi
+
+1 Bab 7
+
+0,78 (Setuju)
+
+0,80 (setuju)
+
+1 (Sangat setuju)
+
+2
+
+Bab 8
+
+0,83 (Sangat setuju)
+
+1,00 (Sangat setuju)
+
+1 (Sangat setuju)
+
+3 Bab 9
+
+0,8 (Setuju)
+
+0,80 (Setuju)
+
+1 (Sangat setuju)
+
+4
+
+Bab 10
+
+0,83 (Sangat setuju)
+
+0,80 (Setuju)
+
+1 (Sangat setuju)
+
+5
+
+Bab 11
+
+0,89 (Sangat setuju)
+
+0,80 (Setuju)
+
+1 (Sangat setuju)
+
+Gambar 2. Diagram Persentase Aspek Inkuiri Buku IPA SMP Kelas VIII Semester 2.
+
+Kemudian persentase tingkat keterpaduan materi IPA ditampilkan pada Gambar 3.
+33,4
+
+Bidang studi yang
+
+33,2
+
+terintegrasi
+
+Keterkaitan Konsep antar bidang studi
+
+Persentase masing-masing muatan literai sains pada buku ajar ditampilkan pada Tabel 2.
+
+Gambar 3. Diagram Persentase Aspek Keterpaduan Materi Buku IPA SMP Kelas VIII Semester 2.
+
+3
+
+B. Pembahasan 1. Literasi Sains
+Buku IPA SMP kelas VIII Semester 2 Kemendikbud 2014 secara umum telah memuat keempat aspek literasi sains dengan total 68,15% dengan kategori cukup baik. Berdasarkan data yang diperoleh persentase muatan dari masing-masing aspek bervariasi, sebagaimana yang terlihat pada Tabel 2. Hasil analisis menunjukkan persentase proporsi keempat aspek literasi sains pada buku IPA kelas VIII semester 2 yang diterbitkan Kemendikbud ini belum seimbang. Menurut Wilkinson (1999)[17] menyebutkan bahwa buku yang seimbang adalah buku yang memenuhi kriteria literasi sains dengan perbandingan 2:1:1:1 untuk masing-masing aspek literasi sains.
+Hasil analisis semua bab menunjukkan presentase muatan tertinggi pada aspek sains sebagai cara berpikir (way of thinking). Hal ini terlihat bahwa pada buku sudah menggambarkan bagaimana seorang ilmuan melakukan eksperimen. Penyajian materi pada buku ini sudah menunjukkan kesesuain dengan tuntutan kompetensi dasar yang ada. Buku sudah meminta peserta didik untuk mendiskusikan fakta melalui kolom "Ayo Kita Diskusikan", memperlihatkan hubungan sebab akibat dan sudah menyajikan metode ilmiah pada kegiatan "Ayo Kita Lakukan" dan "Ayo Kita Coba".
+Aspek berikutnya adalah pengetahuan sains (a body of knowledge). Pengetahuan sains meliputi menyajikan fakta, konsep, prinsip, prosedur, hipotesis, teori, dan model. Pengetahuan sains meminta peserta didik untuk mengingat informasi seperti melalui penekanan pada istilah tertentu pada "Istilah Penting" dan "Mengapa Penting", memberikan informasi terbaru pada kolom "INFO IPA" dan instruksi untuk mengingat kembali sesuatu yang telah dipelajari. Pengetahuan sains berkaitan dengan konten materi sains. Konten sains merujuk pada konsep kunci untuk memahami fenomena alam tertentu dan perubahanperubahan yang terjadi akibat kegiatan manusia (Toharudin, dkk., 2011)[17].
+Konten materi harus diimbangi dengan kemampuan berpikir dan aplikasi, sehingga peserta didik tidak hanya menghafal materi tetapi juga didukung kemampuan berpikir dan terampil dalam aplikasi pengetahuan yang dimilikinya. Schwart dan Lederman (2008)[4] mengemukakan secara ilmiah individu yang literasi sains tidak hanya memiliki pengetahuan konseptual ilmu pengetahuan, tetapi juga pandangan epistimologis ilmu yang konsisten dengan yang saat ini diterima. Colado (2013) mengemukakan pandangan epistimologis ilmu melibatkan pandangan seseorang tentang pengetahuan ilmiah sebagai cara untuk menjelaskan hakikat sains atau Nature of Science (NOS); dan pandangan seseorang tentang proses melalui mana pengetahuan yang diperoleh, dibangun, dan dibenarkan disebut dengan sifat penyelidikan sains atau Nature of Scientific Inquiry (NoSI)[4].
+Dilihat dari aspek penyelidikan tentang hakikat sains (way of investigating), buku sudah menuntut peserta didik untuk menjawab pertanyaan melalui penggunaan materi, grafik, dan tabel, mengharuskan peserta didik untuk mampu menjelaskan jawaban, dan membuat kalkulasi melalui pertanyaan-pertanyaan yang diajukan. Namun, sebagian besar pertanyaan-pertanyaan yang diajukan masih berkisar C1-C3, sehingga kurang melibatkan siswa dalam kegiatan investigasi sains.
+
+Buku juga telah melibatkan peserta didik untuk aktif berpikir dan bereksperimen dengan manampilkan langkah-langkah metode ilmiah meskipun belum lengkap. Percobaan terlihat pada kolom "Ayo Kita Coba" dan "Ayo Kita Lakukan". Melakukan percobaan atau eksperimen mampu meningkatkan keterampilan proses sains dari peserta didik[23].
+Persentase terendah terdapat pada aspek interaksi sains, teknologi, dan masyarakat. Hal ini menunjukkan buku IPA SMP kelas VIII Semester 2 masih minim menyajikan isu-isu sains, teknologi, dan masyarakat. Salah satu aspek literasi sains adalah interaksi sains, teknologi, dan masyarakat (science, technology, and society) atau STS. Aspek STS dalam buku dapat diwujudkan dengan mengemukakan manfaat dan dampak dari aplikasi sains dan teknologi pada masyarakat. Lufri (2007) menyatakan bahwa STS ini berangkat dari isu-isu yang berkembang di masyarakat akibat dampak kemajuan sains dan teknologi[15]. Berdasarkan bab-bab yang telah dianalisis, aplikasi sains, dan teknologi secara eksplisit terdapat pada Bab 10 (Indera Penglihatan dan Alat Optik).
+Rendahnya materi tentang isu sains dan teknologi yang berkembang di masyarakat menimbulkan kurangnya kepekaan peserta didik dalam menilai dampak lingkungan akibat perkembangan sains dan teknologi. Padahal pembelajaran IPA diharapkan menjadi wahana bagi peserta didik dalam mempelajari diri sendiri dan alam sekitar[18]. Idealnya pendidikan IPA itu dapat berimplikasi langsung dalam kehidupan sehari-hari. Salah satu cara untuk dapat meningkatkan literasi sains peserta didik adalah dengan memberikan buku yang baik dan berkualitas, termasuk dalam hal muatan dan penyajian proporsi literasi sainsnya. Isi buku seharusnya menunjukkan proporsi aspek-aspek literasi sains yang seimbang
+2. Inkuiri
+Kurikulum 2013 menggunakan pendekatan saintifik atau pendekatan berbasis keilmuan. Pendekatan saintifik menggunakan beberapa strategi pembelajaran kontekstual. Selain itu dapat menerapkan model pembelajaran lainnya, anatara lain discovery learning, project-based learning, problem-based learning dan inquiry learning[13]. Pembelajaran adalah proses memfasilitasi kegiatan penemuan (inquiry) agar peserta didik memperoleh pengetahuan dan keterampilan melalui penemuannya sendiri bukan hasil mengingat sejumlah fakta[13]. Inkuiri didasarkan pada pencarian dan penemuan melalui proses berpikir secara sistematis. Siklus inkuiri haruslah merupakan salah satu langkah yang diterapkan dalam pembelajaran IPA Terpadu dengan langkah-langkah observasi, bertanya, mengajukan hipotesis, mengumpulkan data, dan menyimpulkan[6].
+Salah satu penunjang pembelajaran adalah dengan menggunakan buku ajar. Leonard (1986)[1] menambahkan bahwa buku ajar yang berkualitas sebaiknya disamping mengemukakan tentang aspek kognitif, juga mengemukakan tentang inkuiri dan berpikir rasional. Inkuiri merupakan salah satu cara untuk meningkatkan literasi sains peserta didik terutama dalam aspek sains sebagai cara untuk menyelidiki (Way of Investigating).
+Muatan aspek inkuiri dalam buku IPA SMP kelas VIII Semester 2 yang diterbitkan oleh Kemendikbud
+
+4
+
+sebesar 54,67%. Sedangkan muatan dari masing-masing aspek inkuiri bervariasi seperti dalam Gambar 2. Hasil analisis semua bab menunjukkan persentase tertinggi pada aspek mengarahkan peserta didik untuk mengumpulkan data (investigae). Peserta didik mengumpulkan data melalui berbagai teknik, misalnya melakukan eksperimen, mengamati objek, kejadian atau aktivitas, wawancara dengan narasumber, membaca buku pelajaran, dan sumber lain di antaranya buku referensi, kamus, ensiklopedia, media massa[13]. Pada buku sebagian besar data dikumpulkan melalui kegiatan percobaan "Ayo Kita Lakukan" dan "Ayo Kita Coba". Secara umum aspek ini sudah terdapat pada seluruh subtopik.
+Berikutnya aspek yang mengarahkan peserta didik untuk menganalisis data dan menginterpretasikan hasil. Analisis data hanya diarahkan melalui pertanyaanpertanyaan tertentu setelah kegiatan percobaan, dan belum ada meminta siswa untuk menginterpretasikan hasil baik dalam bentuk tabel, diagram dan sebagainya. Kemudian aspek mengarahkan peserta didik untuk mendiskusikan temuan dan membuat kesimpulan. Pada buku ajar hanya beberapa topik saja yang meminta peserta didik untuk mendiskusikan temuan dan yang mengarahkan untuk membuat kesimpulan terdapat setelah kegiatan praktikum pada beberapa percobaan saja.
+Persentese terendah terdapat pada aspek merumuskan pertanyaan atau merumuskan hipotesis, serta membuat refleksi. Aspek yang mengarahkan peserta didik untuk merumuskan pertanyaan dan merumuskan hipotesis sebaiknya ditingkatkan lagi. Pertanyaan dapat menun tun untuk melakukan penyelidikan sebagai usaha peserta didik dalam memahami materi pelajaran.
+Bagi peserta didik, kegiatan bertanya merupakan bagian penting dalam melaksanakan pembelajaran yang berbasis inkuiri, yang menggali informasi, mengkonfirmasikan apa yang sudah diketahui, dan mengarahkan perhatian pada aspek yang belum diketahuinya[6]. Kegiatan bertanya dalam inkuiri merupakan perwujudan dari pendekatan saintifik. Maka pelaksanaan kegiatan berbasis inkuiri dan didukung melalui buku ajar diharapkan dapat meningkatkan literasi sains peserta didik.
+Secara keseluruhan aspek inkuiri pada buku sudah menunjukkan ciri dari inkuiri terstruktur, tetapi langkahlangkah inkuiri yang disajikan belum lengkap. Pada inkuiri terstruktur, pertanyaan dan prosedur masih disediakan, baik itu oleh guru atau melalui buku ajar. Namun, peserta didik menghasilkan penjelasan yang didukung oleh bukti yang telah mereka kumpulkan. Inkuiri terstruktur (structured inquiry) lebih baik diterapkan untuk peserta didik pada jenjang sekolah menengah pertama. Jenis inkuiri ini penting karena memungkinkan peserta didik secara bertahap mengembangkan kemampuan melakukan inkuiri kejenjang yang lebih tinggi yaitu inkuiri terbuka[12].
+3. Keterpaduan Materi Pada Kurikulum 2013 terdapat beberapa perubahan
+pembelajaran IPA SMP diantaranya adalah konsep pembelajarannya dikembangkan sebagai mata pelajaran integrative science atau IPA terpadu bukan sebagai pendidikan disiplin ilmu. Ada beberapa macam model pembelajaran IPA terpadu, salah satunya model integrated. Model ini diusahakan dengan cara menggabungkan bidang
+
+studi dengan cara menetapkan prioritas kurikuler yang saling tumpang tindih pada beberapa bidang studi[26] .
+Buku IPA SMP kelas VIII Semester 2 yang diterbitkan oleh Kemendikbud 2014 sudah ada memadukan materi antar bidang studi. Pada beberapa bab terlihat adanya keterpaduan konsep-konsep antar bidang studi meskipun umumnya hanya integrasi antara dua bidang studi saja. Seharusnya sebagai IPA terpadu materi dalam buku ajar IPA sudah terkait satu sama lain, bukan hanya dikemas dengan judul IPA terpadu sementara menyajikan materi terpisah-pisah.
+IPA Terpadu dikemas dengan menggabungkan, memadukan dan mengintegrasikan pembelajaran IPA dalam satu kesatuan utuh[7], artinya peserta didik tidak belajar ilmu fisika, biologi, dan kimia secara terpisah sebagai mata pelajaran yang berdiri sendiri, melainkan semua diramu dalam kesatuan. Materi-materi dari bidang ilmu fisika, kimia, biologi, masih perlu disajikan sebagai suatu kesatuan dalam mata pelajaran. Hal ini dimaksudkan untuk memberikan wawasan yang utuh bagi siswa SMP/MTs tentang prinsip-prinsip dasar yang mengatur alam semesta beserta segenap isinya[13].
+Buku ajar IPA Kelas VIII Semester 2 yang diterbitkan oleh kemendikbud 2014 sudah mengarah pada pemaduan, pemaduan ini terlihat pada Bab 7, 9, 10 dan 11. Pemaduan dilakukan dengan merumuskan tema-tema besar yang menjadi tempat pemaduan topik/subtopik IPA. Pemaduan antarkonsep dalam tema besar dilakukan secara connected, yakni suatu konsep atau prinsip yang dibahas selanjutnya "menggandeng" prinsip, konsep, atau contoh dengan bidang lain[12].
+Pembelajaran IPA terpadu memiliki kelebihan, yaitu dengan menggabungkan berbagai bidang kajian akan terjadi penghematan waktu, keterampilan berpikir anak berkembang, dan keterampilan sosial anak berkembang[14]. Hal yang sama dikemukakan oleh Rohli (2015) perangkat pembelajaran yang dihasilkan dengan menampilkan materi secara terpadu berupa IPA Terpadu ternyata dapat membuat peserta didik menjadi lebih aktif dan menghasilkan hasil belajar yang baik[22].
+PENUTUP A. Kesimpulan
+Berdasarkan data hasil penelitian dan pembahasan yang telah dilakukan dapat disimpulkan. 1. Analisis buku IPA SMP kelas VIII Semester 2
+berdasarkan aspek literasi sains menunjukkan bahwa buku ini telah mencakup terdapatnya 4 aspek literasi sains, yaitu pengetahuan sains (a body of knowledge), penyelidikan tentang hakikat sains (way of investigating), sains sebagai cara berpikir (way of thinking), serta interaksi sains, teknologi, dan masyarakat (interaction of science, technology, and society) dengan total muatan aspek literasi sains pada buku sebesar 68,15%. Proporsi aspek literasi sains pada buku belum memenuhi perbandingan 2:1:1:1 antar masing-masing aspeknya. 2. Buku ajar IPA kelas VIII semester 2 sudah memuat 5 aspek inkuiri dengan total muatan seluruh aspek inkuiri ini adalah 54,67%. Persentase masing-masing muatan yaitu, 8,00% merumuskan pertanyaan atau hipotesis, 17,33% merencanakan penyelidikan dan mengumpulkan data, 10,67% menganalisis data dan
+
+5
+
+menginterpretasikan hasil, 12,00% mendiskusikan temuan penyelidikan dan membuat simpulan, serta 6,67% melakukan refleksi. Inkuiri yang disajikan pada buku merupakan jenis inkuiri terstruktur. 3. Keterpaduan materi pada buku IPA kelas VIII Semester 2 jika dilihat dari aspek konsep sebesar 66,6% dengan model keterpaduan connected.
+B. Saran Dari rangkaian penelitian yang telah dilakukan maka
+dapat dikemukakan beberapa saran antara lain. 1. Berdasarkan kebijakan pemerintah untuk merevisi
+pelaksanaan kurikulum 2013. Maka Kemendikbud juga dapat merevisi ulang buku IPA SMP dengan menambahkan aspek sains, teknologi, dan masyarakat secara eksplisit serta memperhatikan proporsi dari setiap aspek literasi sainsnya. 2. Apek inkuiri terstruktur pada buku ajar sebaiknya dikembangkan untuk meningkatkan kemampuan
+berpikir peserta didik secara sistematis.
+3. Peninjauan kembali terhadap konsep keterpaduan IPA (integrative science).
+4. Pada waktu selanjutnya diharapkan banyak peneliti untuk melakukan penelitian terkait literasi sains dan inkuiri untuk mengembangkan pendidikan Indonesia.
+UCAPAN TERIMA KASIH Peneliti mengucapkan terimakasih kepada Ibu Dra. Heffi Alberida, M.Si. dan Ibu Fitri Arsih, S.Si., M.Pd. sebagai pembimbing I dan pembimbing II. Ibu Dra. Helendra M.S., Ibu Rahmadhani Fitri, M.Pd., dan Ibu Yosi Laila Rahmi, M.Pd., sebagai penguji.
+REFERENSI [1] Adisendjaja, Yusuf Hilmi. 2009. Analisis Buku Ajar
+Biologi SMA Kelas X Dikota Bandung Berdasarkan Literasi Sains. Universitas Pendidikan Indonesia. [2] Ahda, Yuni., dan Fitri Arsih. 2014. "Analisis Integrasi Materi IPA dalam Buku Pegangan Guru dan Siswa Kelas VIII dan Penerapannya di SMP 4 Payakumbuh". Laporan Penelitian tidak diterbitkan. LPMP Sumbar. [3] Arikunto, Suharsimi. 2010. Prosedur Penelitian Suatu Pendekatan Praktik Edisi Revisi 2010. Jakarta: Rineka Cipta. [4] Calado, Florbela., Franz and Bogner. 2013. "A Reflection on Distorted Views of Science and Technology in Science Textbooks as Obstacles to the Improvement of Students' Scientific Literacy". European Journal Of Educational Research. Vol. 2, No. 2. [5] Chiappetta, Eugene., Fillman David and Godrej Sethna, G.H. 1991. "A Method to Quantify Major Themes of Scientific Literacy in Science Textbooks". Journal of research in science teaching. V o l . 2 8 , N o . 8. [6] Direktori Sertifikasi Guru. 2012. "Pembelajaran IPA Terpadu". Pendidikan Latihan Profesi Guru. (Online) http://educloud.fkip.unila.ac.id/index.php /dir...Standar%20Isi%20SD.pdf?dir=Sertifikasi%20G uru/MODUL%20PLPG%202013%20A/11%20Keter ampilan%20(Nol)/12%20IPA/Modul%20IPA%20KS G%20New/ diakses 02/08/2016 23:34:31
+
+[7] Ditasari, Rahma. 2013. "Pengembangan Modul
+
+Pembelajaran Ipa Terpadu Berpendekatan
+
+Keterampilan Proses Pada Tema Dampak Limbah
+
+Rumah Tangga Terhadap Lingkungan Untuk Smp
+
+Kelas VIII". Jurnal Pendidikan Sains. Vol. 2, No. 1.
+
+[8] Erniati. 2010. Membangun VOIP Secara Sederhana.
+
+Journal Kependidikan, Vol. 20, No.2.
+
+[9] Haristy., Eni Ernawati, dan Ira Lestari. 2013.
+
+"Pembelajaran Berbasis Literasi Sains Pada Materi
+
+Larutan Elektrolit dan Non Elektrolit di SMA Negeri
+
+1 Pontianak. Vol. 2, No. 12. (Online). http://jurnal.
+
+untan.ac.id/index.php/jpdpb/article/view/4002 diakses
+
+pada 02/12/2017 8:59:55
+
+[10] Huryah, Fadila. 2016. "Analisis Kemampuan Literasi
+
+Sains Peserta didik SMA Kota Padang". Tesis tidak
+
+diterbitkan. Pascasarjana UNP.
+
+[11] Ilhami, Aldeva. 2015. "Analisis Buku IPA SMP Kelas
+
+VII ditinjau dari Aspek Literasi Sains dan Problem
+
+Solving". Skripsi tidak diterbitkan. Universitas Negeri
+
+Padang.
+
+[12] Kemendikbud. 2014. Buku Guru Ilmu Pengetahuan
+
+Alam SMP/MTs Kelas VIII. Jakarta: Kementrian
+
+Pendidikan dan Kebudayaan.
+
+[13] Kmendikbud. 2016. Modul Pelatihan K.13 Revisi
+
+2016. Jakarta: Kementrian Pendidikan dan
+
+Kebudayaan.
+
+[14] Lestari, Anita Wahyu. 2012. Pengembangan
+
+Perangkat Pembelajaran IPA SMP Berbasis
+
+Kooperatif Tipe STAD Pada Tema Metamorfosis Di
+
+SMP Giki 3 Surabaya. Jurnal Pendidikan Sains. Vol.
+
+1, No. 1.
+
+[15] Lufri. 2007. Strategi Pembelajaran Biologi. Padang:
+
+Universitas Negeri Padang Press.
+
+[16] Lufri., dan Ardi. 2014. Metodologi Penelitian.
+
+Padang: Universitas Negeri Padang.
+
+[17] Lukito, Dyah, Rusilowati, Linuwih. 2015.
+
+"Pengembangan Bahan Ajar IPA Terpadu Berbasis
+
+Literasi Sains Bertema Perpindahan Kalor Dalam
+
+Kehidupan". Unnes Physics Education Journal. Vol 4,
+
+No. 3.
+
+[18] Maimunah. 2014. "Penggunaan Model Pembelajaran
+
+Science Environment Technology And Society (Sets)
+
+Pada Materi Koloid Untuk Meningkatkan
+
+Kemampuan Berpikir Kritis Dan Sikap Ilmiah Siswa".
+
+Tesis. Universitas Pendidikan Indonesia.
+
+[19] OECD. 2015. PISA 2015 Result in Focus. Paris:
+
+OECD.
+
+[20] PISA. 2006. Science Competencies for Tomorrow's
+
+World Volume 1-analysis. Paris: OECD.
+
+[21] Putra, Hadi Hamzah. 2016. "Analisis Kemampuan
+
+Literasi Sains Siswa SMP di Kota Padang". Skripsi
+
+tidak diterbitkan. Universitas Negeri Padang.
+
+[22] Rohli, Muhammad. 2015. "Pengembangan Perangkat
+
+Pembelajaran IPA Terpadu Berorientasi Literasi Sains
+
+Pada Model Pembelajaran Exclusive". Vol 3, No 1
+
+2015.
+
+(Online)
+
+http://jurnal.fkip.unila.
+
+ac.id/index.php/JPF/article/view/8063/4877 diunduh
+
+pada 01/02/2017 8:49:36
+
+[23] Siska, Meli. 2013. "Peningkatan Keterampilan Proses
+
+Sains Siswa Sma Melalui Pembelajaran Praktikum
+
+Berbasis Inkuiri Pada Materi Laju Reaksi". Jurnal
+
+Riset dan Praktik Pendidikan Kimia. Vol. 1, No. 1.
+
+6
+
+[24] Sudiyatno. 2010. "Pengembangan Model Penilaian Komprehensif Unjuk Kerja Peserta didik Pada Pembelajaran Berbasis Kompetensi di SMK Teknologi Industri". Disertasi. Universitas Negeri Yogyakarta.
+[25] Supandi, Abdul Rohman. 2012. "Buku Ajar Elektrokimia Menggunakan Kearifan Lokal Keris Sebagai Konteks PembelajaranUntuk Meningkatkan Literasi Sains Siswa SMA". Skripsi. Universitas Pendidikan Indonesia.
+[26] Trianto. 2014. Model Pembelajaran Terpadu. Jakarta: Bumi Aksara.
+[27] Yunita, Afrilia. 2012. Analisis Kesesuaian Isi, Model Keterpaduan Materi IPA Dan Penilaian Kognitif Berdasarkan Tuntutan SK dan KD Pada Buku Pelajaran IPA untuk SMP Kelas VIII. Skripsi. Universitas Negeri Yogyakarta.
+[28] Yusfiani, Marnida. 2011. "Pengembangan dan Standarisasi Buku Ajar Kimia SMA/MA Kelas XII Semester I Berdasarkan Standar Isi KTSP. Jurnal Pendidikan. Vol. 17, No. 1. Universitas Negeri Medan.
+7

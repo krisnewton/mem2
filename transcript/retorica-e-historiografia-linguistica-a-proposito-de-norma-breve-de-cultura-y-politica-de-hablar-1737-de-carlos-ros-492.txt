@@ -1,0 +1,283 @@
+COLECCIÓN SABERES CS
+Homenaje a Elvira Arnoux
+Estudios de análisis del discurso, glotopolítica y pedagogía de la lectura y la escritura Tomo I: Glotopolítica
+Roberto Bein, Juan Eduardo Bonnin, Mariana di Stefano, Daniela Lauria, María Cecilia Pereira (coordinadores)
+Autores: Sylvain Auroux, Graciela Barrios, Roberto Bein, Natalia Bengochea, Carla Benisz, Diego Bentivegna, Patricia Bouzas, María Luisa Calero Vaquera, Louis-Jean Calvet, Ana Camblong, Mariangeles Carbonetti, Fernanda Castelano Rodrigues, Marisa Censabella, Liliana Daviña, José del Valle, Ángela Di Tullio, Juan Antonio Ennis, Ana Fernández Garay, Mauro Fernández Rodríguez, Sophie Fisher, Laura Carolina González, María Florencia Sartori.
+
+Retórica e historiografía lingüística:
+a propósito de Norma breve, de cultura, y politica de hablar (1737) de Carlos Ros
+María Luisa Calero Vaquera
+0. Hace ya algunos años Elvira Narvaja de Arnoux (2008: 12) subrayaba el interés de la pionera definición de glotopolítica formulada por Guespin y Marcellesi (1986: 5)1, pues, a su juicio, ahí se "anuncia la diversidad de lugares de discurso en los que se pueden indagar las políticas lingüísticas, no solo las intervenciones glotopolíticas en sentido estricto [...], sino también aquellas que no se presentan como tales"; así, "instrumentos lingüísticos" del tipo gramáticas, diccionarios, retóricas, etc. Es en este marco de los "instrumentos lingüísticos" donde se inscribe nuestro trabajo, en concreto, en el campo de la retórica, como uno de los modos de "sutil" intervención glotopolítica que han existido a lo largo de la historia o,
+1 "[Le terme Glottopolitique] désigne les diverses approches qu'une société a de l'action sur le langage, qu'elle en soit ou non consciente : aussi bien la langue, quand la société légifère sur les statuts réciproques du français et des langues minoritaires par exemple ; la parole, quand elle réprime tel emploi chez tel ou tel ; le discours, quand l'école fait de la production de tel type de texte matière à examen : Glottopolitique est nécessaire pour englober tous les faits de langage où l'action de la société revêt la forme du politique".
+151
+
+si se prefiere, como mecanismo "débil" de regulación del discurso hablado. Aunque, como se comprobará, nuestra mirada hacia la retórica será la del historiador de la lingüística, pero la de un historiador que reclama, además, un lugar para la retórica en los manuales de historiografía lingüística, hasta ahora casi exclusivamente centrados en la gramática2, lo que, creemos, supone una lamentable merma de datos y fuentes que podrían ser de gran rentabilidad para la historia de las ciencias del lenguaje (Desbordes, 1989).3
+1. Traemos aquí para su análisis uno de esos tradicionales libros de retórica, titulado Norma breve, de cultura, y politica de hablar, para el idioma Castellano; aunque servirà tambien para el Valenciano, y otros4 (Valencia, 1737), de Carlos Ros, porque creemos que guarda interés no solo para los especialistas en esa secular disciplina, sino también para la lingüística actual y, en especial, para quienes se ocupan de su historia. Aunque la palabra "retórica" no aparece en el título de esta obrita de poco más de 100 páginas, se trata, en realidad, de un manual con todas las características del género, como se verá, pues no otra cosa es lo que significa para Carlos Ros "cultura y política de hablar". Es un texto que sale a la luz ya bien adentrado el siglo XVIII, cuando aún la retórica formaba parte del sistema de enseñanza como una materia más, antes de ser reemplazada por otras disciplinas en los programas educativos europeos a partir de 1850 (Douay-Soublin, 1992).
+2 Una de las tres disciplinas que constituían el Trivium medieval: retórica, dialéctica y gramática. 3 En la reivindicación de un lugar para la retórica en la historiografía lingüística nos unimos a otras
+voces en nuestro país; así, Laborda (2013: 58), para quien esta "invisibilidad de la retórica en la historia de la lingüística produce un lipograma científico. Es decir, un campo proscrito, agujero, espacio en blanco [...]". 4 Respetamos, aquí y en las citas del libro, la ortografía de la época.
+152 María Luisa Calero Vaquera
+
+El autor, Carlos Ros y Hebrera (1703-1773), de origen valenciano, de profesión escribano público y notario apostólico, fue un prolífico redactor de manuales (retóricas, ortografías y diccionarios) para la enseñanza, tanto del castellano como del valenciano, así como de apologías de ambas lenguas, recopilatorios de adagios y refranes del valenciano, instrucciones para los escribanos (ver Niederehe, 1995: 468), además de cartillas para leer y escribir en valenciano. Este interés por las lenguas habladas en una de las regiones bilingües de España queda patente también en el título de la obra que aquí nos ocupa (Norma breve [...] para el idioma Castellano; aunque servirà tambien para el Valenciano [...]), si bien en alguna ocasión manifiesta su preferencia por la que debió de ser su lengua materna: el valenciano.5
+2. Este es, por tanto, un epítome de retórica destinado a la enseñanza6, que, como se deja ver en sus contenidos, sigue poniendo el foco --en su doble orientación descriptiva y prescriptiva-- en aquellos temas de vieja cuna que inciden en la elocuencia y la elegancia en el hablar (circunloquios, paráfrasis, etc.; ver p.15), en los "vicios" que se han de corregir en la pronunciación (afectación, monotonía, etc; p. 21), en la "propiedad en el dezir" (pp. 22-24), en los "muchos estilos y modos de hablar" (lacónico, enérgico, erudito; por tropos, por figuras, etc.; pp. 31 y 33), etc.: en definitiva, en lo que Ros da en llamar "cultura y política de hablar", concepto que contrapone al de "lengua natural":
+5 Así, Carlos Ros refiere que, en su Epítome del origen, y grandezas del idioma valenciano (1991 [1734]), manifestó "(como es obligacion) aquel afecto filial, y natural inclinacion que deve tener cada uno à su Patria, y Lengua". (1737: 3)
+6 "[Aquí no se pretende escribir un completo tratado de Retórica sino] unas reglas claras, y faciles de entender, que lo que se escrive para enseñança, quanto mas llano, y sucinto se declara, tanto mejor es para comprehender". (1737: p. 8)
+Retórica e historiografía lingüística 153
+
+Cultura y política de hablar
+
+Lengua natural
+
+es disponer la locución con aseo, industria, ornamento, y Arte
+
+consiste en imitar a los retóricos
+
+se practica con pulcritud, primor, limpieza,
+
+aliño, y agradable costumbre
+
+[los políticos de cultura de hablar] son los que pulen, liman, adornan, y se esmeran en la locucion, ò escrito
+
+su estilo es sin afectacion, pulido, limado, estilo comun, ordinario y grossero mas propio, casto, y terso
+
+no falta à la disposicion de [la] buena Gramática
+
+[los términos serán] de la Tierra en donde estè mas culto aquel Lenguage: [...] para la lengua Castellana, Toledo: para la Limosína, Valencia: para la Italiana, la Toscana: para la Bascuenze, Viscaya, &c.
+
+propia de los Politicos, Cultos, ò Curiosos
+
+propia de los no politicos, del Vulgo, del Vulgacho, de los no curiosos, de los Plebeyos, de los ignorantes, de los idiotas, de los necios
+
+Cuadro 1. Cultura y política de hablar vs. lengua natural (1737: 5 ss) [Elaboración propia]
+
+Pero el prioritario interés de Ros por la lengua oral no excluye la atención a otras formas comunicativas, como la escritura.7 De modo que en esta Norma breve... también se tratan cuestiones de poética y, en general, se ofrecen pautas que pretenden guiar en el arte de escribir; así, se habla de las cualidades del poeta (gracia, numen, etc.; ver p. 13), de los rasgos propios del lenguaje poético (consonancia,
+
+7 Tampoco la tradición retórica olvidaba la escritura; así, Erasmo afirmaba que "el mejor maestro para aprender a hablar es escribir" (cit. por Narvaja de Arnoux, 2008: p. 327).
+
+154 María Luisa Calero Vaquera
+
+asonancia, acento; p. 14), de las propiedades de la sílaba (tiempo, espíritu, etc.; p. 17), de las letras del alfabeto (p. 18), de los signos de puntuación (p. 19), de la "política licenciosa" de los poetas (p. 30), etc. Y, sin detenerse aquí, la perspectiva de Ros llega a adquirir alcances semióticos, pues, además de preocuparse por la oralidad y la escritura, nos deja algún comentario acerca de la comunicación gestual: "La pronunciacion (para predicar, y representar) [...] và mas animada con la accion, que viene à ser casi otra lengua en la Habla (aunque muda) que acompaña, y realça lo que se pronuncia [...]. Los Comicos y los Oradores son los Politicos de accionar". (1737: 21)
+Lo anterior le lleva a distinguir diferentes tipos de "políticos", según el plano semiótico en que se ubiquen sus producciones discursivas:
+
+1. de cultura, y politica de hablar [ = los retóricos]
+
+2. de primor, limpieza de escrivir, y cultura
+
+de pronunciar [= los ortógrafos]
+
+de estos se trata en la presente obra
+
+3. de politica culta de lengua [= los que hablan con acuerdo, discrecion, prudencia, recato, cortesanìa, respeto, medida, y formalidad]
+
+4. de trato, y comunicacion
+
+de estos se trata en el Galatèo español*
+
+Cuadro 2. Tipos de "políticos" (1737: 6) [Elaboración propia]
+
+Y en todos esos tipos de discurso la cualidad más valorada por Ros es, en definitiva, la medianía o la costumbre, idea con la que el autor abre y cierra su libro:
+
+* Il Galateo era un célebre tratado de buenas maneras que había sido publicado en 1558 por Giovanni della Casa; sería adaptado al español en 1582 por Lucas Gracián Dantisco, de aquí el título El Galateo español
+
+Retórica e historiografía lingüística 155
+
+La medianìa [...] es siempre lo mejor [...]. Sobre estos supuestos de la medianìa, que es la mezcla de mi Practica de Orthographìa, para el escribir, se hallarà fundada la idea de este Tratado, para el hablar; pues assi para lo uno, como para lo otro, se debe estar à la costumbre [...] (1737: Prólogo) [...] assi para el escribir, como para el hablar [...] se debe estar à la costumbre. (1737: 34)
+
+Al margen de la atinada distinción que establece el autor valenciano entre dos conceptos que --dice-- suelen confundirse ("político" y "docto")8, nos interesa ahora detenernos en una nueva distinción léxica que puede importar a los lingüistas; nos referimos a los términos lengua, habla y lenguaje. Aunque utilizados con cierta imprecisión por Carlos Ros, podemos aventurar el siguiente cuadro de acepciones en su imaginario:
+
+lengua = habla o lenguaje =
+
+[1.] miembro del cuerpo [...] se puede usar bien
+
+humano, es el instrumento [esto es la buena lengua] o
+
+principal de la Habla
+
+mal [la mala lengua]
+
+[2.] lenguage de cada Nacion [...] por otro nombre Idioma
+
+pregonera del corazon, è se forma de oraciones,
+
+interprete de la razon, ò clausulas y periodos
+
+discurso
+
+puede ser en prosa y en
+
+[...] es toda locucion (natu- verso
+
+ral, ò comun, y artificial)
+
+Cuadro 3. Los conceptos de "lengua", "habla" y "lenguaje" (1737: pp. 9-12) [Elaboración propia]
+8 "Estos dos vocablos, Político, y Docto [...] [significan] mucho saber [pero] tal vez [los Doctos] no son Politicos, que en sacándoles de su saber y entender en aquella facultad, ciencia o arte que professan [...], para la política que aquí trato [...] son ignorantes". (Ros, 1737: p. 6)
+156 María Luisa Calero Vaquera
+
+Según lo anterior, el término lengua parece encerrar prioritariamente un significado concreto (el órgano muscular humano) y, de modo subsidiario, un sentido que podríamos denominar "metonímico" (lengua9 de una "nación" = idioma). Por su parte, el habla o lenguaje se correspondería, a nuestro entender, con la parole de Saussure, es decir, con el lenguaje efectivamente realizado, o el lenguaje en uso (el que, precisamente, por su carácter asistemático fue desatendido por el lingüista ginebrino).
+3. Sin duda, las reflexiones de los antiguos retóricos (entre los que incluimos a Carlos Ros) giraban en torno a este "lenguaje en uso", prioritariamente el lenguaje oral (como da a entender la etimología de retórica >  `orador'). No es este, pues, un centro de interés que haya nacido ex nihilo gracias a las teorías recientes de algunos filósofos del siglo XX (L. Wittgenstein, J. L. Austin, J. Searle, etc.) o a partir de las nuevas disciplinas como la etnolingüística, la sociolingüística o la pragmática. La afición por el estudio de la lengua oral y de la conversación viene de más lejos. Obsérvense, por ejemplo, en el siguiente cuadro algunas de las recomendaciones de Ros para que el aprendiente de sus normas de "política de hablar" llegue a hacer un buen uso de la "lengua" (o para evitar el mal uso de la misma) en la conversación; repárese, especialmente en las frases que resaltamos, que los especialistas actuales no dudarían en identificar con alguna de las máximas de cantidad, de calidad o de relevancia que constituyen el principio cooperativo de la teoría de P. Grice (1975) o los principios de cortesía establecidos por G. Leech (1983):
+9 En realidad escribe "lenguage", con lo que se hace evidente la confusión terminológica.
+Retórica e historiografía lingüística 157
+
+Buen uso de la lengua
+
+Mal uso de la lengua
+
+- si se emplea en proferir cosas honestas, y - si se exercita en palabras ociosas, infama-
+
+santas
+
+torias, dañosas en deshonra del proximo, ù
+
+- si se medita bien antes de hablar
+
+mintiendo en perjuìzio de alguno
+
+- si las palabras son proporcionadas, dirigidas - en proferir vozes profanas, indecorosas,
+
+al intento (= bien dichas, que à ninguno
+
+mal sonantes, y en murmurar
+
+agravien, y que se entienda claramente lo - [Naturaleza encerrò à la lengua con aque-
+
+que se habla)
+
+lla cerca, ò muralla de los dientes, y guarda
+
+- si se escucha con atencion, cariñoso afecto, de labios, para darla à entender, que la
+
+y semblante risueño
+
+puso encarcerada, y pronta para el suplicio,
+
+incurriendo en crimen]
+
+[Se recomienda:]
+
+- responder siempre à proposito, con suje-
+
+cion, y medida à la materia que se ofrece
+
+- no intrometer conversacion quando no
+
+hay cabida
+
+- no ir con secretillos à persona alguna,
+
+delante otros, porque irrita à los presentes
+
+- en hablando, ù escriviendo, alguno, ù
+
+algunos, tampoco acercarse allì [a no ser que
+
+sean amigos]
+
+- nunca negarse à hazer beneficios, y gustos,
+
+ni escusar el suplir faltas agenas
+
+- no adular, ni lisonjear (no hay veneno mayor
+
+para la conversacion [...] porque es vicio abo-
+
+minable, y polilla solapada de la amistad) (el
+
+adulador, y lisonjero haze oficio de engañador)
+
+- no se deven usar los peros, dexandoles
+
+pendientes [...] porque se da lugar à juìzios
+
+temerarios, à sospechas, ò malas consequen-
+
+cias, como Fulano es muy honrado! pero...
+
+- quando se ofrezca dezir algun dicho, ù
+
+chanza [se ha de procurar] esperar tiempo,
+
+lugar, y ocasión
+
+- [no se deben] gastar superfluidades, ni ser
+
+prolixo, ni pesado [...] sino atento, breve,
+
+y medido, que en el demasiado hablar no
+
+faltarà desacierto
+
+- se ha de componer la conversacion de
+
+variedad de especies
+
+Cuadro 4. Buen uso vs. mal uso de la lengua (1737: 10) [Elaboración propia]
+
+158 María Luisa Calero Vaquera
+
+Atender al lenguaje en uso supone estar bien atento a la producción lingüística real, cristalizada en múltiples variedades, las que sin duda se manifiestan en ese lenguaje en acción (la parole), que es cosa diferente del lenguaje considerado como sistema de signos homogéneo (la langue), abstraído del proceso comunicativo. Y Ros no descuida esas variedades, a pesar del título pretendidamente universal de su obra (Norma breve, de cultura, y politica de hablar, para el idioma Castellano; aunque servirà tambien para el Valenciano, y otros) y a pesar de la sentencia con que la concluye:[...] con estas circunstancias, y prevenciones, se hablarà con cultura, y politica la lengua Castellana, Valenciana, y otras (que la Norma es para todas) facilmente, con bastante pulchritud, y primor (1737: 34; subrayado nuestro).
+3.1. Lo afirma Graciela Reyes (1994 [1990]: 38), desde la ventaja epistemológica que le concede la perspectiva actual: "la noción pragmática del lenguaje como acción es inseparable de los fenómenos sociales". Y Carlos Ros, a pesar de la visión más limitada propia de su marco temporal --primera mitad del siglo XVIII--, no vaciló en registrar las variaciones de que son susceptibles las lenguas en su contexto social, cultural, etc. Así, en las siguientes citas son reconocibles algunas de las diferencias que hoy denominamos diastráticas, diatópicas y diafásicas:
+"[uno se debe] sujetar al estìlo de cada Tierra, en el hablar de aquel modo, ò manera". (1737: 22)
+"[...] sin embargo de que la propiedad, y pureza de los vocablos, consiste en no apartarse del comun uso, cada uno de la Tierra donde se hallare, y quando se habla
+Retórica e historiografía lingüística 159
+
+con gente rustica, è idiota, se deven practicar entonces los terminos mas corrientes, faciles, y claros". (1737: 23)
+"[...] cada Lengua tiene su dialectos [sic] distinto, y peculiar entre sì, y por esso una misma cosa, ò circunstancia, servirà de fealdad, ò dissonancia en un Idioma, y en otro puede agraciarle". (1737:25)
+Con tales apreciaciones Ros se adelanta a enfoques más avanzados que, en el ámbito hispánico, surgirán en la segunda mitad del siglo XIX, como es el caso del chileno Vicente Fidel López, quien en su Curso de Bellas Letras (1845) sostendrá que "cada época tiene i debe tener su retórica" (López, 1845: viii), clamando de paso contra todos aquellos autores --como José Gómez Hermosilla, Arte de hablar en prosa y verso (1826) -- que conceden a las normas de la retórica un valor ecuménico y dogmático, cuando esta disciplina --dice López-- debiera ser más bien un "arte relativo" (ver Narvaja de Arnoux 2007; 2008: cap. 10).
+También sorprende la modernidad de Ros al sugerir que no existe un cierto tipo de determinismo lingüístico motivado por la clase social a la que el hablante pertenece. En su opinión, aunque el origen social del hablante sea humilde ("plebeyo"), este, teniendo capacidad y aplicándose al estudio, puede llegar a formar parte del privilegiado círculo de los "políticos", es decir, de las personas cultivadas en el hablar; y, a la inversa, la pertenencia a las clases más altas de la sociedad (la nobleza o el clero) no garantiza por sí misma un discurso culto y pulido:
+En una República hay mucha diferencia o variedad de individuos, como Nobles, Ciudadanos, &c., y ello por razon de Hidalguìa, que cada uno en el nacer lo hereda (aunque por Armas, y Letras, sube un Plebeyo
+160 María Luisa Calero Vaquera
+
+à Noble) pero en lo que toca à las prendas personales, puede un Plebeyo exceder à un Noble. (1737: 7)
+Yo he reparado en muchas personas (constituìdas en más Esfera que los Plebeyos) que hablan la lengua Castellana, muy de Casta-llana, porque todo son barbarismos quanto profieren [...]. Estos estàn en la classe del Vulgo (aunque por razon de Estado sean diferentes) pues para alistarse en la de los Politicos [...] han de saber lo que se previene en esta Norma. (1737: 7)
+Si el Noble es necio, la Nobleza no le infundirà politica, primor ni cultura [...]. Y si un Plebeyo tiene caudal, y estudio para hablar con pulchritud, y cultura [...], como à Politico se atrae la atencion de todos. (1737: 7)
+Y así como no hay una necesaria correspondencia entre una determinada clase social y la clase de los "políticos", tampoco hay --dice-- unas lenguas con mayor predisposición a la "elegancia" o la "elocuencia" que otras, pues ambas cualidades "son de la Habla modos artificiales" (1737: 27), es decir, "hechos con Arte" o aprendidos. Se adivinan en las palabras de Ros los nuevos horizontes democratizadores que, algunas décadas después, aspirarán a liquidar los compartimentos estancos de las clases sociales y, en el plano lingüístico, igualarán el valor individual de toda lengua, sea esta "clásica" o "vulgar".
+3.2. Veamos ahora cómo en esta Norma breve, de cultura, y politica de hablar hay, además de la atenta consideración del contexto extralingüístico, una especial atención a otro tipo de contexto, que también hoy en día ha sido realzado por la pragmática como factor que puede afectar a la interpretación, la adecuación y el significado del discurso: nos referimos al contexto propiamente lingüístico. Se aprecia, sobre todo,
+Retórica e historiografía lingüística 161
+
+en aquellas secciones que Ros dedica a "la propiedad en el dezir", expresión que interpretamos como la precisión semántica que han de tener las palabras a fin de evitar las ambigüedades y equívocos: "[conviene] apropiar las vozes à su significado", "aquel vocablo que es propio para una cosa, serà cultura no valerse de él para otra (1737: 29). Hoy sabemos que esta propiedad de las "voces" no viene dada solo por las definiciones que nos ofrecen los diccionarios, incapaces de prever la infinidad de nuevos sentidos que pueden adquirir los vocablos en su uso concreto: en efecto, como asegura Reyes (1994 [1990]: 53), las palabras, como las estructuras lingüísticas, "tienen significados virtuales que solo se actualizan y completan en el uso". Y, en efecto, de este mecanismo de las lenguas también fue consciente Carlos Ros; no se puede decir más claro: "las dicciones, una vez acomodadas en las oraciones, ya no se deven interpretar por otro significado, que por el fìn que allì estan puestas: y este se colige por el antecedente, ò consequente, ò por el contexto". (1737: 22)
+También como asunto que afecta a "la propiedad en el dezir" se detiene nuestro autor en comentar "algunas dicciones que, sin distinguirlas [...], usan de ellas como si fueran synonymas, siendo [...] distintas" (1737: 29), apuntando así al fenómeno de relación léxica entre significados que hoy denominamos parasinonimia10 o sinonimia parcial. Fue justamente en el siglo XVIII cuando aparecieron en España los primeros estudios sobre los sinónimos, que trataban de analizar las sutiles diferencias semánticas que a veces se dan entre dos o más palabras; uno de los más valiosos es el de José López de la Huerta, Exámen de la posibilidad de fixar la significacion de los sinónimos de la lengua castellana (1799), aunque el primero de la serie
+10 Término creado por B. Pottier en 1969 para referirse a la relación que media entre unidades léxicas cuya sustancia de significado son parecidas. Para un detallado estudio de la parasinonimia puede verse Rodríguez-Piñeiro (2003).
+162 María Luisa Calero Vaquera
+
+conocido es el Ensayo de los synónimos (1756) de Manuel Dendo y Ávila, al que se adelanta Ros en un par de décadas con estas breves apuntaciones sobre los vocablos españoles de proximidad semántica. Estos son los grupos de palabras cuasisinónimas analizados por nuestro autor:
+
+ciencia /sapiencia necio / ignorante enemigo / adversario
+odio / ira perspicazia / sutileza sagazidad / astucia
+
+elegancia / eloquencia temerario / tenaz proterbo / obstinado / renitente barbarismo / absurdo juìzio / ingenio
+
+discreto / prudente rustico / idiota ambicion / avaricia / emulacion / embidia vanidad / jactancia eficazia / industria
+
+Cuadro 5. "Dicciones que se utilizan como synonymas, siendo distintas" (1737: 29) [Elaboración propia]
+
+Por último, todavía a propósito de la "propiedad de las vozes", insertamos una sustanciosa cita de Ros que hará las delicias de quienes se interesan por la crónica de las discusiones acerca de la supuesta perfección y las bondades semánticas de la "lengua primitiva" o lengua adámica, frente a aquellas surgidas de la confusión de Babel; o de quienes, de un modo transversal, se ocupan de detectar la carga ideológica que a veces contamina el discurso metalingüístico11:
+
+Aquella propiedad propissima [de las palabras] que [algunos] quieren, solo deviò encontrarse [...] en aquella Lengua de Adan; que fue la primera que se hablò en el Mundo, y durò hasta la confusion de la Torre de Babylonia; pero las demàs Vulgares, y la Castellana en particular [...], còmo podrà hablarse con aquella
+
+11 Véase, por ejemplo, Narvaja de Arnoux y Del Valle (2010) a propósito de las representaciones ideológicas del español surgidas en distintos procesos de integración regional, como el de Mercosur (1991).
+
+Retórica e historiografía lingüística 163
+
+propiedad propissima? Aquella Lengua que nuestro primer Padre Adàn (como Dios le dotò de ciencia infusa) hablò en el Paraìso, y despues comunicò à sus hijos, y descendientes, si que estarìa bien apropiada, y perfectamente acabada: mas à la lengua Castellana, que no ha sido formada con tal don, què persona le encontrarà su propia significativa voz para cada cosa, con razon de Etymología? (1737: 22)
+4. Queda demostrada, según lo expuesto, la diversidad de temas lingüísticos que se contienen --entreverados con los consabidos temas retóricos: la elocuencia y la elegancia en el hablar, el arte de escribir, etc. -- en este modesto manual del siglo XVIII español para la enseñanza de la retórica, Norma breve, de cultura, y politica de hablar, para el idioma Castellano... (Valencia, 1737), de Carlos Ros: a) caracterización de conceptos básicos para la propia disciplina lingüística (lengua, habla, lenguaje); b) recomendaciones para un buen uso de la lengua coincidentes con principios conversacionales establecidos por la pragmática actual; c) atención a las variaciones (diastrática, diatópica, diafásica, etc.) presentes en la lengua en uso; d) consideración del contexto lingüístico para una adecuada interpretación semántica (la "propiedad en el dezir"); e) diferenciación semántica de palabras emparentadas por su significado (parasinonimia); f) comentarios sobre la superioridad de la primitiva lengua que, a la vez, destilan una notable carga ideológica, etc. Toda esta información de índole lingüística que hasta ahora permanece confinada en este como en tantos otros libros de retórica (donde no suele acudir el historiador de la lingüística) debe hacernos reflexionar sobre lo que hemos planteado desde el inicio: la reivindicación de un espacio donde integrar la retórica en los manuales al uso de historiografía lingüística.
+164 María Luisa Calero Vaquera
+
+Bibliografía
+Desbordes, F. (1989). "La rhétorique", en Auroux, S. (dir.) Histoire des idées linguistiques, tomo 1: La naissance des métalangages en Orient et en Occident, pp162-185. Liège, Mardaga.
+Douay-Soublin, F. (1992). "La rhétorique en Europe à travers son enseignement", en Auroux, S. (dir.), Histoire des idées linguistiques, tomo 2 : Le développement de la grammaire occidentale, pp. 467-507. Liège: Mardaga.
+Gómez Hermosilla, J. (1826). Arte de hablar en prosa y verso. Madrid, Imprenta Real.
+Grice, H. P. (1975). "Logic and conversation", en Cole, P. y Morgan, J. L. (eds.), Syntax and Semantic. Speech Acts, pp. 41-58. New York, Academic Press.
+Guespin, L. y Marcellesi, J. P. (1986). "Pour la Glottopolitique", Langages, Glottopolitique, nº 83, pp. 5-34.
+Laborda Gil, X. (2013). El anzuelo de Platón. Cómo inventan los lingüistas su historia. Barcelona, Editorial UOC (Colección Manuales, Comunicación, p. 260).
+Leech, G. N. (1983). Principles of Pragmatics. London, Longman.
+López, V. F. (1845). Curso de Bellas Letras. Santiago de Chile, Imprenta del Siglo.
+López de la Huerta, J. (1799). Exámen de la posibilidad de fixar la significacion de los sinónimos de la lengua castellana. Madrid, Imprenta Real.
+Narvaja de Arnoux, E. (2007). "Hacia una reflexión autónoma sobre la escritura: las Artes de Escribir de la Ilustración", Verba, vol. 34, pp. 59-79.
+. (2008). Los discursos sobre la nación y el lenguaje en la formación del Estado, Chile, 1842-1862. Estudio glotopolítico. Buenos Aires, Santiago Arcos editor.
+Narvaja de Arnoux, E. y Valle, J. del (2010). "Las representaciones ideológicas del lenguaje. Discurso glotopolítico y panhispanismo", en Del Valle, J. y Narvaja de Arnoux, E. (eds.), Ideologías lingüísticas y el español en contexto histórico. The Graduate Center, CUNY/Universidad de Buenos Aires, 1-24 (Special Issue of Spanish in Context 7: p. 1).
+Niederehe, H. (1995). Bibliografía cronológica de la lingüística, la gramática y la lexicografía del español (BICRES III). Desde el año 1701 hasta el año 1800. Amsterdam/ Philadelphia, John Benjamins.
+Retórica e historiografía lingüística 165
+
+Reyes, G. (1994 [1990]). La pragmática lingüística. El estudio del uso del lenguaje. Barcelona, Montesinos.
+Rodríguez-Piñero Alcalá, A. I. (2003). Caracterización lingüística de la parasinonimia: sus analogías y diferencias con otras relaciones léxicas. Arbor, A., MI, ProQuest Information and Learning Company.
+Ros [y Hebrera], C. (1991 [1734]). Epítome del origen, y grandezas del idioma valenciano. Valencia, Librerías "París-Valencia". . (1737). Norma breve, de cultura, y politica de hablar, para el idioma Castellano; aunque servirà tambien para el Valenciano, y otros. Valencia, Josep García. .
+166 María Luisa Calero Vaquera

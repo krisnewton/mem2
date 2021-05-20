@@ -1,0 +1,208 @@
+Pendekatan Holistik Untuk Menganalisis Penguasaan Standar Kompetensi dan Kompentensi Dasar Siswa Pada Mata Pelajaran Fisika Tingkat SMA di Kota Bukittinggi dan Kabupaten Agam Prof. Dr. Festiyed, MS*) Dosen Jurusan Fisika FMIPA UNP Padang Hp.08126742403 dan E-mail festiyed@ymail.com
+ABSTRAK
+Telah dilakukan penelitian di SMA di Kota Bukittinggi dan Kabupaten Agam tahun 2010 untuk mata pelajaran Fisika dengan desain deskriptif kualitatif. Sampel diambil 25% dari masing-masing kelompok populasi SMA Bukittinggi (8 sekolah negeri dan 8 sekolah swasta) dan SMA Kabupaten Agam (27 sekolah negeri dan 28 sekolah swasta), dipilih lagi berdasarkan daerah urban dan rural , dimana gurunya mengampu mata pelajaran yang berbasis teori dan praktikum menggunakan teknik stratified random sampling, terpilih 4 sekolah dari Bukittinggi dan 6 sekolah dari kabupaten Agam. Kegiatan penelitian ini dilakukan tiga tahap namun pada makalah ini dilaporkan untuk satu tahap, yang menekankan pada studi literatur, identifikasi masalah dan menyusun instrumen penelitian, pengumpulan dan analisis data. Hasil penelitian, diperoleh ketidak sinkronan antara perencanaan, pelaksanaan dan penilaian(asesmen) yang dilakukan oleh guru. Hasil analisis mutu pembelajaran melalui RPP yang digunakan guru dalam pembelajaran di Bukittinggi dan Kabupaten Agam menunjukkan, (1) rumusan indikator dan tujuan pembelajaran hanya memuat kompetensi aspek kognitif, (2) penilaian pembelajaran tidak sesuai dengan indikator yang dirumuskan, (3) metode dan media yang digunakan tidak menunjang pencapaian tujuan pembelajaran. Dari proses pembelajaran, pengalaman belajar yang diperoleh di kelas menjadi tidak utuh dan tidak berorientasi pada tercapainya standar kompetensi dan kompetensi dasar secara holistik. Peserta didik tidak dibiasakan untuk mengembangkan potensi proses berpikirnya, sehingga banyak peserta didik yang cenderung menjadi malas berpikir secara mandiri. Cara berpikir yang dikembangkan dalam kegiatan pembelajaran belum banyak menyentuh domain afektif dan psikomotor.
+*) Disajikan pada Seminar nasional dan rapat Tahunan, di Universitas Negeri Medan Mai 2013
+
+PENDAHULUAN
+Upaya untuk meningkatkan mutu pendidikan nasional selalu menjadi prioritas utama, antara lain melalui Undang-Undang (UU) nomor 20 tahun 2003 tentang Sistem Pendidikan Nasional dan Peraturan Pemerintah nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (SNP). maka Pemerintah mengeluarkan Peraturan Menteri Pendidikan Nasional (Permendiknas) nomor 22 dan nomor 23 tahun 2006 tentang Standar Isi (SI) dan Standar Kompetensi Lulusan (SKL). Sedangkan standar lainnya ditetapkan melalui Permendiknas nomor 13, 16, 19, 20, 24 dan 41 Tahun 2007 tentang tenaga pendidik dan kependidikan, pengelolaan, penilaian,sarana prasarana, dan proses.
+SNP merupakan acuan dan pedoman dalam mengembangkan kurikulum pada jenjang pendidikan dasar dan menengah. Pemerintah tidak lagi menetapkan kurikulum seperti kurikulum 1984, 1994 dan sebagainya. Pemerintah hanya menetapkan SNP yang menjadi acuan sekolah dalam mengembangkan kurikulum tingkat satuan pendidikan (KTSP) sesuai dengan karakteristik, kebutuhan potensi peserta didik, masyarakat dan lingkungannya.
+Pengembangan KTSP berdasarkan SNP memerlukan langkah dan strategi yang harus dikaji berdasarkan analisis yang cermat dan teliti. Analisis dilakukan terhadap tuntutan kompetensi yang tertuang dalam rumusan standar kompetensi (SK) dan kompetensi dasar (KD); analisis mengenai kebutuhan dan potensi peserta didik, masyarakat, dan lingkungan; serta analisis peluang dan tantangan dalam memajukan pendidikan pada masa yang akan datang dengan dinamika dan kompleksitas yang semakin tinggi.
+Penjabaran SK dan KD sebagai bagian dari pengembangan KTSP dilakukan melalui pengembangan silabus dan rencana pelaksanaan pembelajaran. Silabus merupakan penjabaran lebih lanjut dari SK dan KD menjadi indikator, kegiatan pembelajaran, materi pembelajaran dan penilaian. Rencana pelaksanaan pembelajaran (RPP) adalah rencana yang menggambarkan prosedur dan pengorganisasian pembelajaran untuk mencapai satu KD yang ditetapkan dalam SI dan telah dijabarkan dalam silabus. Berdasarkan uraian di atas, maka pengembangan indikator merupakan langkah strategis dalam peningkatan kualitas pembelajaran di kelas dan pencapaian kompetensi peserta didik.
+Untuk pencapaian kualitas pembelajaran dan pencapaian kompetensi diperlukan kriteria minimal pelaksanaan pendidikan. Kriteria minimal tersebut mencakup: standar isi, standar proses, standar kompetensi lulusan, standar pendidik dan tenaga kependidikan, standar sarana dan prasarana, standar pengelolaan, standar pembiayaan, dan standar penilaian pendidikan. Hasil penelitian (Aljufri, Festiyed, Syakbaniah:2009) di kota Padang Sumatera Barat hanya 10% memenuhi kriteria minimal yang di harapkan. Pertanyaan yang timbul: jika semua kriteria minimal tidak dipenuhi apakah penguasaan kompetensi dapat dicapai oleh lulusan?, bagaimanakah cara guru untuk memfasilitasi pembelajarannya agar kompetensi lulusan bermutu? Hal inilah yang menimbulkan banyak keluhan dari dunia usaha tentang kesiapan lulusan memasuki dunia kerja, dimana lulusan dianggap belum siap untuk memasuki dunia kerja. Ketidak puasan berjenjang juga terjadi, dimana kalangan SMP menganggap lulusan SD kurang baik, sementara kalangan SMA beranggapan lulusan SMP kurang baik dan seterusnya ke jenjang yang lebih tinggi. Fakta ini menunjukkan bahwa segala usaha yang selama ini dilakukan untuk meningkatkan mutu pendidikan belum mampu memecahkan masalah pendidikan.
+Hasil analisis mutu pembelajaran melalui RPP yang digunakan guru dalam pembelajaran di Bukittinggi dan Kabupaten Agam menunjukkan, (1) rumusan indikator dan tujuan pembelajaran hanya memuat kompetensi aspek kognitif, (2) penilaian pembelajaran tidak sesuai dengan indicator yang dirumuskan, (3) metode dan media yang digunakan tidak menunjang pencapaian tujuan pembelajaran. Dari proses pembelajaran, pengalaman belajar yang diperoleh di kelas dewasa ini tidak utuh dan tidak berorientasi pada tercapainya standar
+
+kompetensi dan kompetensi dasar secara holistik. Peserta didik tidak dibiasakan untuk mengembangkan potensi berpikirnya, sehingga banyak peserta didik yang cenderung menjadi malas berpikir secara mandiri. Cara berpikir yang dikembangkan dalam kegiatan pembelajaran belum menyentuh domain afektif dan psikomotor
+Meskipun sudah ada upaya untuk memecahkan masalah tersebut, seperti juga yang telah dilakukan MGMP dalam mengembangkan dan pelaksanaan kurikulum, beberapa penelitian juga sudah dilakukan seperti pengembangan perangkat pembelajaran berorientasi life skill (Festiyed dan Murtiani, 2007), pengembangan silabus integrasi CD multimedia dengan perangkat pembelajaran (Syakbaniah dan Festiyed, 2008), pengembangan perangkat pembelajaran kimia (Ellizar, 2007), studi peningkatan kemampuan tenaga pendidik dalam mengimplementasikan kurikulum tingkat satuan pendikan sekolah menengah di kotamadya padang sumatera barat (Aljufri, Festiyed, Syakbaniah,2009), tetapi belum menyelesaikan masalah secara holistik (keseluruhan).
+Hal inilah salah satu penyebab belum berhasilnya upaya peningkatan kualitas proses dan hasil belajar selama ini. Terbukti dari hasil UAN (2006-2007), di Sumatera Barat tingkat SMP dan SMA Negeri dan Swasta untuk semua mata pelajaran rata-rata 4,23 sampai 6, dan peringkat nilai UAN Sumatera Barat dua tahun terakhir ini tidak mengalami peningkatan, dari 30 propinsi, menduduki peringkat 12. Ditinjau dari hasil jawaban guru-guru SD sampai SMA terhadap soal-soal UAN tahun 2006 yang dipakai untuk menentukan kelulusan siswa, ternyata rata-rata guru hanya bisa mengerjakan 20% dari soal yang ada (Fasli Jalal, 2006). Pertanyaan yang timbul: jika guru hanya bisa mengerjakan 20% dari soal UAN, bagaimanakah tingkat pemahaman guru tersebut?. Dengan kualitas guru seperti itu, bagaimanakah hasil belajar yang dapat dicapai anak? Hal inilah yang menimbulkan maraknya tudingan masyarakat terhadap lembaga pendidikan yang menghasilkan guru yang bertanggung jawab atas timbulnya masalah ini.
+Peningkatan hasil UN terlihat di Sumatera Barat khusus untuk kota bukittinggi dan kabupaten agam untuk tiga tahun terakhir (2007-2010) dengan rata-rata diatas 8 (CD data Ujian Nasional 2007/2008, 2008/2009, 2009/2010, Panduan Pemanfaatan Kebijakan Hasil UN untuk Perbaikan Mutu Pendidikan)
+
+Tabel 1a. Nilai rata-rata UN kelompok IPA tingkat SMA/MA di Kota Bukit Tinggi
+
+Tahun Kel. 2007/2008 IPA 2008/2009 IPA 2009/2010 IPA
+Rata-rata
+
+B.Indonesia 8,08 7,28 8,23 7,86
+
+B.Inggris 7,01 8,33 8,16 7,83
+
+Matematika 6,83 7,58 8,97 7,79
+
+Fisika 6,38 8,67 8,05 7,70
+
+Kimia 7,67 8,73 8,52 8,31
+
+Biologi 8,26 7,93 7,78 7,99
+
+Tabel 1b. Nilai rata-rata UN kelompok IPS tingkat SMA/MA di Kota Bukit Tinggi
+
+Tahun Kel. 2007/2008 IPS 2008/2009 IPS 2009/2010 IPS
+Rata-rata
+
+B.Indo 6,68 6,58 7,56 6,94
+
+B.Ing 6,29 7,79 7,33 7,14
+
+Matematika 6,62 8,23 8,24 7,70
+
+Ekonomi 7,61 7,19 6,88 7,23
+
+Sosiologi 8,02 7,61 6,93 7,52
+
+Geografi 6,29 7,00 8,07 7,12
+
+Tabel 2a. Nilai rata-rata UN kelompok IPA tingkat SMA/MA di Kabupaten Agam
+
+Tahun Kel. B.Indonesia B.Inggris Matematika Fisika Kimia Biologi
+
+2007/2008 IPA 8,08
+
+7,01
+
+6,83
+
+6,38 7,67 8,26
+
+2008/2009 IPA 7,01
+
+7,77
+
+7,05
+
+8,18 8,47 7,52
+
+2009/2010 IPA 7,84
+
+7,28
+
+8,55
+
+7,21 8,01 7,22
+
+Rata-rata 7,64
+
+7,35
+
+7,48
+
+7,26 8,05 7,67
+
+Tabel 2b. Nilai rata-rata UN kelompok IPS tingkat SMA/MA di Kabupaten Agam
+
+Tahun Kel. 2007/2008 IPS 2008/2009 IPS 2009/2010 IPS
+Rata-rata
+
+B.Indo 6,68 6,58 7,15 6,80
+
+B.Ing 6,29 7,79 6,79 6,96
+
+Matematika 6,62 8,23 7,68 7,51
+
+Ekonomi 7,61 7,19 6,50 7,10
+
+Sosiologi 8,02 7,61 6,37 7,33
+
+Geografi 6,29 7,00 7,38 6,89
+
+Berdasarkan analisis data pada Tabel 1 dan Tabel 2 menemukan bahwa nilai UN terendah tingkat SMA/MA negeri dan swasta di Kota Bukit Tinggi dan Kabupaten Agam adalah mata pelajaran fisika untuk kelompok IPA dan mata pelajaran B Indonesia untuk kelompok studi IPS. Sedangkan penurunan nilai UN terjadi pada mata pelajaran ekonomi di Kabupaten Agam dan Kota Bukit Tinggi, biologi di Kabupaten Agam dan Kota Bukit Tinggi.
+Pertanyaan yang timbul kenapa nilai UN pada mata pelajaran fisika dan B Indonesia terendah di Kabupaten Agam dan Kota Bukit Tinggi dalam tiga tahun terakhir dan kenapa pula terjadi penurunan nilai UN pada mata pelajaran Biologi dan Ekonomi di di Kabupaten Agam dan Kota Bukit Tinggi dalam tiga tahun terakhir ?
+Solusi untuk memecahkan masalah tersebut perlu dicari bersama dengan melibatkan peneliti-peneliti dari berbagai disiplin ilmu sesuai dengan bidang studi sasaran UN. Karena itu perlu dilakukan suatu penelitian pemetaan dan pengembangan mutu pendidikan (PPMP). Melalui penelitian ini akan dilakukan pemotretan berbagai faktor penyebab keberhasilan atau kegagalan pendidikan pada setiap kabupaten/kota di setiap wilayah yang diteliti. Selain itu juga akan dihasilkan model pemecahan masalah pendidikan pada kabupaten/kota yang diteliti yang akan diimplementasikan melalui kegiatan pengabdian kepada masyarakat.
+
+Model pemecahan yang mungkin dilakukan melalui pendekatan pendidikan holistik. Pendidikan holistik memperhatikan kebutuhan dan potensi yang dimiliki peserta didik, baik dalam aspek intelektual, emosional, emosional, fisik, artistik, kreatif, dan spiritual (Yuris,2010). Proses pembelajaran menjadi tanggung jawab personal sekaligus juga menjadi tanggung jawab kolektif, oleh karena itu strategi pembelajaran lebih diarahkan pada bagaimana mengajar dan bagaimana orang belajar. Beberapa hal yang harus dipertimbangkan dalam mengembangkan strategi pembelajaran holistik, diantaranya: (1) menggunakan pendekatan pembelajaran transformatif; (2) prosedur pembelajaran yang fleksibel; (3) pemecahan masalah melalui lintas disiplin ilmu, (4) pembelajaran yang bermakna, dan (5) pembelajaran melibatkan komunitas di mana individu berada.
+
+METODE PENELITIAN
+Penelitian ini dirancang untuk tiga tahapan, namun pada makalah ini dilaporkan untuk satu tahap: Pada tahap pertama menggunakan pendekatan ekploratif, mempelajari dan menghimpun data secara comprehensive, baru dan aktual untuk kompetensi dasar yang menjadi sasaran ujian nasional untuk 9 bidang yaitu: fisika, kimia, matematika dan biologi, bahasa Indonesia, bahasa ingris, IPS yang sudah dikuasai dan yang belum dikuasai pesertadidik. Pada pendekatan ini dilakukan proses yang menekankan pada studi literatur, identifikasi masalah dan menyusun instrumen penelitian, pengumpulan dan analisis data. Studi literatur Survey awal cara merumuskan tujuan pembelajaran berdasarkan kompetensi dasar. Mengumpulkan permasalahan proses pelaksanaan dan pencapaian tujuan pembelajaran secara conprehensive, baru, actual. Ferifikasi tujuan pembelajaran dengan capaian ujian nasional-UN
+
+Penelitian ini dilakukan dengan populasinya adalah seluruh sekolah menengah tingkat atas yang dikelola oleh pemerintah dan swasta (Diknas, Depag dan masyarakat/swasta) Kota Bukittinggi dan Kabupaten Agam seperti Tabel 1 berikut:
+
+Tabel 1 Jumlah sekolah, dan guru SMU/MA dan SMK Negeri dan Swasta di kota Bukittinggi dan Kabupaten Agam
+
+N
+Sekolah Siswa
+
+SMA Bukittinggi
+Negeri Swasta
+8 8 4992 566
+
+SMA Kabupaten
+
+Agam
+
+Negeri
+26
+
+Swasta
+28
+
+10665 1970
+
+Jumlah
+70 18193
+
+Sampel diambil 25% dari masing-masing kelompok populasi berdasarkan daerah urban dan rural , dimana gurunya mengampu mata pelajaran yang berbasis teori dan praktikum menggunakan teknik stratified random sampling.
+Teknik pengumpulana data pada penelitian ini adalah observasi partisipan yang dilakukan secara mendalam (indepth study) dengan dukungan metodologi kuaalitatif lainnya, terutama wawancara. Artinya setiap temuan pengamatan diiringi dengan teknik pengumpulan data lain seperti wawancara yang dilakukan secara terus menerus sampai ditemukan makna yang berkaitan dengan tujuan penelitian ini. Wawancara digunakan untuk melengkapi data yang terjaring melalui observasi, baik berhubungan dengan perilaku atau kegiatan yang dilakukan pendidik dalam mengajar, perilaku dan kegiatan peserta didik dalam belajar, manajemen kepala sekolah serta kemampuan mereka merencanakan kegiatan pembelajaran. Terhadap para informan dilakukan wawancara berulangkali; yang jumlahnya bervariasi, tergantung atas ketuntasan dan kesesuaian data pengamatan dengan apa yang diucapkan informan di samping kesesuaian data tersebut dengan kebutuhan analisis.
+Dalam melakukan wawancara, peneliti tidak selalu langsung percaya pada apa yang dikatakan
+
+informan. Dalam hal ini peneliti perlu melakukan cek dan recek hasilnya melalui pengamatan secara silih berganti antara hasil wawancara dengan hasil pengamatan, atau dari informan yang satu ke informan yang lain. Menyikapi keadaan seperti ini, peneliti lebih cenderung berpegang pada
+informasi dari informan kunci. Sedang insrumen untuk mempelajari dan menghimpun data secara comprehensive, baru dan aktual untuk kompetensi dasar yang menjadi sasaran ujian nasional melalui: tim peneliti dan lembar pertanyaan.
+HASIL DAN PEMBAHASAN
+Standar kompetensi/kompetensi dasar mata pelajaran Fisika yang belum dikuasai peserta didik terutama mata pelajaran yang menjadi sasaran ujian nasional SMA di Kota Bukittinggi dan kabupaten Agam berdasarkan data dari CD data Ujian Nasional 2007/2008, 2008/2009, 2009/2010, Panduan Pemanfaatan Kebijakan Hasil UN untuk Perbaikan Mutu Pendidikan adalah sebagai berikut.
+1. Kota  Bukittinggi  
+a. Tahun 2007/2008
+Grafik.1. Peta Kompetensi Mapel Fisika 2007-2008 Berdasarkan grafik di atas, dari 40 kompetensi yang diujikan, hanya 27,5% yang tidak dikuasai oleh peserta didik (memperoleh nilai dibawah KKM 60) dan sisanya 72,5% siswa menguasai kompetensi yang diujikan (memperoleh nilai diatas KKM 60). Adapun kompetensi yang tidak dikuasai oleh peserta didik adalah : Tabel 1: Kompetensi Mapel Fisika 2007-2008 yang Tidak Dikuasai Peserta Didik
+
+b. Tahun 2008/2009
+Grafik.2. Peta Kompetensi Mapel Fisika 2008-2009 Berdasarkan grafik 4.2 di atas, dari 40 kompetensi yang diujikan, sebanyak 7,5% yang tidak dikuasai oleh peserta didik (memperoleh nilai dibawah KKM 60) dan sisanya 92,5% siswa menguasai kompetensi yang diujikan (memperoleh nilai diatas KKM 60). Adapun kompetensi yang tidak dikuasai oleh peserta didik: Tabel 2: Kompetensi Mapel Fisika 2008-2009 yang Tidak Dikuasai Peserta Didik
+r c. Tahun 2009/2010
+
+Grafik.3. Peta Kompetensi Mapel Fisika 2009-2010 Berdasarkan grafik 4.3 di atas, dari 40 kompetensi yang diujikan, sebanyak 15% yang tidak dikuasai oleh peserta didik (memperoleh nilai dibawah KKM 60) dan sisanya 85% siswa menguasai kompetensi yang diujikan (memperoleh nilai diatas KKM 60). Adapun kompetensi yang tidak dikuasai oleh peserta didik: Tabel 3: Kompetensi Mapel Fisika 2008-2009 yang Tidak Dikuasai Peserta Didik
+. 2. Kabupaten Agam
+a. 2007-2008
+Grafik.4. Peta Kompetensi Mapel Fisika 2007-2008 Berdasarkan grafik 4.4 di atas, dari 40 kompetensi yang diujikan, hanya 20% yang tidak dikuasai oleh peserta didik (memperoleh nilai dibawah KKM 60) dan sisanya 80% siswa menguasai kompetensi yang diujikan (memperoleh nilai diatas KKM 60). Adapun kompetensi yang tidak dikuasai oleh peserta didik:
+
+Tabel 4: Kompetensi Mapel Fisika 2007-2008 yang Tidak Dikuasai Peserta Didik di Kabupaten Agam
+b. 2008-2009
+Grafik 5. Peta Kompetensi Mapel Fisika 2008-2009 Berdasarkan grafik 4.4 di atas, dari 40 kompetensi yang diujikan, sebanyak 35% yang tidak dikuasai oleh peserta didik (memperoleh nilai dibawah KKM 60) dan sisanya 65% siswa menguasai kompetensi yang diujikan (memperoleh nilai diatas KKM 60). Adapun kompetensi yang tidak dikuasai oleh peserta didik: Tabel 5: Kompetensi Mapel Fisika 2008-2009 yang Tidak Dikuasai Peserta Didik di
+Kabupaten Agam
+c. 2009-2010
+
+Grafik.6. Peta Kompetensi Mapel Fisika 2009-2010 Berdasarkan grafik 4.6 di atas, dari 40 kompetensi yang diujikan, sebanyak 40% yang tidak dikuasai oleh peserta didik (memperoleh nilai dibawah KKM 60) dan sisanya 60% siswa menguasai kompetensi yang diujikan (memperoleh nilai diatas KKM 60). Adapun kompetensi yang tidak dikuasai oleh peserta didik: . Tabel 6: Kompetensi Mapel Fisika 2009-2010 yang Tidak Dikuasai Peserta Didik di Kabupaten Agam
+Faktor-faktor penyebab peserta didik belum menguasai standar kompetensi/ kompetensi dasar pada setiap wilayah Kota Bukittinggi dan Kabupaten Agam berdasarkan
+observasi partisipan yang dilakukan secara mendalam (indepth study) dengan dukungan metodologi kualitatif lainnya, terutama wawancara.
+1. Kota  Bukittinggi   Guru sebagai pendidik yang menjalankan tugas mendidik dan mengajar dihadapkan
+pada persoalan dilematis antara meningkatkan kompetensinya dengan berbagai latihan dan pengembangan kompetensi profesionalnya dengan kesempatan dan kemamuannya untuk mengembangkan diri. Di Kota Bukittinggi ditemukan beberapa temuan khusus terkait dengan pengembangan diri dan kemampuan professional guru yang secara langsung atau tidak langsung berkontribusi terhadap pencapaian kompetensi siswanya yaitu: (1) rumusan
+
+indikator dan tujuan pembelajaran hanya memuat kompetensi aspek kognitif, (2) penilaian pembelajaran tidak sesuai dengan indikator yang dirumuskan, (3) metode dan media yang digunakan tidak menunjang pencapaian tujuan pembelajaran dan (4) Pelaksanaan penilaian pembelajaran ditemukan bahwa guru tidak pernah menyiapkan lembar penilaian untuk kinerja, produk, sikap dan portofolio.
+Pada aspek prestasi akademik guru Fisika di Bukittinggi adalah guru yang memiliki prestasi akademik yang dapat dibanggakan, seperti kunjungan keluar negeri dan pemenang karya ilmiah. Pada bidang pelatihan dan pengembangan diri ditemukan dua hal penting yaitu: (a) guru hanya 20% yang pernah mengikuti kegiatan atau forum ilmiah. (b) Belum banyak karya selama menjalani profesinya seperti menulis modul, LKS dan diktat.
+Disamping menelusuri penyebab dari sudut padang guru, penelusuran juga dilakukan kepada siswa dan melakukan tes probing. Berdasarkan keterangan yang diberikan siswa dalam bentuk angket terkait dengan proses belajar mengajar yang dilaksanakan terungkap beberapa persoalan yang ditemui yaitu : (a) akibat kebijakan standar isi, guru terpaksa mengejar ketuntasan materi sehingga guru tidak ada waktu menggunakan metoda atau media untuk menarik perhatian siswa, (b) Kurangnya sarana labor dan tenaga laboran, guru jarang melaksanakan praktikum, (c) karena harus mengajar 24 jam tatap muka, dan akan dinaikkan lagi menjadi 27 jam tatap muka guru tidak mempunyai waktu untuk pengembangan diri, tidak bisa membuat sendiri alat bantu mengajar memfasilitasi peserta didik melakukan percobaan (d) Disebabkan jumlah murid dalam satu kelas lebih dari 40 orang, guru tidak bisa menggunakan penilaian penbelajaran berbasis kelas, jarang memfasilitasi terjadinya interaksi antar sesama peserta didik.
+Berdasarkan data tentang kompetensi yang rendah dibawah KKM (<=60) untuk Kota Bukittinggi tiga tahun berturut mulai dari 2007/2008, 2008/2009, 2010/2011 adalah 27,5%, 7,5%, 15%. Faktor penyebab diidentifikasi berdasarkan faktor tingkat sekolah dan mata pelajaran adalah sebagai berikut:
+a. Faktor penyebab tingkat sekolah 1) Standar pendidik dan tenaga kependidikan yaitu. (a) guru sedikit yang mengikuti
+kegiatan atau forum ilmiah. Standar penilaian yaitu (a) guru tidak pernah membuat lembaran observasi khususnya aspek psikomotor, (b) guru tidak pernah membuat lembar prtofolio siswa, (c) guru tidak pernah mempersiapkan kegiatan remedial dan pengayaan 2) Standar proses meliputi: (a) guru jarang menggunakan alat bantu untuk menarik perhatian siswa, (b) guru jarang menggunakan alat bantu yang lain selain buku dan
+
+papan tulis, (c) guru jarang menggunakan media/alat peraga, (d) guru jarang menggunakan media yang digunakan untuk memudahkan siswa memahami materi pembelajaan, (e) guru tidak pernah membuat sendiri alat bantu mengajar, (f) guru jarang memfasilitasi peserta didik melakukan percobaan, (f) guru jarang memfasilitasi terjadinya interaksi antar sesama peserta didik, (g) guru jarang memfasilitasi peserta didik melakukan pameran, turnamen atau festival produk yang dihasilkan, (h) guru jarang melaporkan hasil penilaian secara berkala kepada orang tua, (i) guru jarang memotivasi siswa dengan member hadiah b. Faktor penyebab permata pelajaran 1) Standar isi meliputi: (a) soal yang sulit dan agak sulit, (b) konsep terlalu abstrak,
+rumit 2) Standar proses meliputi: (a) minat dan motivasi belajar anak rendah, (b) media
+pembelajaran tidak tersedia, (c) penggunaan metode yang tidak tepat 3) Standar sarana dan prasarana yaitu kekuarangn sarana,prasarana serta sumber
+belajar lainnya
+2. Kabupaten Agam
+Guru sebagai pendidik yang menjalankan tugas mendidik dan mengajar dihadapkan pada persoalan dilematis antara meningkatkan kompetensinya dengan berbagai latihan dan pengembangan kompetensi profesionalnya dengan kesempatan dan kemamuannya untuk mengembangkan diri. Di Kabupaten Agam ditemukan beberapa temuan khusus terkait dengan pengembangan diri dan kemampuan professional guru yang secara langsung atau tidak langsung berkontribusi terhadap pencapaian kompetensi siswanya yaitu (1) rumusan indikator dan tujuan pembelajaran hanya memuat kompetensi aspek kognitif, (2) penilaian pembelajaran tidak sesuai dengan indikator yang dirumuskan, (3) metode dan media yang digunakan tidak menunjang pencapaian tujuan pembelajaran dan (4) Pelaksanaan penilaian pembelajaran ditemukan bahwa guru tidak pernah menyiapkan lembar penilaian untuk kinerja, produk, sikap dan portofolio.
+Pada aspek prestasi akademik guru Fisika di kabupaten Agam adalah guru yang memiliki prestasi akademik yang dapat dibanggakan, seperti pemenang karya ilmiah.Dan pada aspek pelatihan dan pengembangan diri ini ditemukan dua hal penting yaitu: (a) guru hanya 16% yang pernah mengikuti kegiatan atau forum ilmiah. (b) Belum banyak karya selama menjalani profesinya seperti menulis modul, LKS dan diktat.
+
+Disamping menelusuri penyebab dari sudut padang guru, penelusuran juga dilakukan kepada siswa dan melakukan tes probing. Berdasarkan keterangan yang diberikan siswa dalam bentuk angket terkait dengan proses belajar mengajar yang dilaksanakan terungkap beberapa persoalan yang ditemui yaitu : (a) akibat kebijakan standar isi, guru terpaksa mengejar ketuntasan materi sehingga guru tidak ada waktu menggunakan metoda atau media untuk menarik perhatian siswa, (b) Kurangnya sarana labor dan tenaga laboran, guru jarang melaksanakan praktikum, (c) karena harus mengajar 24 jam tatap muka, dan akan dinaikkan lagi menjadi 27 jam tatap muka guru tidak mempunyai waktu untuk pengembangan diri, tidak bisa membuat sendiri alat bantu mengajar memfasilitasi peserta didik melakukan percobaan (d) Disebabkan jumlah murid dalam satu kelas lebih dari 40 orang, guru tidak bisa menggunakan penilaian penbelajaran berbasis kelas, jarang memfasilitasi terjadinya interaksi antar sesama peserta didik..
+Berdasarkan data tentang kompetensi yang rendah dibawah KKM (<=60) untuk Kabupaten Agam tiga tahun berturut mulai dari 2007/2008, 2008/2009, 2010/2011 ada;ah 20%, 35%, 40%. Faktor penyebab diidentifikasi berdasarkan faktor tingkat sekolah dan mata pelajaran adalah sebagai berikut:
+a. Faktor penyebab tingkat sekolah 1) Standar pendidik dan tenaga kependidikan yaitu guru sangat jarang mengikuti
+pendidikan dan pelatihan untuk jangka waktu yang lama, paling banyak hanya pendidikan dan pelatihan yang diikuti hanya rentangan 0-25 hari. Akibat kesempatan untuk mengikuti pelatihan dan pengembangan diri yang terbatas prestasi akademik. guru Fisika di Kabupaten Agam tidak termasuk guru yang memiliki prestasi akademik yang menonjol 2) Standar penilaian yaitu (a) guru tidak pernah membuat lembaran observasi khususnya aspek psikomotor, (b) guru tidak pernah membuat lembar prtofolio siswa, (c) guru tidak pernah mempersiapkan kegiatan remedial dan pengayaan 3) Standar proses meliputi: (a) guru kadang-kadang membuat media pembelajaran perencanaan pembelajaran adalah tahapan penting dari rangkaian aktifitas pembelajaran yang dilakukan sebelum melaksanakan pembelajaran. Oleh karena itu seorang guru harus mempersiapkan seluruh perangkat dokumen pembelajaran yang dibutuhkan sehingga tujuan pembelajaran akan tercapai. Akan tetapi di Kabupaten Agam ditemuai bahwa jarang menyiapkan evluasi hasil dan proses pembelajaran siswa, (b) guru jarang menarik perhatian siswa dengan menggunakan alat bantu, (c) guru jarang guru menggunakan alat bantu mengajar yang lain selain buku dan papan
+
+tulis, (d) guru tidak pernah dalam kegiatan pembelajaran menggunakan media/alat peraga, (e) guru jarang apakah menggunakan media yang memudahkan siswa memahami materi pembelajaan, (f) guru jarang membuat sendiri alat bantu mengajar dalam mengajar, guru jarang memfasilitasi peserta didik melakukan percobaan, (g) guru jarang memfasilitasi terjadinya interaksi antar sesama peserta didik, (h) guru tidak pernah apakah guru memfasilitasi peserta didik melakukan pameran, turnamen atau festival produk yang dihasilkan, jarang apakah guru menggunakan berbamacam cara dalam melakukan remedial, (8) guru jarang melemparkan pertanyaan kepada siswa lain jika seorang siswa salah menjawab, (9) guru jarang melakukan penilaian terhadap aktifitas siswa selama PBM, (10) guru jarang mengembalikan hasil penilaian kepada siswa, (11) guru jarang melaporkan hasil penilaian secara berkala kepada orang tua, (12) guru jarang memotivasi siswa dengan memberikan hadiah b. Faktor penyebab permata pelajaran 1) Standar isi meliputi: (a) soal yang sulit dan agak sulit, (b) konsep terlalu abstrak,
+rumit 2) Standar proses meliputi: (a) minat dan motivasi belajar anak rendah, (b) media
+pembelajaran tidak tersedia, (c) penggunaan metode yang tidak tepat 3) Standar sarana dan prasarana yaitu kekuarangn sarana,prasarana serta sumber
+belajar lainnya
+KESIMPULAN DAN SARAN Beberapa temuan khusus di Kota Bukittinggi dan Kabupaten Agam terkait dengan pengembangan diri dan kemampuan professional guru yang secara langsung atau tidak langsung berkontribusi terhadap pencapaian kompetensi siswanya yaitu: (1) rumusan indikator dan tujuan pembelajaran hanya memuat kompetensi aspek kognitif, (2) penilaian pembelajaran tidak sesuai dengan indikator yang dirumuskan, (3) metode dan media yang digunakan tidak menunjang pencapaian tujuan pembelajaran dan (4) Pelaksanaan penilaian pembelajaran ditemukan bahwa guru tidak pernah menyiapkan lembar penilaian untuk kinerja, produk, sikap dan portofolio. Pada aspek prestasi akademik guru Fisika di Kota Bukittinggi dan Kabupaten Agam adalah guru yang memiliki prestasi akademik yang dapat dibanggakan, seperti kunjungan keluar negeri dan pemenang karya ilmiah. Pada bidang pelatihan dan pengembangan diri ditemukan dua hal penting yaitu: (a) guru hanya 16% sampai 20% yang pernah mengikuti
+
+kegiatan atau forum ilmiah. (b) Belum banyak karya selama menjalani profesinya seperti menulis modul, LKS dan diktat.
+Disamping menelusuri penyebab dari sudut padang guru, penelusuran juga dilakukan kepada siswa dan melakukan tes probing. Berdasarkan keterangan yang diberikan siswa dalam bentuk angket terkait dengan proses belajar mengajar yang dilaksanakan terungkap beberapa persoalan yang ditemui yaitu : (a) akibat kebijakan standar isi, guru terpaksa mengejar ketuntasan materi sehingga guru tidak ada waktu menggunakan metoda atau media untuk menarik perhatian siswa, (b) Kurangnya sarana labor dan tenaga laboran, guru jarang melaksanakan praktikum, (c) karena harus mengajar 24 jam tatap muka, dan akan dinaikkan lagi menjadi 27 jam tatap muka guru tidak mempunyai waktu untuk pengembangan diri, tidak bisa membuat sendiri alat bantu mengajar memfasilitasi peserta didik melakukan percobaan (d) Disebabkan jumlah murid dalam satu kelas lebih dari 40 orang, guru tidak bisa menggunakan penilaian penbelajaran berbasis kelas, jarang memfasilitasi terjadinya interaksi antar sesama peserta didik.
+DAFTAR BACAAN
+Aljufri B. Syarif. Festiyed, Syakbaniah (2009). Studi peningkatan kemampuan tenaga pendidik dalam mengimplementasikan kurikulum tingkat satuan pendikan sekolah menengah di kotamadya padang sumatera barat. Hibah Penelitian Potensi Pendidikan Kota/Kabupaten 2009, Lembaga Penelitian Universitas Negeri Padang.
+Elizar, 2007, Rancangan Media Transparansi Berwarna dan Modul sebagai sarana Mengaktifkan siswa Mengkonstruksi Pengetahuan dalam Belajar Kimia, Laporan Penelitian Hibah Bersaing, DP2M Dikti, Lembaga Penelitian Universitas Negeri Padang.
+CD data Ujian Nasional 2007/2008, 2008/2009, 2009/2010, Panduan Pemanfaatan Kebijakan Hasil UN untuk Perbaikan Mutu Pendidikan
+Festiyed. (2005). Pengembangan Kurikulum Fisika FMIPA UNP Beorientasi Kecakapan Hidup (Life Skill), Makalah Seminar Kurikulum, Pasca Sarjana UNP Padang.
+Festiyed. Murtiani (2006).Upaya Meningkatkan Aktivitas dan Hasil Belajar Siswa dalam Mata Pelajaran Fisiska dengan Model PBI (Problem Based Instruction) di Kelas VII.3 SMP N di Padang. Laporan Penelitian PHK-A2, Lembaga Penelitian Universitas Negeri Padang.
+Yuris.Tentang Pendidikan Holistik http://www.motionschool.co.id/mainweb/berita-155tentang-pendidikan-holistik.html 28 Desember 2010 diunduh tanggal 1 juni 2011

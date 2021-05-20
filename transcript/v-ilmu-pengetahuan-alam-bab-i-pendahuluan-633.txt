@@ -1,0 +1,1779 @@
+V. ILMU PENGETAHUAN ALAM
+BAB I PENDAHULUAN
+A. Latar Belakang
+Tema pengembangan Kurikulum 2013 adalah kurikulum yang dapat menghasilkan insan Indonesia yang produktif, kreatif, inovatif, afektif melalui penguatan sikap, keterampilan, dan pengetahuan yang terintegrasi. Dalam rangka mewujudkan insan Indonesia yang produktif, kreatif, inovatif, dan afektif maka dalam Permendikbud tentang Standar Proses dinyatakan bahwa proses pembelajaran pada satuan pendidikan diselenggarakan secara interaktif, inspiratif, menyenangkan, menantang, dan memotivasi peserta didik untuk berpartisipasi aktif, serta memberikan ruang yang cukup bagi prakarsa, kreativitas, dan kemandirian sesuai dengan bakat, minat, dan perkembangan fisik serta psikologis peserta didik. Pembelajaran diarahkan untuk mendorong peserta didik mencari tahu dari berbagai sumber observasi, mampu merumuskan masalah (menanya) bukan hanya menyelesaikan masalah. Di samping itu pembelajaran diarahkan untuk melatih peserta didik berpikir analitis (pengambilan keputusan) bukan berpikir mekanistis (rutin) serta mampu kerjasama dan kolaborasi dalam menyelesaikan masalah.
+Sehubungan dengan itu, Kurikulum 2013 menerapkan pendekatan saintifik dalam pembelajaran dan penilaian otentik yang menggunakan prinsip penilaian bagian dari pembelajaran. Untuk memperkuat pendekatan ilmiah (scientific), perlu diterapkan pembelajaran berbasis penyingkapan/penelitian (discovery/ inquiry learning). Untuk mendorong kemampuan peserta didik agar menghasilkan karya kontekstual, baik individual maupun kelompok maka sangat disarankan menggunakan pendekatan pembelajaran yang menghasilkan karya berbasis pemecahan masalah (problem based learning) dan pembelajaran berbasis projek (project based learning).
+Kurikulum 2013 dikembangkan dengan penyempurnaan pola pikir berkaitan dengan pola pembelajaran, yaitu: (1) berpusat pada peserta didik; (2) pembelajaran interaktif (interaktif guru-peserta didik-masyarakatlingkungan alam, sumber/media lainnya); (3) pembelajaran dirancang secara jejaring (peserta didik dapat menimba ilmu dari siapa saja dan dari mana saja yang dapat dihubungi serta diperoleh melalui internet); (4) pembelajaran bersifat aktif-mencari (peserta didik aktif mencari semakin diperkuat dengan model pembelajaran pendekatan sains); (5) belajar kelompok (berbasis tim); (6) pembelajaran berbasis multimedia; (7) pembelajaran berbasis kebutuhan pelanggan (users) dengan memperkuat pengembangan potensi khusus yang dimiliki setiap peserta didik; (8) pola pembelajaran menjadi pembelajaran ilmu pengetahuan jamak (multidisciplines); dan (9) pembelajaran kritis.
+Kurikulum 2013 dirancang dengan karakteristik sebagai berikut: (1) mengembangkan keseimbangan antara pengembangan sikap spiritual dan sosial, rasa ingin tahu, kreativitas, kerja sama dengan kemampuan intelektual dan psikomotorik; (2) sekolah merupakan bagian dari masyarakat yang memberikan pengalaman belajar terencana dimana peserta didik menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat sebagai sumber belajar; (3) mengembangkan sikap, pengetahuan, dan keterampilan serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat; (4) memberi waktu yang cukup leluasa
+- 429 -
+
+untuk mengembangkan berbagai sikap, pengetahuan, dan keterampilan; (5) kompetensi dinyatakan dalam bentuk kompetensi inti kelas yang dirinci lebih lanjut dalam kompetensi dasar mata pelajaran; (6) kompetensi inti kelas menjadi unsur pengorganisasi (organizing elements) kompetensi dasar, dimana semua kompetensi dasar dan proses pembelajaran dikembangkan untuk mencapai kompetensi inti; (7) kompetensi dasar dikembangkan didasarkan pada prinsip akumulatif, saling memperkuat (reinforced) dan memperkaya (enriched) antarmatapelajaran dan jenjang pendidikan (organisasi horizontal dan vertikal).
+Mata pelajaran IPA diberikan sejak SD hingga SMA. Pada level SD kelas I, II dan III muatan IPA diintegrasikan pada kompetensi dasar mata pelajaran Bahasa Indonesia, di kelas IV sampai kelas VI IPA menjadi mata pelajaran tersendiri tetapi pembelajarannya melalui pembelajaran tematik terpadu. Mata pelajaran IPA di SMP dilakukan dengan konsep integrative science. Di tingkat SMA barulah IPA disajikan sebagai mata pelajaran yang spesifik yang terbagi dalam mata pelajaran Fisika, Kimia, dan Biologi. Pada penjelasan pasal 77I bagian (e ) PP Nomor 32 Tahun 2013 dinyatakan bahan kajian ilmu pengetahuan alam, antara lain, fisika, biologi, dan kimia dimaksudkan untuk mengembangkan pengetahuan, pemahaman, dan kemampuan analisis peserta didik terhadap lingkungan alam dan sekitarnya.
+Pada kurikulum 2013, khususnya untuk tingkat SMP, terdapat beberapa perubahan pada pembelajaran Ilmu Pengetahuan Alam (IPA), diantaranya adalah konsep pembelajaran terpadu IPA (integrative science). Konsep keterpaduan ini ditunjukkan dalam Kompetensi Inti (KI) dan Kompetensi Dasar (KD) yakni dalam satu KD sudah memadukan konsep-konsep IPA dari bidang Biologi, Fisika, Kimia, dan Ilmu Pengetahuan Bumi dan Antariksa (IPBA). Perubahan ini tentu saja berdampak pada proses pembelajaran IPA, untuk itu diperlukan Buku Pedoman Mata Pelajaran IPA sehingga pembelajaran bisa berorientasi pada kemampuan aplikatif, pengembangan kemampuan berpikir, rasa ingin tahu, dan pengembangan sikap peduli dan bertanggungjawab terhadap lingkungan sosial dan alam. IPA juga ditujukan untuk pengenalan lingkungan biologi dan alam sekitarnya, serta pengenalan berbagai keunggulan wilayah nusantara.
+Melalui pembelajaran IPA, peserta didik dapat memperoleh pengalaman langsung, sehingga dapat menambah kekuatan untuk menerima, menyimpan, dan menerapkan konsep yang telah dipelajarinya. Dengan demikian, peserta didik terlatih untuk dapat menemukan sendiri berbagai konsep yang dipelajari secara menyeluruh (holistik), bermakna, autentik, dan aktif.
+Pendekatan yang digunakan menekankan pada keterampilan proses, memanfaatkan lingkungan, masyarakat, dan teknologi (STM). Metode belajarnya dapat menggunakan eksperimen, demonstrasi, ceramah dan lainlain. Langkah-langkah atau sintaksnya dimodifikasi sesuai model keterpaduan yang dipilih menggunakan pendekatan saintifik. Hal ini sejalan dengan Permendikbud tentang Standar Proses, kegiatan pembelajaran menggunakan model pembelajaran, metode pembelajaran, media pembelajaran, dan sumber belajar yang disesuaikan dengan karakteristik peserta didik dan mata pelajaran. Model pembelajaran discovery, pembelajaran berbasis proyek atau pembelajaran berbasis masalah merupakan model yang disarankan pada implementasi kurikulum. Pendekatan pembelajaran yang disarankan adalah pendekatan saintifik dan penilaiannya berupa penilaian otentik.
+- 430 -
+
+Karena perubahan kurikulum yang cukup mendasar inilah, khususnya pada tataran implementasi terkait dengan pembelajaran saintifik dan penilaian otentik di kelas, maka perlu disusun Panduan Guru Mata Pelajaran IPA yang dapat memandu guru IPA dalam menggunakan dokumen kurikulum IPA, buku teks mata pelajaran IPA bagi peserta didik, buku guru yang dikembangkan sesuai dengan kurikulum 2013 dan implementasi proses pembelajaran IPA yang sesuai dengan Kurikulum 2013.
+B. Tujuan Pedoman
+Secara umum penyusunan pedoman mata pelajaran IPA bertujuan untuk membantu guru dan stakeholder lainnya dalam memahami konsep Kurikulum 2013 mata pelajaran IPA di SD/MI, SMP/MTs, dan SMA/MA sehingga guru mampu mengimplementasikan Kurikulum 2013 dalam rangka mencapai SKL dan kompetensi inti (KI). Secara khusus penyusunan pedoman guru mata pelajaran IPA bertujuan untuk:
+1. Menjadi acuan bagi guru dalam menyusun rencana pelaksanaan pembelajaran (RPP) dan melaksanakan pembelajaran dengan menggunakan berbagai strategi dan metode serta model pembelajaran IPA.
+2. Menjadi acuan bagi guru dalam mengembangkan dan melaksanakan kegiatan pembelajaran dengan pendekatan saintifik.
+3. Menjadi acuan bagi guru dalam mengembangkan teknik dan instrumen penilaian otentik pada pembelajaran IPA.
+4. Menjadi acuan bagi guru dalam memilih media dan sumber belajar. 5. Menjadi acuan bagi guru untuk mengembangkan kultur sekolah.
+
+C. Ruang Lingkup Pedoman
+
+Pedoman mata pelajaran IPA SMP/MTs disusun dalam 9 (sembilan) Bab sebagai berikut:
+
+BAB I BAB II BAB III
+BAB IV BAB V
+
+Pendahuluan: menguraikan latar belakang/rasional penyusunan pedoman, tujuan, ruang lingkup pedoman, dan sasaran/pengguna. Karakteristik Mata Pelajaran IPA: menguraikan rasional pentingnya mata pelajaran IPA yang diberikan di SMP/MTs; prinsip-prinsip penerapan kurikulum IPA; dan tujuan; serta ruang lingkup mata pelajaran IPA. Kurikulum 2013 mata pelajaran IPA: menguraikan alur pengembangan kompetensi dasar, yang diawali dari pengembangan Standar Kompetensi Lulusan (SKL) dari tujuan pendidikan nasional dan kebutuhan masa depan, perumusan tingkat kompetensi dan ruang lingkup materi, perumusan Kompetensi Inti (KI), hingga perumusan Kompetesi Dasar (KD) setiap KI. Desain pembelajaran: menguraikan kerangka pembelajaran, pendekatan pembelajaran, strategi dan metode dan rancangan pembelajaran yang sesuai dengan karakteristik mata pelajaran IPA dan perkembangan peserta didik. Model-model pembelajaran: menguraikan model-model pembelajaran yang direkomendasikan berdasarkan kebutuhan pengembangan kompetensi dan karakteristik materi IPA, diantaranya pembelajaran penemuan (discovery learning),
+
+- 431 -
+
+BAB VI BAB VII BAB VIII
+BAB IX
+
+pembelajaran berbasis proyek (project based learning), dan pembelajaran berbasis masalah (problem based learning). Penilaian otentik: menguraikan strategi penilaian; bentuk penilaian sikap, pengetahuan, dan keterampilan serta pelaporan hasil penilaian otentik. Media dan sumber belajar: menguraikan tentang berbagai alternatif media dan sumber belajar yang dapat digunakan dalam pembelajaran. Guru sebagai pengembang budaya sekolah: menguraikan peran guru dalam mengembangkan sekolah sebagai tempat aktivitas belajar, menampilkan figur atau sosok guru yang multifungsi, memanfaatkan lingkungan alam, sosial, budaya, dan teknologi sebagai sumber belajar. Penutup
+
+D. Sasaran Pedoman
+Sasaran atau pengguna pedoman Mata Pelajaran IPA ini meliputi: 1. Guru IPA secara individual atau kelompok guru IPA (guru mata
+pelajaran, guru kelas, dan guru pembina kegiatan ekstrakurikuler); 2. Pimpinan satuan pendidikan (kepala sekolah, wakil kepala sekolah); 3. Guru bimbingan konseling atau konselor sekolah; dan 4. Tenaga kependidikan (tenaga laboratorium IPA dan pengawas
+pembelajaran IPA).
+
+- 432 -
+
+BAB II KARAKTERISTIK MATA PELAJARAN IPA
+A. Rasional
+Ilmu Pengetahuan Alam (IPA) berkaitan dengan cara mencari tahu tentang alam secara sistematis, sehingga IPA bukan hanya penguasaan kumpulan pengetahuan yang berupa fakta-fakta, konsep-konsep, atau prinsip-prinsip saja tetapi juga merupakan suatu proses penemuan. Pendidikan IPA diharapkan dapat menjadi wahana bagi peserta didik untuk mempelajari diri sendiri dan alam sekitar, serta prospek pengembangan lebih lanjut dalam menerapkannya di dalam kehidupan sehari-hari. Proses pembelajarannya menekankan pada pemberian pengalaman langsung untuk mengembangkan kompetensi agar menjelajahi dan memahami alam sekitar secara ilmiah. Pendidikan IPA diarahkan untuk inkuiri dan berbuat sehingga dapat membantu peserta didik untuk memperoleh pemahaman yang lebih mendalam tentang alam sekitar.
+IPA diperlukan dalam kehidupan sehari-hari untuk memenuhi kebutuhan manusia melalui pemecahan masalah-masalah yang dapat diidentifikasikan. Penerapan IPA perlu dilakukan secara bijaksana untuk menjaga dan memelihara kelestarian lingkungan. Pembelajaran IPA sebaiknya dilaksanakan secara inkuiri (scientific inquiry) untuk menumbuhkan kemampuan berpikir, bekerja, dan bersikap ilmiah serta mengomunikasikannya sebagai aspek penting kecakapan hidup. Oleh karena itu pembelajaran IPA menekankan pada pemberian pengalaman belajar secara langsung melalui penggunaan dan pengembangan keterampilan proses dan sikap ilmiah.
+IPA dapat diartikan secara berbeda menurut sudut pandang yang dipergunakan. IPA sering didefinisikan sebagai kumpulan informasi ilmiah. Ada ilmuwan yang memandang IPA sebagai suatu metode untuk menguji hipotesis. Sedangkan seorang filsuf memandangnya sebagai cara bertanya tentang kebenaran dari apa yang kita ketahui. Para ilmuwan IPA dalam mempelajari gejala alam, menggunakan proses dan sikap ilmiah. Proses ilmiah yang dimaksud misalnya melalui pengamatan, eksperimen, dan analisis yang bersifat rasional. Sikap ilmiah contohnya adalah objektif dan jujur dalam mengumpulkan data yang diperoleh. Dengan menggunakan proses dan sikap ilmiah itu scientist memperoleh penemuan-penemuan atau produk yang berupa fakta, konsep, prinsip, dan teori.
+Carin (1993) menyatakan bahwa IPA sebagai produk atau isi mencakup fakta, konsep, prinsip, hukum-hukum, dan teori IPA. Jadi pada hakikatnya IPA terdiri dari tiga komponen, yaitu sikap ilmiah, proses ilmiah, dan produk ilmiah. Hal ini berarti bahwa IPA tidak hanya terdiri atas kumpulan pengetahuan atau berbagai macam fakta yang dihapal, IPA juga merupakan kegiatan atau proses aktif menggunakan pikiran dalam mempelajari gejala-gejala alam yang belum dapat direnungkan. IPA menggunakan apa yang telah diketahui sebagai batu loncatan untuk memahami apa yang belum diketahui. Suatu masalah IPA yang telah dirumuskan dan kemudian berhasil dipecahkan akan memungkinkan IPA untuk berkembang secara dinamis, sehingga kumpulan pengetahuan sebagai produk juga bertambah.
+Sementara itu, menurut Trowbridge dan Bybee (1990) IPA merupakan representasi dari suatu hubungan dinamis yang mencakup tiga faktor utama, yaitu: "the extent body of scientific knowledge, the values of science,
+- 433 -
+
+and the methods and processes of science". Pandangan ini lebih luas jika dibandingkan dengan pengertian IPA yang dikemukakan Hungerford dan Volk (1990), karena Trowbridge dan Bybee (1990) selain memandang IPA sebagai suatu proses dan metode (methods and processes) serta produkproduk (body of scientific knowledge), juga melihat bahwa IPA mengandung nilai-nilai (values). IPA adalah sekumpulan nilai-nilai dan prinsip yang dapat menjadi petunjuk pengembangan kurikulum dalam IPA (Gill, 1991).
+Sebagai body of scientific knowledge, IPA adalah hasil interpretasi/deskripsi tentang dunia kealaman (natural world). Hal ini sesungguhnya sama dengan elemen produk pada definisi IPA yang dikemukakan oleh Hungerford dan Volk (1990). Tujuan IPA adalah pengembangan body of scientific knowledge (Hyllegard dan Morrow, 1996).
+IPA sebagai proses/metode penyelidikan (inquiry methods) meliputi cara berpikir, sikap, dan langkah-langkah kegiatan saintis untuk memperoleh produk-produk IPA atau ilmu pengetahuan ilmiah, misalnya observasi, pengukuran, merumuskan dan menguji hipotesis, mengumpulkan data, bereksperimen, dan prediksi. Dalam konteks itu, IPA bukan sekadar cara bekerja, melihat, dan cara berpikir, melainkan `science as a way of knowing'. Artinya, IPA sebagai proses juga dapat meliputi kecenderungan sikap/tindakan, keingintahuan, kebiasaan berpikir, dan seperangkat prosedur. Sementara nilai-nilai IPA berhubungan dengan tanggung jawab moral, nilai-nilai sosial, manfaat IPA untuk IPA dan kehidupan manusia, serta sikap dan tindakan (misalnya, keingintahuan, kejujuran, ketelitian, ketekunan, hati-hati, toleran, hemat, dan pengambilan keputusan).
+Berdasarkan berbagai pandangan di atas, IPA harus dipandang sebagai cara berpikir untuk memahami alam, melakukan penyelidikan, dan sebagai kumpulan pengetahuan. Hal ini sesuai dengan apa yang dikemukakan oleh Collete dan Chiappetta (1994) yang menyatakan bahwa IPA pada hakikatnya merupakan; kumpulan pengetahuan (a body of knowledge), cara atau jalan berpikir (method of thinking), dan cara untuk penyelidikan (method of investigating).
+B. Tujuan
+Mata pelajaran IPA bertujuan agar peserta didik memiliki kompetensi:
+1. Mengagumi keteraturan dan kompleksitas ciptaan Tuhan tentang aspek fisik dan materi, kehidupan dalam ekosistem, dan peranan manusia dalam lingkungan sehingga bertambah keimanannya, serta mewujudkannya dalam pengamalan ajaran agama yang dianutnya.
+2. Menunjukkan perilaku ilmiah (memiliki rasa ingin tahu; objektif; jujur; teliti; cermat; tekun; hati-hati; bertanggung jawab; terbuka; kritis; kreatif; inovatif dan peduli lingkungan) dalam aktivitas sehari-hari sebagai wujud implementasi sikap dalam melakukan pengamatan, percobaan, dan berdiskusi
+3. Menghargai kerja individu dan kelompok dalam aktivitas sehari-hari sebagai wujud implementasi melaksanakan percobaan dan melaporkan hasil percobaan guna memupuk sikap ilmiah yaitu jujur, objektif, terbuka, ulet, kritis dan dapat bekerja sama dengan orang lain;
+4. Mengembangkan pengalaman untuk menggunakan, mengajukan dan menguji hipotesis melalui percobaan, merancang, dan merakit instrumen percobaan, mengumpulkan, mengolah, dan menafsirkan
+- 434 -
+
+data, serta mengomunikasikan hasil percobaan secara lisan dan tertulis; 5. Mengembangkan kemampuan bernalar dalam berpikir analisis induktif dan deduktif dengan menggunakan konsep dan prinsip IPA untuk menjelaskan berbagai peristiwa alam dan menyelesaian masalah baik secara kualitatif maupun kuantitatif; 6. Menguasai konsep dan prinsip IPA serta mempunyai keterampilan mengembangkan pengetahuan, dan sikap percaya diri sebagai bekal untuk melanjutkan pendidikan pada jenjang yang lebih tinggi serta mengembangkan ilmu pengetahuan dan teknologi.
+C. Ruang Lingkup IPA SMP/MTs Ruang lingkup mata pelajaran IPA menekankan pada pengamatan fenomena alam dan penerapannya dalam kehidupannya sehari-hari, pembahasan fenomena alam terkait dengan kompetensi produktif dan teknologi, dengan perluasan pada konsep abstrak yang meliputi mahluk hidup dan proses kehidupan, benda/zat/bahan dan sifatnya, energi dan perubahannya, bumi dan alam semesta. Ruang Lingkup mata pelajaran IPA di SMP/MTs menekankan pada pengamatan fenomena alam dan penerapannya dalam kehidupan seharihari, isu-isu fenomena alam terkait dengan kompetensi produktif dengan perluasan pada konsep abstrak yang meliputi aspek-aspek sebagai berikut. 1. Biologi Meliputi objek IPA, klasifikasi mahluk hidup, organisasi kehidupan, energi dalam kehidupan, interaksi mahluk hiup dengan lingkungannya, pencemaran lingkungan, pemanasan global, sistem gerak pada manusia, struktur tumbuhan, sistem pencernaan, sistem ekskresi, sistem reproduksi, hereditas, dan perkembangan penduduk. 2. Kimia Meliputi karakteristik zat; sifat bahan; bahan kimia; unsur, senyawa, dan campuran; pemisahan campuran; perubahan fisika dan perubahan kimia; asam dan basa; atom, ion, dan molekul. 3. Fisika Meliputi energi dalam kehidupan, suhu, pemuaian, dan kalor, gerak lurus, gaya dan Hukum Newton, pesawat sederhana, tekanan zat cair, getaran, gelombang dan bunyi, cahaya dan alat optik, listrik statis dan dinamis, kemagnetan dan induksi elektromagnetik. 4. Bumi dan Alam Semesta Meliputi struktur bumi, tata surya, gerak edar bumi dan bulan.
+- 435 -
+
+BAB III KURIKULUM 2013 MATA PELAJARAN IPA
+
+A. Standar Kompetensi Lulusan
+
+Standar Kompetensi Lulusan (SKL) yang ditetapkan dengan Permendikbud dirumuskan dengan mempertimbangkan tujuan pendidikan nasional yaitu mengembangkan potensi peserta didik agar menjadi manusia yang beriman dan bertakwa kepada Tuhan Yang Maha Esa, berakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri, dan menjadi warga negara yang demokratis serta bertanggung jawab. Selain itu dalam merumuskan SKL juga mempertimbangkan kebutuhan masa depan dan menyongsong Generasi Emas Indonesia Tahun 2045 yang berbasis pada Kompetensi Abad XXI, Bonus Demografi Indonesia, dan Potensi Indonesia menjadi Kelompok 7 (tujuh) Negara Ekonomi Terbesar Dunia, dan sekaligus memperkuat kontribusi Indonesia terhadap pembangunan peradaban dunia. Dalam penjelasan Pasal 35 Undang-Undang Nomor 20 Tahun 2003 disebutkan bahwa SKL merupakan kualifikasi kemampuan lulusan yang mencakup sikap, pengetahuan, dan keterampilan peserta didik yang harus dipenuhinya atau dicapainya dari suatu satuan pendidikan pada jenjang pendidikan dasar dan menengah.
+
+Untuk mencapai kompetensi lulusan tersebut perlu ditetapkan Standar Isi (SI) yang merupakan kriteria mengenai ruang lingkup materi dan tingkat kompetensi peserta didik untuk mencapai kompetensi lulusan pada jenjang dan jenis pendidikan tertentu. Penguasaan kompetensi lulusan dikelompokkan menjadi beberapa Tingkat Kompetensi yang menunjukkan tahapan yang harus dilalui untuk mencapai kompetensi lulusan yang telah ditetapkan dalam SKL.
+Tingkat Kompetensi merupakan kriteria capaian kompetensi yang bersifat generik yang harus dipenuhi oleh peserta didik pada setiap tingkat kelas dalam rangka pencapaian Standar Kompetensi Lulusan. Tingkat Kompetensi terdiri atas 8 (delapan) jenjang yang harus dicapai oleh peserta didik secara bertahap dan berkesinambungan. Tingkat Kompetensi tersebut diterapkan dalam hubungannya dengan tingkat kelas sejak peserta didik mengikuti pendidikan TK/RA, Kelas I sampai dengan Kelas XII jenjang pendidikan dasar dan menengah. Tingkat Kompetensi TK/RA bukan merupakan prasyarat masuk Kelas I.
+
+Tingkat Kompetensi dikembangkan berdasarkan kriteria; (1) Tingkat perkembangan peserta didik, (2) Kualifikasi kompetensi Indonesia, (3) Penguasaan kompetensi yang berjenjang. Selain itu Tingkat Kompetensi juga memperhatikan; tingkat kerumitan/kompleksitas kompetensi, fungsi satuan pendidikan, dan keterpaduan antarjenjang yang relevan. Berdasarkan pertimbangan di atas, Tingkat Kompetensi dirumuskan sebagai berikut:
+Tabel 3.1 Tingkatan Kompetensi Berdasarkan Permendikbud tentang Standar Isi
+
+TINGKAT KOMPETENSI
+0 1 2
+
+TINGKAT KELAS
+TK/RA Kelas I dan II SD/MI/SDLB/Paket A Kelas III dan IV SD/MI/SDLB/Paket A
+
+- 436 -
+
+3
+
+Kelas V dan VI SD/MI/SDLB/Paket A
+
+4
+
+Kelas VII dan VIII SMP/MTs/SMPLB/Paket B
+
+4a
+
+Kelas IX SMP/MTs/SMPLB/Paket B
+
+5
+
+Kelas X-XI SMA/MA/SMALB/SMK/MAK/Paket
+
+C/Paket C Kejuruan
+
+6
+
+Kelas XII SMA/MA/SMALB/SMK/MAK/Paket C/Paket
+
+C Kejuruan
+
+Keterangan: SDLB, SMPLB, dan SMALB yang dimaksud hanya diperuntukkan bagi tuna netra, tuna rungu, tuna daksa, dan tuna laras yang intelegensinya normal.
+Berdasarkan Tingkat Kompetensi tersebut ditetapkan kompetensi yang bersifat generik yang selanjutnya digunakan sebagai acuan dalam mengembangkan Kompetensi yang bersifat spesifik dan ruang lingkup materi untuk setiap muatan kurikulum.
+
+B. Standar Isi
+1. Kompetensi Inti
+Kompetensi Inti untuk setiap tingkat kompetensi tercantum dalam Permendikbud tentang Standar Isi Pendidikan Dasar dan Menengah.
+Kompetensi yang bersifat generik disebut kompetensi inti mencakup 3 (tiga) ranah yakni sikap, pengetahuan dan keterampilan. Ranah sikap dipilah menjadi sikap spiritual dan sikap sosial. Pemilahan ini diperlukan untuk menekankan pentingnya keseimbangan fungsi sebagai manusia seutuhnya yang mencakup aspek spiritual dan aspek sosial sebagaimana diamanatkan dalam tujuan pendidikan nasional. Dengan demikian, Kompetensi yang bersifat generik terdiri atas 4 (empat) dimensi yang merepresentasikan sikap spiritual, sikap sosial, pengetahuan, dan keterampilan. Rumusan kompetensi inti menggunakan notasi sebagai berikut:
+Kompetensi Inti-1 (KI-1) untuk kompetensi inti sikap spiritual;
+Kompetensi Inti-2 (KI-2) untuk kompetensi inti sikap sosial;
+Kompetensi Inti-3 (KI-3) untuk kompetensi inti pengetahuan; dan
+Kompetensi Inti-4 (KI-4) untuk kompetensi inti keterampilan.
+Kompetensi Inti merupakan tingkat kemampuan untuk mencapai Standar Kompetensi Lulusan yang harus dimiliki seorang peserta didik pada setiap tingkat kelas atau program yang menjadi landasan pengembangan kompetensi dasar. Kompetensi inti menyatakan kebutuhan kompetensi peserta didik, sedangkan mata pelajaran adalah pasokan kompetensi. Tiap mata pelajaran harus tunduk pada kompetensi inti yang telah dirumuskan. Dengan kata lain, semua mata pelajaran yang diajarkan dan dipelajari pada kelas tersebut harus berkontribusi terhadap pembentukan kompetensi inti. Kompetensi inti akan menagih kepada tiap mata pelajaran apa yang dapat dikontribusikannya dalam membentuk kompetensi inti.
+Dengan demikian, Kompetensi inti berfungsi sebagai unsur pengorganisasi (organising element) kompetensi dasar. Sebagai unsur pengorganisasi, kompetensi inti merupakan pengikat untuk organisasi
+- 437 -
+
+vertikal dan organisasi horizontal kompetensi dasar. Organisasi vertikal kompetensi dasar adalah keterkaitan kompetensi dasar satu kelas dengan kelas di atasnya sehingga memenuhi prinsip belajar yaitu terjadi suatu akumulasi yang berkesinambungan antarkompetensi yang dipelajari peserta didik. Organisasi horizontal adalah keterkaitan antara kompetensi dasar satu mata pelajaran dengan kompetensi dasar dari mata pelajaran yang berbeda dalam satu kelas yang sama sehingga terjadi proses saling memperkuat.
+
+2. Tingkat Kompetensi dan Ruang Lingkup Materi IPA
+
+Kompetensi yang bersifat generik (kompetensi inti) digunakan untuk menentukan kompetensi yang bersifat spesifik untuk tiap muatan kurikulum. Selanjutnya, Kompetensi dan ruang lingkup materi digunakan untuk menentukan Kompetensi Dasar pada pengembangan kurikulum satuan dan jenjang pendidikan. Berikut ini disajikan tingkat kompetensi dan ruang lingkup materi IPA SMP/MTs.
+
+Tabel 3.2 Kompetensi dan Ruang Lingkup Materi IPA di SMP/MTs
+
+Tingkat Tingkat Kompetensi Kelas
+
+Kompetensi
+
+4
+
+VII-VIII  Menunjukkan perilaku
+
+
+
+keimanan kepada Tuhan
+
+Yang Maha Esa sebagai
+
+hasil dari penyelidikan
+
+
+
+terhadap objek IPA
+
+ Memiliki sikap ilmiah: rasa
+
+ingin tahu, logis, kritis,
+
+analitis, jujur, dan
+
+tanggung jawab melalui IPA
+
+ Mengajukan pertanyaan
+
+
+
+tentang fenomena IPA,
+
+melaksanakan percobaan,
+
+mencatat dan menyajikan 
+
+hasil penyelidikan dalam
+
+bentuk tabel dan grafik,
+
+menyimpulkan, serta
+
+melaporkan hasil
+
+
+
+penyelidikan secara lisan
+
+maupun tertulis untuk
+
+menjawab pertanyaan
+
+tersebut
+
+ Memahami konsep dan
+
+prinsip IPA serta saling
+
+
+
+keterkaitannya dan
+
+diterapkan dalam
+
+
+
+menyelesaikan masalah
+
+
+
+4a
+
+IX  Memiliki perilaku beriman 
+
+kepada Tuhan Yang Maha
+
+Esa sebagai hasil dari
+
+penyelidikan terhadap objek 
+
+IPA
+
+
+
+ Memiliki sikap ilmiah: rasa
+
+ingin tahu, logis, kritis,
+
+
+
+analitis, jujur, dan
+
+Ruang Lingkup Materi
+Ciri-ciri dan klasifikasi mahluk hidup, sistem organisasi kehidupan Sistem pernafasan, pencernaan, peredaran darah, struktur rangka, otot, struktur dan fungsi sistem ekskresi pada manusia Fotosintesis, respirasi, dan struktur jaringan tumbuhan Perubahan fisika dan kimia, karakteristik zat, sifat bahan dan pemanfaatannya Pengukuran, gerak, gaya, tekanan, energi, dan usaha, getaran, gelombang, bunyi, cahaya, dan alat optik, Suhu dan kalor Zat aditif makanan, zat adiktif dan psikotropika Struktur bumi dan tata surya Interaksi antar mahluk hidup dan lingkungan, pencemaran dan pemanasan global
+Sistem reproduksi manusia, tumbuhan, dan hewan Pewarisan sifat Tanah dan organism yang hidup di dalamnya Kelistrikan, kemagnetan, dan induksi
+
+- 438 -
+
+Tingkat Tingkat Kompetensi Kelas
+
+
+
+Kompetensi
+
+tanggung jawab melalui IPA
+
+Mengajukan pertanyaan 
+
+tentang fenomena IPA,
+
+merumuskan hipotesis,
+
+
+
+mendesain dan
+
+melaksanakan percobaan,
+
+mencatat dan menyajikan  hasil penyelidikan dalam
+
+bentuk tabel dan grafik,
+
+menyimpulkan, serta
+
+
+
+melaporkan hasil
+
+penyelidikan secara lisan
+
+maupun tertulis untuk
+
+menjawab pertanyaan
+
+tersebut
+
+Memahami konsep dan
+
+prinsip IPA serta saling
+
+keterkaitannya dan
+
+diterapkan dalam
+
+menyelesaikan masalah
+
+dalam kehidupan
+
+Ruang Lingkup Materi
+elektromagnetik Partikel penyusun atom dan molekul Pertumbuhan penduduk dan dampaknya bagi lingkungan Produk bioteknologi dan penerapannya dalam produksi pangan Produk teknologi yang merusak dan ramah lingkungan
+
+C. Kompetensi Dasar
+Kompetensi dasar dirumuskan berdasarkan kompetensi inti. Rumusan kompetensi dasar dikembangkan dengan memperhatikan karakteristik peserta didik, kemampuan awal, serta ciri matapelajaran. Kompetensi inti dan kompetensi dasar untuk mata pelajaran IPA SMP tercantum dalam Permendikbud tentang Kerangka Dasar dan Struktur Kurikulum SMP/MTs. Kompetensi dasar dibagi menjadi empat kelompok sesuai dengan pengelompokkan kompetensi inti sebagai berikut:
+Kelompok kompetensi dasar sikap spiritual menjabarkan KI-1;
+Kelompok kompetensi dasar sikap sosial menjabarkan KI-2;
+Kelompok kompetensi dasar pengetahuan menjabarkan KI-3; dan
+Kelompok kompetensi dasar keterampilan menjabarkan KI-4.
+Kompetensi dasar yang berkenaan dengan sikap spiritual (mendukung KI1) dan sikap sosial (mendukung KI-2) ditumbuhkan melalui pembelajaran tidak langsung (indirect teaching) yaitu pada saat peserta didik belajar tentang pengetahuan (mendukung KI-3) dan keterampilan (mendukung KI4). Pembelajaran langsung berkenaan dengan pembelajaran yang menyangkut KD yang dikembangkan dari KI-3 dan KI-4. Keduanya, dikembangkan secara bersamaan dalam suatu proses pembelajaran dan menjadi wahana untuk mengembangkan KD pada KI-1 dan KI-2. Pembelajaran KI-1 dan KI-2 terintegrasi dengan pembelajaran KI-3 dan KI4.
+
+- 439 -
+
+BAB IV DESAIN PEMBELAJARAN
+A. Kerangka Pembelajaran Proses pembelajaran pada Kurikulum 2013 untuk semua jenjang dilaksanakan dengan menggunakan pendekatan saintifik dan mencakup tiga ranah, yaitu sikap, pengetahuan, dan keterampilan. Dalam proses pembelajaran berbasis pendekatan saintifik, ranah sikap bertujuan agar peserta didik tahu tentang `mengapa'. Ranah keterampilan bertujuan agar peserta didik tahu tentang `bagaimana'. Ranah pengetahuan bertujaun agar peserta didik tahu tentang `apa'. Hasil akhirnya adalah penguasaan kompetensi sikap, keterampilan, dan pengetahuan yang seimbang sehingga menjadi manusia yang baik (soft skills) dan manusia yang memiliki kecakapan dan pengetahuan untuk hidup secara layak (hard skills).
+Gambar 4.1. Pengetahuan aspek sikap, keterampilan, dan pengetahuan
+Berdasarkan Permendikbud tentang Standar Proses, disebutkan bahwa proses pembelajaran pada satuan pendidikan diselenggarakan secara interaktif, inspiratif, menyenangkan, menantang, memotivasi peserta didik untuk berpartisipasi aktif, serta memberikan ruang yang cukup bagi prakarsa, kreativitas, dan kemandirian sesuai dengan bakat, minat, dan perkembangan fisik serta psikologis peserta didik. Mengacu pada standar tersebut maka pembelajaran IPA mengikuti prinsip-prinsip sebagai berikut: 1. peserta didik difasilitasi untuk mencari tahu; 2. peserta didik belajar dari berbagai sumber belajar; 3. proses pembelajaran menggunakan pendekatan ilmiah; 4. pembelajaran berbasis kompetensi; 5. pembelajaran terpadu; 6. pembelajaran yang menekankan pada jawaban divergen yang memiliki
+kebenaran multi dimensi; 7. pembelajaran berbasis keterampilan aplikatif; 8. peningkatan keseimbangan, kesinambungan, dan keterkaitan antara
+hard-skills dan soft-skills; 9. pembelajaran yang mengutamakan pembudayaan dan pemberdayaan
+peserta didik sebagai pembelajar sepanjang hayat; 10. pembelajaran yang menerapkan nilai-nilai dengan memberi keteladanan
+(ing ngarso sung tulodo), membangun kemauan (ing madyo mangun
+- 440 -
+
+karso), dan mengembangkan kreativitas peserta didik dalam proses pembelajaran (tut wuri handayani); 11. pembelajaran yang berlangsung di rumah, di sekolah, dan di masyarakat; 12. pemanfaatan teknologi informasi dan komunikasi untuk meningkatkan efisiensi dan efektivitas pembelajaran; 13. pengakuan atas perbedaan individualdan latar belakang budaya peserta didik; dan 14. suasana belajar menyenangkan dan menantang.
+Sesuai dengan hakekat Kurikulum 2013, pembelajaran IPA meliputi pengetahuan, keterampilan, dan sikap serta kemampuan berpikir melalui interaksi langsung dengan sumber belajar yang dirancang melalui kegiatan pembelajaran dalam silabus dan RPP. Dalam kegiatan pembelajaran peserta didik melakukan kegiatan mengamati, menanya, mengumpulkan informasi, menalar/mengasosiasi, dan mengkomunikasikan apa yang sudah ditemukan dalam kegiatan analisis. Proses pembelajaran harus menghasilkan pengetahuan dan keterampilan langsung atau yang disebut dengan instructional effect (efek langsung). Pembelajaran ini berkenaan dengan pembelajaran yang menyangkut KD yang dikembangkan dari KI-3 dan KI-4. Keduanya dikembangkan secara bersamaan dalam suatu proses pembelajaran dan menjadi wahana untuk mengembangkan KD pada KI-1 dan KI-2. Dapat dikatakan bahwa pengembangan KD dari KI-1 dan KI-2 terjadi sebagai nurturant effect (efek pendamping) dari kegiatan pembelajaran menyangkut KD dari KI-3 dan KI-4.
+
+B. Pendekatan Pembelajaran
+
+1. Pendekatan Saintifik (Scientific Approach)
+Pembelajaran pada Kurikulum 2013 menggunakan pendekatan saintifik atau pendekatan berbasis proses keilmuan. Pendekatan saintifik dapat menggunakan beberapa strategi seperti pembelajaran kontekstual. Model pembelajaran merupakan suatu bentuk pembelajaran yang memiliki nama, ciri, sintak, pengaturan, dan budaya misalnya discovery learning, project-based learning, problem-based learning, inquiry learning.
+
+Kurikulum 2013 menggunakan modus pembelajaran langsung (direct
+
+instructional) dan tidak langsung (indirect instructional). Pembelajaran
+
+langsung adalah pembelajaran yang mengembangkan pengetahuan,
+
+kemampuan berpikir dan keterampilan menggunakan pengetahuan
+
+peserta didik melalui interaksi langsung dengan sumber belajar yang
+
+dirancang dalam silabus dan RPP. Dalam pembelajaran langsung
+
+peserta didik melakukan kegiatan mengamati, menanya,
+
+mengumpulkan
+
+informasi,
+
+menalar/mengasosiasi,
+
+dan
+
+mengomunikasikan. Pembelajaran langsung menghasilkan
+
+pengetahuan dan keterampilan langsung, yang disebut dengan dampak
+
+pembelajaran (instructional effect).
+
+Pembelajaran tidak langsung adalah pembelajaran yang terjadi selama proses pembelajaran langsung yang dikondisikan menghasilkan dampak pengiring (nurturant effect). Pembelajaran tidak langsung berkenaan dengan pengembangan nilai dan sikap yang terkandung dalam KI-1 dan KI-2. Hal ini berbeda dengan pengetahuan tentang nilai dan sikap yang dilakukan dalam proses pembelajaran langsung oleh mata pelajaran Pendidikan Agama dan Budi Pekerti serta Pendidikan
+
+- 441 -
+
+Pancasila dan Kewarganegaraan. Pengembangan nilai dan sikap sebagai proses pengembangan moral dan perilaku, dilakukan oleh seluruh mata pelajaran dan dalam setiap kegiatan yang terjadi di kelas, sekolah, dan masyarakat. Oleh karena itu, dalam proses pembelajaran Kurikulum 2013, semua kegiatan intrakurikuler, kokurikuler, dan ekstrakurikuler baik yang terjadi di kelas, sekolah, dan masyarakat (luar sekolah) dalam rangka mengembangkan moral dan perilaku yang terkait dengan nilai dan sikap. Pendekatan saintifik meliputi lima pengalaman belajar sebagaimana tercantum dalam tabel berikut.
+
+Tabel 4.1. Deskripsi Langkah Pembelajaran*)
+
+Langkah Pembelajaran
+
+Deskripsi Kegiatan
+
+Bentuk hasil belajar
+
+Mengamati (observing)
+
+Mengamati dengan indra (membaca, mendengar, menyimak, melihat, menonton, dan sebagainya) dengan atau tanpa alat
+
+Perhatian pada waktu mengamati suatu objek/membaca suatu tulisan/mendengar suatu penjelasan, catatan yang dibuat tentang yang diamati, kesabaran, waktu (on task) yang digunakan untuk mengamati
+
+Menanya (questioning)
+
+Membuat dan mengajukan pertanyaan, tanya jawab, berdiskusi
+tentang informasi yang belum dipahami, informasi tambahan yang ingin diketahui, atau sebagai klarifikasi.
+
+Jenis, kualitas, dan jumlah pertanyaan yang diajukan peserta didik (pertanyaan faktual, konseptual, prosedural, dan hipotetik)
+
+Mengumpulkan informasi (experimenting)
+
+Mengeksplorasi, mencoba, berdiskusi, mendemonstrasi-kan, meniru bentuk/gerak, melakukan eksperimen, membaca sumber lain selain buku teks, mengumpulkan data dari nara sumber melalui angket, wawancara, dan memodifikasi/ menambahi/mengembang kan
+
+jumlah dan kualitas sumber yang dikaji/digunakan, kelengkapan informasi, validitas informasi yang dikumpulkan, dan instrumen/alat yang digunakan untuk mengumpulkan data.
+
+Menalar/Mengas osiasi (associating)
+
+mengolah informasi yang sudah dikumpulkan, menganalisis data dalam bentuk membuat kategori, mengasosiasi atau menghubungkan fenomena/informasi yang terkait dalam rangka menemukan suatu pola, dan menyimpulkan.
+
+mengembangkan interpretasi, argumentasi dan kesimpulan mengenai keterkaitan informasi dari dua fakta/konsep, interpretasi argumentasi dan kesimpulan mengenai keterkaitan lebih dari dua fakta/konsep/teori, mensintesis dan argumentasi serta kesimpulan keterkaitan antar berbagai jenis faktafakta/konsep/teori/pendap
+
+- 442 -
+
+Langkah Pembelajaran
+Mengomunikasikan (communicating)
+
+Deskripsi Kegiatan
+menyajikan laporan dalam bentuk bagan, diagram, atau grafik; menyusun laporan tertulis; dan menyajikan laporan meliputi proses, hasil, dan kesimpulan secara lisan
+
+Bentuk hasil belajar
+at; mengembangkan interpretasi, struktur baru,argumentasi, dan kesimpulan yang menunjukkan hubungan fakta/konsep/teori dari dua sumber atau lebih yang tidak bertentangan; mengembangkan interpretasi, struktur baru, argumentasi dan kesimpulan dari konsep/teori/pendapat yang berbeda dari berbagai jenis sumber.
+menyajikan hasil kajian (dari mengamati sampai menalar) dalambentuk tulisan, grafis, media elektronik, multi media dan lain-lain
+
+*) Dapat disesuaikan dengan kekhasan masing-masing mata pelajaran.
+
+2. Pendekatan Keterampilan Proses
+Setiap mata pelajaran memiliki karakteristik khusus dalam pendekatan pembelajaran. Pembelajaran IPA lebih menekankan pada penerapan keterampilan proses. Aspek-aspek pada pendekatan ilmiah (scientific approach) terintegrasi pada pendekatan keterampilan proses dan metode ilmiah. Keterampilan proses sains merupakan seperangkat keterampil-an yang digunakan para ilmuwan dalam melakukan penyelidikan ilmiah. Keterampilan yang dilatihkan ini dikenal dengan keterampilan proses IPA. American Association for the Advancement of Science (1970) mengklasifikasi-kannya menjadi keterampilan proses dasar dan keterampilan proses terpadu. Indikator kedua keterampilan proses tersebut dapat dilihat pada Tabel 4.3 berikut ini.
+Tabel 4.3. Indikator Keterampilan Proses Dasar dan Terpadu
+
+Keterampilan Proses Dasar
+
+Keterampilan Proses Terpadu
+
+ Pengamatan
+
+ Pengontrolan variabel
+
+ Pengukuran
+
+ Interpretasi data
+
+ Menyimpulkan
+
+ Perumusan hipotesa
+
+ Meramalkan  Menggolongkan
+
+ Pendefinisian variabel secara operasional
+
+ Mengkomunikasikan  Merancang eksperimen
+
+Keterampilan proses perlu dikembangkan melalui pengalamanpengalaman langsung sebagai pengalaman pembelajaran. Melalui pengalaman langsung seseorang dapat lebih menghayati proses atau
+
+- 443 -
+
+kegiatan yang sedang dilakukan. Tabel 4.4 menyajikan indikator keterampilan proses sains beserta sub indikatornya.
+Tabel 4.4. Indikator Keterampilan Proses Sains beserta Sub indikatornya.
+
+No.
+
+Indikator
+
+Sub Indikator Keterampilan Proses Sains
+
+1. Mengamati
+
+- Menggunakan sebanyak mungkin alat
+
+indera
+
+- Mengumpulkan/menggunakan fakta
+
+yang relevan
+
+2. Mengelompokkan/ - Mencatat setiap pengamatan secara
+
+Mengklasifikasi
+
+terpisah
+
+- Mencari perbedaan, persamaan
+
+- Mengontraskan ciri-ciri
+
+- Membandingkan
+
+- Mencari dasar pengelompokkan atau
+
+penggolongan
+
+3. Menafsirkan
+
+- Menghubungkan hasil-hasil pengamatan
+
+- Menemukan pola dalam suatu seri
+
+pengamatan
+
+- Menyimpulkan
+
+4. Meramalkan
+
+- Menggunakan pola-pola hasil
+
+pengamatan
+
+- Mengungkapkan apa yang mungkin
+
+terjadi pada keadaan sebelum diamati
+
+5. Mengajukan
+
+- Bertanya apa, mengapa, dan bagaimana
+
+pertanyaan
+
+- Bertanya untuk meminta penjelasan
+
+- Mengajukan pertanyaan yang berlatar
+
+belakang hipotesis
+
+6. Merumuskan
+
+- Mengetahui bahwa ada lebih dari satu
+
+hipotesis
+
+kemungkinan penjelasan dari suatu
+
+kejadian
+
+- Menyadari bahwa suatu penjelasan
+
+perlu diuji kebenarannya dengan
+
+memperoleh bukti lebih banyak atau
+
+melakukan cara pemecahan masalah.
+
+7. Merencanakan
+
+- Menentukan alat/bahan/sumber yang
+
+percobaan
+
+akan digunakan
+
+- Menentukan variabel/ faktor penentu
+
+- Menentukan apa yang akan diukur,
+
+diamati, dan dicatat
+
+- Menentukan apa yang akan
+
+dilaksanakan berupa langkah kerja
+
+8. Menggunakan
+
+- Memakai alat/bahan
+
+alat/bahan
+
+- Mengetahui alasan mengapa
+
+menggunakan alat/bahan
+
+- Mengetahui bagaimana menggunakan
+
+alat/ bahan.
+
+9. Menerapkan
+
+- Menggunakan konsep yang telah
+
+konsep
+
+dipelajari dalam situasi baru
+
+- Menggunakan konsep pada pengalaman
+
+baru untuk menjelaskan apa yang
+
+sedang terjadi
+
+10. Berkomunikasi - Mengubah bentuk penyajian
+
+- 444 -
+
+No.
+
+Indikator
+
+Sub Indikator Keterampilan Proses Sains
+
+- Menggambarkan data empiris hasil percobaan atau pengamatan dengan grafik atau tabel atau diagram
+- Menyusun dan menyampaikan laporan secara sistematis
+- Menjelaskan hasil percobaan atau penelitian
+- Membaca grafik atau tabel atau diagram - Mendiskusikan hasil kegiatan mengenai
+suatu masalah atau suatu peristiwa
+
+C. Rancangan Pembelajaran
+Dokumen operasional untuk rancangan pembelajaran setiap mata pelajaran adalah Silabus dan Rencana Pelaksanaan Pembelajaran (RPP).
+1. Silabus
+Silabus merupakan acuan penyusunan kerangka pembelajaran untuk setiap bahan kajian mata pelajaran. Silabus paling sedikit memuat:
+a. Identitas mata pelajaran
+b. Identitas sekolah meliputi nama satuan pendidikan dan kelas;
+c. kompetensi inti, merupakan gambaran secara kategorial mengenai kompetensi dalam aspek sikap, pengetahuan, dan keterampilan yang harus dipelajari untuk suatu jenjang sekolah, kelas dan mata pelajaran;
+d. kompetensi dasar, merupakan kemampuan spesifik yang mencakup sikap, pengetahuan, dan keterampilan yang terkait muatan atau mata pelajaran;
+e. materi pembelajaran, memuat fakta, konsep, prinsip, dan prosedur yang relevan, dan ditulis dalam bentuk butir-butir sesuai dengan rumusan indikator pencapaian kompetensi;
+f. kegiatan pembelajaran, yaitu kegiatan yang dilakukan oleh pendidik dan peserta didik untuk mencapai kompetensi yang diharapkan;
+g. penilaian, merupakan proses pengumpulan dan pengolahan informasi untuk menentukan pencapaian hasil belajar peserta didik;
+h. alokasi waktu sesuai dengan jumlah jam pelajaran dalam struktur kurikulum untuk satu semester atau satu tahun; dan
+i. sumber belajar, dapat berupa buku, media cetak dan elektronik, alam sekitar atau sumber belajar lain yang relevan.
+Pengembangan silabus mengacu pada Permendikbud tentang Standar Isi, Permendikbud tentang Standar Proses, Permendikbud tentang Standar Penilaian, dan Permendikbud tentang Kurikulum SMP/MTs. Untuk Kurikulum 2013 silabus dikembangkan di tingkat pusat yang digunakan sebagai acuan dalam pengembangan rencana pelaksanaan pembelajara (RPP).
+2. Rencana Pelaksanaan Pembelajaran (RPP)
+
+- 445 -
+
+Tahap pertama dalam pembelajaran yaitu perencanaan pembelajaran yang diwujudkan dengan kegiatan penyusunan rencana pelaksanaan pembelajaran (RPP).
+a. Hakikat RPP
+RPP merupakan rencana pembelajaran yang dikembangkan secara rinci dari suatu materi pembelajaran atau tema tertentu yang mengacu pada silabus. RPP mencakup: (1) data sekolah/madrasah, mata pelajaran, dan kelas/semester; (2) materi pembelajaran; (3) alokasi waktu; (4) KI, KD, indikator pencapaian kompetensi; (5) deskripsi materi pembelajaran; (6) kegiatan pembelajaran; (7) penilaian; dan (8) media/alat, bahan, dan sumber belajar.
+Setiap guru di setiap satuan pendidikan berkewajiban menyusun RPP untuk kelas di mana guru tersebut mengajar (guru kelas) di SD dan untuk guru mata pelajaran yang diampunya untuk guru SMP/MTs, SMA/MA, dan SMK/MAK. Pengembangan RPP dilakukan sebelum awal semester atau awal tahun pelajaran dimulai, namun perlu diperbaharui sebelum pembelajaran dilaksanakan.
+Pengembangan RPP dapat dilakukan oleh guru secara mandiri dan/atau berkelompok di sekolah/madrasah dikoordinasi, difasilitasi, dan disupervisi oleh kepala sekolah/madrasah.
+Pengembangan RPP dapat juga dilakukan oleh guru secara berkelompok antarsekolah atau antarwilayah dikoordinasi, difasilitasi, dan disupervisi oleh dinas pendidikan atau kantor kementerian agama setempat.
+b. Prinsip Penyusunan RPP
+1) Setiap RPP harus memuat secara utuh memuat kompetensi sikap spiritual (KD dari KI-1), sosial (KD dari KI-2), pengetahuan (KD dari KI-3), dan keterampilan (KD dari KI-4).
+2) Satu RPP dapat dilaksanakan dalam satu kali atau lebih dari satu kali pertemuan.
+3) Memperhatikan perbedaan individu peserta didik
+RPP disusun dengan memperhatikan perbedaan jenis kelamin, kemampuan awal, tingkat intelektual, minat, motivasi belajar, bakat, potensi, kemampuan sosial, emosi, gaya belajar, kebutuhan khusus, kecepatan belajar, latar belakang budaya, norma, nilai, dan/atau lingkungan peserta didik.
+4) Berpusat pada peserta didik
+Proses pembelajaran dirancang dengan berpusat pada peserta didik untuk mendorong motivasi, minat, kreativitas, inisiatif, inspirasi, kemandirian, dan semangat belajar, menggunakan pendekatan saintifik meliputi mengamati, menanya, mengumpulkan informasi, menalar, dan mengomunikasikan.
+5) Mengembangkan budaya belajar sepanjang hayat
+Proses pembelajaran dirancang untuk mengembangkan kegemaran membaca, pemahaman beragam bacaan, dan berekspresi dalam berbagai bentuk tulisan.
+6) Memberikan umpan balik dan tindak lanjut pembelajaran
+- 446 -
+
+RPP memuat rancangan program pemberian umpan balik positif, penguatan, pengayaan, dan remedi.
+7) Memiliki keterkaitan dan keterpaduan antarkompetensi dan/atau antarmuatan
+RPP disusun dengan memperhatikan keterkaitan dan keterpaduan antara KI, KD, materi pembelajaran, kegiatan pembelajaran, indikator pencapaian kompetensi, penilaian, dan sumber belajar dalam satu keutuhan pengalaman belajar. RPP disusun dengan mengakomodasikan pembelajaran tematik, keterpaduan lintas mata pelajaran, lintas aspek belajar, dan keragaman budaya.
+8) Menerapkan teknologi informasi dan komunikasi
+RPP disusun dengan mempertimbangkan penerapan teknologi informasi dan komunikasi secara terintegrasi, sistematis, dan efektif sesuai dengan situasi dan kondisi.
+
+c. Komponen dan Sistematika RPP
+Komponen-komponen RPP secara operasional diwujudkan dalam bentuk format berikut ini.
+RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+
+Sekolah
+
+:
+
+Mata pelajaran
+
+:
+
+Kelas/Semester
+
+:
+
+Materi Pembelajaran
+
+:
+
+Alokasi Waktu
+
+:
+
+A. Kompetensi Inti (KI) B. Kompetensi Dasar 1. KD pada KI-1 2. KD pada KI-2 3. KD pada KI-3 4. KD pada KI-3 C. D. Indikator Pencapaian Kompetensi*) 1. Indikator KD pada KI-1 2. Indikator KD pada KI-2 3. Indikator KD pada KI-3 4. Indikator KD pada KI-4 E. F. Deskripsi Materi Pembelajaran (dapat berupa rincian, uraian, atau
+penjelasan materi pembelajaran) G. H. Kegiatan Pembelajaran 1. Pertemuan Pertama: (...JP) a. Kegiatan Pendahuluan b. Kegiatan Inti**)
+- Mengamati - Menanya - Mengumpulkan informasi - Menalar/Mengasosiasi
+
+- 447 -
+
+- Mengomunikasikan c. Kegiatan Penutup 2. Pertemuan Kedua: (...JP) a. Kegiatan Pendahuluan b. Kegiatan Inti**)
+- Mengamati - Menanya - Mengumpulkan informasi - Menalar/Mengasosiasi - Mengomunikasikan c. Kegiatan Penutup 3. Pertemuan seterusnya. I. Penilaian
+- Teknik penilaian - Instrumen penilaian dan pedoman penskoran Pertemuan Pertama Pertemuan Kedua a. Pertemuan seterusnya J. Media/alat, Bahan, dan Sumber Belajar 1. Media/alat 2. Bahan Sumber Belajar
+*) Pada setiap KD dikembangkan indikator atau penanda.Indikator untuk KD yang diturunkan dari KI-1 dan KI-2 dirumuskan dalam bentuk perilaku umum yang bermuatan nilai dan sikap yang gejalanya dapat diamati. Indikator untuk KD yang diturunkan dari KI-3 dan KI-4 dirumuskan dalam bentuk perilaku spesifik yang dapat diamati dan terukur.
+**) Pada kegiatan inti, kelima pengalaman belajar tidak harus muncul seluruhnya dalam satu pertemuan tetapi dapat dilanjutkan pada pertemuan berikutnya, tergantung cakupan muatan pembelajaran.
+*) Pada setiap KD dikembangkan indikator atau penanda. Indikator untuk KD yang diturunkan dari KI-1 dan KI-2 dirumuskan dalam bentuk perilaku umum yang bermuatan nilai dan sikap yang gejalanya dapat diamati. Indikator untuk KD yang diturunkan dari KI-3 dan KI-4 dirumuskan dalam bentuk perilaku spesifik yang dapat diamati dan terukur.
+**) Pada kegiatan inti kelima pengalaman belajar tidak harus muncul seluruhnya tergantung cakupan muatan pembelajaran.
+d. Langkah Penyusunan RPP
+1) Pengkajian Silabus
+Pengkajian terhadap silabus meliputi: (1) KI dan KD; (2) materi pembelajaran; (3) kegiatan pembelajaran; (4) penilaian; (5) alokasi waktu; dan (6) sumber belajar. 2) Perumusan indikator pencapaian KD pada KI-1, KI-2, KI-3, dan KI-4;
+3) Deskripi Materi Pembelajaran Langkah ini dapat berupa merinci, menjabarkan, menguraikan, dan mengidentifikasi materi pembelajaran dengan memperhatikan prinsip penyusunan RPP.
+4) Penjabaran Kegiatan Pembelajaran Menjabarkan kegiatan pembelajaran yang ada pada silabus dalam bentuk yang lebih operasional berupa pendekatan
+- 448 -
+
+saintifik disesuaikan dengan kondisi peserta didik dan satuan pendidikan termasuk penggunaan media, alat, bahan, dan sumber belajar.
+5) Penentuan Alokasi Waktu Menentukan alokasi waktu untuk setiap pertemuan berdasarkan alokasi waktu pada silabus, selanjutnya dibagi ke dalam kegiatan pendahuluan, inti, dan penutup.
+6) Pengembangan Penilaian Menentukan lingkup, teknik, dan instrumen penilaian, serta membuat pedoman penskoran.
+7) Menentukan Media, Alat, Bahan dan Sumber Belajar Penentuan media, alat, bahan, dan sumber belajar disesuaikan dengan yang telah ditetapkan dalam langkah penjabaran kegiatan pembelajaran.
+
+3. Pelaksanaan
+Tahap pelaksanaan pembelajaran meliputi:
+a. Kegiatan Pendahuluan
+Dalam kegiatan pendahuluan, guru: 1) mengkondisikan suasana belajar yang menyenangkan. 2) mendiskusikan kompetensi yang sudah dipelajari dan
+dikembangkan sebelumnya berkaitan dengan kompetensi yang akan dipelajari dan dikembangkan; 3) menyampaikan kompetensi yang akan dicapai dan manfaatnya dalam kehidupan sehari-hari; dan 4) menyampaikan garis besar cakupan materi dan kegiatan yang akan dilakukan. 5) menyampaikan lingkup dan teknik penilaian yang akan digunakan.
+
+b. Kegiatan Inti
+
+Kegiatan inti merupakan proses pembelajaran untuk mencapai kompetensi, yang dilakukan secara interaktif, inspiratif, menyenangkan, menantang, memotivasi peserta didik untuk berpartisipasi aktif, serta memberikan ruang yang cukup bagi prakarsa, kreativitas, dan kemandirian sesuai dengan bakat, minat dan perkembangan fisik serta psikologis peserta didik.
+
+Kegiatan inti menggunakan pendekatan saintifik yang disesuaikan
+
+dengan karakteristik mata pelajaran dan peserta didik. Guru
+
+memfasilitasi peserta didik untuk melakukan proses mengamati,
+
+menanya,
+
+mengumpulkan
+
+informasi,
+
+menalar,
+
+dan
+
+mengomunikasikan
+
+Dalam setiap kegiatan guru harus memperhatikan perkembangan sikap peserta didik pada kompetensi dasar dari KI-1 dan KI-2 antara lain mensyukuri karunia Tuhan, jujur, teliti, kerja sama, toleransi, disiplin, taat aturan, menghargai pendapat orang lain yang tercantum dalam silabus dan RPP.
+c. Kegiatan Penutup
+
+Dalam kegiatan penutup, guru bersama peserta didik melakukan: (a) membuat rangkuman/simpulan pelajaran; (b) refleksi terhadap kegiatan yang sudah dilaksanakan; dan (c) memberikan umpan balik terhadap proses dan hasil pembelajaran.
+
+- 449 -
+
+Selanjutnya guru juga perlu melakukan: (a) melakukan penilaian; (b) merencanakan kegiatan tindak lanjut dalam bentuk pembelajaran remedi, program pengayaan, layanan konseling dan/atau memberikan tugas baik tugas individual maupun kelompok sesuai dengan hasil belajar peserta didik; dan (c) menyampaikan rencana pembelajaran pada pertemuan berikutnya.
+- 450 -
+
+BAB V MODEL-MODEL PEMBELAJARAN
+
+Sesuai dengan Permendikbud tentang Standar Proses Pendidikan Dasar dan Menengah, kegiatan pembelajaran sepenuhnya diarahkan pada pengembangan ranah pengetahuan, keterampilan, dan sikap secara utuh melalui pendekatan saintifik dan diperkuat dengan penerapan pembelajaran berbasis penyingkapan/penelitian (discovery/inquiry learning) dan pembelajaran yang menghasilkan karya berbasis pemecahan masalah (project based learning).
+Pendekatan saintifik secara menyeluruh telah diuraikan pada Bab IV. Bagian ini lebih fokus pada pembahasan secara praktis mengenai karakteristik model pembelajaran discovery/inquiry learning, problem based learning dan project based learning serta teknik memilih sebuah model pembelajaran yang sesuai dengan tuntutan kompetensi dan karakteristik siswa.
+
+A. Discovery Learning
+Model pembelajaran Discovery Learning mengarahkan peserta didik untuk memahami konsep, arti, dan hubungan, melalui proses intuitif untuk akhirnya sampai kepada suatu kesimpulan. Penemuan konsep tidak disajikan dalam bentuk akhir, tetapi peserta didik didorong untuk mengidentifikasi apa yang ingin diketahui dan dilanjutkan dengan mencari informasi sendiri kemudian mengorganisasi atau mengkonstruksi apa yang mereka ketahui dan pahami dalam suatu bentuk akhir. Hal tersebut terjadi bila peserta didik terlibat, terutama dalam penggunaan proses mentalnya untuk menemukan beberapa konsep dan prinsip. Discovery dilakukan melalaui observasi, klasifikasi, pengukuran, prediksi, penentuan dan inferring. Proses tersebut disebut cognitive process sedangkan discovery itu sendiri adalah the mental process of assimilating conceps and principles in the mind.
+
+Penggunaan Discovery Learning, ingin mengubah kondisi belajar yang pasif menjadi aktif dan kreatif, pembelajaran yang teacher oriented ke student oriented, dan mengubah modus ekspository siswa hanya menerima informasi dari guru ke modus Discovery siswa menemukan informasi sendiri.
+1. Langkah-langkah Operasional Implementasi dalam Proses Pembelajaran
+Langkah-langkah dalam mengaplikasikan model discovery learning di kelas adalah sebagai berikut.
+a. Perencanaan 1) Menentukan tujuan pembelajaran 2) Melakukan identifikasi karakteristik siswa (kemampuan awal, minat, gaya belajar, dan sebagainya) 3) Memilih materi pelajaran 4) Menentukan topik-topik yang harus dipelajari siswa secara induktif (dari contoh-contoh generalisasi) 5) Mengembangkan bahan-bahan belajar yang berupa contoh-contoh, ilustrasi, tugas dan sebagainya untuk dipelajari siswa 6) Mengatur topik-topik pelajaran dari yang sederhana ke kompleks, dari yang konkret ke abstrak, atau dari tahap enaktif, ikonik sampai ke simbolik 7) Melakukan penilaian proses dan hasil belajar siswa
+
+b. Pelaksanaan
+
+- 451 -
+
+Dalam mengaplikasikan metode Discovery Learning di kelas, ada beberapa prosedur yang harus dilaksanakan dalam kegiatan pembelajara, secara umum sebagai berikut.
+1) Stimulation (stimulasi/pemberian rangsangan)
+Pertama-tama pada tahap ini siswa dihadapkan pada sesuatu yang menimbulkan kebingungannya, kemudian dilanjutkan untuk tidak memberi generalisasi, agar timbul keinginan untuk menyelidiki sendiri. Disamping itu guru dapat memulai kegiatan pembelajaran dengan mengajukan pertanyaan, anjuran membaca buku, dan aktivitas belajar lainnya yang mengarah pada persiapan pemecahan masalah. Stimulasi pada tahap ini berfungsi untuk menyediakan kondisi interaksi belajar yang dapat mengembangkan dan membantu siswa untuk melakukan eksplorasi. Dalam hal memberikan stimulasi dapat menggunakan teknik bertanya yaitu dengan mengajukan pertanyaan-pertanyaan yang dapat menghadapkan siswa pada kondisi internal yang mendorong eksplorasi. Dengan demikian seorang Guru harus menguasai teknik-teknik dalam memberi stimulus kepada siswa agar tujuan mengaktifkan siswa untuk mengeksplorasi dapat tercapai.
+2) Problem statement (pernyataan/ identifikasi masalah)
+Setelah melakukan stimulasi langkah selanjutya adalah guru memberi kesempatan kepada siswa untuk mengidentifikasi sebanyak mungkin agenda-agenda masalah yang relevan dengan bahan pelajaran, kemudian pilih salah satu masalah dan dirumuskan dalam bentuk hipotesis (jawaban sementara atas pertanyaan masalah). Memberikan kesempatan siswa untuk mengidentifikasi dan menganalisa permasasalahan yang mereka hadapi, merupakan teknik yang berguna dalam membangun pemahaman siswa agar terbiasa untuk menemukan masalah.
+3) Data collection (pengumpulan data).
+Tahap ini berfungsi untuk menjawab pertanyaan atau membuktikan benar tidaknya hipotesis, dengan memberi kesempatan siswa mengumpulkan berbagai informasi yang relevan, membaca literatur, mengamati objek, wawancara dengan nara sumber, melakukan uji coba sendiri dan sebagainya. Konsekuensi dari tahap ini adalah siswa belajar secara aktif untuk menemukan sesuatu yang berhubungan dengan permasalahan yang dihadapi, dengan demikian secara tidak disengaja siswa menghubungkan masalah dengan pengetahuan yang telah dimiliki.
+4) Data processing (pengolahan data)
+Pengolahan data merupakan kegiatan mengolah data dan informasi yang telah diperoleh para siswa baik melalui wawancara, observasi, dan sebagainya, lalu ditafsirkan. Semua informai hasil bacaan, wawancara, observasi, dan sebagainya, semuanya diolah, diacak, diklasifikasikan, ditabulasi, bahkan bila perlu dihitung dengan cara tertentu serta ditafsirkan pada tingkat kepercayaan tertentu. Data processing disebut juga dengan pengkodean coding/ kategorisasi yang berfungsi sebagai pembentukan konsep dan generalisasi. Dari generalisasi tersebut siswa akan mendapatkan pengetahuan baru tentang alternatif jawaban/ penyelesaian yang perlu mendapat pembuktian secara logis
+- 452 -
+
+5) Verification (pembuktian)
+Pada tahap ini siswa memeriksa secara cermat untuk membuktikan benar atau tidaknya hipotesis yang ditetapkan dengan temuan alternatif, dihubungkan dengan hasil data yang telah diolah. Verifikasi bertujuan agar proses belajar berjalan dengan baik dan kreatif jika guru memberikan kesempatan kepada siswa untuk menemukan suatu konsep, teori, aturan atau pemahaman melalui contoh-contoh yang ia jumpai dalam kehidupannya. Berdasarkan hasil pengolahan dan tafsiran, atau informasi yang ada, pernyataan atau hipotesis yang telah dirumuskan terdahulu itu kemudian dicek, apakah terjawab atau tidak, apakah terbukti atau tidak.
+6) Generalization (menarik kesimpulan/generalisasi)
+Tahap generalisasi adalah proses menarik kesimpulan yang dapat dijadikan prinsip umum dan berlaku untuk semua kejadian atau masalah yang sama, dengan memperhatikan hasil verifikasi.
+B. Project Based Learning
+Pembelajaran Berbasis Proyek (Project Based Learning/ PjBL) adalah model pembelajaran yang menggunakan proyek/kegiatan sebagai inti pembelajaran. Siswa melakukan eksplorasi, penilaian, interpretasi, sintesis, dan informasi untuk menghasilkan berbagai bentuk hasil belajar. Pembelajaran Berbasis Proyek merupakan model belajar yang menggunakan masalah sebagai langkah awal dalam mengumpulkan dan mengintegrasikan pengetahuan baru berdasarkan pengalamannya dalam beraktifitas secara nyata. Pembelajaran Berbasis Proyek dirancang untuk digunakan pada permasalahan komplek yang diperlukan siswa dalam melakukan insvestigasi dan memahaminya. Melalui PjBL, proses inquiry dimulai dengan memunculkan pertanyaan penuntun (a guiding question) dan membimbing siswa dalam sebuah proyek kolaboratif yang mengintegrasikan berbagai subjek (materi) dalam kurikulum. Pada saat pertanyaan terjawab, secara langsung siswa dapat melihat berbagai elemen utama sekaligus berbagai prinsip dalam sebuah disiplin yang sedang dikajinya. PjBL merupakan investigasi mendalam tentang sebuah topik dunia nyata.
+Mengingat bahwa masing-masing siswa memiliki gaya belajar yang berbeda, maka Pembelajaran Berbasis Proyek memberikan kesempatan kepada para siswa untuk menggali konten (materi) dengan menggunakan berbagai cara yang bermakna bagi dirinya, dan melakukan eksperimen secara kolaboratif. Pembelajaran Berbasis Proyek dapat dikatakan sebagai operasionalisasi konsep "Pendidikan Berbasis Produksi" yang biasa dikembangkan di Sekolah Menengah Kejuruan (SMK), yang dapat diadopsi untuk pembelajaran sains/kimia di SMA pada materi-materi yang relevan. Dengan pembelajaran berbasis produksi siswa diperkenalkan dengan suasana dan makna kerja yang sesungguhnya di dunia kerja. Pembelajaran Berbasis Proyek memiliki karakteristik sebagai berikut:
+1. siswa membuat keputusan tentang sebuah kerangka kerja,
+2. adanya permasalahan atau tantangan yang diajukan kepada siswa,
+3. siswa mendesain proses untuk menentukan solusi atas permasalahan atau tantangan yang diajukan,
+4. siswa secara kolaboratif bertanggungjawab untuk mengakses dan mengelola informasi untuk memecahkan permasalahan,
+- 453 -
+
+5. proses evaluasi dijalankan secara kontinyu, 6. siswa secara berkala melakukan refleksi atas aktivitas yang sudah
+dijalankan, 7. produk akhir aktivitas belajar akan dievaluasi secara kualitatif, 8. situasi pembelajaran sangat toleran terhadap kesalahan dan
+perubahan
+Peran instruktur atau guru dalam Pembelajaran Berbasis Proyek sebaiknya sebagai fasilitator, pelatih, penasehat dan perantara untuk mendapatkan hasil yang optimal sesuai dengan daya imajinasi, kreasi dan inovasi dari siswa.
+Langkah-Langkah Operasional Langkah langkah pelaksanaan Pembelajaran Berbasis Proyek dapat dijelaskan dengan diagram sebagai berikut.
+Diagram 1. Langkah langkah Pelaksanaan Pembelajaran Berbasis Proyek
+Penjelasan langkah-langkah Pembelajaran Berbasis Proyek sebagai berikut. a. Penentuan Pertanyaan Mendasar (Start With the Essential Question)
+Pembelajaran dimulai dengan pertanyaan esensial, yaitu pertanyaan yang dapat memberi penugasan siswa dalam melakukan suatu aktivitas. Mengambil topik yang sesuai dengan realitas dunia nyata dan dimulai dengan sebuah investigasi mendalam. Pengajar berusaha agar topik yang diangkat relevan untuk para siswa. b. Mendesain Perencanaan Proyek (Design a Plan for the Project) Perencanaan dilakukan secara kolaboratif antara pengajar dan siswa. Dengan emikian siswa diharapkan akan merasa "memiliki" atas proyek tersebut. Perencanaan berisi tentang aturan main, pemilihan aktivitas yang dapat mendukung dalam menjawab pertanyaan esensial, dengan cara mengintegrasikan berbagai subjek yang mungkin, serta mengetahui alat dan bahan yang dapat diakses untuk membantu penyelesaian proyek. c. Menyusun Jadwal (Create a Schedule) Pengajar dan siswa secara kolaboratif menyusun jadwal aktivitas dalam menyelesaikan proyek. Aktivitas pada tahap ini antara lain: (1) membuat timeline untuk menyelesaikan proyek, (2) membuat deadline penyelesaian proyek, (3) membawa siswa agar merencanakan cara yang baru, (4) membimbing siswa ketika mereka membuat cara yang tidak berhubungan dengan proyek, dan (5) meminta siswa untuk membuat penjelasan (alasan) tentang
+- 454 -
+
+pemilihan suatu cara.
+d. Memonitor siswa dan kemajuan proyek (Monitor the Students and the Progress of the Project) Pengajar bertanggungjawab untuk melakukan monitor terhadap aktivitas siswa selama menyelesaikan proyek. Monitoring dilakukan dengan cara menfasilitasi siswa pada setiap roses. Dengan kata lain pengajar berperan menjadi mentor bagi aktivitas siswa. Agar mempermudah proses monitoring, dibuat sebuah rubrik yang dapat merekam keseluruhan aktivitas yang penting.
+e. Menguji Hasil(Assess the Outcome)
+Penilaian dilakukan untuk membantu pengajar dalam mengukur ketercapaian standar, berperan dalam mengevaluasi kemajuan masing- masing siswa, memberi umpan balik tentang tingkat pemahaman yang sudah dicapai siswa, membantu pengajar dalam menyusun strategi pembelajaran berikutnya.
+f. Mengevaluasi Pengalaman (Evaluate the Experience)
+Pada akhir proses pembelajaran, pengajar dan siswa melakukan refleksi terhadap aktivitas dan hasil proyek yang sudah dijalankan. Proses refleksi dilakukan baik secara individu maupun kelompok. Pada tahap ini siswa diminta untuk mengungkapkan perasaan dan pengalamanya selama menyelesaikan proyek. Pengajar dan siswa mengembangkan diskusi dalam rangka memperbaiki kinerja selama proses pembelajaran, sehingga pada akhirnya ditemukan suatu temuan baru (new inquiry) untuk menjawab permasalahan yang diajukan pada tahap pertama pembelajaran.
+Peran guru dan siswa dalam pelaksanaan Pembelajaran Berbasis Proyek sebagai berikut.
+1. Peran Guru a. Merencanakan dan mendesain pembelajaran b. Membuat strategi pembelajaran c. Membayangkan interaksi yang akan terjadi antara guru dan siswa d. Mencari keunikan siswa e. Menilai siswa dengan cara transparan dan berbagai macam penilaian f. Membuat portofolio pekerjaan siswa
+2. Peran Siswa a. Menggunakan kemampuan bertanya dan berpikir b. Melakukan riset sederhana c. Mempelajari ide dan konsep baru d. Belajar mengatur waktu dengan baik e. Melakukan kegiatan belajar sendiri/kelompok f. Mengaplikasikanhasil belajar lewat tindakan g. Melakukan interaksi sosial (wawancara, survey, observasi, dll)
+C. Pembelajaran Berbasis Masalah (Problem Based Learning)
+Pembelajaran berbasis masalah merupakan sebuah model pembelajaran yang menyajikan berbagai permasalahan nyata dalam kehidupan seharihari siswa (bersifat kontekstual) sehingga merangsang siswa untuk belajar. Problem Based Learning menantang siswa untuk "belajar bagaimana
+- 455 -
+
+belajar", bekerja secara berkelompok untuk mencari solusi dari permasalahan dunia nyata. Masalah yang diberikan ini digunakan untuk mengikat siswa pada rasa ingin tahu pada pembelajaran yang dimaksud. Masalah diberikan kepada siswa, sebelum siswa mempelajari konsep atau materi yang berkenaan dengan masalah yang harus dipecahkan.
+
+Peran guru, siswa dan masalah dalam pembelajaran berbasis masalah dapat digambarkan sebagai berikut.
+
+Guru sebagai pelatih
+ Asking about thinking (bertanya tentang pemikiran)
+ memonitor pembelajaran  probbing ( menantang
+siswa untuk berfikir)  menjaga agar siswa terlibat  mengatur dinamika
+kelompok  menjaga berlangsungnya
+proses
+
+Siswa sebagai problem solver
+ peserta yang aktif
+ terlibat langsung dalam pembelajaran
+ membangun pembelajaran
+
+Masalah sebagai awal tantangan dan
+motivasi
+ menarik untuk dipecahkan
+ menyediakan kebutuhan yang ada hubungannya dengan pelajaran yang dipelajari
+
+Pembelajaran berbasis masalah berpusat pada siswa. Siswa harus dapat menentukan sendiri apa yang harus dipelajari, dari mana informasi dapat diperoleh, dan di bawah bimbingan guru. Tujuan dan hasil dari model pembelajaran berbasis masalah ini adalah untuk mengembangkan keterampilan berpikir tingkat tinggi, mendorong kerjasama dalam menyelesaikan tugas, melibatkan siswa dalam penyelidikan permasalahan pilihan sendiri yang memungkinkan mereka menginterpretasikan dan menjelaskan fenomena dunia nyata dan membangun pemahamannnya tentang fenomena tersebut.
+
+1. Langkah-langkah Implementasi Problem Based Learning
+Langkah-langkah dalam menerapkan Problem Based Learning di kelas dan perilaku guru dalam setiap fasenya adalah sebagai berikut.
+
+Tahapan-Tahapan Model PBL
+
+FASE-FASE Fase 1 Orientasi siswa kepada masalah
+Fase 2 Mengorganisasikan siswa Fase 3 Membimbing penyelidikan individu dan kelompok Fase 4 Mengembangkan dan menyajikan hasil
+
+KEGIATAN PEMBELAJARAN  Siswa menyimak penjelasan tentang
+tujuan pembelajaran dan logistik yg dibutuhkan  Siswa dimotivasi untuk terlibat aktif dalam pemecahan masalah yang dipilih
+ Siswa didorong mendefinisikan dan mengorganisasikan tugas belajar yang berhubungan dengan masalah tersebut
+ Siswa didorong untuk mengumpulkan informasi yang sesuai, melaksanakan eksperimen untuk mendapatkan penjelasan dan pemecahan masalah
+ Siswa dibimbing dalam merencanakan dan menyiapkan karya yang sesuai seperti laporan, model dan berbagi tugas dengan
+
+- 456 -
+
+FASE-FASE karya Fase 5 Menganalisa dan mengevaluasi proses pemecahan masalah
+
+KEGIATAN PEMBELAJARAN teman  Hasil belajar siswa dievaluasi terkait materi yang telah dipelajari /meminta kelompok presentasi hasil kerja
+
+Fase 1: Mengorientasikan siswa pada masalah
+Pembelajaran dimulai dengan menjelaskan tujuan pembelajaran dan aktivitas-aktivitas yang akan dilakukan. Dalam penggunaan PBL, tahapan ini sangat penting dimana guru harus menjelaskan dengan rinci apa yang harus dilakukan oleh siswa dan juga oleh guru. serta dijelaskan bagaimana guru akan mengevaluasi proses pembelajaran. Hal ini sangat penting untuk memberikan motivasi agar siswa dapat mengerti dalam pembelajaran yang akan dilakukan. Ada empat hal yang perlu dilakukan dalam proses ini, yaitu:
+1. Tujuan utama pengajaran tidak untuk mempelajari sejumlah besar informasi baru, tetapi lebih kepada belajar bagaimana menyelidiki masalah-masalah penting dan bagaimana menjadi siswa yang mandiri,
+2. Permasalahan dan pertanyaan yang diselidiki tidak mempunyai jawaban mutlak "benar", sebuah masalah yang rumit atau kompleks berpotensi memunculkan banyak penyelesaian dan seringkali bertentangan,
+3. Selama tahap penyelidikan (dalam pengajaran ini), siswa didorong untuk mengajukan pertanyaan dan mencari informasi. Guru akan bertindak sebagai pembimbing yang siap membantu, namun siswa harus berusaha untuk bekerja mandiri atau dengan temannya, dan
+4. Selama tahap analisis dan penjelasan, siswa akan didorong untuk menyatakan ide-idenya secara terbuka dan penuh kebebasan. Tidak ada ide yang akan ditertawakan oleh guru atau teman sekelas. Semua siswa diberi peluang untuk menyumbang kepada penyelidikan dan menyampaikan ide-ide mereka.
+Fase 2: Mengorganisasikan siswa untuk belajar
+Disamping mengembangkan keterampilan memecahkan masalah, pembelajaran PBL juga mendorong siswa belajar berkolaborasi. Pemecahan suatu masalah sangat membutuhkan kerjasama dan sharing antar anggota. Oleh sebab itu, guru dapat memulai kegiatan pembelajaran dengan membentuk kelompok-kelompok siswa dimana masing-masing kelompok akan memilih dan memecahkan masalah yang berbeda. Prinsip-prinsip pengelompokan siswa dalam pembelajaran kooperatif dapat digunakan dalam konteks ini seperti: kelompok harus heterogen, pentingnya interaksi antar anggota, komunikasi yang efektif, adanya tutor sebaya, dan sebagainya. Guru sangat penting memonitor dan mengevaluasi kerja masing-masing kelompok untuk menjaga kinerja dan dinamika kelompok selama pembelajaran.
+Setelah siswa diorientasikan pada suatu masalah dan telah membentuk kelompok belajar selanjutnya guru dan siswa menetapkan subtopiksubtopik yang spesifik, tugas-tugas penyelidikan, dan jadwal. Tantangan utama bagi guru pada tahap ini adalah mengupayakan agar semua siswa
+
+- 457 -
+
+aktif terlibat dalam sejumlah kegiatan penyelidikan dan yang dapat menghasilkan penyelesaian terhadap permasalahan tersebut.
+Fase 3: Membantu penyelidikan mandiri dan kelompok
+Penyelidikan adalah inti dari PBL. Meskipun setiap situasi permasalahan memerlukan teknik penyelidikan yang berbeda, namun pada umumnya tentu melibatkan karakter yang identik, yakni pengumpulan data dan eksperimen, berhipotesis dan penjelasan, dan memberikan pemecahan. Pengumpulan data dan eksperimentasi merupakan aspek yang sangat penting. Pada tahap ini, guru harus mendorong siswa untuk mengumpulkan data dan melaksanakan eksperimen (mental maupun aktual) sampai mereka betul-betul memahami dimensi situasi permasalahan. Tujuannya adalah agar siswa mengumpulkan cukup informasi untuk menciptakan dan membangun ide mereka sendiri. Guru membantu siswa untuk mengumpulkan informasi sebanyak-banyaknya dari berbagai sumber, dan ia seharusnya mengajukan pertanyaan pada siswa untuk berifikir tentang masalah dan ragam informasi yang dibutuhkan untuk sampai pada pemecahan masalah yang dapat dipertahankan.
+Setelah siswa mengumpulkan cukup data dan memberikan permasalahan tentang fenomena yang mereka selidiki, selanjutnya mereka mulai menawarkan penjelasan dalam bentuk hipotesis, penjelesaian, dan pemecahan. Selama pengajaran pada fase ini, guru mendorong siswa untuk menyampikan semua ide-idenya dan menerima secara penuh ide tersebut. Guru juga harus mengajukan pertanyaan yang membuat siswa berfikir tentang kelayakan hipotesis dan solusi yang mereka buat serta tentang kualitas informasi yang dikumpulkan.
+Fase 4: Mengembangkan dan menyajikan artifak (hasil karya) dan mempamerkannya
+Tahap penyelidikan diikuti dengan menciptakan artifak (hasil karya) dan pameran. Artifak lebih dari sekedar laporan tertulis, namun bisa suatu video tape (menunjukkan situasi masalah dan pemecahan yang diusulkan), model (perwujudan secara fisik dari situasi masalah dan pemecahannya), program komputer, dan sajian multimedia. Tentunya kecanggihan artifak sangat dipengaruhi tingkat berfikir siswa. Langkah selanjutnya adalah mempamerkan hasil karyanya dan guru berperan sebagai organisator pameran. Akan lebih baik jika dalam pemeran ini melibatkan siswa-siswa lainnya, guru-guru, orang tua, dan lainnya yang dapat menjadi "penilai" atau memberikan umpan balik.
+Fase 5: Analisis dan evaluasi proses pemecahan masalah
+Fase ini merupakan tahap akhir dalam PBL. Fase ini dimaksudkan untuk membantu siswa menganalisis dan mengevaluasi proses mereka sendiri dan keterampilan penyelidikan dan intelektual yang mereka gunakan. Selama fase ini guru meminta siswa untuk merekonstruksi pemikiran dan aktivitas yang telah dilakukan selama proses kegiatan belajarnya.
+D. Langkah-langkah pemilihan model pembelajaran
+Tidak ada model pembelajaran yang lebih baik dari model pembelajaran yang lain. Setiap model dapat digunakan sesuai dengan spesifikasi tujuan,
+- 458 -
+
+rasional yang mendasari, sintaks pembelajaran, dan sistem pengelolaan dan pengaturan lingkungan yang diberikan pada manualnya. Oleh karena itu, guru hendaknya menguasai dan dapat menerapkan berbagai model pembelajaran agar dapat mencapai tujuan pembelajaran yang sangat beraneka ragam dalam lingkungan belajar yang merupakkan karakteristik sekolah sehingga sangat bervariasi.
+Dalam memilih model pembelajaran dimulai dari menganalisis karakteristik tujuan yang akan dicapai, materi, peserta didik, lingkungan belajar (alatalat, sarana dan prasarana, sumber belajar), serta kemampuan guru dalam sistem pengelolaan dan pengaturan lingkungan. Selanjutnya guru memilih model yang dapat mengakomodasi karakteristik-karakteristik tersebut. Tentu saja tidak semua karakteristik yang ada sesuai dengan spesifikasi model. Dalam hal ini guru hendaklah memilih karakteristik terpenting yang harus diakomodasi, atau menggunakan dua model secara bersamaan. Di samping itu dengan mempelajari model-model pembelajaran IPA yang telah ada guru dapat mengembangkan/menciptakan model pembelajaran IPA sendiri.
+
+Pemilihan model pembelajaran (discovery learning, project based learning, atau problem based learning) sebagai pelaksanaan pendekatan saintifik pembelajaran memerlukan analisis yang cermat sesuai dengan karakteristik kompetensi dan kegiatan pembelajaran dalam silabus. Pemilihan model pembelajaran mempertimbangkan hal-hal berikut.
+
+Karakteristik pengetahuan yang dikembangkan menurut kategori faktual, konseptual, dan prosedural. Pada pengetahuan faktual dan konsepetual dapat dipilih discovery learning, sedangkan pada pengetahuan prosedural dapat dipilih project based learning dan problem based learning
+Karakteristik keterampilan yang tertuang pada rumusan kompetensi dasar dari KI- 4. Pada keterampilan abstrak dapat dipilih discovery learning dan problem based learning, sedangkan pada keterampilan konkrit dapat dipilih project based learning.
+Pemilihan ketiga model tersebut mempertimbangkan sikap yang dikembangkan, baik sikap religius (KI-1) maupun sikap sosial (KI-2). Berikut contoh matrik pemilihan model yang dapat digunakan sesuai dengan dimensi pengetahuan dan keterampilan
+
+Dimens Pengetahuan Faktual Konseptual Prosedural
+Metakognitif
+
+Dimensi Keterampilan
+
+Abstrak
+
+Konkrit
+
+Discovery Learning
+
+Discovry Learning
+
+Discovry Learning
+
+Discovry Learning
+
+Discovry Learning Problem Based Learning
+
+Projec Based Lerning
+
+Problem Learning
+
+Based
+
+Discovry Learning Projec Based Lerning Problem Based Learning
+
+Discovry Learning
+
+Projec Based Lerning
+
+Problem Learning
+
+Based
+
+- 459 -
+
+BAB VI Penilaian Otentik Dalam Pembelajaran IPA
+A. Strategi Penilaian
+Penilaian Hasil Belajar adalah proses pengumpulan informasi/bukti tentang capaian pembelajaran peserta didik dalam ranah sikap (spiritual dan sosial), pengetahuan, dan keterampilan dilakukan secara terencana dan sistematis, selama dan/atau setelah proses belajar suatu kompetensi, satu semester, satu tahun untuk suatu muatan/mata pelajaran, dan untuk penyelesaian pendidikan pada suatu satuan pendidikan.
+Dalam konteks pendidikan berdasarkan standar (standard-based education), kurikulum berdasarkan kompetensi (competency-based curriculum), dan pendekatan belajar tuntas (mastery learning) penilaian proses dan hasil belajar merupakan parameter tingkat pencapaian kompetensi minimal. Untuk itu, berbagai pendekatan, strategi, metode, teknik, dan model pembelajaran perlu dikembangkan untuk memfasilitasi peserta didik agar mudah dalam belajar dan mencapai keberhasilan belajar secara optimal.
+Kurikulum 2013 mempersyaratkan penggunaan penilaian otentik (authentic assesment). Secara paradigmatik penilaian otentik memerlukan perwujudan pembelajaran otentik (authentic instruction) dan belajar otentik (authentic learning). Hal ini diyakini bahwa penilaian otentik lebih mampu memberikan informasi kemampuan peserta didik secara holistik dan valid
+Penilaian otentik merupakan pendekatan, prosedur, dan instrumen penilaian proses dan capaian pembelajaran peserta didik dalam penerapan sikap (spiritual dan sosial), pengetahuan, dan keterampilan yang diperolehnya dalam bentuk pemberian tugas perilaku nyata atau perilaku dengan tingkat kemiripan dengan dunia nyata di sekolah dan di luar sekolah, misalnya menyelidiki kadar asam asetat dalam cuka dapur. Berikut ini merupakan hal-hal mendasar pada penilaian otentik.
+- Penilaian menjadi bagian yang tidak terpisahkan dari pembelajaran - Mencerminkan masalah dunia nyata, bukan dunia sekolah - Menggunakan berbagai cara dan kriteria - Holistik (kompetensi utuh merefleksikan pengetahuan, keterampilan,
+dan sikap) - Peserta didik mengkonstruk responnya sendiri, bukan sekadar
+memilih dari yang tersedia - Tugas merupakan tantangan yang ada atau yang mirip dihadapi
+dalam dunia nyata - Tugas yang tidak hanya memiliki satu jawaban tertentu yang benar
+[banyak/semua jawaban benar]
+B. Teknik dan Instrumen Penilaian
+Kurikulum 2013 menerapkan penilaian otentik untuk menilai kemajuan belajar peserta didik yang meliputi sikap, pengetahuan, dan keterampilan. Teknik dan instrumen yang dapat digunakan untuk menilai kompetensi pada aspek sikap, keterampilan, dan pengetahuan sebagai berikut.
+1. Penilaian Kompetensi Sikap Penilaian sikap diarahkan untuk mengukur pencapaian kompetensi dasar pada KI-1 dan KI-2. Ada beberapa cara yang dapat digunakan untuk menilai sikap peserta didik, antara lain melalui observasi, penilaian diri, penilaian sejawat, dan penilaian melalui jurnal.
+- 460 -
+
+Instrumen yang digunakan antara lain daftar cek atau skala penilaian (rating scale) yang disertai rubrik yang hasil akhirnya dihitung berdasarkan modus.
+a. Observasi
+Sikap dan perilaku keseharian peserta didik direkam melalui pengamatan dengan menggunakan format yang berisi sejumlah indikator perilaku yang diamati, baik yang terkait dengan mata pelajaran maupun secara umum. Pengamatan terhadap sikap dan perilaku yang terkait dengan mata pelajaran dilakukan oleh guru yang bersangkutan selama proses pembelajaran berlangsung, seperti: ketekunan belajar, percaya diri, rasa ingin tahu, kerjasama, kejujuran, disiplin, peduli lingkungan, dan selama peserta didik berada di sekolah atau bahkan di luar sekolah selama perilakunya dapat diamati guru.
+Contoh: Format pengamatan sikap dalam laboratorium IPA :
+
+Aspek perilaku yang dinilai
+
+No
+
+Nama
+
+Bekerja Rasa ingin Disip
+
+sama
+
+tahu
+
+lin
+
+Peduli lingkungan
+
+Skor
+
+Keterang an
+
+1. Andi
+
+3
+
+2. Badu
+
+3. ....
+
+4
+
+3
+
+2
+
+12
+
+Catatan: Kolom Aspek perilaku diisi dengan angka yang sesuai dengan kriteria berikut. 1 = kurang 2 = cukup 3 = baik
+4 = sangat baik
+
+b. Penilaian diri (self assessment) Penilaian diri digunakan untuk memberikan penguatan (reinforcement) terhadap kemajuan proses belajar peserta didik. Penilaian diri berperan penting bersamaan dengan bergesernya pusat pembelajaran dari guru ke peserta didik yang didasarkan pada konsep belajar mandiri (autonomous learning).
+Untuk menghilangkan kecenderungan peserta didik menilai diri terlalu tinggi dan subyektif, penilaian diri dilakukan berdasarkan kriteria yang jelas dan objektif. Untuk itu penilaian diri oleh peserta didik di kelas perlu dilakukan melalui langkah-langkah sebagai berikut.
+1) Menjelaskan kepada peserta didik tujuan penilaian diri. 2) Menentukan kompetensi yang akan dinilai. 3) Menentukan kriteria penilaian yang akan digunakan. 4) Merumuskan format penilaian, dapat berupa daftar tanda cek,
+atau skala penilaian.
+Contoh: Format penilaian diri untuk aspek sikap
+
+- 461 -
+
+Partisipasi Dalam Diskusi Kelompok
+
+Nama
+
+: -------------------------------
+
+Nama-nama anggota kelompok : -------------------------------
+
+Kegiatan kelompok
+
+: -------------------------------
+
+Isilah pernyataan berikut dengan jujur. Untuk No. 1 s.d. 6, tulislah huruf A,B,C atau D didepan tiap pernyataan:
+
+A : selalu
+
+C : kadang-kadang
+
+B : sering
+
+D : tidak pernah
+
+1.--- Selama diskusi saya mengusulkan ide kepada kelompok untuk didiskusikan
+
+2.--- Ketika kami berdiskusi, tiap orang diberi kesempatan mengusulkan sesuatu
+
+3.--- Semua anggota kelompok kami melakukan sesuatu selama kegiatan
+
+4.--- Tiap orang sibuk dengan yang dilakukannya dalam kelompok saya
+
+5. Selama kerja kelompok, saya....
+
+---- mendengarkan orang lain
+
+---- mengajukan pertanyaan
+
+---- mengorganisasi ide-ide saya
+
+---- mengorganisasi kelompok
+
+---- mengacaukan kegiatan
+
+---- melamun
+
+6. Apa yang kamu lakukan selama kegiatan?
+
+-----------------------------------------------------------------------
+
+Pada dasarnya teknik penilaian diri ini tidak hanya untuk aspek sikap, tetapi juga dapat digunakan untuk menilai kompetensi dalam aspek keterampilan dan pengetahuan.
+
+c. Penilaian sejawat (peerassessment)
+Penilaian sejawat atau antarpeserta didik merupakan teknik penilaian dengan cara meminta peserta didik untuk saling menilai terkait dengan pencapaian kompetensi. Instrumen yang digunakan berupa lembar pengamatan antarpeserta didik. Format yang digunakan untuk penilaian sejawat dapat menggunakan format seperti contoh pada penilaian diri.
+Contoh: Format penilaian sejawat
+
+Skala
+
+No.
+
+Pernyataan
+
+1 2 3 4
+
+1.
+
+Teman saya berkata benar, apa adanya kepada orang lain
+
+2. Teman saya mengerjakan sendiri tugas-tugas
+
+- 462 -
+
+No. sekolah
+
+Pernyataan
+
+Skala 1 2 3 4
+
+3.
+
+Teman saya mentaati peraturan (tata-tertib) yang diterapkan
+
+4.
+
+Teman saya memperhatikan kebersihan diri sendiri
+
+Teman saya mengembalikan alat kebersihan,
+
+5.
+
+pertukangan, olah raga, laboratorium yang sudah selesai dipakai ke tempat penyimpanan
+
+semula
+
+6.
+
+Teman saya terbiasa menyelesaikan pekerjaan sesuai dengan petunjuk guru
+
+7.
+
+Teman saya menyelesaikan tugas tepat waktu apabila diberikan tugas oleh guru
+
+8. Teman saya berusaha bertutur kata yang sopan kepada orang lain
+
+9. Teman saya berusaha bersikap ramah terhadap orang lain
+
+10. Teman saya menolong teman yang sedang mendapatkan kesulitan
+
+Keterangan :
+1 = Sangat jarang 2 = Jarang 3 = Sering a. = Selalu
+
+d. Penilaian melalui jurnal (anecdotal record)
+Jurnal merupakan rekaman catatan guru dan/atau tenaga kependidikan di lingkungan sekolah tentang sikap dan perilaku positif atau negatif, di luar proses pembelajaran mata pelajaran. Contoh: Format penilaian melalui jurnal
+Jurnal
+Nama:.........................
+Kelas :.........................
+
+Hari, tanggal
+
+Kejadian
+
+Keterangan
+
+2. Penilaian Kompetensi Pengetahuan - 463 -
+
+Soal tes tertulis yang menjadi penilaian otentik adalah soal-soal yang menghendaki peserta didik merumuskan jawabannya sendiri, seperti soal-soal uraian. Soal-soal uraian menghendaki peserta didik mengemukakan atau mengekspresikan gagasannya dalam bentuk uraian tertulis dengan menggunakan kata-katanya sendiri, misalnya mengemukakan pendapat, berpikir logis, dan menyimpulkan. Kelemahan tes tertulis bentuk uraian antara lain cakupan materi yang ditanyakan terbatas dan membutuhkan waktu lebih banyak dalam mengoreksi jawaban.
+Pendidik menilai kompetensi pengetahuan melalui tes tulis, tes lisan, dan penugasan.
+a. Instrumen testulis berupa soal pilihan ganda, isian jawaban singkat, benar-salah, menjodohkan, dan uraian. Instrumen uraian dilengkapi pedoman penskoran. Bentuk instrumen tes tulis pada pembelajaran Kimia SMA lebih diarahkan pada pilihan Ganda dan Uraian.
+b. Instrumen tes lisan berupa daftar pertanyaan.
+c. Instrumen penugasan berupa pekerjaan rumah dan/atau proyek yang dikerjakan secara individu ataukelompok sesuai dengan karakteristik tugas.
+Dalam pembelajaran IPA soal tes sebaiknya menerapkan Literasi sains. Literasi sains merupakan unsur kecakapan hidup yang harus menjadi hasil kunci (key outcome) pendidikan anak hingga berusia 15 tahun (Nuryani. 2004). Oleh karena itu Literasi sains merupakan salah satu domain dalam PISA (Programme for International Student Assessment). Disertakan literasi sains dalam PISA mengingat pentingnya kemampuan ini untuk hidup di masa depan baik sebagai individu maupun sebagai anggota masyarakat. Tes tertulis pada penilaian autentik dapat berupa tes berbentuk uraian atau pilihan ganda seperti contoh pada PISA yang umumnya meminta peserta didik menggunakan keterampilan berpikir tingkat tinggi atau HOT (High Order Thinking).
+Selain itu, penilaian terhadap pengetahuan peserta didik juga dapat dilakukan melalui observasi terhadap diskusi, tanya jawab, dan percakapan. Teknik ini adalah cerminan dari penilaian otentik. Ketika terjadi diskusi, guru dapat mengenal kemampuan peserta didik dalam kompetensi pengetahuan (fakta, konsep, prosedur) seperti melalui pengungkapan gagasan yang orisinal,kebenaran konsep, dan ketepatan penggunaan istilah/fakta/prosedur yang digunakan pada waktu mengungkapkan pendapat, bertanya, atau pun menjawab pertanyaan. Seorang peserta didik yang selalu menggunakan kalimat yang baik dan benar menurut kaedah bahasa menunjukkan bahwa yang bersangkutan memiliki pengetahuan tata bahasa yang baik dan mampu menggunakan pengetahuan tersebut dalam kalimat-kalimat. Seorang peserta didik yang dengan sistematis dan jelas dapat menceritakan misalnya konsep mol kepada teman-temannya, pada waktu menyajikan tugasnya atau menjawab pertanyaan temannya memberikan informasi yang sahih dan otentik tentang pengetahuannya mengenai konsep mol dan penerapan konsep mol dalam perhitungan kimia/kehidupan (dengan kalimat sendiri).
+Contoh:Format observasi terhadap diskusi, tanya jawab, dan percakapan
+- 464 -
+
+Nama Peserta Didik
+
+Pernyataan
+
+Pengungkap an gagasan yang orisinal
+
+Kebenaran konsep
+
+Ketepatan penggunaan istilah
+
+dan lain sebagainya
+
+Y a Tidak
+Y a Tidak
+Y a Tidak
+Y a Tidak
+
+A
+B
+C
+....
+Keterangan: diisi dengan ceklis (  )
+3. Penilaian Kompetensi Keterampilan
+Kompetensi keterampilan terdiri atas keterampilan abstrak dan keterampilan konkrit. Keterampilan konkrit memerlukan keterampilan abstrak berupa pengetahuan, kemampuan berpikir dan sikap. Keterampilan abstrak terutama terdiri dari keterampilan berpikir sedangkan keterampilan konkrit berupa keterampilan melakukan sesuatu dan menghasilkan sesuatu. Penilaian kompetensi keterampilan dapat dilakukan dengan menggunakan:
+a. Kinerja/Praktik Penilaian kinerja atau praktik dilakukan dengan penilaian kinerja, yaitu dengan cara mengamati kegiatan peserta didik dalam melakukan sesuatu. Penilaian ini cocok digunakan untuk menilai ketercapaian kompetensi yang menuntut peserta didik melakukan tugas tertentu seperti: praktikum di laboratorium, praktik ibadah, praktik olahraga, presentasi, bermain peran, memainkan alat musik, bernyanyi, dan membaca puisi/ deklamasi. Penilaian kinerja perlu mempertimbangkan hal-hal berikut. 1) Langkah-langkah kinerja yang perlu dilakukan peserta didik untuk menunjukkan kinerja dari suatu kompetensi. 2) Kelengkapan dan ketepatan aspek yang akan dinilai dalam kinerja tersebut. 3) Kemampuan-kemampuan khusus yang diperlukan untuk menyelesaikan tugas. 4) Kemampuan yang akan dinilai tidak terlalu banyak, sehingga dapat diamati. 5) Kemampuan yang akan dinilai selanjutnya diurutkan berdasarkan langkah-langkah pekerjaan yang akan diamati.
+Pengamatan kinerja perlu dilakukan dalam berbagai konteks untuk menetapkan tingkat pencapaian kemampuan tertentu. Contoh untuk menilai kinerja di laboratorium dilakukan pengamatan terhadap penggunaan alat dan bahan praktikum..
+- 465 -
+
+Untuk mengamati kinerja peserta didik dapat menggunakan instrumen sebagai berikut:
+
+1) Daftar cek
+
+Dengan menggunakan daftar cek, peserta didik mendapat nilai bilakriteria penguasaan kompetensi tertentu dapat diamati oleh penilai.
+
+Contoh: Format instrumen penilaian praktik di laboratorium
+
+Aspek yang dinilai
+
+Nama Peserta
+didik
+
+Mengguna kan jas lab
+
+Membaca prosedur
+kerja
+
+Membersihkan alat
+
+Menyimpan alat pada tempatnya
+
+Y a Tidak
+Y a Tidak
+Y a Tidak
+Y a Tidak
+
+Andi Boby Cicih Dimas .....
+
+Keterangan: diisi dengan tanda cek ()
+
+2) Skala Penilaian (Rating Scale)
+
+Penilaian kinerja yang menggunakan skala penilaian memungkinkan penilai memberi nilai tengah terhadap penguasaan kompetensi tertentu, karena pemberian nilai secara kontinum di mana pilihan kategori nilai lebih dari dua. Skala penilaian terentang dari cukup, baik, dan sangat baik
+
+b. Projek
+
+Penilaian projek dapat digunakan untuk mengetahui, misalnya tentang pemahaman, kemampuan mengaplikasi, kemampuan menyelidiki dan kemampuan menginformasikan suatu hal secara jelas.
+
+Penilaian projek dilakukan mulai dari perencanaan, pelaksanaan, sampai pelaporan. Untuk itu, guru perlu menetapkan hal-hal atau tahapan yang perlu dinilai, seperti penyusunan desain, pengumpulan data, analisis data, dan penyiapan laporan tertulis/lisan. Untuk menilai setiap tahap perlu disiapkan kriteria penilaian atau rubrik.
+
+Contoh: Format rubrik untuk menilai projek.
+
+Aspek Persiapan
+
+1
+Jika memuat tujuan,
+
+Kriteria dan Skor
+
+2
+
+3
+
+Jika memuat tujuan,
+
+Jika memuat tujuan, topik,
+
+4
+Jika memuat tujuan,
+
+- 466 -
+
+Aspek
+Pelaksana an
+Pelaporan Secara Tertulis
+
+1 topik, dan alasan
+Jika data diperoleh tidak lengkap, tidak terstruktu r, dan tidak sesuai tujuan
+Jika pembahas an data tidak sesuai tujuan penelitian dan membuat simpulan tapi tidak relevan dan tidak ada saran
+
+Kriteria dan Skor
+
+2
+
+3
+
+topik,
+
+alasan,
+
+alasan, dan tempat
+
+tempat
+
+penelitian,
+
+penelitian dan
+
+responden
+
+Jika data diperoleh kurang lengkap, kurang terstruktur, dan kurang sesuai tujuan
+
+Jika data diperoleh lengkap, kurang terstruktur, dan kurang sesuai tujuan
+
+Jika pembahasa n data kurang sesuai tujuan penelitian, membuat simpulan dan saran tapi tidak relevan
+
+Jika pembahasan data kurang sesuai tujuan penelitian, membuat simpulan dan saran tapi kurang relevan
+
+4 topik, alasan, tempat penelitian, responden, dan daftar pertanyaan
+Jika data diperoleh lengkap, terstruktur, dan sesuai tujuan
+Jika pembahasa n data sesuai tujuan penelitian dan membuat simpulan dan saran yang relevan
+
+c. Produk
+Penilaian produk meliputi penilaian kemampuan peserta didik membuat produk-produk pengetahuan, teknologi, dan seni, seperti: sabun, pasta gigi, dan cairan pembersih. Pengembangan produk meliputi 3 (tiga) tahap dan setiap tahap perlu diadakan penilaian yaitu:
+1) Tahap persiapan, meliputi: penilaian kemampuan peserta didik dan merencanakan, menggali, dan mengembangkan gagasan, dan mendesain produk.
+2) Tahap pembuatan produk (proses), meliputi: penilaian kemampuan peserta didik dalam menyeleksi dan menggunakan bahan, alat, dan teknik.
+3) Tahap penilaian produk (appraisal), meliputi: penilaian produk yang dihasilkan peserta didik sesuai kriteria yang ditetapkan, misalnya berdasarkan sistematika, tampilan, bahasa, isi, fungsi dan estetika.
+Penilaian produk biasanya menggunakan cara analitik atau holistik.
+- 467 -
+
+1) Cara analitik, yaitu berdasarkan aspek-aspek produk, biasanya dilakukan terhadap semua kriteria yang terdapat pada semua tahap proses pengembangan (tahap: persiapan, pembuatan produk, penilaian produk).
+2) Cara holistik, yaitu berdasarkan kesan keseluruhan dari produk, biasanya dilakukan hanya pada tahap penilaian produk. Contoh Penilaian Produk
+d. Portofolio
+Penilaian portofolio pada dasarnya menilai karya-karya peserta didik secara individu pada satu periode untuk suatu mata pelajaran. Akhir suatu periode hasil karya tersebut dikumpulkan dan dinilai oleh guru dan peserta didik sendiri. Berdasarkan informasi perkembangan tersebut, guru dan peserta didik sendiri dapat menilai perkembangan kemampuan peserta didik dan terus menerus melakukan perbaikan. Dengan demikian, portofolio dapat memperlihatkan dinamika kemampuan belajar peserta didik melalui sekumpulan karyanya, antara lain: karangan, puisi, surat, komposisi musik, gambar, foto, lukisan, resensi buku/literatur, laporan penelitian, sinopsis dan karya nyata individu peserta didik yang diperoleh dari pengalaman.
+Berikut hal-hal yang perlu diperhatikan dalam melaksanakan penilaian portofolio. a) Peserta didik merasa memiliki portofolio sendiri b) Tentukan bersama hasil kerja apa yang akan dikumpulkan c) Kumpulkan dan simpan hasil kerja peserta didik dalam 1 map
+atau folder d) Beri tanggal pembuatan e) Tentukan kriteria untuk menilai hasil kerja peserta didik f) Minta peserta didik untuk menilai hasil kerja mereka secara
+berkesinambungan g) Bagi yang kurang beri kesempatan perbaiki karyanya, tentukan
+jangka waktunya h) Bila perlu, jadwalkan pertemuan dengan orang tua
+Contoh penilaian portofolio dalam mata pelajaran Kimia, mislanya laporan percobaan dinilai dengan teknik penilaian portofolio. Adapun aspek yang dinilai, antara lain:  Kelengkapan laporan, meliputi: tujuan, bahan dan alat yang
+digunakan, cara/langkah kerja, hipotesis, tinjauan pustaka, hasil pengamatan berupa data-data yang diperoleh selama percobaan, pengolahan dan analisis data, dan kesimpulan serta daftar pustaka.  Kualitas laporan, cara merumuskan hipotesis, cara mengolah dan analisis data, dan cara menarik kesimpulan.  Harus ada kesinkronan antara tujuan percobaan, hipotesis, data hasil pengamatan, dan kesimpulan.
+e. Tertulis
+Selain menilai kompetensi pengetahuan, penilaian tertulis juga digunakan untuk menilai kompetensi keterampilan, seperti menulis karangan, menulis laporan, dan menulis surat.
+- 468 -
+
+C. Ketuntasan Belajar
+Ketuntasan Belajar adalah tingkat minimal pencapaian kompetensi sikap, pengetahuan, dan keterampilan yang dipersyaratkan. Ketuntasan Belajar terdiri atas ketuntasan penguasaan substansi dan ketuntasan belajar dalam konteks kurun waktu belajar. Ketuntasan penguasaan substansi yaitu ketuntasan belajar KD yang merupakan tingkat penguasaan peserta didik atas KD tertentu pada tingkat penguasaan minimal atau di atasnya, sedangkan ketuntasan belajar dalam konteks kurun waktu belajar terdiri atas ketuntasandalam setiap semester, setiap tahun ajaran, dan tingkat satuanpendidikan.
+Ketuntasan Belajar dalam satu semester adalah keberhasilan peserta didik menguasai kompetensi dari sejumlah mata pelajaran yang diikutinya dalam satu semester. Ketuntasan Belajar dalam setiap tahun ajaran adalah keberhasilan peserta didik pada semester ganjil dan genap dalam satu taun ajaran. Ketuntasan dalam tingkat satuan pendidikan adalah keberhasilan peserta didik menguasai kompetensi seluruh mata pelajaran dalam suatu satuan pendidikan untuk menentukan kelulusan peserta didik dari satuan pendidikan.
+Tingkat ketuntasan sikap (KD pada KI-1 dan KI-2) disusun berdasarkan acuan kriteria dengan rentang persentase modus sikap peserta didik sebesar 70% sampai 100%. Nilai ketuntasan dituangkan dalam bentuk angka dan predikat, yakni 1,00 ­ 4,00 untuk angka yang ekuivalen dengan predikat Kurang (K), Cukup (C), Baik (B), dan Sangat Baik (SB) sebagaimana tertera pada tabel berikut.
+
+MODUS SIKAP
+ 90%  80%  70% < 70%
+
+NILAI KETUNTASAN SIKAP
+
+ANGKA
+
+PREDIKAT
+
+4,00
+
+Sangat Baik (SB)
+
+3,00
+
+Baik (B)
+
+2,00
+
+Cukup (C)
+
+1,00
+
+Kurang (K)
+
+Ketuntasan Belajar untuk sikap (KD pada KI-1 dan KI-2) ditetapkan dengan modus 3,00 atau predikat Baik (B). Tingkat ketuntasan pengetahuan dan keterampilan (KD pada KI-3 dan KI-4) disusun berdasarkan acuan kriteria dengan rentang persentase tingkat penguasaan peserta didik sebesar 70% sampai 100%. Nilai ketuntasan dituangkan dalam bentuk angka dan huruf, yakni 1,0 ­ 4,0 untuk angka yang ekuivalen dengan huruf D sampai dengan A sebagaimana tertera pada tabel berikut.
+
+Tingkat Ketuntasan  90%
+
+Nilai Ketuntasan Pengetahuan dan Keterampilan
+
+Angka
+
+Huruf
+
+4,00
+
+A
+
+ 80%
+
+3,00
+
+B
+
+ 70%
+
+2,00
+
+C
+
+< 70%
+
+1,00
+
+D
+
+- 469 -
+
+Ketuntasan Belajar untuk pengetahuan dan keterampilan ditetapkan dengan skor minimal 2,0 atau huruf C .
+
+D. Pelaporan Pencapaian Kompetensi Peserta Didik 1. Skor dan Nilai Penilaian kompetensi hasil belajar mencakup kompetensi sikap, pengetahuan, dan keterampilan yang dilakukan dapat secara terpisah tetapi dapat juga melalui suatu kegiatan atau peristiwa penilaian dengan instrumen penilaian yang sama.
+Untuk masing-masing ranah (sikap, pengetahuan, dan keterampilan) digunakan penyekoran dan pemberian predikat yang berbeda sebagaimana tercantum dalam tabel 6.1.
+Tabel 6.1: Konversi Skor dan Predikat Hasil Belajar Untuk Setiap Ranah
+
+Sikap
+
+Pengetahuan
+
+Keterampilan
+
+Skor Modus
+
+Predikat
+
+Skor Rerata
+
+Predikat
+
+Skor Optimum
+
+Predikat
+
+SB
+
+3,83 > x  4,00
+
+A
+
+3,83 > x  4,00
+
+A
+
+4,00
+
+(Sangat 3,50 > x  3,83 Baik)
+
+A-
+
+3,50 > x  3,83
+
+A-
+
+3,17 > x  3,50
+
+B+
+
+3,17 > x  3,50
+
+B+
+
+B
+
+3,00
+
+2,83 > x  3,17
+
+B
+
+2,83 > x  3,17
+
+B
+
+(Baik)
+
+2,50 > x  2,83
+
+B-
+
+2,50 > x  2,83
+
+B-
+
+2,17 > x  2,50
+
+C+
+
+2,17 > x  2,50
+
+C+
+
+C
+
+2,00
+
+1,83 > x  2,17
+
+C
+
+1,83 > x  2,17
+
+C
+
+(Cukup)
+
+1,50 > x  1,83
+
+C-
+
+1,50 > x  1,83
+
+C-
+
+K
+
+1,17 > x  1,50
+
+D+
+
+1,17 > x  1,50
+
+D+
+
+1,00
+
+(Kurang) 1,00 > x  1,17
+
+D
+
+1,00 > x  1,17
+
+D
+
+Nilai akhir yang diperoleh untuk ranah sikap diambil dari nilai modus (nilai yang terbanyak muncul). Nilai akhir untuk ranah pengetahuan diambil dari nilai rerata. Nilai akhir untuk ranah keterampilan diambil dari nilai optimal (nilai tertinggi yang dicapai).
+
+E. Bentuk Laporan
+Laporan hasil pembelajaran yang dilakukan oleh pendidik dalam bentuk sebagai berikut.
+1. Pelaporan oleh Pendidik
+Laporan hasil penilaian oleh pendidik dapat berbentuk laporan hasil ulangan harian, ulangan tengah semester, ulangan akhir semester.
+2. Pelaporan oleh Satuan Pendidikan
+Rapor yang disampaikan oleh pendidik kepada kepala sekolah/madrasah dan pihak lain yang terkait (misal: wali kelas, guru
+
+- 470 -
+
+Bimbingan dan Konseling, dan orang tua/wali). Buku rapormemuat laporan tentang: a. hasil pencapaian kompetensi dan/atau tingkat kompetensi kepada
+orangtua/wali peserta didik dalam bentuk buku rapor; b. pencapaian hasil belajar tingkat satuan pendidikan kepada dinas
+pendidikan kabupaten/kota dan instansi lain yang terkait; c. hasil ujian Tingkat Kompetensi kepada orangtua/wali peserta didik
+dan dinas pendidikan. F. Nilai untuk Rapor
+Hasil belajar yang dicantumkan dalam Rapor berupa: 1. Untuk ranah sikap menggunakan skor modus 1,00 ­ 4,00 dengan
+predikat Kurang (K), Cukup (C), Baik (B), dan Sangat Baik (SB); 2. Untuk ranah pengetahuan menggunakan skor rerata 1,00 ­ 4,00
+dengan predikat D ­ A. 3. Untuk ranah keterampilan menggunakan skor optimum 1,00 ­ 4,00
+dengan predikat D ­ A.
+- 471 -
+
+BAB VII MEDIA DAN SUMBER BELAJAR
+Belajar merupakan proses komunikasi antara guru dengan peserta didik serta antar peserta didik itu sendiri. Dalam proses komunikasi diperlukan media agar proses komunikasi tersebut berlangsung secara efektif. Media merupakan segala sesuatu yang dapat digunakan untuk menyalurkan pesan yang dapat merangsang pikiran, perasaan, perhatian, dan kemauan peserta didik untuk belajar. Sementara menurut Permendikbud tentang Standar Proses dinyatakan bahwa "Media pembelajaran adalah alat bantu proses pembelajaran untuk menyampaikan materi pelajaran". Pesan yang disampaikan dalam proses pembelajaran seharusnya memenuhi kriteria benar, akurat, tidak multi tafsir, dan actual. Untuk memenuhi kriteria tersebut diperlukan sumber belajar sebagai rujukan. Sumber belajar dapat berupa buku, media cetak dan elektronik, alam sekitar, atau sumber belajar lain yang relevan. Berdasarkan hal tersebut maka perlu dibedakan dengan tegas antara media dengan sumber belajar. Sebagai contoh, dalam proses pembelajaran digunakan pesawat televisi, maka pesawat televisi tersebut berfungsi sebagai media, sementara isi berita yang disampaikan merupakan sumber belajar. Contoh lain dalam pembelajaran berbasis TIK (Teknologi Informasi dan Komunikasi), perangkat keras yang digunakan seperti komputer, LCD proyektor, dan layar berfungsi sebagai media pembelajaran, sementara perangkat lunak yang ditayangkan merupakan sumber belajar. A. Media Pembelajaran
+Media pembelajaran harus dirancang, disusun, dibuat, dan disiapkan sedemikian rupa oleh guru sehingga dapat digunakan secara efektif dan efisien sesuai dengan fungsinya. Oleh karena itulah, media yang digunakan dalam suatu proses pembelajaran merupakan suatu karya dan digolongkan sebagai "teknologi dalam pembelajaran". Berikut beberapa jenis media dalam pembelajaran.
+- 472 -
+
+MEDIA
+
+ALAT UKUR
+ Neraca  gelas ukur  pH meter  buret  termometer
+ pipet volum
+VISUAL (pandang)
+Projected
+ Slide Projector  (OHP  Microprojector  Film-Projector  LCD Projector
+
+ALAT BANTU
+AUDIO (dengar)
+Radio Radio-kaset Interkom Komputer HP Internet
+
+ALAT PERAGA
+benda asli benda tiruan model
+AUDIO-VISUAL (pandang-dengar)
+TV Compact Disc (CD) Laser Disc (LD) HP Komputer Internet
+Non-projected
+Papan Tulis Papan Planel Papan Magnet Papan Tempel Papan Pasak Papan Paku Flipchart Diorama
+
+Gambar 7.1. Klasifikasi Media dalam Pembelajaran.
+Dari sekian jenis media pembelajaran, pada dasarnya jenis media yang tergolong "Alat Bantu" hampir tidak menunjukkan perbedaan untuk semua mata pelajaran. Selain yang umum digunakan dalam pembelajaran, dalam pembelajaran IPA digunakan berbagai alat bantu charta dan gambar seperti mikroskop, jangka sorong, torso, tabel periodik unsur, tabel kereaktifan unsur, serta gambar bahan dan peralatan IPA. Jenis media "Alat Peraga" memilikikarakter yang berbeda untuk setiap mata pelajaran. Berikut disajikan contoh media "Alat Peraga" untuk mata pelajaran IPA.
+
+No Nama Alat Gambar
+
+Deskripsi
+
+1 Model Jantung manusia
+
+Gambar Model jantung
+
+Mendeskripsikan anatomi jantung serta fungsi dari bagian-bagian penyusun organ jantung
+
+2 Model Otak Gambar model otak manusia
+
+Mendeskripsikan bagianbagian otak dan fungsi dari masing-masing bagian otak
+
+- 473 -
+
+No Nama Alat
+3 Model Organ Reproduksi
+
+Gambar
+
+Deskripsi
+
+Gambar model organ reproduksi pria dan wanita
+
+Mendeskripsikan bagianbagian organ reproduksi pria dan wanita, serta fungsi dari tiap bagian-bagian tersebut.
+
+1. Beberapa Contoh Media dalam Pembelajaran Biologi
+Benda Asli
+Dalam pembelajaran biologi, media belajar alami (asli) adalah semua objek organisme yang diobservasi (hewan, tumbuhan, dan mikroorganisme) dalam kondisi alaminya termasuk pembuatan preparat segar. Dalam mempelajari objek dan fenomena Biologi, idealnya guru juga melakukana kegiatan membimbing peserta didik untuk mengobservasi alam secara langsung.
+Benda Tiruan
+Disamping media belajar alami (asli), media lain yang khas dalam mata pelajaran biologi dapat dikategorikan sebagai media artifisial (tiruan). Media belajar biologi artifisial antara lain: charta , torso, dan preparat awetan.
+Model Objek Biologi
+Dalam pembelajaran Biologi ada kalanya perlu menggunakan model sebagai media pembelajaran untuk memperjelas konsep maupun proses yang terjadi. Contoh alat peraga "model" dalam pembelajaran Biologi diantaranya:
+Perangkat Ukur /Kit
+Media belajar biologi lainnya dapat berupa perangkat ukur aktivitas biologis (metabolisme, respirasi, fotosintesis, aktivitas enzim, pencernaan, aliran darah, denyut jantung, hematologi, golongan darah, dll). Perangkat/Kit yang digunakan dapat dirangkai sendiri oleh guru atau dibeli melalui supplier kit.
+Multimedia
+Dewasa ini multimedia sebagai media belajar sangat membantu para guru dalam kegiatan pembelajaran. Beberapa multimedia pembelajaran biologi dapat diakses melalui internet maupun menggunakan CD pembelajaran yang banyak diperdagangkan di toko-toko buku.
+2. Beberapa Contoh Media dalam Pembelajaran Fisika
+a. Benda Asli
+Dalam mempelajari objek dan fenomena fisika, idealnya guru membimbing peserta didik untuk mengobservasi alam secara langsung, misalnya fenomena terjadinya pelangi, proses yang terjadi pada pembangkit listrik tenaga air. Contoh lain benda asli sebagai alat peraga fisika adalah berbagai jenis logam yang terdapat pada set kubus materi dalam KIT Mekanika. Adakalanya dalam mengobservasi benda asli, menjumpai kendala berupa tidak terdapatnya objek tersebut di sekitar lingkungan sekolah, atau benda tersebut terlalu kecil, terlalu besar, dan terlalu jauh untuk diamati langsung. Untuk
+- 474 -
+
+itu guru perlu menyiapkan alat peraga lain sebagai tiruan dan pemodelan dari benda asli tersebut.
+Benda Tiruan
+Untuk mempermudah peserta didik dalam mempelajari objek dan fenomena fisika, guru dapat menggunakan alat yang biasanya sudah tersedia secara terpadu dalam KIT Fisika. KIT Fisika yang tersedia di laboratorium sekolah biasanya terdiri atas KIT mekanika, listrik magnet, optik, dan hidrostatika dan panas. Komponen atau alat-alat dalam KIT tersebut dapat digunakan untuk kegiatan praktikum peserta didik. Misalnya tiruan katrol untuk praktikum pesawat sederhana terdapat pada KIT mekanika. tiruan transformator (trafo) terdapat pada KIT listrik magnet.
+Model
+Dalam pembelajaran fisika ada kalanya perlu menggunakan model sebagai media pembelajaran untuk memperjelas konsep maupun proses yang terjadi. Contoh alat peraga "model" dalam pembelajaran fisika diantaranya:
+Alat Ukur
+Dalam mempelajari objek dan fenomena fisika, sering digunakan alat ukur untuk merepresentasikan secara kuantitatif obyek dan fenomenan yang diamati. Berbagai alat ukur yang digunakan pembelajaran fisika diantaranya, penggaris, jangka sorong, mikrometer sekrup, neraca pegas, neraca empat lengan, termometer, basicmeter, Multitester, osiloskop, gelas ukur, hidrometer, stopwatch, barometer, manometer, higrometer
+
+No Nama Alat
+
+Gambar
+
+1 Model Teori kinetic
+
+- 475 -
+
+Deskripsi
+
+Model
+
+iniberupa
+
+Tabung transparan,
+
+panjang kira-kira 300
+
+mm dan diameter 50
+
+mm,
+
+didudukkan
+
+vertikal
+
+pada
+
+penyangga. Sebuah
+
+pengisap di ujung
+
+bawah
+
+lubang
+
+digerakkan naik turun
+
+oleh motor listrik
+
+tegangan rendah (1,5 -
+
+6,0 V d.c). Di atas
+
+pengisap itu, jadi di
+
+bagian lain tabung,
+
+ada pengisap lain yang
+
+No Nama Alat
+
+Gambar
+
+2 Model Mesin Uap
+
+3 Model
+
+Bel
+
+Listrik
+
+4 Model Surya
+
+Tata
+
+Deskripsi
+
+ringan dan bertangkai.
+
+Tangkai
+
+dapat
+
+bergerak
+
+bebas
+
+melalui lubang di
+
+tutup tabung. Lengkap
+
+dengan 100 butir
+
+peluru kecil sekali dan
+
+5 lingkaran beban
+
+tipis (diameter sekitar
+
+25 mm). Digunakan
+
+untuk
+
+simulasi
+
+kelakuan gas jika
+
+molekul-molekulnya
+
+memperoleh energi.
+
+Model mesin dengan
+
+ketel uap dari tembaga
+
+atau
+
+kuningan.
+
+Terpasang
+
+katup
+
+pengaman,
+
+keran
+
+pengosongan dan roda
+
+gila dengan katrol
+
+penggerak diameter 24
+
+mm. Alas dari logam,
+
+lengkap
+
+dengan
+
+pembakar spiritus.
+
+Bekerja
+
+dengan
+
+tegangan 3-6 Volt,
+
+dalam kotak plastik
+
+yang kuat dengan
+
+tutup yang dapat
+
+dilepas
+
+supaya
+
+kelihatan kerjanya.
+
+Model surya dan
+
+planet-planet. Semua
+
+planet dapat beredar
+
+lancar mengelilingi
+
+surya. Berbagai planet
+
+mudah
+
+dikenal,
+
+memberi pengertian
+
+tentang ukuran, jarak
+
+dan lajunya planet
+
+mengelilingi surya.
+
+3. Beberapa Contoh Media dalam Pembelajaran Kimia
+Benda Asli
+Media yang tergolong benda asli dalam pembelajaran kimia adalah semua bahan-bahan kimia baik yang dibuat (sintesis) maupun alami, seperti batuan, pasir besi, kuarsa, bahan kimia yang ada di laboratorium. Alat-alat laboratorium yang sering digunakan dalam berbagai percobaan kimia termasuk ke dalam golongan media benda asli.
+Model
+
+- 476 -
+
+Molymod merupakan satu contoh alat peraga yang termasuk jenis model. Contoh model lainnya yang seringkali digunakan dalam pembelajaran kimia adalah model bangun atom dan molekul. Alat peraga ini dapat dibuat dengan menggunakan berbagai bahan dasar seperti balon, plastisin, bola-bola plastic, dan lain-lain. Model simulasi yang bisa diunduh dari berbagai laman internet juga termasuk media/alat peraga model.
+Multimedia interaktif Media yang tergolong interaktif umumnya merupakan gabungan dari berbagai media (visual, audiovisual, suara) serta melibatkan interaksi dengan pebelajar secara aktif. Seiring dengan perkembangan teknologi dan informasi, multimedia dalam pembelajaran kimia menjadi lebih variatif. Saat telah banyak diproduksi multimedia pembelajaran kimia interaktif yang dapat diunduh bebas dari berbagai laman seperti Google, Youtube, dan Wikipedia.
+B. Sumber Belajar dalam Pembelajaran IPA
+Banyak ragam sumber belajar yang dapat dimanfaatkan dalam pembelajaran. Sumber belajar secara garis besarnya secara garis besar terdiri atas dua jenis, yakni:
+Yang dirancang (by design), yakni sumber belajar yang secara khusus dirancang atau dikembangkan sebagai komponen sistem instruksional untuk memberikan fasilitas belajar yang terarah dan bersifat formal.
+Yang dimanfaatkan (by utilization), yakni sumber belajar yang tidak didesain khusus untuk keperluan pembelajaran dan keberadaannya dapat ditemukan, diterapkan dan dimanfaatkan untuk keperluan pembelajaran
+Association for Education and Communication Technology membedakan enam jenis sumber belajar, yaitu:
+Pesan (message), yakni sumber belajar yang meliputi pesan formal dan nonformal. Pesan formal yaitu pesan yang dikeluarkan oleh lembaga resmi atau pesan yang disampaikan guru dalam situasi pembelajaran, yang disampaikan baik secara lisan maupun berbentuk dokumen, seperti peraturan pemerintah, kurikulum, silabus, bahan pelajaran, dan sebagainya. Pesan nonformal yakni pesan yang ada di lingkungan masyarakat luas yang dapat digunakan sebagai bahan pembelajaran, seperti cerita rakyat, dongeng, hikayat, dan sebagainya.
+Orang (People), yakni orang yang menyimpan informasi. Pada dasarnya setiap orang bisa berperan sebagai sumber belajar, namun secara umum dapat dibagi dua kelompok, yakni (a) orang yang didesain khusus sebagai sumber belajar utama yang dididik secara profesional, seperti guru, instruktur, konselor, widyaiswara, dan lain-lain; dan (b) orang yang memiliki profesi selain tenaga yang berada di lingkungan pendidikan, seperti dokter, atlet, pengacara, arsitek, dan sebagainya.
+Bahan (Materials), yakni suatu format yang digunakan untuk menyimpan pesan pembelajaran, seperti buku paket, alat peraga, transparansi, film, slides, dan sebagainya.
+Alat (Device), yakni benda-benda yang berbentuk fisik yang sering disebut dengan perangkat keras, yang berfungsi untuk menyajikan bahan pembelajaran, seperti komputer, radio, televisi, VCD/DVD, dan sebagainya.
+- 477 -
+
+Teknik (Technic), yakni cara atau prosedur yang diguakan orang dalam memberikan pembelajaran guna tercapai tujuan pembelajaran, seperti ceramah, diskusi, seminar, simulasi, permainan, dan sejenisnya.
+Latar (Setting), yakni lingkungan yang berada di dalam sekolah maupun yang berada di luar sekolah, baik yang sengaja dirancang ataupun yang tidak secara khusus disiapkan untuk pembelajaran, seperti ruang kelas, studio, perpustakaan, aula, teman, kebun, pasar, toko, museum, kantor dan sebagainya. Berikut beberapa contoh sumber belajar yang dapat dimanfaatkan dalam pembelajaran IPA
+1. Beberapa Sumber Belajar dalam Pembelajaran Biologi
+Sumber belajar adalah rujukan, objek, dan bahan yang digunakan untuk kegiatan pembelajaran. Semua informasi/pengetahuan/konsep yang ditransfer antara guru dan peserta didik disebut sebagai sumber belajar. Sumber belajar biologi dapat berupa buku teks mata pelajaran, majalah, koran, berita di televisi dan radio, situs internet, hasil-hasil penelitian, pendapat nara sumber, serta lingkungan dan alam.
+2. Beberapa Sumber Belajar dalam Pembelajaran Fisika
+Sumber belajar dalam pembelajaran Fisika dapat berupa buku teks mata pelajaran, majalah, koran, berita di televisi dan radio, situs internet, pendapat nara sumber, serta lingkungan fisik, dan alam. Seiring dengan perkembangan teknologi informasi dan komunikasi sumber informasi dari internet begitu mudah untuk diakses. Berikut disajikan beberapa situs yang dapat diakses sebagai sumber informasi untuk pembelajaran fisika.
+Rumah Belajar Merupakan portal belajar Kementerian pendidikan dan kebudayaan yang dikelola oleh Pustekkom. http://belajar.kemdiknas.go.id/ Pusat Penelitian Fisika Pusat Penelitian Fisika - LIPI. Berisi berbagai artikel dan publikasi, struktur organisasi, daftar peneliti, dan pengumuman. http://www.fisika.lipi.go.id/ AktiFisika Blog tentang konsep dasar fisika yang dapat digunakan untuk pembelajaran fisika tingkat dasar. Berisi artikel dalam berbagai kategori. http://aktifisika.wordpress.com/ Budak Fisika Blog belajar fisika. Berisi simulasi, soal, eksperimen video, sejarah, tokoh fisika. http://budakfisika.blogspot.com/ Fisik@net Referensi ilmu fisika online. Menyediakan informasi buku, artikel, kamus istilah, dan daftar tokoh berprestasi. http://www.fisikanet.lipi.go.id/ Fisika Asyik Tempat belajar fisika. Berisi profil, berita IPA, kamus IPA, tanya-jawab dan download publikasi. http://www.fisikaasyik.com/ Kucing Fisika Situs belajar berbagai ilmu fisika sehari-hari. Berisi berbagai artikel, percobaan fisika, foto dan video. http://kucingfisika.com/
+3. Beberapa Sumber Belajar dalam Pembelajaran Kimia
+Sumber belajar dalam pembelajaran kimia dapat berupa buku teks mata pelajaran, majalah, koran, berita di televisi dan radio, situs internet, pendapat nara sumber, serta lingkungan fisik, dan alam.
+- 478 -
+
+BAB VIII GURU SEBAGAI PENGEMBANG BUDAYA SEKOLAH
+Budaya sekolah adalah pola kehidupan kelompok tertentu dimana belajar merupakan bagian dari aktivitas dalam kehidupan sehari-harinya. Aktivitas belajar dijadikan sebagai suatu kebiasaan, dimana jika kebiasaan itu tidak dilaksanakan, maka akan berarti sebagai suatu pelanggaran terhadap suatu nilai atau patokan yang ada Kegiatan belajar dijadikan sebagai kegemaran dan kesenangan, sehingga motivasi belajar muncul dari dalam diri tiap-tiap individu dalam kelompok tersebut.
+Wujud budaya belajar dalam suatu kelompok kehidupan dapat dilihat pada dua kategori. Pertama, perwujudan budaya belajar yang bersifat abstrak yaitu konsekuensi dari cara pandang budaya belajar sebagai sistem pengetahuan yang diyakini oleh individu atau kelompok tertentu sebagai pedoman dalam belajar. Perwujudan budaya belajar yang abstrak berada dalam sistem gagasan atau ide yang bersifat abstrak akan tetapi beroperasi. Kedua, perwujudan budaya yang bersifat kongkrit. Perwujudan budaya belajar secara konkrit dapat dilihat dalam bentuk; (a) perilaku belajar; (b) ungkapan bahasa dalam belajar; dan (c) hasil belajar berupa material. Budaya belajar dalam bentuk perilaku tampak dalam interaksi sosial. Perilaku belajar individu atau kelompok yang berlatar belakang status sosial tertentu mencerminkan pola budaya belajarnya. Perwujudan perilaku belajar individu atau kelompok sosial dapat juga dilihat dari kondisi resmi dan tidak resmi juga. Perbedaan dalam kondisi mencerminkan adanya nilai, norma dan aturan yang berbeda. Bahasa adalah salah satu perwujudan budaya belajar secara kongkrit pada individu atau kelompok sosial. Kekurangan dalam menggunakan bahasa sedikit banyak akan menghambat percepatan dalam merealisasikan dan mengembangkan budaya belajar. Hasil belajar berupa material menjadikan perwujudan konkret dari sistem budaya belajar individu atau kelompok sosial. Hasil belajar tidak saja berbentuk benda melainkan keterampilan yang mengarahkan pada keterampilan hidup (life skill).
+Dalam Kurikulum 2013 perkembangan konsep pembelajaran telah mencapai pengertian pembelajaran sebagai suatu sistem. Cakupan pengertian pembelajaran sangat luas. Dilihat dari berbagai aspek yang dapat terlibat dalam proses pembelajaran, tidak hanya adanya interaksi antara seorang guru dan peserta didik saja, tetapi juga banyak aspek yang lain yang turut terlibat mempengaruhi pembelajaran, Salah satunya kondisi lingkungan.
+Model pembelajaran yang dikembangkan dalam Kurikulum 2013 ini berbasis pada model konstruktivis. Pembelajaran tidak hanya menitikberatkan pada aspek kognitif saja dari peserta didik, tetapi juga mengembangkan aspek yang lainnya (afektif dan psikomotor) Bahkan dalam Kurikulum 2013 ini, yang ingin lebih ditonjolkan adalah aspek afektifnya, supaya generasi penerus bangsa mewarisi budaya-budaya Indonesia yang ramah dan berakhlak mulia.
+Budaya yang harus dibangun dalam pembelajaran IPA pada dasarnya adalah keterlibatan aktif peserta didik dalam kerja ilmiah/inkuiri. Ketika peserta didik melakukan kerja ilmiah, ia tidak melupakan konteks budaya atau lingkungan, dan sebaliknya dalam keseharian ia pun selalu dapat memperlihatkan prinsipprinsip sains. Pengalaman sehari-hari menjadi sumber pengetahuan dan pengalaman untuk mendukung pemahaman konsep dan bahkan perubahan dari konsep yang salah (miskonsepsi) menjadi konsep yang lebih sesuai dengan status terkini sains. Apabila ini dapat dicapai, maka hilanglah dikotomi "sains dan keseharian". Sehingga IPA dan pemahaman IPA tumbuh dari pengalaman.
+- 479 -
+
+Dalam kerangka menciptakan budaya belajar IPA yang baik maka seorang guru IPA tidak hanya mampu berinteraksi dengan baik dengan sesama guru, peserta didik, orang tua dan masyarakat, tetapi juga dapat dijadikan suri tauladan bagi peserta didiknya.
+Hubungan Guru Mata Pelajaran IPA dengan Guru Mata Pelajaran Lain
+Hubungan guru dengan guru harus menunjukkan keharmonisan baik di luar maupun di dalam sekolah, ketika di dalam sekolah hubungan itu akan dilihat langsung oleh peserta didik. Oleh karena itu tingkah laku guru harus mencerminkan suri tauladan yang baik. Sebagaimana diungkapkan oleh orang Jawa mengatakan guru itudigugu dan ditiru.Keharmonisan antara guru akan menimbulkan suasanakedamaian yang menyenangkan. Suasana sekolah yang efektif dirasakan sebagai penuh rasa kekeluargaan, bersifat praktis, dan penuh kejujuran. Sekolah selalu beranggapan, bahwa lingkungan sekolah yang baikmerupakan prioritas utama untuk pencapaian kemajuan.
+Hubungan Guru dengan Peserta Didik
+Tugas utama guru adalah berusaha mengembangkan segenap potensi peserta didiknya secara optimal, agar mereka dapat mandiri dan berkembang menjadi manusia-manusia yang cerdas, baik cerdas secara fisik, intelektual, sosial, emosional, moral dan spiritual. Sebagai konsekuensi logis dari tugas yang diembannya, guru senantiasa berinteraksi dan berkomunikasi dengan peserta didiknya. Dalam konteks tugas, hubungan diantara keduanya adalah hubungan profesional, yang diikat oleh kode etik. Berikut ini disajikan nilainilai dasar dan operasional yang membingkai sikap dan perilaku etik guru dalam berhubungan dengan peserta didik, sebagaimana tertuang dalam rumusan Kode Etik Guru Indonesia (KEGI):
+Guru berperilaku secara profesional dalam melaksanakan tugas mendidik, mengajar, membimbing, mengarahkan, melatih, menilai, dan mengevaluasi proses dan hasil pembelajaran.
+Guru membimbing peserta didik untuk memahami, menghayati dan mengamalkan hak-hak dan kewajiban sebagai individu, warga sekolah, dan anggota masyarakat.
+Guru mengetahui bahwa setiap peserta didik memiliki karakteristik secara individual dan masing-masingnya berhak atas layanan pembelajaran.
+Guru menghimpun informasi tentang peserta didik dan menggunakannya untuk kepentingan proses kependidikan.
+Guru secara perseorangan atau bersama-sama secara terus-menerus berusaha menciptakan, memelihara, dan mengembangkan suasana sekolah yang menyenangkan sebagai lingkungan belajar yang efektif dan efisien bagi peserta didik.
+Guru menjalin hubungan dengan peserta didik yang dilandasi rasa kasih sayang dan menghindarkan diri dari tindak kekerasan fisik yang di luar batas kaidah pendidikan.
+Guru berusaha secara manusiawi untuk mencegah setiap gangguan yang dapat mempengaruhi perkembangan negatif bagi peserta didik.
+Guru secara langsung mencurahkan usaha-usaha profesionalnya untuk membantu peserta didik dalam mengembangkan keseluruhan kepribadiannya, termasuk kemampuannya untuk berkarya.
+- 480 -
+
+Guru menjunjung tinggi harga diri, integritas, dan tidak sekali-kali merendahkan martabat peserta didiknya.
+Guru bertindak dan memandang semua tindakan peserta didiknya secara adil.
+Guru berperilaku taat asas kepada hukum dan menjunjung tinggi kebutuhan dan hak-hak peserta didiknya.
+Guru terpanggil hati nurani dan moralnya untuk secara tekun dan penuh perhatian bagi pertumbuhan dan perkembangan peserta didiknya.
+Guru membuat usaha-usaha yang rasional untuk melindungi peserta didiknya dari kondisi-kondisi yang menghambat proses belajar, menimbulkan gangguan kesehatan, dan keamanan.
+Guru tidak boleh membuka rahasia pribadi peserta didiknya untuk alasanalasan yang tidak ada kaitannya dengan kepentingan pendidikan, hukum, kesehatan, dan kemanusiaan.
+Guru tidak boleh menggunakan hubungan dan tindakan profesionalnya kepada peserta didik dengan cara-cara yang melanggar norma sosial, kebudayaan, moral, dan agama.
+Guru tidak boleh menggunakan hubungan dan tindakan profesional dengan peserta didiknya untuk memperoleh keuntungan-keuntungan pribadi.
+Dalam kultur Indonesia, hubungan guru dengan peserta didik sesungguhnya tidak hanya terjadi pada saat sedang melaksanakan tugas atau selama berlangsungnya pemberian pelayanan pendidikan. Meski seorang guru sedang dalam keadaan tidak menjalankan tugas, atau sudah lama meninggalkan tugas (purna bhakti), hubungan dengan peserta didiknya (mantan peserta didik) relatif masih terjaga. Bahkan di kalangan masyarakat tertentu masih terbangun "sikap patuh pada guru" (dalam bahasa psikologi, guru hadir sebagai "reference group"). Meski secara formal, tidak lagi menjalankan tugastugas keguruannya, tetapi hubungan batiniah antara guru dengan peserta didiknya masih relatif kuat, dan peserta didik pun tetap berusaha menjalankan segala sesuatu yang diajarkan gurunya.
+Dalam keseharian kita melihat kecenderungan seorang guru ketika bertemu dengan peserta didiknya yang sudah sekian lama tidak bertemu, umumnya, guru akan tetap menampilkan sikap dan perilaku keguruannya, meski dalam wujud yang berbeda dengan semasa masih dalam asuhannya. Dukungan dan kasih sayang akan dia tunjukkan. Aneka nasihat, petatah-petitih akan meluncur dari mulutnya. Begitu juga dengan peserta didik, sekalipun dia sudah meraih kesuksesan hidup yang jauh melampaui dari gurunya, baik dalam jabatan, kekayaan atau ilmu pengetahuan, dalam hati kecilnya akan terselip rasa hormat, yang diekspresikan dalam berbagai bentuk, misalnya: senyuman, sapaan, cium tangan, menganggukkan kepala, hingga memberi kado tertentu yang sudah pasti bukan dihitung dari nilai uangnya. Inilah salah satu kebahagian seorang guru, ketika masih bisa sempat menyaksikan puteraputeri didiknya meraih kesuksesan hidup. Rasa hormat dari para peserta didiknya itu bukan muncul secara otomatis tetapi justru terbangun dari sikap dan perilaku profesional yang ditampilkan sang guru ketika masih bertugas memberikan pelayanan pendidikan kepada putera-puteri didiknya.
+Hubungan Guru dengan Orang tua Peserta Didik
+Guru dalam pandangan masyarakat adalah orang yang melaksanakan pendidikan di tempat-tempat tertentu. Guru menempati kedudukan terhormat di masyarakat. Kewibawaanlah yang membuat mereka dihormati. Para orangtua yakin bahwa gurulah yang dapat mendidik anak didik mereka agar menjadi orang yang berkepribadian mulia. Jadi guru, adalah sosok figur yang
+- 481 -
+
+menempati posisi dan memegang peranan penting dalam pendidikan. Menjadi guru berdasarkan tuntutan pekerjaan adalah suatu pekerjaan yang mudah, tetapi menjadi guru berdasarkan panggilan jiwa dan tuntutan hati nurani adalah tidak mudah (Djamarah, 2005).
+Orangtua adalah orang yang telah melahirkan kita atau orang yang mempunyai pertalian darah. Orangtua juga merupakan public figure yang pertama menjadi contoh bagi anak-anak. Karena pendidikan pertama yang didapatkan anak-anak adalah dari orangtuanya. Orangtua dan guru adalah satu tim dalam pendidikan anak, untuk itu keduanya perlu menjalin hubungan baik. Bagi anak-anak yang sudah masuk sekolah, waktunya lebih banyak dihabiskan bersama para guru daripada dengan orangtua. Kedengarannya mungkin agak mengejutkan, tapi memang begitulah kenyataannya. Ketika orangtua pulang dari tempat bekerja, anak-anak biasanya juga baru tiba dari mengikuti kegiatan setelah jam sekolah. Hanya tersisa waktu beberapa jam saja untuk makan malam bersama, menyelesaikan pekerjaan rumah dan mungkin menghadiri acara anak-anak. Setelah itu semuanya tidur.
+Ada beberapa hal yang perlu diperhatikan agar terjalin hubungan baik antara guru dengan orang tua peserta didik; (a).Perkenalkan anak dengan gurunya, (b). Mendatangi pertemuan orangtua-guru, (c). Senantiasa berprasangka baik kepada guru, dan berkomunikasilah secara teratur.
+Berkaitan dengan hubungan antara guru dan orangtua, dalam kode etik guru telah disebutkan tentang hal tersebut, yaitu dalam pasal 6 (Nilai-Nilai Dasar dan Nilai-nilai Operasional) bagian 2 tentang Hubungan Guru dengan Orangtua/wali Peserta didik: (1). Guru berusaha membina hubungan kerjasama yang efektif dan efisien dengan Orangtua/Wali peserta didik dalam melaksannakan proses pedidikan, (2). Guru mermberikan informasi kepada Orangtua/wali secara jujur dan objektif mengenai perkembangan peserta didik, (3). Guru merahasiakan informasi setiap peserta didik kepada orang lain yang bukan orangtua/walinya, (4). Guru memotivasi orangtua/wali peserta didik untuk beradaptasi dan berpatisipasi dalam memajukan dan meningkatkan kualitas pendidikan, (5). Guru berkomunikasi secara baik dengan orangtua/wali peserta didik mengenai kondisi dan kemajuan peserta didik dan proses kependidikan pada umumnya. (6). Guru menjunjung tinggi hak orangtua/wali peserta didik untuk berkonsultasin dengannya berkaitan dengan kesejahteraan kemajuan, dan cita-cita anak atau anak-anak akan pendidikan, (7). Guru tidak boleh melakukan hubungan dan tindakan profesional dengan orangtua/wali peserta didik untuk memperoleh keuntungan-keuntungan pribadi.
+Hubungan Guru dengan Masyarakat
+Pembelajaran IPA, harus selalu terkait dengan konteks yang terjadi di lingkungan dan masyarakat. Dengan demikian pembelajaran IPA harus pula mendukung proses pembudayaan peserta didik sebagai warga masyarakat. Peserta didik belajar konsep-konsep IPA, mempelajari penyebab, dan konsekuensi dari gejala yang mereka pelajari terhadap lingkungan dan masyarakat. Pada saat yang sama peserta didik juga dibesarkan dalam lingkungan yang kegiatannya bervariasi sesuai dengan daerah di mana ia tinggal. Sebagai contoh, iklim tropis di Indonesia menyebabkan sebagian besar masyarakatnya bertani dengan berbagai aktivitas yang sarat dengan permasalahan sains dan teknologi. Hendaknya dalam pembelajaran IPA aspek kondisi iklim dan masyarakat bertani ini menjadi asp[ek yang perlu dibahas dalam pembelajaran, sehingga pembelajaran benar-benar bermakna bagi peserta didik. Hal ini sejalan dengan pendapat yang menyatakan bahwa
+- 482 -
+
+pembelajaran dan jenis pengetahuan yang dianggap penting adalah yang terkait erat dengan nilai-nilai masyarakat dan yang berguna dalam konteks masyarakat (Bruner, 1996; Harding, 1998; Barton, 1998). Agar guru dapat menerapkan budaya belajar IPA ini, guru perlu mengetahui dan memahami, pemahaman dan penjelasan yang sering digunakan oleh masyarakat setempat terhadap gejala alam tertentu, nilai-nilai yang tekait dengan IPA dalam masyarakat setempat, serta hubungan historis yang ada antara masyarakat dan lembaga pendidikan setempat. Berbekal ini semua, pembelajaran kemudian dapat didesain agar mencerminkan budaya setempat, serta dapat pula dikaitan dengan keseharian, minat atau hobbi dari setiap peserta didik. Sebagai contoh setelah pembelajaran tentang ekosistem, peserta didik ditugaskan mengamati beragam ekositem di lingkungan sekitar rumah atau sekolah mereka. Contoh lainnya setelah belajar tentang konsep asam basa dan pH, peserta didik dapat ditugaskan untuk mengamati kondisi perairan (selokan, sungai, air sumur) yang diduga bermasalah di sekitar lingkungan rumah mereka. Peserta didik ditugasi mengidentifikasi kondisi air (pH, kekeruhan, daya hantar listrik, dll), serta menganalisis faktor penyebabnya. Tugas proyek ini dapat bersinergi dengan tugas mata pelajaran lain, seperti biologi (mengamati biota perairan) dan ilmu sosial (perilaku sosial masyarakat terkait penyebab permasalahan perairan). Dalam praktiknya hal-hal ini dapat dilakukan secara integral dalam kegiatan intrakurikuler, kokurikuler, dan ekstrakurikuler. Selain itu terkait dengan pelibatan aktif peserta didik dalam kerja ilmiah, guru dapat mendesain pembelajaran agar sesuai dengan tingkat perkembangan atau kematangan peserta didik. Pada tahap awal dapat diberikan inkuiri terpandu (guided inquiry) bertahap hingga peserta didik melakukan inkuiri mandiri (mulai dari merumuskan masalah, membuat hipotesis, mengumpulkan data, dan seterusnya hingga melaporkan). Desain tugas yang tepat, panduan, dan bantuan guru adalah kunci agar tugas tersebut tetap menantang namun tidak membuat peserta didik frustasi. Untuk kepentingan pembelajaran, guru IPA perlu memelihara hubungan baik dengan masyarakat yang lebih luas, misalnya, mengadakan kerja sama dengan tokoh masyarakat tertentu yang berorientasi pada peningkatan mutu pembelajaran mata pelajaran yang diampuhnya. Menjadikan masyarakat dan lingkungan sebagai sumber belajar. Beberapa hal yang hendaknya dilakukan guru dalam hubunganya dengan masyarakat; (a).Menghormati tanggung jawab dasar dari orang tua terhadap anak, (b). Menciptakan dan memelihara hubungan yang ramah dan kooperatif dengan lingkungan rumah, (c). Membantu memperkuat kepercayaan peserta didik terhadap lingkungan rumahnya sendiri dan menghindarkan ucapan yang mungkin merusak kepercayaan itu, (d). Menghormati masyarakat dimana ia bekerja dan bersikap setia kepada sekolah, masyarakat, bangsa, dan negara, serta (e). Ikut serta aktif dalam kehidupan masyarakat.
+- 483 -
+
+BAB IX PENUTUP Panduan ini hanya petunjuk, jangan membatasi kreativitas guru sesuai kondisi, situasi sekolah dan peserta didik. Yang harus selalu menjadi patokan bagi guru adalah tujuan pembelajaran IPA dan standar kelulusan. Melalui pembelajaran IPA peserta didik harus disiapkan agar melek sains, bersikap dan bertindak ilmiah, mengetahui dan dapat melakukan kerja ilmiah atau membangun pengetahuan melalui penyelidikannya sendiri (tentu sesuai dengan tahapan usianya bisa diawali dengan penyelidikan yang dipandu ditahap awal).
+- 484 -
